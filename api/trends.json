@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T18:15:19.717109+08:00",
-  "total_titles_processed": 1796,
+  "generated_at": "2025-12-11T19:02:55.854288+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "习近平 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
-      "match_count": 70,
+      "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
+      "match_count": 104,
       "titles": [
         {
           "title": "广东成立事故调查组，彻查汕头火灾事故原因",
@@ -33,8 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 19时02分]"
         },
         {
           "title": "北京首例宠物中毒诉讼案宣判",
@@ -64,20 +64,49 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时05分 ~ 18时15分]"
+          "appearance_count": 29,
+          "time_info": "[00时05分 ~ 19时02分]"
         },
         {
-          "title": "“油老虎”袁光宇被公诉：受贿数额巨大",
-          "url": "https://www.toutiao.com/trending/7582417909587804203/",
-          "source": "今日头条",
+          "title": "独家丨“失联风波”后画家范曾首度公开露面，回应近况称喜得独子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153183",
+          "source": "澎湃新闻",
           "ranks": [
+            17,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时29分 ~ 19时02分]"
+        },
+        {
+          "title": "中兴通讯AH股双双重挫 公告回应合规性调查报道",
+          "url": "https://www.cls.cn/detail/2226560",
+          "source": "财联社热门",
+          "ranks": [
+            7,
             4,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 19时02分]"
+        },
+        {
+          "title": "北京宠物犬中毒刑事公诉案一审：被告人被判刑4年，当庭称将上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153137",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时40分 ~ 19时02分]"
         },
         {
           "title": "北京宠物犬中毒刑事公诉案一审宣判：被告人获刑4年",
@@ -88,11 +117,12 @@
             16,
             12,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时40分 ~ 18时15分]"
+          "appearance_count": 15,
+          "time_info": "[11时40分 ~ 19时02分]"
         },
         {
           "title": "俄坠毁运输机上所有机组人员遇难",
@@ -139,47 +169,21 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时05分 ~ 18时15分]"
+          "appearance_count": 29,
+          "time_info": "[00时05分 ~ 19时02分]"
         },
         {
-          "title": "独家丨“失联风波”后画家范曾首度公开露面，回应近况称喜得独子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153183",
-          "source": "澎湃新闻",
+          "title": "“油老虎”袁光宇被公诉：受贿数额巨大",
+          "url": "https://www.toutiao.com/trending/7582417909587804203/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            9,
-            5
+            4,
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时29分 ~ 18时15分]"
-        },
-        {
-          "title": "北京宠物犬中毒刑事公诉案一审：被告人被判刑4年，当庭称将上诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153137",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时40分 ~ 18时15分]"
-        },
-        {
-          "title": "中兴通讯AH股双双重挫 公告回应合规性调查报道",
-          "url": "https://www.cls.cn/detail/2226560",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 19时02分]"
         },
         {
           "title": "日本地震是中国制造的？日方辟谣",
@@ -195,6 +199,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时40分 ~ 07时23分]"
+        },
+        {
+          "title": "男子携致癌基因捐精17年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%90%BA%E8%87%B4%E7%99%8C%E5%9F%BA%E5%9B%A0%E6%8D%90%E7%B2%BE17%E5%B9%B4%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 19时02分]"
         },
         {
           "title": "女孩26楼跳下身亡 家属起诉物业败诉",
@@ -221,19 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时05分 ~ 00时35分]"
-        },
-        {
-          "title": "男子携致癌基因捐精17年",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%90%BA%E8%87%B4%E7%99%8C%E5%9F%BA%E5%9B%A0%E6%8D%90%E7%B2%BE17%E5%B9%B4%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 18时15分]"
         },
         {
           "title": "接到地震预警你会怎么做",
@@ -263,6 +267,17 @@
           "time_info": "[11时40分 ~ 15时29分]"
         },
         {
+          "title": "日本电视台员工坠楼身亡砸伤路人",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%8F%B0%E5%91%98%E5%B7%A5%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%E7%A0%B8%E4%BC%A4%E8%B7%AF%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 19时02分]"
+        },
+        {
           "title": "哈巴雪山封山期一男子违规进山，在海拔5050米处不幸滑坠遇难",
           "url": "https://m.thepaper.cn/newsDetail_forward_32145321",
           "source": "澎湃新闻",
@@ -275,15 +290,38 @@
           "time_info": "[10时00分 ~ 13时28分]"
         },
         {
-          "title": "日本电视台员工坠楼身亡砸伤路人",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%8F%B0%E5%91%98%E5%B7%A5%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%E7%A0%B8%E4%BC%A4%E8%B7%AF%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "医院回应：正调查张水华被处分文件为何泄露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32147212",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 19时02分]"
+        },
+        {
+          "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154288",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 19时02分]"
+        },
+        {
+          "title": "美联储主席鲍威尔：如果取消关税，通胀率将处于2%区间的低位。",
+          "url": "https://flash.jin10.com/detail/20251211040750126800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "汕头火灾遇难者系四代同堂",
@@ -299,28 +337,6 @@
           "time_info": "[00时05分 ~ 02时41分]"
         },
         {
-          "title": "医院回应：正调查张水华被处分文件为何泄露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32147212",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 18时15分]"
-        },
-        {
-          "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32154288",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 18时15分]"
-        },
-        {
           "title": "虞书欣父亲维权索赔17万",
           "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E7%BB%B4%E6%9D%83%E7%B4%A2%E8%B5%9417%E4%B8%87%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -333,15 +349,70 @@
           "time_info": "[00时05分 ~ 02时41分]"
         },
         {
-          "title": "调查显示印度11月通胀或小幅回升",
-          "url": "https://flash.jin10.com/detail/20251211180537158800",
+          "title": "美联储主席鲍威尔：关税影响很可能是一次性的价格上涨。",
+          "url": "https://flash.jin10.com/detail/20251211040735910800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "欧盟据悉拟延长俄资产冻结期限，为援乌贷款扫清障碍",
+          "url": "https://flash.jin10.com/detail/20251211183202615800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "提醒：美联储主席鲍威尔新闻发布会结束。 FOMC将于2026年1月27-28日举行下一轮货币政策会议。",
+          "url": "https://wallstreetcn.com/livenews/3018642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：若不必担忧劳动力市场，政策利率本会更高。",
+          "url": "https://flash.jin10.com/detail/20251211040720844800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "鲍威尔：希望到我任期届满时候，能交出一份经济形势良好的答卷。 我的美联储主席任期届满之后，没有任何新的打算。",
+          "url": "https://wallstreetcn.com/livenews/3018641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：真正导致通胀超预期的主要原因是关税。",
+          "url": "https://flash.jin10.com/detail/20251211040709348800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "04时31分"
         },
         {
           "title": "路透调查：约40%的日本企业预计明年盈利将增长，远超持看跌观点的企业。",
@@ -355,15 +426,29 @@
           "time_info": "07时23分"
         },
         {
-          "title": "中央经济工作会议在北京举行 习近平发表重要讲话",
-          "url": "https://www.cls.cn/detail/2226808",
-          "source": "财联社热门",
+          "title": "菲律宾女子火灾时将狗从三楼扔下",
+          "url": "https://www.toutiao.com/trending/7582175764234256430/",
+          "source": "今日头条",
           "ranks": [
-            7
+            28,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
+          "title": "周三（12月10日）纽约尾盘，现货黄金涨0.46%，报4227.37美元/盎司，日内交投于4182.14-4238.71美元区间，北京时间03:41（美联储主席鲍威尔新闻发布会开始之后）刷新日低，随后快速反弹，04:17（新闻发布会的尾声）刷新日高。 COMEX黄金期货涨0.50%，报4257.20美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3018678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时23分]"
         },
         {
           "title": "美国司法部长邦迪：美国已执行了一项扣押令，扣押一艘用于运输委内瑞拉和伊朗受制裁原油的油轮。",
@@ -378,6 +463,42 @@
           "time_info": "[06时25分 ~ 07时23分]"
         },
         {
+          "title": "调查显示印度11月通胀或小幅回升",
+          "url": "https://flash.jin10.com/detail/20251211180537158800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时02分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
+          "url": "https://wallstreetcn.com/livenews/3018582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时23分]"
+        },
+        {
+          "title": "FOMC决议声明发布前40分钟，“影子美联储主席”哈塞特重申还有很大的降息空间",
+          "url": "https://wallstreetcn.com/livenews/3018581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时23分]"
+        },
+        {
           "title": "欧洲有致癌基因男子捐精17年",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9C%89%E8%87%B4%E7%99%8C%E5%9F%BA%E5%9B%A0%E7%94%B7%E5%AD%90%E6%8D%90%E7%B2%BE17%E5%B9%B4%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -389,18 +510,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时27分 ~ 15时29分]"
-        },
-        {
-          "title": "菲律宾女子火灾时将狗从三楼扔下",
-          "url": "https://www.toutiao.com/trending/7582175764234256430/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 18时15分]"
         },
         {
           "title": "女子和丈夫吵架后纵火烧房被刑拘",
@@ -463,6 +572,30 @@
           "time_info": "[15时29分 ~ 16时36分]"
         },
         {
+          "title": "周三（12月10日），降息赢家指数涨2.84%，报100.19点，美联储宣布降息之前持稳于98.50点——维持上涨状态，之后持续加速上涨。 “特朗普关税输家”指数涨1.71%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.89点，美联储主席鲍威尔新闻发布会临近结束时还曾涨至17.37点刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3018669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时25分]"
+        },
+        {
+          "title": "欧盟寻求在周五前达成冻结俄罗斯资产协议，以缓解对乌克兰的援助压力；该计划将通过紧急权力延长冻结俄罗斯资产的期限。",
+          "url": "https://flash.jin10.com/detail/20251211180024418800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时02分]"
+        },
+        {
           "title": "山西忻州发生6.1级地震？假的",
           "url": "https://www.toutiao.com/trending/7581458219211194410/",
           "source": "今日头条",
@@ -483,17 +616,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
-          "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
-          "url": "https://wallstreetcn.com/livenews/3019138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时15分]"
         },
         {
           "title": "失联风波后 范曾首度公开露面",
@@ -562,6 +684,17 @@
           "time_info": "[07时22分 ~ 07时23分]"
         },
         {
+          "title": "美联储主席鲍威尔：劳动力市场似乎存在重大下行风险。",
+          "url": "https://flash.jin10.com/detail/20251211040641922800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "路透调查：三分之二的日本企业欢迎日本首相提出的财政目标方案，该方案允许更灵活的支出。",
           "url": "https://flash.jin10.com/detail/20251211070050975800",
           "source": "金十数据",
@@ -582,6 +715,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "摩根大通的全球固定受益负责人MICHELE：所有人都预期降息25个基点。 我们（纽约时间）今天上午买入了长端美国国债。 美联储绝对会继续扩大其资产负债表规模。 我不相信哈塞特已经100%会被提名担任美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3018590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：能入选（美联储主席）候选人名单，我深感荣幸。",
+          "url": "https://flash.jin10.com/detail/20251211022825555800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "路透调查：马来西亚林吉特多头头寸创6个月新高，印度卢比空头头寸升至10个月高位。",
@@ -617,6 +772,28 @@
           "time_info": "14时40分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：总统将在一两周内做出美联储主席人选的决定。",
+          "url": "https://flash.jin10.com/detail/20251211022747369800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美联储主席鲍威尔：长期利率上升可能源于对更高增长的预期。",
+          "url": "https://flash.jin10.com/detail/20251211040559541800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "路透调查：77%的经济学家不赞成日本政府主要通过新增债务为补充预算融资的计划。",
           "url": "https://flash.jin10.com/detail/20251211120706012800",
           "source": "金十数据",
@@ -628,15 +805,15 @@
           "time_info": "12时39分"
         },
         {
-          "title": "欧盟寻求在周五前达成冻结俄罗斯资产协议，以缓解对乌克兰的援助压力；该计划将通过紧急权力延长冻结俄罗斯资产的期限。",
-          "url": "https://flash.jin10.com/detail/20251211180024418800",
+          "title": "美联储主席鲍威尔：利率可能因预期经济增长加快而上升。",
+          "url": "https://flash.jin10.com/detail/20251211040529790800",
           "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "04时31分"
         },
         {
           "title": "路透调查：预计日本明年劳资谈判的加薪幅度为5.0%，今年为5.25%。",
@@ -648,6 +825,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "鲍威尔：美联储理事和地方联储主席的观点各不相同。",
+          "url": "https://wallstreetcn.com/livenews/3018633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：长期利率方面没有任何迹象表明对通胀存在担忧。",
+          "url": "https://flash.jin10.com/detail/20251211040504622800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "路透调查：69%经济学家预计，到2026年9月日本央行将把关键利率上调至至少1.0%。",
@@ -683,15 +882,70 @@
           "time_info": "12时39分"
         },
         {
+          "title": "美联储主席鲍威尔：通胀盈亏平衡点处于非常舒适的水平。",
+          "url": "https://flash.jin10.com/detail/20251211040401492800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美联储主席鲍威尔为达成25个基点的（降息）决议进行了大量谈判。",
+          "url": "https://flash.jin10.com/detail/20251211022413171800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美联储主席鲍威尔：此后应会看到通胀在明年下半年回落。",
+          "url": "https://flash.jin10.com/detail/20251211040358372800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "德国总理默茨：我们将长期支持乌克兰，并将利用被冻结的俄罗斯资产来帮助保护乌克兰。",
           "url": "https://flash.jin10.com/detail/20251211174959017800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "美联储主席鲍威尔：从当前点位看，峰值通胀率可能高出或低于当前水平零点几个百分点。",
+          "url": "https://flash.jin10.com/detail/20251211040307153800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：若无新关税宣布，商品通胀应于明年第一季度见顶。",
+          "url": "https://flash.jin10.com/detail/20251211040201690800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "可口可乐(KO.N)任命首席运营官亨德里克·布劳恩（Henrique Braun）接替詹姆斯·昆西（James Quincey）担任首席执行官，任期将于2026年开始。",
@@ -703,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美联储主席鲍威尔：我们一直在朝着中性立场迈进，目前处于中性水平区间的上端。",
+          "url": "https://flash.jin10.com/detail/20251211040153435800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "可口可乐：首席运营官（COO）Henrique Braun将于2026年担任首席执行官（CEO），接替现任CEO James Quincey。",
@@ -760,6 +1025,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "中国农业发展银行原政策研究室主任吴飚接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3019165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美国货币监理署（OCC）：调查结果显示，2020年至2023年间，有九家银行在提供金融服务时，基于客户的合法商业活动，做出了不当的客户区分。",
           "url": "https://flash.jin10.com/detail/20251211003146157800",
           "source": "金十数据",
@@ -769,6 +1045,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美联储主席鲍威尔：这是一个特殊情况，我们的两个目标之间存在紧张关系。",
+          "url": "https://flash.jin10.com/detail/20251211040050599800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：季节性增长本就会发生，且资产负债表存在长期增长趋势。",
+          "url": "https://flash.jin10.com/detail/20251211040033402800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：美联储尚未就1月会议作出任何决定。",
+          "url": "https://flash.jin10.com/detail/20251211040025660800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：我们比预期更快达到了充足的储备水平。",
+          "url": "https://flash.jin10.com/detail/20251211040018626800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美联储主席鲍威尔：储备金需与整体经济保持一致。",
+          "url": "https://flash.jin10.com/detail/20251211035952420800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "广东成立调查组彻查汕头12死火灾",
@@ -782,6 +1113,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "美联储主席鲍威尔：不想谈论即将到来的最高法院案件。",
+          "url": "https://flash.jin10.com/detail/20251211035928073800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "美国运通股价上涨2.2%，此前首席执行官表示，从感恩节前一周到网络星期一期间，零售支出持续增长。",
           "url": "https://flash.jin10.com/detail/20251211001933106800",
           "source": "金十数据",
@@ -791,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美联储主席鲍威尔：在10月曾表示12月是否降息并无定论，而事实确实如此。",
+          "url": "https://flash.jin10.com/detail/20251211035924051800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "施耐德电气首席执行官布卢姆：目前尚难以断定欧洲数据中心建设延误的障碍是否已完全消除。",
@@ -804,6 +1157,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "美联储主席鲍威尔：大规模国债购买行动预计将于明年4月15日纳税日之前完成。",
+          "url": "https://flash.jin10.com/detail/20251211035903704800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "施耐德电气首席执行官布卢姆：需求尚未达到美国同等规模，但增长机遇非常强劲。",
           "url": "https://flash.jin10.com/detail/20251211155608680800",
           "source": "金十数据",
@@ -813,6 +1177,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "周三（12月10日）纽约尾盘，美元兑日元跌超0.6%，在美联储主席鲍威尔新闻发布会结束后刷新日低至155.80日元，日内持续走低，跌幅从北京时间03:46（鲍威尔新闻发布会开始之初）变得陡峭。",
+          "url": "https://wallstreetcn.com/livenews/3018648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美联储主席鲍威尔：服务通胀正在下降，但被关税商品通胀所抵消。",
+          "url": "https://flash.jin10.com/detail/20251211035729455800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "施耐德电气首席执行官布卢姆：看到北美以外地区数据中心需求非常强劲。",
