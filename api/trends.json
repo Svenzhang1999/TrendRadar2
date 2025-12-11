@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T03:00:51.970447+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2025-12-12T03:37:17.079256+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时37分]"
+        },
+        {
+          "title": "汕头火灾幸存者家属讲述逃生经过",
+          "url": "https://www.douyin.com/hot/2333527",
+          "source": "抖音",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时37分]"
         },
         {
           "title": "北京宠物犬中毒刑事公诉案一审：被告人被判刑4年，当庭称将上诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_32153137",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时37分]"
         },
         {
           "title": "法国财长：希腊财长Pierrakakis被任命为欧元集团主席。",
@@ -41,38 +54,16 @@
           "time_info": "01时02分"
         },
         {
-          "title": "英国首相办公室声明：“意愿联盟”领导人周四的会议讨论了在动用被冻结的俄罗斯主权资产方面取得的进展。",
-          "url": "https://flash.jin10.com/detail/20251212024339557800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "汕头火灾幸存者家属讲述逃生经过",
-          "url": "https://www.douyin.com/hot/2333527",
-          "source": "抖音",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时00分]"
-        },
-        {
           "title": "北京宠物犬中毒刑事公诉案一审宣判：被告人获刑4年",
           "url": "https://m.thepaper.cn/newsDetail_forward_32152643",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时37分]"
         },
         {
           "title": "男子携致癌基因捐精17年",
@@ -80,11 +71,12 @@
           "source": "微博",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时37分]"
         },
         {
           "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
@@ -95,8 +87,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时37分]"
         },
         {
           "title": "智商洼地!日网民坚信中国制造地震",
@@ -106,8 +98,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时37分]"
         },
         {
           "title": "国外捐精者被查出20%精子带致癌基因",
@@ -118,8 +110,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时37分]"
+        },
+        {
+          "title": "英国首相办公室声明：“意愿联盟”领导人周四的会议讨论了在动用被冻结的俄罗斯主权资产方面取得的进展。",
+          "url": "https://flash.jin10.com/detail/20251212024339557800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 03时37分]"
         },
         {
           "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
@@ -150,7 +154,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         }
