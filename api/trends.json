@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:52:50.640129+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-12-12T12:58:46.053777+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "汕头火灾幸存者家属讲述逃生经过",
@@ -69,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 11时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 12时58分]"
         },
         {
           "title": "男子携致癌基因捐精17年",
@@ -91,11 +91,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 11时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 12时58分]"
         },
         {
           "title": "国外捐精者被查出20%精子带致癌基因",
@@ -112,6 +113,29 @@
           "time_info": "[01时02分 ~ 07时35分]"
         },
         {
+          "title": "日本本州东部发生6.8级地震",
+          "url": "https://www.toutiao.com/trending/7581689499957854271/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "村支书卖小米被小米法务投诉下架",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%B3%95%E5%8A%A1%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
           "title": "法国财长：希腊财长Pierrakakis被任命为欧元集团主席。",
           "url": "https://flash.jin10.com/detail/20251212004106719800",
           "source": "金十数据",
@@ -123,26 +147,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "日本本州东部发生6.8级地震",
-          "url": "https://www.toutiao.com/trending/7581689499957854271/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "村支书卖小米被小米法务投诉下架",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%94%AF%E4%B9%A6%E5%8D%96%E5%B0%8F%E7%B1%B3%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%B3%95%E5%8A%A1%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
+          "title": "日本专家称近期该国可能发生更大规模地震",
+          "url": "https://flash.jin10.com/detail/20251212124157570800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时52分"
+          "time_info": "12时58分"
         },
         {
           "title": "英国首相办公室声明：“意愿联盟”领导人周四的会议讨论了在动用被冻结的俄罗斯主权资产方面取得的进展。",
@@ -206,6 +219,42 @@
           "time_info": "[05时40分 ~ 06时44分]"
         },
         {
+          "title": "武汉一均价4.1万的未交付小区起火",
+          "url": "https://www.toutiao.com/trending/7582510409318023222/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "6个看似节省的习惯可能是致癌元凶",
+          "url": "https://www.toutiao.com/trending/7582733427879804955/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "韩国艺人“鸟叔”被警方强制调查",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%89%BA%E4%BA%BA%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
           "title": "美联储理事会一致投票决定，重新任命11名储备银行行长，任期五年，从明年3月1日开始。亚特兰大联储主席博斯蒂克此前曾宣布，他将在明年2月任期结束时退休。",
           "url": "https://flash.jin10.com/detail/20251212050422060800",
           "source": "金十数据",
@@ -216,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时44分]"
+        },
+        {
+          "title": "日本海域6.8级地震",
+          "url": "https://www.douyin.com/hot/2334051",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：代理主席宣布撤回过时的数字资产指引。",
@@ -242,6 +303,29 @@
           "time_info": "[06时44分 ~ 07时35分]"
         },
         {
+          "title": "日本附近海域发生6.8级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
           "title": "市场分析：美联储批准11位地区联储主席续任，白宫影响力疑虑暂时消除",
           "url": "https://flash.jin10.com/detail/20251212054938981800",
           "source": "金十数据",
@@ -252,6 +336,112 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时35分]"
+        },
+        {
+          "title": "博闻丨北京宠物犬中毒刑案被告一审获刑4年，犬主辞职为爱犬“讨公道”1185天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32157205",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "日本列车脱轨翻覆",
+          "url": "https://www.toutiao.com/trending/7582747769916358698/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "殴打妻子并浇灌面汤致其死亡，李某春故意杀人案一审宣判：死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32160936",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "女子住酒店 凌晨被员工刷卡进房猥亵",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97+%E5%87%8C%E6%99%A8%E8%A2%AB%E5%91%98%E5%B7%A5%E5%88%B7%E5%8D%A1%E8%BF%9B%E6%88%BF%E7%8C%A5%E4%BA%B5",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "中通客车一新客车车架号被指刻在可拆卸位置违反国标，客户委托鉴定维权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32145040",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "国家预警发布：日本本州东岸远海海域发生6.9级地震 不会对我国沿岸造成影响",
+          "url": "https://wallstreetcn.com/livenews/3019573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "日本秋田县发生列车脱轨事故，伤亡情况不明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32160695",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "新疆吐鲁番发生3.2级地震（爆破）",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%90%90%E9%B2%81%E7%95%AA%E5%8F%91%E7%94%9F3.2%E7%BA%A7%E5%9C%B0%E9%9C%87%EF%BC%88%E7%88%86%E7%A0%B4%EF%BC%89",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
+        },
+        {
+          "title": "日本突发列车脱轨翻覆事故",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%91%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E7%BF%BB%E8%A6%86%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时58分]"
         },
         {
           "title": "西藏那曲市双湖县发生5.0级地震",
@@ -271,29 +461,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "6个看似节省的习惯可能是致癌元凶",
-          "url": "https://www.toutiao.com/trending/7582733427879804955/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "韩国艺人“鸟叔”被警方强制调查",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%89%BA%E4%BA%BA%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -309,15 +477,15 @@
           "time_info": "05时40分"
         },
         {
-          "title": "日本附近海域发生6.8级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
+          "title": "日本气象厅：日本地震活动仍处于活跃状态",
+          "url": "https://flash.jin10.com/detail/20251212123818067800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时52分"
+          "time_info": "12时58分"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -331,46 +499,13 @@
           "time_info": "07时35分"
         },
         {
-          "title": "日本海域6.8级地震",
-          "url": "https://www.douyin.com/hot/2334051",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "博闻丨北京宠物犬中毒刑案被告一审获刑4年，犬主辞职为爱犬“讨公道”1185天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32157205",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "据日本放送协会NHK：日本气象厅将日本地震震级从6.5级上调至6.7级。",
           "url": "https://flash.jin10.com/detail/20251212105719259800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -392,29 +527,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "日本列车脱轨翻覆",
-          "url": "https://www.toutiao.com/trending/7582747769916358698/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "中通客车一新客车车架号被指刻在可拆卸位置违反国标，客户委托鉴定维权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32145040",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -428,17 +541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
-        },
-        {
-          "title": "殴打妻子并浇灌面汤致其死亡，李某春故意杀人案一审宣判：死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32160936",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩表示，特朗普不应该干涉欧洲的民主制度。",
@@ -458,18 +560,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "国家预警发布：日本本州东岸远海海域发生6.9级地震 不会对我国沿岸造成影响",
-          "url": "https://wallstreetcn.com/livenews/3019573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -485,35 +576,13 @@
           "time_info": "07时35分"
         },
         {
-          "title": "武汉一均价4.1万的未交付小区起火",
-          "url": "https://www.toutiao.com/trending/7582510409318023222/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "中国地震台网自动测定：12月12日10时44分在日本本州东岸远海附近（北纬40.90度，东经143.49度）发生6.7级左右地震，最终结果以正式速报为准。",
           "url": "https://flash.jin10.com/detail/20251212105200534800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "日本秋田县发生列车脱轨事故，伤亡情况不明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32160695",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -524,18 +593,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "女子住酒店 凌晨被员工刷卡进房猥亵",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97+%E5%87%8C%E6%99%A8%E8%A2%AB%E5%91%98%E5%B7%A5%E5%88%B7%E5%8D%A1%E8%BF%9B%E6%88%BF%E7%8C%A5%E4%BA%B5",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -557,18 +615,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "新疆吐鲁番发生3.2级地震（爆破）",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%90%90%E9%B2%81%E7%95%AA%E5%8F%91%E7%94%9F3.2%E7%BA%A7%E5%9C%B0%E9%9C%87%EF%BC%88%E7%88%86%E7%A0%B4%EF%BC%89",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -579,18 +626,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "日本突发列车脱轨翻覆事故",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%91%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E7%BF%BB%E8%A6%86%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -612,7 +648,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -623,7 +659,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -634,7 +670,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -645,7 +681,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -656,9 +692,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "“反虐待动物”下一步能走向哪",
+          "url": "https://www.toutiao.com/trending/7582794968930979382/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "12月11日，希腊财政部长基里亚科斯·皮埃拉卡基斯当选欧元集团主席。",
