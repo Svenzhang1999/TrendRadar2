@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:47:37.256938+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2025-12-12T18:49:52.773901+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
-      "match_count": 74,
+      "match_count": 79,
       "titles": [
         {
           "title": "汕头火灾幸存者家属讲述逃生经过",
@@ -57,6 +57,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时02分 ~ 07时35分]"
+        },
+        {
+          "title": "日本海域6.8级地震",
+          "url": "https://www.douyin.com/hot/2334051",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            3,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 18时49分]"
         },
         {
           "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
@@ -130,20 +145,6 @@
           "time_info": "[11时52分 ~ 16时58分]"
         },
         {
-          "title": "日本海域6.8级地震",
-          "url": "https://www.douyin.com/hot/2334051",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 17时47分]"
-        },
-        {
           "title": "殴打妻子并浇灌面汤致其死亡，李某春故意杀人案一审宣判：死缓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32160936",
           "source": "澎湃新闻",
@@ -154,20 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 17时47分]"
-        },
-        {
-          "title": "韩国艺人“鸟叔”被警方强制调查",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%89%BA%E4%BA%BA%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 17时47分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 18时49分]"
         },
         {
           "title": "博闻丨北京宠物犬中毒刑案被告一审获刑4年，犬主辞职为爱犬“讨公道”1185天",
@@ -180,8 +169,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 17时47分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 18时49分]"
         },
         {
           "title": "日本秋田县发生列车脱轨事故，伤亡情况不明",
@@ -193,6 +182,18 @@
             15,
             16,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 18时49分]"
+        },
+        {
+          "title": "韩国艺人“鸟叔”被警方强制调查",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%89%BA%E4%BA%BA%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -225,6 +226,20 @@
           "time_info": "[11时52分 ~ 15时01分]"
         },
         {
+          "title": "哈尔滨5死29重伤事故调查报告公布",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A85%E6%AD%BB29%E9%87%8D%E4%BC%A4%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22,
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 18时49分]"
+        },
+        {
           "title": "法国财长：希腊财长Pierrakakis被任命为欧元集团主席。",
           "url": "https://flash.jin10.com/detail/20251212004106719800",
           "source": "金十数据",
@@ -248,6 +263,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时52分 ~ 15时42分]"
+        },
+        {
+          "title": "律师解读虞书欣父亲维权案",
+          "url": "https://www.douyin.com/hot/2333778",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 18时49分]"
         },
         {
           "title": "女子住酒店 凌晨被员工刷卡进房猥亵",
@@ -278,30 +306,15 @@
           "time_info": "[11时52分 ~ 15时42分]"
         },
         {
-          "title": "哈尔滨5死29重伤事故调查报告公布",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A85%E6%AD%BB29%E9%87%8D%E4%BC%A4%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
+          "title": "百胜中国(09987.HK)：作为全年15亿美元资本回报计划的一部分，将在2026年上半年执行4.6亿美元的股份回购协议。",
+          "url": "https://flash.jin10.com/detail/20251212182138804800",
+          "source": "金十数据",
           "ranks": [
-            28,
-            22,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时01分 ~ 17时47分]"
-        },
-        {
-          "title": "律师解读虞书欣父亲维权案",
-          "url": "https://www.douyin.com/hot/2333778",
-          "source": "抖音",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时01分 ~ 17时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "英国首相办公室声明：“意愿联盟”领导人周四的会议讨论了在动用被冻结的俄罗斯主权资产方面取得的进展。",
@@ -352,6 +365,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时52分 ~ 13时46分]"
+        },
+        {
+          "title": "被小米投诉的村支书已清空账号",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时49分]"
         },
         {
           "title": "博通首席执行官Hock Tan：预计客户在人工智能领域的支出势头将在2026年持续加速。",
@@ -486,16 +512,16 @@
           "time_info": "[11时52分 ~ 12时58分]"
         },
         {
-          "title": "被小米投诉的村支书已清空账号",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%B0%8F%E7%B1%B3%E6%8A%95%E8%AF%89%E7%9A%84%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7",
-          "source": "百度热搜",
+          "title": "香港将于9个月内完成火灾成因报告",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%BA%8E9%E4%B8%AA%E6%9C%88%E5%86%85%E5%AE%8C%E6%88%90%E7%81%AB%E7%81%BE%E6%88%90%E5%9B%A0%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            15
+            13,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时47分]"
+          "time_info": "[17时47分 ~ 18时49分]"
         },
         {
           "title": "中通客车一新客车车架号被指刻在可拆卸位置违反国标，客户委托鉴定维权",
@@ -562,7 +588,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -576,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "俄央行起诉欧洲清算银行 警告欧盟勿动冻结资产",
+          "url": "https://flash.jin10.com/detail/20251212181501193800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -600,6 +637,17 @@
           "time_info": "13时46分"
         },
         {
+          "title": "市场消息：日本12日发生地震，东京震感明显。",
+          "url": "https://flash.jin10.com/detail/20251212181027865800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "据日本放送协会NHK：日本气象厅将日本地震震级从6.5级上调至6.7级。",
           "url": "https://flash.jin10.com/detail/20251212105719259800",
           "source": "金十数据",
@@ -622,15 +670,26 @@
           "time_info": "15时42分"
         },
         {
-          "title": "香港将于9个月内完成火灾成因报告",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%B8%AF%E5%B0%86%E4%BA%8E9%E4%B8%AA%E6%9C%88%E5%86%85%E5%AE%8C%E6%88%90%E7%81%AB%E7%81%BE%E6%88%90%E5%9B%A0%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
+          "title": "日本发生地震，东京震感明显。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3019852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162597",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时47分"
+          "time_info": "18时49分"
         },
         {
           "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
