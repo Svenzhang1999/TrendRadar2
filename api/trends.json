@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T13:42:45.458133+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-12-13T14:55:39.847408+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -17,31 +17,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
         },
         {
           "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
           "url": "https://flash.jin10.com/detail/20251213131305142800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "成都地震",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            6
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时55分]"
         },
         {
           "title": "芝加哥联储主席解释本周投反对票：应等更多通胀数据，明年降息次数料多于中值预测",
@@ -52,8 +41,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
+        },
+        {
+          "title": "成都地震",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
         },
         {
           "title": "泰国总理：泰国将继续采取军事行动，直至“我们不再感到任何威胁”。导致泰国士兵死亡的地雷爆炸事件并非“路边意外事件”。",
@@ -62,23 +64,12 @@
           "ranks": [
             2,
             6,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
-        },
-        {
-          "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162597",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
         },
         {
           "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
@@ -89,21 +80,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
         },
         {
-          "title": "谁有资格替30万遇难者说“算了”",
-          "url": "https://www.toutiao.com/trending/7583001941094072358/",
-          "source": "今日头条",
+          "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162597",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
             6,
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
         },
         {
           "title": "欧盟决定无限期冻结俄罗斯资产",
@@ -113,8 +104,60 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
+        },
+        {
+          "title": "谁有资格替30万遇难者说“算了”",
+          "url": "https://www.toutiao.com/trending/7583001941094072358/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            6,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
+        },
+        {
+          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
+          "url": "https://www.cls.cn/detail/2228557",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
+        },
+        {
+          "title": "四川成都彭州市发生3.9级地震，震源深度13千米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169711",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
+        },
+        {
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时55分]"
         },
         {
           "title": "南京大屠杀遇难同胞纪念馆下半旗",
@@ -130,40 +173,17 @@
           "time_info": "[11时42分 ~ 13时42分]"
         },
         {
-          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
-          "url": "https://www.cls.cn/detail/2228557",
-          "source": "财联社热门",
+          "title": "日本近12小时发生8次4级以上地震",
+          "url": "https://www.toutiao.com/trending/7582591000502304774/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
-        },
-        {
-          "title": "四川成都彭州市发生3.9级地震，震源深度13千米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169711",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
-          "ranks": [
+            30,
             19,
-            20
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
+          "time_info": "[12时47分 ~ 14时55分]"
         },
         {
           "title": "成都彭州3.9级地震",
@@ -199,18 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时47分]"
-        },
-        {
-          "title": "日本近12小时发生8次4级以上地震",
-          "url": "https://www.toutiao.com/trending/7582591000502304774/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时42分]"
         },
         {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
