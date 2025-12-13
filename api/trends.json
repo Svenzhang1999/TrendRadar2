@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T15:34:32.383974+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2025-12-13T16:46:51.359766+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -14,25 +14,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
-        },
-        {
-          "title": "成都地震",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            6,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时46分]"
         },
         {
           "title": "芝加哥联储主席解释本周投反对票：应等更多通胀数据，明年降息次数料多于中值预测",
@@ -43,8 +30,35 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时46分]"
+        },
+        {
+          "title": "成都地震",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            6,
+            8,
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时46分]"
+        },
+        {
+          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时46分]"
         },
         {
           "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
@@ -53,11 +67,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 16时46分]"
         },
         {
           "title": "泰国总理：泰国将继续采取军事行动，直至“我们不再感到任何威胁”。导致泰国士兵死亡的地雷爆炸事件并非“路边意外事件”。",
@@ -75,16 +90,44 @@
           "time_info": "[11时42分 ~ 15时34分]"
         },
         {
-          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
-          "source": "澎湃新闻",
+          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
+          "url": "https://www.cls.cn/detail/2228557",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            10,
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时46分]"
+        },
+        {
+          "title": "四川成都彭州市发生3.9级地震，震源深度13千米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169711",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时46分]"
+        },
+        {
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时46分]"
         },
         {
           "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
@@ -120,44 +163,6 @@
             8,
             18,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
-        },
-        {
-          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
-          "url": "https://www.cls.cn/detail/2228557",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
-        },
-        {
-          "title": "四川成都彭州市发生3.9级地震，震源深度13千米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169711",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -225,6 +230,18 @@
           "time_info": "[11时42分 ~ 12时47分]"
         },
         {
+          "title": "外卖诗人为南京大屠杀遇难同胞写诗",
+          "url": "https://www.toutiao.com/trending/7583177483806310410/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时46分]"
+        },
+        {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
@@ -234,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        },
-        {
-          "title": "外卖诗人为南京大屠杀遇难同胞写诗",
-          "url": "https://www.toutiao.com/trending/7583177483806310410/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "防范二手电子产品流通数据泄露风险，《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布",
@@ -275,7 +281,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
