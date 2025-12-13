@@ -1,23 +1,35 @@
 {
-  "generated_at": "2025-12-13T12:47:59.285530+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2025-12-13T13:42:45.458133+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
-          "title": "泰国总理：泰国将继续采取军事行动，直至“我们不再感到任何威胁”。导致泰国士兵死亡的地雷爆炸事件并非“路边意外事件”。",
-          "url": "https://flash.jin10.com/detail/20251213105424761800",
-          "source": "金十数据",
+          "title": "欧盟决定无限期冻结俄罗斯资产",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%86%B3%E5%AE%9A%E6%97%A0%E9%99%90%E6%9C%9F%E5%86%BB%E7%BB%93%E4%BF%84%E7%BD%97%E6%96%AF%E8%B5%84%E4%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            6
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
+        },
+        {
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "成都地震",
@@ -28,20 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
-        },
-        {
-          "title": "欧盟决定无限期冻结俄罗斯资产",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%86%B3%E5%AE%9A%E6%97%A0%E9%99%90%E6%9C%9F%E5%86%BB%E7%BB%93%E4%BF%84%E7%BD%97%E6%96%AF%E8%B5%84%E4%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "芝加哥联储主席解释本周投反对票：应等更多通胀数据，明年降息次数料多于中值预测",
@@ -52,8 +52,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
+        },
+        {
+          "title": "泰国总理：泰国将继续采取军事行动，直至“我们不再感到任何威胁”。导致泰国士兵死亡的地雷爆炸事件并非“路边意外事件”。",
+          "url": "https://flash.jin10.com/detail/20251213105424761800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
@@ -64,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
@@ -76,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "谁有资格替30万遇难者说“算了”",
@@ -85,11 +98,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "欧盟决定无限期冻结俄罗斯资产",
@@ -99,8 +113,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "南京大屠杀遇难同胞纪念馆下半旗",
@@ -108,11 +122,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
@@ -123,20 +138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
-        },
-        {
-          "title": "韩国鸟叔被警方强制调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%B8%9F%E5%8F%94%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "四川成都彭州市发生3.9级地震，震源深度13千米",
@@ -145,6 +148,41 @@
           "ranks": [
             17,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
+        },
+        {
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
+        },
+        {
+          "title": "成都彭州3.9级地震",
+          "url": "https://www.douyin.com/hot/2334923",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时42分]"
+        },
+        {
+          "title": "韩国鸟叔被警方强制调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%B8%9F%E5%8F%94%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -163,27 +201,16 @@
           "time_info": "[11时42分 ~ 12时47分]"
         },
         {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
+          "title": "日本近12小时发生8次4级以上地震",
+          "url": "https://www.toutiao.com/trending/7582591000502304774/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            20
+            30,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
-        },
-        {
-          "title": "成都彭州3.9级地震",
-          "url": "https://www.douyin.com/hot/2334923",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "time_info": "[12时47分 ~ 13时42分]"
         },
         {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
@@ -217,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        },
-        {
-          "title": "日本近12小时发生8次4级以上地震",
-          "url": "https://www.toutiao.com/trending/7582591000502304774/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
         }
       ]
     }
