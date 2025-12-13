@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-12-13T16:46:51.359766+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-12-13T17:34:29.162797+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "欧盟决定无限期冻结俄罗斯资产",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%86%B3%E5%AE%9A%E6%97%A0%E9%99%90%E6%9C%9F%E5%86%BB%E7%BB%93%E4%BF%84%E7%BD%97%E6%96%AF%E8%B5%84%E4%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 16时46分]"
-        },
         {
           "title": "芝加哥联储主席解释本周投反对票：应等更多通胀数据，明年降息次数料多于中值预测",
           "url": "https://wallstreetcn.com/articles/3761299",
@@ -30,8 +16,36 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 16时46分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 17时34分]"
+        },
+        {
+          "title": "欧盟决定无限期冻结俄罗斯资产",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%86%B3%E5%AE%9A%E6%97%A0%E9%99%90%E6%9C%9F%E5%86%BB%E7%BB%93%E4%BF%84%E7%BD%97%E6%96%AF%E8%B5%84%E4%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4,
+            3,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 17时34分]"
+        },
+        {
+          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 17时34分]"
         },
         {
           "title": "成都地震",
@@ -49,18 +63,6 @@
           "time_info": "[11时42分 ~ 16时46分]"
         },
         {
-          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 16时46分]"
-        },
-        {
           "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
           "url": "https://flash.jin10.com/detail/20251213131305142800",
           "source": "金十数据",
@@ -68,11 +70,40 @@
             2,
             5,
             6,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时46分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 17时34分]"
+        },
+        {
+          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
+          "url": "https://www.cls.cn/detail/2228557",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 17时34分]"
+        },
+        {
+          "title": "四川成都彭州市发生3.9级地震，震源深度13千米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169711",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 17时34分]"
         },
         {
           "title": "泰国总理：泰国将继续采取军事行动，直至“我们不再感到任何威胁”。导致泰国士兵死亡的地雷爆炸事件并非“路边意外事件”。",
@@ -88,33 +119,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时42分 ~ 15时34分]"
-        },
-        {
-          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
-          "url": "https://www.cls.cn/detail/2228557",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 16时46分]"
-        },
-        {
-          "title": "四川成都彭州市发生3.9级地震，震源深度13千米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169711",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 16时46分]"
         },
         {
           "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
@@ -251,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "城事丨第十二个国家公祭日：牢记民族之耻，告慰遇难同胞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32165006",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "防范二手电子产品流通数据泄露风险，《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布",
