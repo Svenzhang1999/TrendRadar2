@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T14:55:06.457695+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-12-14T15:33:46.405728+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国布朗大学校长：在布朗大学枪击事件中遇难的两人均为学生。",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "美国普罗维登斯市长：没有理由相信还有其他威胁与布朗大学枪击案有关。",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "俄外交部：欧盟非法冻结俄资产，俄方将迅速回应",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "美布朗大学枪击案已致2死8重伤，枪手仍未被捕",
@@ -63,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "印医生性侵幼童,获重刑牢底坐穿",
@@ -75,8 +75,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "福建致7死煤矿瓦斯爆炸事故报告公布：31人被问责",
@@ -88,19 +88,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "最新调查显示日本中学生滥用药物现象严重",
           "url": "https://wallstreetcn.com/livenews/3020353",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时33分]"
         },
         {
           "title": "“宇宙行”CEO表态支持，预测市场对沃什出任新美联储主席概率激增",
@@ -108,11 +109,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 15时33分]"
         },
         {
           "title": "美布朗大学枪击案嫌犯仍在逃，警方将公布视频征集线索",
@@ -122,11 +124,12 @@
             2,
             12,
             15,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "美国普罗维登斯市长：（布朗大学枪击案）嫌疑人视频将公开；嫌疑人仍在逃。",
@@ -137,8 +140,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时33分]"
+        },
+        {
+          "title": "巨变酝酿中？美国财政部将“合并”美联储，贝森特才是真正的“影子联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761358",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时33分]"
+        },
+        {
+          "title": "欧尔班：欧盟若动用俄被冻结资产将引发严重问题",
+          "url": "https://flash.jin10.com/detail/20251214082829906800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "城事丨第十二个国家公祭日：牢记民族之耻，告慰遇难同胞",
@@ -152,18 +179,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时54分 ~ 13时41分]"
-        },
-        {
-          "title": "欧尔班：欧盟若动用俄被冻结资产将引发严重问题",
-          "url": "https://flash.jin10.com/detail/20251214082829906800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时55分]"
         },
         {
           "title": "美布朗大学枪击案已致2死8重伤 枪手仍未被捕",
@@ -201,6 +216,17 @@
           "time_info": "[12时58分 ~ 13时41分]"
         },
         {
+          "title": "2死9伤！美警方公开布朗大学枪击案嫌犯视频征集线索",
+          "url": "https://news.ifeng.com/c/8p4lQlgaCnL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时33分]"
+        },
+        {
           "title": "俄罗斯外交部：莫斯科将迅速回应欧盟冻结俄资产的举措。",
           "url": "https://flash.jin10.com/detail/20251213223824582800",
           "source": "金十数据",
@@ -210,28 +236,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时54分 ~ 13时41分]"
-        },
-        {
-          "title": "巨变酝酿中？美国财政部将“合并”美联储，贝森特才是真正的“影子联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761358",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
-        },
-        {
-          "title": "2死9伤！美警方公开布朗大学枪击案嫌犯视频征集线索",
-          "url": "https://news.ifeng.com/c/8p4lQlgaCnL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
         },
         {
           "title": "石家庄一儿童游泳机构“双十一”促销后突然闭店，老板被刑拘",
@@ -267,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时54分 ~ 14时55分]"
+        },
+        {
+          "title": "香港住宅楼起火400多住户凌晨逃生",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%BD%8F%E5%AE%85%E6%A5%BC%E8%B5%B7%E7%81%AB400%E5%A4%9A%E4%BD%8F%E6%88%B7%E5%87%8C%E6%99%A8%E9%80%83%E7%94%9F%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "中国留学生亲历美国校园枪击事件",
