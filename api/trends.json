@@ -1,12 +1,51 @@
 {
-  "generated_at": "2025-12-14T16:48:10.010705+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2025-12-14T17:34:45.777672+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时54分 ~ 17时34分]"
+        },
+        {
+          "title": "美布朗大学枪击案已致2死8重伤，枪手仍未被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32173764",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时54分 ~ 17时34分]"
+        },
+        {
+          "title": "印医生性侵幼童,获重刑牢底坐穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347948&amp;topic_name=%E5%8D%B0%E5%8C%BB%E7%94%9F%E6%80%A7%E4%BE%B5%E5%B9%BC%E7%AB%A5%2C%E8%8E%B7%E9%87%8D%E5%88%91%E7%89%A2%E5%BA%95%E5%9D%90%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时54分 ~ 17时34分]"
+        },
         {
           "title": "美国布朗大学校长：在布朗大学枪击事件中遇难的两人均为学生。",
           "url": "https://flash.jin10.com/detail/20251214104404959800",
@@ -20,6 +59,19 @@
           "time_info": "[11时54分 ~ 15时33分]"
         },
         {
+          "title": "“宇宙行”CEO表态支持，预测市场对沃什出任新美联储主席概率激增",
+          "url": "https://wallstreetcn.com/articles/3761354",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时58分 ~ 17时34分]"
+        },
+        {
           "title": "俄外交部：欧盟非法冻结俄资产，俄方将迅速回应",
           "url": "https://news.ifeng.com/c/8p3vpORIu6W",
           "source": "凤凰网",
@@ -31,55 +83,16 @@
           "time_info": "[11时54分 ~ 16时48分]"
         },
         {
-          "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 16时48分]"
-        },
-        {
-          "title": "美布朗大学枪击案已致2死8重伤，枪手仍未被捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32173764",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 16时48分]"
-        },
-        {
-          "title": "印医生性侵幼童,获重刑牢底坐穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347948&amp;topic_name=%E5%8D%B0%E5%8C%BB%E7%94%9F%E6%80%A7%E4%BE%B5%E5%B9%BC%E7%AB%A5%2C%E8%8E%B7%E9%87%8D%E5%88%91%E7%89%A2%E5%BA%95%E5%9D%90%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 16时48分]"
-        },
-        {
-          "title": "“宇宙行”CEO表态支持，预测市场对沃什出任新美联储主席概率激增",
-          "url": "https://wallstreetcn.com/articles/3761354",
+          "title": "巨变酝酿中？美国财政部将“合并”美联储，贝森特才是真正的“影子联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761358",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时58分 ~ 16时48分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 17时34分]"
         },
         {
           "title": "美国普罗维登斯市长：没有理由相信还有其他威胁与布朗大学枪击案有关。",
@@ -94,16 +107,15 @@
           "time_info": "[11时54分 ~ 15时33分]"
         },
         {
-          "title": "巨变酝酿中？美国财政部将“合并”美联储，贝森特才是真正的“影子联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761358",
-          "source": "华尔街见闻",
+          "title": "美国布朗大学 2025 年 12 月 13 日发生枪击事件，致 2 死 8 伤，嫌疑人仍在逃，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1983427558025488018",
+          "source": "知乎",
           "ranks": [
-            7,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 17时34分]"
         },
         {
           "title": "香港住宅楼起火400多住户凌晨逃生",
@@ -130,39 +142,41 @@
           "time_info": "[11时54分 ~ 15时33分]"
         },
         {
-          "title": "美国布朗大学 2025 年 12 月 13 日发生枪击事件，致 2 死 8 伤，嫌疑人仍在逃，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1983427558025488018",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
-        },
-        {
-          "title": "据BNO新闻：当地目击者称，至少7人在澳大利亚邦迪海滩的枪击事件中遭枪击。",
-          "url": "https://flash.jin10.com/detail/20251214163336789800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
           "title": "最新调查显示日本中学生滥用药物现象严重",
           "url": "https://wallstreetcn.com/livenews/3020353",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             5,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 17时34分]"
+        },
+        {
+          "title": "外媒：澳大利亚邦迪滩枪击事件已造成至少10人受伤",
+          "url": "https://wallstreetcn.com/livenews/3020395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "2死9伤！美警方公开布朗大学枪击案嫌犯视频征集线索",
+          "url": "https://news.ifeng.com/c/8p4lQlgaCnL",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 17时34分]"
         },
         {
           "title": "美布朗大学枪击案嫌犯仍在逃，警方将公布视频征集线索",
@@ -178,6 +192,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时54分 ~ 15时33分]"
+        },
+        {
+          "title": "澳大利亚总理阿尔巴尼斯：邦迪滩枪击事件令人震惊且深感痛心。警方和急救人员正在现场奋力抢救生命。",
+          "url": "https://flash.jin10.com/detail/20251214170435780800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "美国普罗维登斯市长：（布朗大学枪击案）嫌疑人视频将公开；嫌疑人仍在逃。",
@@ -197,22 +222,12 @@
           "source": "微博",
           "ranks": [
             17,
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 16时48分]"
-        },
-        {
-          "title": "2死9伤！美警方公开布朗大学枪击案嫌犯视频征集线索",
-          "url": "https://news.ifeng.com/c/8p4lQlgaCnL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时34分]"
         },
         {
           "title": "欧尔班：欧盟若动用俄被冻结资产将引发严重问题",
@@ -225,6 +240,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时54分 ~ 15时33分]"
+        },
+        {
+          "title": "据BNO新闻：当地目击者称，至少7人在澳大利亚邦迪海滩的枪击事件中遭枪击。",
+          "url": "https://flash.jin10.com/detail/20251214163336789800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时34分]"
         },
         {
           "title": "城事丨第十二个国家公祭日：牢记民族之耻，告慰遇难同胞",
@@ -330,6 +357,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时54分 ~ 14时55分]"
+        },
+        {
+          "title": "据以色列时报：哈马斯方面称，一名高级内部安全官员在加沙中部遭枪击身亡；一人被捕。",
+          "url": "https://flash.jin10.com/detail/20251214165044364800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "澳大利亚新南威尔士州警方：在悉尼邦迪海滩发生枪击事件后，已有两人被拘留。",
+          "url": "https://flash.jin10.com/detail/20251214164123619800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "澳大利亚邦迪海滩发生枪击",
+          "url": "https://flash.jin10.com/detail/20251214163612633800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "中国留学生亲历美国校园枪击事件",
