@@ -1,427 +1,198 @@
 {
-  "generated_at": "2025-12-13T21:20:10.248733+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2025-12-14T11:54:49.968656+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 枪击 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替",
-      "match_count": 33,
+      "match_count": 17,
       "titles": [
         {
-          "title": "芝加哥联储主席解释本周投反对票：应等更多通胀数据，明年降息次数料多于中值预测",
-          "url": "https://wallstreetcn.com/articles/3761299",
-          "source": "华尔街见闻",
+          "title": "美布朗大学枪击案嫌犯仍在逃，警方将公布视频征集线索",
+          "url": "https://wallstreetcn.com/livenews/3020334",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 21时20分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "欧盟决定无限期冻结俄罗斯资产",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%86%B3%E5%AE%9A%E6%97%A0%E9%99%90%E6%9C%9F%E5%86%BB%E7%BB%93%E4%BF%84%E7%BD%97%E6%96%AF%E8%B5%84%E4%BA%A7",
-          "source": "bilibili 热搜",
+          "title": "美国布朗大学校长：在布朗大学枪击事件中遇难的两人均为学生。",
+          "url": "https://flash.jin10.com/detail/20251214104404959800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            4,
-            3,
-            8,
-            9,
-            27,
-            28
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 19时29分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "四川成都彭州市发生3.9级地震，震源深度13千米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169711",
-          "source": "澎湃新闻",
+          "title": "美国普罗维登斯市长：没有理由相信还有其他威胁与布朗大学枪击案有关。",
+          "url": "https://flash.jin10.com/detail/20251214104117344800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            18,
-            19,
-            16,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 21时20分]"
-        },
-        {
-          "title": "“馆长”公祭日向遇难同胞致哀",
-          "url": "https://v.ifeng.com/c/8p3F6nI64oI",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 21时20分]"
-        },
-        {
-          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 17时34分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "成都地震",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            6,
-            8,
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 16时46分]"
-        },
-        {
-          "title": "印医生性侵幼童,获重刑牢底坐穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347948&amp;topic_name=%E5%8D%B0%E5%8C%BB%E7%94%9F%E6%80%A7%E4%BE%B5%E5%B9%BC%E7%AB%A5%2C%E8%8E%B7%E9%87%8D%E5%88%91%E7%89%A2%E5%BA%95%E5%9D%90%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 21时20分]"
-        },
-        {
-          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "title": "美国普罗维登斯市长：（布朗大学枪击案）嫌疑人视频将公开；嫌疑人仍在逃。",
+          "url": "https://flash.jin10.com/detail/20251214103843376800",
           "source": "金十数据",
           "ranks": [
-            2,
-            5,
-            6,
-            15,
-            17
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 17时34分]"
-        },
-        {
-          "title": "欧盟就无限期冻结俄央行资产达成一致 为向乌克兰贷款扫除障碍",
-          "url": "https://www.cls.cn/detail/2228557",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 17时34分]"
-        },
-        {
-          "title": "柬埔寨：柬泰边境所有过境点暂停运行",
-          "url": "https://www.toutiao.com/trending/7582761261466009642/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时28分 ~ 21时20分]"
-        },
-        {
-          "title": "泰国总理：泰国将继续采取军事行动，直至“我们不再感到任何威胁”。导致泰国士兵死亡的地雷爆炸事件并非“路边意外事件”。",
-          "url": "https://flash.jin10.com/detail/20251213105424761800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "城事丨第十二个国家公祭日：牢记民族之耻，告慰遇难同胞",
           "url": "https://m.thepaper.cn/newsDetail_forward_32165006",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 21时20分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 16时46分]"
-        },
-        {
-          "title": "香港特区政府要求独立委员会9个月内完成大埔火灾成因报告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162597",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
-        },
-        {
-          "title": "谁做下一任美联储主席，华尔街亮态度！摩根大通CEO戴蒙支持沃什，而非哈赛特",
-          "url": "https://wallstreetcn.com/articles/3761320",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 21时20分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "欧盟决定无限期冻结俄罗斯资产",
-          "url": "https://news.ifeng.com/c/8p2jHDXxsC8",
+          "title": "俄外交部：欧盟非法冻结俄资产，俄方将迅速回应",
+          "url": "https://news.ifeng.com/c/8p3vpORIu6W",
           "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "谁有资格替30万遇难者说“算了”",
-          "url": "https://www.toutiao.com/trending/7583001941094072358/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            6,
-            8,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时34分]"
-        },
-        {
-          "title": "柬埔寨内政部：柬泰边境所有过境点暂停运行",
-          "url": "https://wallstreetcn.com/livenews/3020225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 21时20分]"
-        },
-        {
-          "title": "山东冠县地震致房屋倒塌系谣言",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%86%A0%E5%8E%BF%E5%9C%B0%E9%9C%87%E8%87%B4%E6%88%BF%E5%B1%8B%E5%80%92%E5%A1%8C%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时28分 ~ 21时20分]"
-        },
-        {
-          "title": "南京大屠杀遇难同胞纪念馆下半旗",
-          "url": "https://www.toutiao.com/trending/7582902653203120147/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
-        },
-        {
-          "title": "日本近12小时发生8次4级以上地震",
-          "url": "https://www.toutiao.com/trending/7582591000502304774/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时55分]"
-        },
-        {
-          "title": "成都彭州3.9级地震",
-          "url": "https://www.douyin.com/hot/2334923",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
+          "title": "谭案说法｜用“雷氏营销”卖小米，为何被小米投诉？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171752",
+          "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 21时20分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "韩国鸟叔被警方强制调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%B8%9F%E5%8F%94%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "美布朗大学枪击案已致2死8重伤，枪手仍未被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32173764",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            26
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "柬埔寨内政部：柬泰边境所有过境点暂停运行",
-          "url": "https://flash.jin10.com/detail/20251213173628201800",
+          "title": "欧尔班：欧盟若动用俄被冻结资产将引发严重问题",
+          "url": "https://flash.jin10.com/detail/20251214082829906800",
           "source": "金十数据",
           "ranks": [
-            15,
-            16
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时29分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "中国地震台网自动测定：12月13日17时20分在山西忻州市忻府区附近（北纬38.52度，东经112.80度）发生3.5级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20251213172240792800",
-          "source": "金十数据",
+          "title": "石家庄一儿童游泳机构“双十一”促销后突然闭店，老板被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170434",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            18
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时29分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "中国驻美国大使谢锋会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
-          "url": "https://wallstreetcn.com/livenews/3020176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时47分]"
-        },
-        {
-          "title": "外卖诗人为南京大屠杀遇难同胞写诗",
-          "url": "https://www.toutiao.com/trending/7583177483806310410/",
+          "title": "网红景区望仙谷发生火灾",
+          "url": "https://www.toutiao.com/trending/7583325960331149322/",
           "source": "今日头条",
           "ranks": [
-            22,
-            25
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 16时46分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "山西忻州3.4级地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%BF%BB%E5%B7%9E3.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top",
+          "title": "美布朗大学枪击案已致2死8重伤 枪手仍未被捕",
+          "url": "https://flash.jin10.com/detail/20251214080230741800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "印医生性侵幼童,获重刑牢底坐穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347948&amp;topic_name=%E5%8D%B0%E5%8C%BB%E7%94%9F%E6%80%A7%E4%BE%B5%E5%B9%BC%E7%AB%A5%2C%E8%8E%B7%E9%87%8D%E5%88%91%E7%89%A2%E5%BA%95%E5%9D%90%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "福建致7死煤矿瓦斯爆炸事故报告公布：31人被问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32172656",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "中国留学生亲历美国校园枪击事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%B2%E5%8E%86%E7%BE%8E%E5%9B%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "11时54分"
         },
         {
-          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
-          "url": "https://www.cls.cn/detail/2228568",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "防范二手电子产品流通数据泄露风险，《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布",
-          "url": "https://wallstreetcn.com/livenews/3020171",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯外交部：莫斯科将迅速回应欧盟冻结俄资产的举措。",
+          "url": "https://flash.jin10.com/detail/20251213223824582800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "11时54分"
         },
         {
-          "title": "成都发生3.9级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E5%8F%91%E7%94%9F3.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
+          "title": "俄空袭致乌大停电 威胁将迅速回应欧盟冻结俄资产",
+          "url": "https://wallstreetcn.com/livenews/3020305",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "英国女子在印度看演唱会时遭猥亵",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%97%B6%E9%81%AD%E7%8C%A5%E4%BA%B5",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "11时54分"
         }
       ]
     }
