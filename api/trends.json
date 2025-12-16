@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:01:30.989798+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2025-12-16T15:41:27.693981+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "杭州小米交付中心发生车祸，小米内部人士：当时处于人驾状态，事故还在调查中",
@@ -15,31 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
         },
         {
           "title": "女教师被逼婚跳楼,喜事变丧事",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348005&amp;topic_name=%E5%A5%B3%E6%95%99%E5%B8%88%E8%A2%AB%E9%80%BC%E5%A9%9A%E8%B7%B3%E6%A5%BC%2C%E5%96%9C%E4%BA%8B%E5%8F%98%E4%B8%A7%E4%BA%8B",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
-        },
-        {
-          "title": "三明治没肉卖天价,宝妈狂遭吐槽",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348012&amp;topic_name=%E4%B8%89%E6%98%8E%E6%B2%BB%E6%B2%A1%E8%82%89%E5%8D%96%E5%A4%A9%E4%BB%B7%2C%E5%AE%9D%E5%A6%88%E7%8B%82%E9%81%AD%E5%90%90%E6%A7%BD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
         },
         {
           "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
@@ -49,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -61,8 +50,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
+        },
+        {
+          "title": "三明治没肉卖天价,宝妈狂遭吐槽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348012&amp;topic_name=%E4%B8%89%E6%98%8E%E6%B2%BB%E6%B2%A1%E8%82%89%E5%8D%96%E5%A4%A9%E4%BB%B7%2C%E5%AE%9D%E5%A6%88%E7%8B%82%E9%81%AD%E5%90%90%E6%A7%BD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
+        },
+        {
+          "title": "孙悟空经常遇难就找观音，为什么到了镇元子哪里就没有直接去找观音?",
+          "url": "https://www.zhihu.com/question/665095251",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
         },
         {
           "title": "亚运会三金得主举报被领导索要奖金，云南体育局成立调查组",
@@ -81,23 +95,23 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
         },
         {
-          "title": "孙悟空经常遇难就找观音，为什么到了镇元子哪里就没有直接去找观音?",
-          "url": "https://www.zhihu.com/question/665095251",
-          "source": "知乎",
+          "title": "民工讨薪未果,提刀灭门老板全家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348022&amp;topic_name=%E6%B0%91%E5%B7%A5%E8%AE%A8%E8%96%AA%E6%9C%AA%E6%9E%9C%2C%E6%8F%90%E5%88%80%E7%81%AD%E9%97%A8%E8%80%81%E6%9D%BF%E5%85%A8%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
-            5,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "据英国金融时报：在首席执行官否决对英国石油公司的收购要约之后，壳牌并购团队负责人Greg Gut已经离职。",
@@ -111,6 +125,34 @@
           "time_info": "13时47分"
         },
         {
+          "title": "官方回应王莉举报领导索要奖金",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8E%89%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            7,
+            9,
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
+        },
+        {
+          "title": "欧洲多国及欧盟领导人发表联合声明：承诺为乌提供安全保障",
+          "url": "https://www.cls.cn/detail/2230396",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时41分]"
+        },
+        {
           "title": "欧盟外长会未就动用俄被冻结资产援乌达成一致",
           "url": "https://wallstreetcn.com/livenews/3021394",
           "source": "华尔街见闻-快讯",
@@ -122,32 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时51分 ~ 13时47分]"
-        },
-        {
-          "title": "官方回应王莉举报领导索要奖金",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8E%89%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            7,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
-        },
-        {
-          "title": "欧洲多国及欧盟领导人发表联合声明：承诺为乌提供安全保障",
-          "url": "https://www.cls.cn/detail/2230396",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时01分]"
         },
         {
           "title": "香奈儿“购物篮”包拍出超百万天价",
@@ -168,11 +184,36 @@
           "url": "https://wallstreetcn.com/articles/3761458",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时41分]"
+        },
+        {
+          "title": "全红婵拎到王俊凯爆炸头",
+          "url": "https://www.toutiao.com/trending/7583937336027643923/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时41分]"
+        },
+        {
+          "title": "最高法：公司辞退有性骚扰行为的员工不属于违法解除劳动合同",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32185782",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时41分]"
         },
         {
           "title": "《怦然心动》导演家中死亡 其子已被捕",
@@ -198,30 +239,6 @@
           "time_info": "[11时51分 ~ 12时59分]"
         },
         {
-          "title": "全红婵拎到王俊凯爆炸头",
-          "url": "https://www.toutiao.com/trending/7583937336027643923/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 15时01分]"
-        },
-        {
-          "title": "最高法：公司辞退有性骚扰行为的员工不属于违法解除劳动合同",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32185782",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 15时01分]"
-        },
-        {
           "title": "吴秀波被执行6200万",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E8%A2%AB%E6%89%A7%E8%A1%8C6200%E4%B8%87%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -234,13 +251,35 @@
           "time_info": "[12时59分 ~ 13时47分]"
         },
         {
+          "title": "欧洲气候基金会首席执行官：欧洲应停止购买美国能源",
+          "url": "https://wallstreetcn.com/livenews/3021504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "“天价救护车”涉事医院被罚没8.7万",
+          "url": "https://www.toutiao.com/trending/7583526034625216562/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "你被捕了是什么梗",
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%A0%E8%A2%AB%E6%8D%95%E4%BA%86%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
           "source": "bilibili 热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -251,7 +290,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -284,7 +323,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
