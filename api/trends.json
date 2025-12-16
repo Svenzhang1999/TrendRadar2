@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T11:51:44.667265+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-12-16T12:59:32.541806+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "杭州小米交付中心发生车祸，小米内部人士：当时处于人驾状态，事故还在调查中",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "欧盟外长会未就动用俄被冻结资产援乌达成一致",
-          "url": "https://wallstreetcn.com/livenews/3021394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "女教师被逼婚跳楼,喜事变丧事",
@@ -37,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "三明治没肉卖天价,宝妈狂遭吐槽",
@@ -48,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
@@ -59,19 +48,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
           "url": "https://wallstreetcn.com/articles/3761439",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "亚运会三金得主举报被领导索要奖金，云南体育局成立调查组",
@@ -81,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "MLXG败诉RNG,欠债千万成老赖",
@@ -92,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "孙悟空经常遇难就找观音，为什么到了镇元子哪里就没有直接去找观音?",
@@ -103,30 +93,56 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
+        },
+        {
+          "title": "欧盟外长会未就动用俄被冻结资产援乌达成一致",
+          "url": "https://wallstreetcn.com/livenews/3021394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
+        },
+        {
+          "title": "官方回应王莉举报领导索要奖金",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8E%89%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "欧洲多国及欧盟领导人发表联合声明：承诺为乌提供安全保障",
           "url": "https://www.cls.cn/detail/2230396",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "《怦然心动》导演家中死亡 其子已被捕",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E3%80%8B%E5%AF%BC%E6%BC%94%E5%AE%B6%E4%B8%AD%E6%AD%BB%E4%BA%A1+%E5%85%B6%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%8D%95",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "携带地贫基因被解聘幼师再申诉已被受理，当地成立案件审查组",
@@ -136,30 +152,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "官方回应王莉举报领导索要奖金",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8E%89%E4%B8%BE%E6%8A%A5%E9%A2%86%E5%AF%BC%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
         },
         {
           "title": "香奈儿“购物篮”包拍出超百万天价",
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E5%A5%88%E5%84%BF%E2%80%9C%E8%B4%AD%E7%89%A9%E7%AF%AE%E2%80%9D%E5%8C%85%E6%8B%8D%E5%87%BA%E8%B6%85%E7%99%BE%E4%B8%87%E5%A4%A9%E4%BB%B7",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时59分]"
+        },
+        {
+          "title": "吴秀波被执行6200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E8%A2%AB%E6%89%A7%E8%A1%8C6200%E4%B8%87%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时51分"
+          "time_info": "12时59分"
         },
         {
           "title": "日本宫城县附近海域发生4.4级地震",
@@ -171,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "尹锡悦涉嫌妨碍逮捕案明年1月判决",
+          "url": "https://www.toutiao.com/trending/7584276492910153266/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     }
