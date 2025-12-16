@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T16:59:24.793486+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2025-12-16T17:50:28.888920+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "杭州小米交付中心发生车祸，小米内部人士：当时处于人驾状态，事故还在调查中",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 17时50分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -27,8 +27,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 17时50分]"
+        },
+        {
+          "title": "三明治没肉卖天价,宝妈狂遭吐槽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348012&amp;topic_name=%E4%B8%89%E6%98%8E%E6%B2%BB%E6%B2%A1%E8%82%89%E5%8D%96%E5%A4%A9%E4%BB%B7%2C%E5%AE%9D%E5%A6%88%E7%8B%82%E9%81%AD%E5%90%90%E6%A7%BD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 17时50分]"
         },
         {
           "title": "女教师被逼婚跳楼,喜事变丧事",
@@ -43,18 +57,16 @@
           "time_info": "[11时51分 ~ 15时41分]"
         },
         {
-          "title": "三明治没肉卖天价,宝妈狂遭吐槽",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348012&amp;topic_name=%E4%B8%89%E6%98%8E%E6%B2%BB%E6%B2%A1%E8%82%89%E5%8D%96%E5%A4%A9%E4%BB%B7%2C%E5%AE%9D%E5%A6%88%E7%8B%82%E9%81%AD%E5%90%90%E6%A7%BD",
-          "source": "贴吧",
+          "title": "孙悟空经常遇难就找观音，为什么到了镇元子哪里就没有直接去找观音?",
+          "url": "https://www.zhihu.com/question/665095251",
+          "source": "知乎",
           "ranks": [
-            3,
-            4,
-            6,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 17时50分]"
         },
         {
           "title": "广东省深圳市政协原主席戴北方被查，曾任深圳市委副书记",
@@ -68,29 +80,18 @@
           "time_info": "[11时51分 ~ 15时41分]"
         },
         {
-          "title": "孙悟空经常遇难就找观音，为什么到了镇元子哪里就没有直接去找观音?",
-          "url": "https://www.zhihu.com/question/665095251",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 16时59分]"
-        },
-        {
           "title": "MLXG败诉RNG,欠债千万成老赖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348000&amp;topic_name=MLXG%E8%B4%A5%E8%AF%89RNG%2C%E6%AC%A0%E5%80%BA%E5%8D%83%E4%B8%87%E6%88%90%E8%80%81%E8%B5%96",
           "source": "贴吧",
           "ranks": [
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 17时50分]"
         },
         {
           "title": "亚运会三金得主举报被领导索要奖金，云南体育局成立调查组",
@@ -113,11 +114,12 @@
             9,
             27,
             16,
-            28
+            28,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 17时50分]"
         },
         {
           "title": "民工讨薪未果,提刀灭门老板全家",
@@ -142,6 +144,18 @@
           "time_info": "13时47分"
         },
         {
+          "title": "美联储下一任主席生变！沃什的政策主张：降息+缩表",
+          "url": "https://wallstreetcn.com/articles/3761458",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 17时50分]"
+        },
+        {
           "title": "欧洲多国及欧盟领导人发表联合声明：承诺为乌提供安全保障",
           "url": "https://www.cls.cn/detail/2230396",
           "source": "财联社热门",
@@ -153,6 +167,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时51分 ~ 15时41分]"
+        },
+        {
+          "title": "最高法：公司辞退有性骚扰行为的员工不属于违法解除劳动合同",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32185782",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 17时50分]"
         },
         {
           "title": "欧盟外长会未就动用俄被冻结资产援乌达成一致",
@@ -168,18 +195,6 @@
           "time_info": "[11时51分 ~ 13时47分]"
         },
         {
-          "title": "美联储下一任主席生变！沃什的政策主张：降息+缩表",
-          "url": "https://wallstreetcn.com/articles/3761458",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 16时59分]"
-        },
-        {
           "title": "全红婵拎到王俊凯爆炸头",
           "url": "https://www.toutiao.com/trending/7583937336027643923/",
           "source": "今日头条",
@@ -187,18 +202,6 @@
             13,
             12,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 16时59分]"
-        },
-        {
-          "title": "最高法：公司辞退有性骚扰行为的员工不属于违法解除劳动合同",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32185782",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -217,6 +220,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时51分 ~ 15时01分]"
+        },
+        {
+          "title": "吴秀波被执行6200万",
+          "url": "https://www.toutiao.com/trending/7583235689752494118/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时50分]"
+        },
+        {
+          "title": "天价救护车事件涉事医院被罚",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E4%BB%B7%E6%95%91%E6%8A%A4%E8%BD%A6%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时50分]"
         },
         {
           "title": "《怦然心动》导演家中死亡 其子已被捕",
@@ -242,6 +268,30 @@
           "time_info": "[11时51分 ~ 12时59分]"
         },
         {
+          "title": "“天价救护车”涉事医院被罚没8.7万",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A9%E4%BB%B7%E6%95%91%E6%8A%A4%E8%BD%A6%E2%80%9D%E6%B6%89%E4%BA%8B%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E6%B2%A18.7%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时50分]"
+        },
+        {
+          "title": "一直是管理岗，去面试的也是管理岗，可面试官说我偏「执行」了，为什么会出现这种状况？",
+          "url": "https://www.zhihu.com/question/1983885240897398525",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时50分]"
+        },
+        {
           "title": "吴秀波被执行6200万",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A7%80%E6%B3%A2%E8%A2%AB%E6%89%A7%E8%A1%8C6200%E4%B8%87%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -254,15 +304,27 @@
           "time_info": "[12时59分 ~ 13时47分]"
         },
         {
+          "title": "AMD首席执行官苏姿丰到访中国",
+          "url": "https://www.baidu.com/s?wd=AMD%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%8B%8F%E5%A7%BF%E4%B8%B0%E5%88%B0%E8%AE%BF%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时50分]"
+        },
+        {
           "title": "吴秀波被执行6200万",
-          "url": "https://www.toutiao.com/trending/7583235689752494118/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E7%A7%80%E6%B3%A2%E8%A2%AB%E6%89%A7%E8%A1%8C6200%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时59分"
+          "time_info": "17时50分"
         },
         {
           "title": "欧洲气候基金会首席执行官：欧洲应停止购买美国能源",
@@ -287,13 +349,24 @@
           "time_info": "15时41分"
         },
         {
+          "title": "落马正部齐同生贪1.11亿被判死缓",
+          "url": "https://www.toutiao.com/trending/7584378030060552243/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "恋与深空相关公司曾被约谈",
           "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%9B%B8%E5%85%B3%E5%85%AC%E5%8F%B8%E6%9B%BE%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -309,28 +382,6 @@
           "time_info": "15时01分"
         },
         {
-          "title": "天价救护车事件涉事医院被罚",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E4%BB%B7%E6%95%91%E6%8A%A4%E8%BD%A6%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "“天价救护车”涉事医院被罚没8.7万",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A9%E4%BB%B7%E6%95%91%E6%8A%A4%E8%BD%A6%E2%80%9D%E6%B6%89%E4%BA%8B%E5%8C%BB%E9%99%A2%E8%A2%AB%E7%BD%9A%E6%B2%A18.7%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
           "title": "在印度总理莫迪与约旦领导人的会谈中，加沙及西亚危机、民用核能合作、文化联系以及双边贸易翻番等议题成为重点讨论内容。",
           "url": "https://flash.jin10.com/detail/20251216140512409800",
           "source": "金十数据",
@@ -342,15 +393,15 @@
           "time_info": "15时01分"
         },
         {
-          "title": "AMD首席执行官苏姿丰到访中国",
-          "url": "https://www.baidu.com/s?wd=AMD%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%8B%8F%E5%A7%BF%E4%B8%B0%E5%88%B0%E8%AE%BF%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "受贿1.11亿余元 宁夏回族自治区政协原党组书记、主席齐同生一审被判死缓",
+          "url": "https://wallstreetcn.com/livenews/3021576",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时59分"
+          "time_info": "17时50分"
         },
         {
           "title": "日本宫城县附近海域发生4.4级地震",
@@ -362,17 +413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        },
-        {
-          "title": "一直是管理岗，去面试的也是管理岗，可面试官说我偏「执行」了，为什么会出现这种状况？",
-          "url": "https://www.zhihu.com/question/1983885240897398525",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
         },
         {
           "title": "什么行为是隔空猥亵",
@@ -403,7 +443,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
