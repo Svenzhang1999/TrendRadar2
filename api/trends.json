@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-17T13:46:16.491718+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-12-17T14:59:55.441010+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "网红柴犬佩奇中毒死亡",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%9F%B4%E7%8A%AC%E4%BD%A9%E5%A5%87%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 14时59分]"
         },
         {
           "title": "河南学校火灾致13人遇难 25人被处分",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 14时59分]"
         },
         {
           "title": "“天价救护车”事件新进展：涉事医院因使用过期药、加价超标收费被罚",
@@ -74,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 14时59分]"
         },
         {
           "title": "亚运冠军称举报领导后不敢再呆在家",
@@ -84,11 +85,12 @@
           "ranks": [
             23,
             14,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 14时59分]"
         },
         {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
@@ -97,11 +99,12 @@
           "ranks": [
             20,
             15,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 14时59分]"
         },
         {
           "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
@@ -111,8 +114,34 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 14时59分]"
+        },
+        {
+          "title": "三明治没肉卖天价,宝妈狂遭吐槽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348012&amp;topic_name=%E4%B8%89%E6%98%8E%E6%B2%BB%E6%B2%A1%E8%82%89%E5%8D%96%E5%A4%A9%E4%BB%B7%2C%E5%AE%9D%E5%A6%88%E7%8B%82%E9%81%AD%E5%90%90%E6%A7%BD",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 14时59分]"
+        },
+        {
+          "title": "MLXG败诉RNG,欠债千万成老赖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348000&amp;topic_name=MLXG%E8%B4%A5%E8%AF%89RNG%2C%E6%AC%A0%E5%80%BA%E5%8D%83%E4%B8%87%E6%88%90%E8%80%81%E8%B5%96",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 14时59分]"
         },
         {
           "title": "举报领导的亚运冠军：不敢再待在家中",
@@ -128,39 +157,16 @@
           "time_info": "[11时46分 ~ 13时46分]"
         },
         {
-          "title": "三明治没肉卖天价,宝妈狂遭吐槽",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348012&amp;topic_name=%E4%B8%89%E6%98%8E%E6%B2%BB%E6%B2%A1%E8%82%89%E5%8D%96%E5%A4%A9%E4%BB%B7%2C%E5%AE%9D%E5%A6%88%E7%8B%82%E9%81%AD%E5%90%90%E6%A7%BD",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时46分]"
-        },
-        {
-          "title": "MLXG败诉RNG,欠债千万成老赖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348000&amp;topic_name=MLXG%E8%B4%A5%E8%AF%89RNG%2C%E6%AC%A0%E5%80%BA%E5%8D%83%E4%B8%87%E6%88%90%E8%80%81%E8%B5%96",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时46分]"
-        },
-        {
           "title": "女孩回应坐公交被猥亵无一人帮",
           "url": "https://www.toutiao.com/trending/7584077601271611402/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 14时59分]"
         },
         {
           "title": "新加坡金管局第四季调查：经济学家预估，在1月的审议中货币政策将维持不变。经济学家预估2025年经济成长率为4.1%，高于第三季调查的2.4%；2026年经济成长率料为2.3%。",
@@ -269,7 +275,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -283,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "网红柴犬佩奇中毒死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%9F%B4%E7%8A%AC%E4%BD%A9%E5%A5%87%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     }
