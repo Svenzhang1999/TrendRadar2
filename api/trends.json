@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T19:35:30.648659+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2025-12-17T21:47:41.074572+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "遭老板性侵女高管每月心理治疗费4000",
@@ -38,7 +38,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -76,18 +76,6 @@
           "time_info": "11时46分"
         },
         {
-          "title": "女高管酒后遭性侵被认定工伤伤残十级",
-          "url": "https://www.toutiao.com/trending/7584424174145749046/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 18时52分]"
-        },
-        {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
           "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
           "source": "澎湃新闻",
@@ -98,11 +86,24 @@
             8,
             7,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时46分 ~ 21时47分]"
+        },
+        {
+          "title": "女高管酒后遭性侵被认定工伤伤残十级",
+          "url": "https://www.toutiao.com/trending/7584424174145749046/",
+          "source": "今日头条",
+          "ranks": [
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时46分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时52分]"
         },
         {
           "title": "网红柴犬佩奇中毒死亡",
@@ -147,8 +148,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时46分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[11时46分 ~ 21时47分]"
         },
         {
           "title": "受贿超1.11亿，宁夏自治区政协原主席齐同生一审被判死缓",
@@ -241,6 +242,19 @@
           "time_info": "[13时45分 ~ 15时41分]"
         },
         {
+          "title": "河南披露方城英才学校重大火灾事故问责情况：南阳副市长等25人被处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32195150",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 21时47分]"
+        },
+        {
           "title": "举报领导的亚运冠军：不敢再待在家中",
           "url": "https://www.toutiao.com/trending/7583967449155747883/",
           "source": "今日头条",
@@ -266,16 +280,16 @@
           "time_info": "[16时59分 ~ 18时52分]"
         },
         {
-          "title": "河南披露方城英才学校重大火灾事故问责情况：南阳副市长等25人被处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32195150",
-          "source": "澎湃新闻",
+          "title": "贝森特：预计明年上半年通胀大幅下降，美联储主席人选或1月初公布、要有“开放的思维”",
+          "url": "https://wallstreetcn.com/articles/3761501",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            15
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 19时35分]"
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 21时47分]"
         },
         {
           "title": "新加坡金管局第四季调查：经济学家预估，在1月的审议中货币政策将维持不变。经济学家预估2025年经济成长率为4.1%，高于第三季调查的2.4%；2026年经济成长率料为2.3%。",
@@ -318,9 +332,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "就欧盟可能动用俄被冻结资产，欧尔班自曝致信普京",
+          "url": "https://news.ifeng.com/c/8pADH2laX64",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "欧盟欲将被冻结俄资产用于乌克兰，是否会削弱中国对欧投资环境信心？外交部回应",
@@ -332,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        },
-        {
-          "title": "贝森特：预计明年上半年通胀大幅下降，美联储主席人选或1月初公布、要有“开放的思维”",
-          "url": "https://wallstreetcn.com/articles/3761501",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "新加坡金管局调查：经济学家指出地缘政治和人工智能泡沫是新加坡经济的潜在风险。科技周期、全球增长和贸易紧张局势缓和可能是潜在的顺风。",
@@ -384,7 +398,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -428,7 +442,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -461,7 +475,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -505,7 +519,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
