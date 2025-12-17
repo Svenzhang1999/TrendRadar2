@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T17:00:38.706117+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2025-12-17T17:52:24.023345+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "网红柴犬佩奇中毒死亡",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 14时59分]"
+        },
+        {
+          "title": "遭老板性侵女高管每月心理治疗费4000",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%81%AD%E8%80%81%E6%9D%BF%E6%80%A7%E4%BE%B5%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%AF%8F%E6%9C%88%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%E8%B4%B94000%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "河南学校火灾致13人遇难 25人被处分",
@@ -65,19 +76,6 @@
           "time_info": "[14时59分 ~ 15时41分]"
         },
         {
-          "title": "受贿超1.11亿，宁夏自治区政协原主席齐同生一审被判死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32187674",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时46分 ~ 17时00分]"
-        },
-        {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
           "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
           "source": "澎湃新闻",
@@ -90,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时46分 ~ 17时00分]"
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 17时52分]"
         },
         {
           "title": "亚运冠军称举报领导后不敢再呆在家",
@@ -102,11 +100,12 @@
             14,
             8,
             13,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时46分 ~ 17时00分]"
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 17时52分]"
         },
         {
           "title": "三明治没肉卖天价,宝妈狂遭吐槽",
@@ -117,7 +116,21 @@
             19,
             22,
             23,
-            27
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 17时52分]"
+        },
+        {
+          "title": "受贿超1.11亿，宁夏自治区政协原主席齐同生一审被判死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32187674",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -193,22 +206,24 @@
           "url": "https://www.toutiao.com/trending/7584241453237829651/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时00分]"
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 17时52分]"
         },
         {
           "title": "1.39亿!鞠婧祎天价收入惹众怒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348058&amp;topic_name=1.39%E4%BA%BF%21%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%A4%A9%E4%BB%B7%E6%94%B6%E5%85%A5%E6%83%B9%E4%BC%97%E6%80%92",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时00分]"
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 17时52分]"
         },
         {
           "title": "新加坡金管局第四季调查：经济学家预估，在1月的审议中货币政策将维持不变。经济学家预估2025年经济成长率为4.1%，高于第三季调查的2.4%；2026年经济成长率料为2.3%。",
@@ -254,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "女高管酒后遭性侵被认定工伤伤残十级",
+          "url": "https://www.toutiao.com/trending/7584424174145749046/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "欧盟欲将被冻结俄资产用于乌克兰，是否会削弱中国对欧投资环境信心？外交部回应",
@@ -328,7 +354,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -383,7 +409,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -394,7 +420,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         },
@@ -416,7 +442,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
         }
