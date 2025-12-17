@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T18:52:00.170007+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-12-17T19:35:30.648659+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "遭老板性侵女高管每月心理治疗费4000",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 14时59分]"
+        },
+        {
+          "title": "调查：经济学家大幅上调2025年新加坡经济增长预期至4.1%",
+          "url": "https://wallstreetcn.com/livenews/3022383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "河南学校火灾致13人遇难 25人被处分",
@@ -90,8 +101,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 18时52分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 19时35分]"
         },
         {
           "title": "网红柴犬佩奇中毒死亡",
@@ -115,11 +126,12 @@
             8,
             13,
             12,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 18时52分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 19时35分]"
         },
         {
           "title": "三明治没肉卖天价,宝妈狂遭吐槽",
@@ -135,8 +147,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 18时52分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 19时35分]"
         },
         {
           "title": "受贿超1.11亿，宁夏自治区政协原主席齐同生一审被判死缓",
@@ -254,6 +266,18 @@
           "time_info": "[16时59分 ~ 18时52分]"
         },
         {
+          "title": "河南披露方城英才学校重大火灾事故问责情况：南阳副市长等25人被处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32195150",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 19时35分]"
+        },
+        {
           "title": "新加坡金管局第四季调查：经济学家预估，在1月的审议中货币政策将维持不变。经济学家预估2025年经济成长率为4.1%，高于第三季调查的2.4%；2026年经济成长率料为2.3%。",
           "url": "https://wallstreetcn.com/livenews/3022119",
           "source": "华尔街见闻-快讯",
@@ -264,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 13时46分]"
-        },
-        {
-          "title": "河南披露方城英才学校重大火灾事故问责情况：南阳副市长等25人被处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32195150",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "国际乒联主席谈樊振东奥运资格问题",
@@ -297,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "济南一小区附近发生爆炸？当地回应",
+          "url": "https://www.toutiao.com/trending/7584772311241199142/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "欧盟欲将被冻结俄资产用于乌克兰，是否会削弱中国对欧投资环境信心？外交部回应",
@@ -354,6 +378,17 @@
           "time_info": "12时58分"
         },
         {
+          "title": "北京市住建、网信、公安联合约谈主要互联网平台 清理违规房地产信息1.7万余条",
+          "url": "https://wallstreetcn.com/livenews/3022372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "新加坡金管局调查：经济学家预测，新加坡2026年GDP增长率为2.3%，2026年核心通胀率为1.3%，2026年整体通胀率为1.5%。",
           "url": "https://flash.jin10.com/detail/20251217120100352800",
           "source": "金十数据",
@@ -387,13 +422,24 @@
           "time_info": "11时46分"
         },
         {
+          "title": "意大利总理梅洛尼：我们希望明确使用俄罗斯冻结资产可能带来的风险，包括与报复相关的风险。",
+          "url": "https://flash.jin10.com/detail/20251217185127401800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "大陆集团任命Christian Koetz为首席执行官，自2026年1月1日起生效。",
           "url": "https://wallstreetcn.com/livenews/3022327",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -407,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "意大利总理梅洛尼：俄罗斯理应率先为乌克兰冲突造成的损害买单，但欧盟就俄罗斯被冻结资产作出决定需要“坚实的法律依据”。",
+          "url": "https://flash.jin10.com/detail/20251217184502894800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "“老赖”有钱不还 法院判了",
@@ -440,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
+        },
+        {
+          "title": "意大利总理梅洛尼：在欧盟峰会上找到冻结俄罗斯资产的解决方案“远非易事”。",
+          "url": "https://flash.jin10.com/detail/20251217184239047800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：我们无力承受让他人世界观定义我们的后果。",
