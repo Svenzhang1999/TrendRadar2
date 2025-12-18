@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T18:50:10.738821+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-12-18T19:34:07.154101+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "欧委会密集对多家中企发起调查，中方强烈反对",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 18时50分]"
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 19时34分]"
         },
         {
           "title": "制造市场恐慌、虚假房源引流，抖音小红书等互联网平台被约谈",
@@ -26,11 +26,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时47分 ~ 18时50分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 19时34分]"
         },
         {
           "title": "欧洲理事会主席科斯塔：我们绝不会在没有做出最终决定以确保乌克兰财政需求的情况下离开本次会议。",
@@ -66,6 +67,42 @@
           "time_info": "12时58分"
         },
         {
+          "title": "国家文物局调查博物馆藏画拍卖事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E6%96%87%E7%89%A9%E5%B1%80%E8%B0%83%E6%9F%A5%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F%E7%94%BB%E6%8B%8D%E5%8D%96%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 19时34分]"
+        },
+        {
+          "title": "国际航班外籍男子辱骂骚扰中国女生",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 19时34分]"
+        },
+        {
+          "title": "国家文物局调查“8800万藏品被拍卖”",
+          "url": "https://www.toutiao.com/trending/7585130153018134054/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 19时34分]"
+        },
+        {
           "title": "国际航班外籍男子辱骂骚扰中国女生",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -75,8 +112,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 18时50分]"
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 19时34分]"
         },
         {
           "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
@@ -87,11 +124,12 @@
             11,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时47分 ~ 18时50分]"
+          "appearance_count": 11,
+          "time_info": "[13时47分 ~ 19时34分]"
         },
         {
           "title": "抖音小红书贝壳等平台被约谈",
@@ -102,11 +140,39 @@
             14,
             13,
             21,
-            28
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时47分 ~ 19时34分]"
+        },
+        {
+          "title": "商务部发声！事关稀土出口、欧委会对多家中企发起调查",
+          "url": "https://www.cls.cn/detail/2233392",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时47分 ~ 17时52分]"
+          "time_info": "[16时58分 ~ 19时34分]"
+        },
+        {
+          "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32202914",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 19时34分]"
         },
         {
           "title": "河南披露方城英才学校重大火灾事故问责情况：南阳副市长等25人被处理",
@@ -123,30 +189,17 @@
           "time_info": "[11时47分 ~ 15时40分]"
         },
         {
-          "title": "商务部发声！事关稀土出口、欧委会对多家中企发起调查",
-          "url": "https://www.cls.cn/detail/2233392",
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
           "source": "财联社热门",
           "ranks": [
+            11,
             12,
-            8,
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 18时50分]"
-        },
-        {
-          "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32202914",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 18时50分]"
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 19时34分]"
         },
         {
           "title": "商务部回应欧委会密集调查中国企业",
@@ -160,16 +213,28 @@
           "time_info": "[16时58分 ~ 18时50分]"
         },
         {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
+          "title": "韩国特检组发布最终调查结果，对尹锡悦等 24 人提起诉讼，有哪些信息值得关注？后续可能如何发展？",
+          "url": "https://www.zhihu.com/question/1983834269160792378",
+          "source": "知乎",
           "ranks": [
-            11,
-            12
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时51分 ~ 18时50分]"
+          "time_info": "[18时49分 ~ 19时34分]"
+        },
+        {
+          "title": "遭性侵女高管回应开价2000万和解",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%80%A7%E4%BE%B5%E5%A5%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E5%BC%80%E4%BB%B72000%E4%B8%87%E5%92%8C%E8%A7%A3%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 19时34分]"
         },
         {
           "title": "江苏文旅厅调查南博藏品现身拍卖",
@@ -196,48 +261,26 @@
           "time_info": "[11时47分 ~ 17时52分]"
         },
         {
-          "title": "韩国特检组发布最终调查结果，对尹锡悦等 24 人提起诉讼，有哪些信息值得关注？后续可能如何发展？",
-          "url": "https://www.zhihu.com/question/1983834269160792378",
-          "source": "知乎",
+          "title": "国家文物局调查“8800万名画被拍卖”",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E6%96%87%E7%89%A9%E5%B1%80%E8%B0%83%E6%9F%A5%E2%80%9C8800%E4%B8%87%E5%90%8D%E7%94%BB%E8%A2%AB%E6%8B%8D%E5%8D%96%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
-          "title": "遭性侵女高管回应开价2000万和解",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%80%A7%E4%BE%B5%E5%A5%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E5%BC%80%E4%BB%B72000%E4%B8%87%E5%92%8C%E8%A7%A3%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "江苏文旅厅专班调查南博古画流入拍卖市场；捐赠者后人要求归还流失画作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203529",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
-        },
-        {
-          "title": "国家文物局调查博物馆藏画拍卖事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E6%96%87%E7%89%A9%E5%B1%80%E8%B0%83%E6%9F%A5%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F%E7%94%BB%E6%8B%8D%E5%8D%96%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
-        },
-        {
-          "title": "国家文物局调查“8800万藏品被拍卖”",
-          "url": "https://www.toutiao.com/trending/7585130153018134054/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "坠楼女教师被父母以死相逼催婚7年",
@@ -249,17 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时59分 ~ 15时01分]"
-        },
-        {
-          "title": "国际航班外籍男子辱骂骚扰中国女生",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
         },
         {
           "title": "据日经新闻：丰田汽车总裁佐藤将出任日本汽车游说团体的下一任主席。",
@@ -293,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "打击网络诈骗国际会议在曼谷召开，中国、缅甸等派出部级代表参会",
+          "url": "https://wallstreetcn.com/livenews/3023084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "丝芭董事长成被执行人",
