@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-12-18T15:40:38.805856+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2025-12-18T16:58:30.046303+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 14,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "欧委会密集对多家中企发起调查，中方强烈反对",
+          "url": "https://news.ifeng.com/c/8pBZsIvrxn6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "欧洲理事会主席科斯塔：我们绝不会在没有做出最终决定以确保乌克兰财政需求的情况下离开本次会议。",
+          "url": "https://flash.jin10.com/detail/20251218163716115800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
         {
           "title": "【工信部电子信息司司长杨旭东：将对光伏行业进一步加强产能调控】工信部电子信息司司长杨旭东表示，2026年，光伏行业治理进入攻坚期，将进一步加强产能调控，强化光伏制造项目管理，以市场化、法治化的手段推动落后产能有序退出，加快实现产能的动态平衡。在当天召开的2025光伏行业年度大会上，工信部电子信息司司长杨旭东表示，2026年，工业和信息化部电子信息司将会同各有关部门重点做好多项工作，包括健全价格监测机制，重点关注价格异常企业，加强产品质量监督和抽查，对于存在质量不达标、功率虚标、侵犯知识产权等行为的企业，加强监测与跟踪处置。与此同时，强化创新驱动；进一步完善标准体系，加快发布光伏组件质量安全、多晶硅能耗限额等强制性国家标准的制修订和贯彻执行；敦促行业进一步加强自律；进一步推动深化国际合作等。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3022846",
@@ -28,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 16时58分]"
         },
         {
           "title": "河南披露方城英才学校重大火灾事故问责情况：南阳副市长等25人被处理",
@@ -46,6 +68,20 @@
           "time_info": "[11时47分 ~ 15时40分]"
         },
         {
+          "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 16时58分]"
+        },
+        {
           "title": "抖音小红书贝壳等平台被约谈",
           "url": "https://www.baidu.com/s?wd=%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%9D%E5%A3%B3%E7%AD%89%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BA%A6%E8%B0%88",
           "source": "百度热搜",
@@ -58,19 +94,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时47分 ~ 15时01分]"
-        },
-        {
-          "title": "青岛市人大常委会原主任王文华接受中央纪委国家监委审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32201786",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 15时40分]"
         },
         {
           "title": "江苏文旅厅调查南博藏品现身拍卖",
@@ -102,7 +125,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -129,15 +152,59 @@
           "time_info": "15时01分"
         },
         {
+          "title": "商务部发声！事关稀土出口、欧委会对多家中企发起调查",
+          "url": "https://www.cls.cn/detail/2233392",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "丝芭董事长成被执行人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E8%91%A3%E4%BA%8B%E9%95%BF%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "芬兰总理：我们别无选择，只能动用被冻结的俄罗斯资产为乌克兰赔偿贷款提供资金。",
+          "url": "https://flash.jin10.com/detail/20251218162359143800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "商务部：强烈反对欧委会密集对多家中国企业发起调查",
           "url": "https://wallstreetcn.com/livenews/3022939",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "国际航班外籍男子辱骂骚扰中国女生",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%88%AA%E7%8F%AD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "如何让领导知道你干了很多工作？",
@@ -151,6 +218,17 @@
           "time_info": "11时47分"
         },
         {
+          "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32202914",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "山东省青岛市人大常委会原党组书记、主任王文华接受审查调查。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3022790",
           "source": "华尔街见闻-快讯",
@@ -162,6 +240,28 @@
           "time_info": "11时47分"
         },
         {
+          "title": "比利时首相重申反对欧盟使用俄被冻结资产",
+          "url": "https://wallstreetcn.com/livenews/3022970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "商务部回应欧委会密集调查中国企业",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E6%AC%A7%E5%A7%94%E4%BC%9A%E5%AF%86%E9%9B%86%E8%B0%83%E6%9F%A5%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "邮储银行为何突遭调查",
           "url": "https://www.toutiao.com/trending/7584837563848855103/",
           "source": "今日头条",
@@ -171,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "瑞典首相：在我们看来，解决方案是动用被冻结的俄罗斯资产。",
+          "url": "https://flash.jin10.com/detail/20251218161232949800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     }
