@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T12:58:55.614670+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2025-12-19T13:45:23.304851+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "46岁国盾量子董事长吕品办公室内去世，合肥警方通报：经勘查调查，已排除案件",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "“北溪”爆炸案一嫌犯身份曝光：案发时为乌军现役士兵",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "中戏落马院长曾是章子怡等人老师",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%88%8F%E8%90%BD%E9%A9%AC%E9%99%A2%E9%95%BF%E6%9B%BE%E6%98%AF%E7%AB%A0%E5%AD%90%E6%80%A1%E7%AD%89%E4%BA%BA%E8%80%81%E5%B8%88",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "法国麻醉师“投毒”致死12名患者，被判终身监禁",
@@ -49,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "江苏文旅厅专班调查南博古画流入拍卖市场；捐赠者后人要求归还流失画作",
@@ -73,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "美联储主席最热人选哈塞特：CPI报告好得令人震惊，美联储有很大空间可以降息",
@@ -85,8 +86,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
+        },
+        {
+          "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203221",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "中戏落马院长曾是章子怡袁泉老师",
@@ -94,11 +107,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "为什么领导频繁批评你，但你辞职他却挽留？",
@@ -106,22 +120,24 @@
           "source": "知乎",
           "ranks": [
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
-          "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32203221",
+          "title": "影子调查｜一起家校矛盾，冲突到“裂开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137723",
           "source": "澎湃新闻",
           "ranks": [
+            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "“北溪”爆炸案一嫌犯身份曝光：案发时为乌军现役士兵",
@@ -132,19 +148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
-        },
-        {
-          "title": "影子调查｜一起家校矛盾，冲突到“裂开”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137723",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "中央戏剧学院党委副书记、院长郝戎主动投案，正接受审查调查",
@@ -152,11 +157,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "汕头自建房火灾始末",
@@ -167,8 +173,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时45分]"
         },
         {
           "title": "女子承认猥亵丈夫12岁侄子",
@@ -177,9 +183,20 @@
           "ranks": [
             12
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 13时45分]"
+        },
+        {
+          "title": "据菲律宾火山地震研究所消息，12月19日12时02分左右，菲律宾南苏里高省东部海域发生5.4级地震，震源深度10公里。",
+          "url": "https://flash.jin10.com/detail/20251219123915269800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "13时45分"
         },
         {
           "title": "杀子案派出所未出警被立案审查",
@@ -188,9 +205,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "女子承认猥亵丈夫12岁侄子",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%BF%E8%AE%A4%E7%8C%A5%E4%BA%B5%E4%B8%88%E5%A4%AB12%E5%B2%81%E4%BE%84%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "救援队2分钟救回被异物卡住窒息幼童",
+          "url": "https://www.toutiao.com/trending/7584256530095505451/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "疑韩国男子骚扰越南女乘客被拖下机",
@@ -213,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "日本地震风险评估：最高可致1.8万死",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E9%A3%8E%E9%99%A9%E8%AF%84%E4%BC%B0%EF%BC%9A%E6%9C%80%E9%AB%98%E5%8F%AF%E8%87%B41.8%E4%B8%87%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     }
