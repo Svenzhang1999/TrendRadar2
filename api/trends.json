@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T18:47:58.308031+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-19T19:33:22.731489+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "46岁国盾量子董事长吕品办公室内去世，合肥警方通报：经勘查调查，已排除案件",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 18时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时50分 ~ 19时33分]"
         },
         {
           "title": "“北溪”爆炸案一嫌犯身份曝光：案发时为乌军现役士兵",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 18时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时50分 ~ 19时33分]"
         },
         {
           "title": "日本央行行长植田和男：关注日元疲软对价格走势的影响。 我们是按照日本政府和日本央行的联合协议来执行政策的。 目前处于这些努力的最后阶段。 判断中性利率的数据越多越好。",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 18时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时50分 ~ 19时33分]"
         },
         {
           "title": "江苏文旅厅专班调查南博古画流入拍卖市场；捐赠者后人要求归还流失画作",
@@ -116,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 18时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时50分 ~ 19时33分]"
         },
         {
           "title": "中央戏剧学院党委副书记、院长郝戎主动投案，正接受审查调查",
@@ -130,11 +130,12 @@
             13,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 18时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时50分 ~ 19时33分]"
         },
         {
           "title": "印度女演员活动中被多人包围猥亵",
@@ -143,11 +144,12 @@
           "ranks": [
             12,
             1,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时57分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[16时57分 ~ 19时33分]"
         },
         {
           "title": "汕头自建房火灾始末",
@@ -191,6 +193,21 @@
           "time_info": "[11时50分 ~ 16时57分]"
         },
         {
+          "title": "河南方城英才学校致13死4伤火灾三名责任人今日受审，涉嫌教育设施重大安全事故罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209739",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 19时33分]"
+        },
+        {
           "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
           "url": "https://m.thepaper.cn/newsDetail_forward_32203221",
           "source": "澎湃新闻",
@@ -201,20 +218,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时50分 ~ 14时59分]"
-        },
-        {
-          "title": "河南方城英才学校致13死4伤火灾三名责任人今日受审，涉嫌教育设施重大安全事故罪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209739",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时47分]"
         },
         {
           "title": "日本地震风险评估：最高可致1.8万死",
@@ -238,6 +241,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时58分 ~ 14时59分]"
+        },
+        {
+          "title": "印度女演员活动中被多人包围猥亵",
+          "url": "https://www.toutiao.com/trending/7585095425422737462/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时57分 ~ 19时33分]"
         },
         {
           "title": "江苏省文旅厅工作人员回应南博藏品现身拍卖：文旅厅牵头成立专班调查",
@@ -265,15 +280,17 @@
           "time_info": "[11时50分 ~ 13时45分]"
         },
         {
-          "title": "印度女演员活动中被多人包围猥亵",
-          "url": "https://www.toutiao.com/trending/7585095425422737462/",
-          "source": "今日头条",
+          "title": "诸城一单位司机收钱“办社保”诈骗案判决：拒不交代赃款去向，判刑十四年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32210496",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            20,
+            17,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时57分 ~ 18时47分]"
+          "time_info": "[17时45分 ~ 19时33分]"
         },
         {
           "title": "救援队2分钟救回被异物卡住窒息幼童",
@@ -311,16 +328,39 @@
           "time_info": "[16时57分 ~ 17时45分]"
         },
         {
-          "title": "诸城一单位司机收钱“办社保”诈骗案判决：拒不交代赃款去向，判刑十四年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32210496",
-          "source": "澎湃新闻",
+          "title": "印度女演员活动中被多人包围猥亵",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%BC%94%E5%91%98%E6%B4%BB%E5%8A%A8%E4%B8%AD%E8%A2%AB%E5%A4%9A%E4%BA%BA%E5%8C%85%E5%9B%B4%E7%8C%A5%E4%BA%B5",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            17
+            16,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时47分]"
+          "time_info": "[18时47分 ~ 19时33分]"
+        },
+        {
+          "title": "释新闻丨欧盟搁置使用俄罗斯被冻结资产援乌，暴露欧洲深层次分裂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203337",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时33分]"
+        },
+        {
+          "title": "网民散布山西忻州地震谣言被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E6%95%A3%E5%B8%83%E5%B1%B1%E8%A5%BF%E5%BF%BB%E5%B7%9E%E5%9C%B0%E9%9C%87%E8%B0%A3%E8%A8%80%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "日本经济财政大臣城内实：尊重日本央行决定，但需留意经济前景。 预计日本央行将执行适当货币政策以持续且稳定地达成物价目标，并与政府密切合作。 对于日本央行而言，重要的是进行密切沟通以传达其想法。 最为重要的是执行适当货币政策并同时达成强劲的经济增长及通胀稳定上升。 不就日本央行行长植田和男记者会谈话内容置评。 政府在关注数据的同时也将密切检视金融市场情势。 需要注意的是，对中性利率看法存在分歧。 目前内阁官房不打算计算中性利率。 货币政策的具体细节由日本央行决定。",
@@ -334,15 +374,15 @@
           "time_info": "16时57分"
         },
         {
-          "title": "印度女演员活动中被多人包围猥亵",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E6%BC%94%E5%91%98%E6%B4%BB%E5%8A%A8%E4%B8%AD%E8%A2%AB%E5%A4%9A%E4%BA%BA%E5%8C%85%E5%9B%B4%E7%8C%A5%E4%BA%B5",
-          "source": "百度热搜",
+          "title": "26岁孙子要不到钱当街殴打失智奶奶",
+          "url": "https://www.toutiao.com/trending/7585153212908584979/",
+          "source": "今日头条",
           "ranks": [
-            16
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "19时33分"
         },
         {
           "title": "据菲律宾火山地震研究所消息，12月19日12时02分左右，菲律宾南苏里高省东部海域发生5.4级地震，震源深度10公里。",
@@ -356,6 +396,28 @@
           "time_info": "13时45分"
         },
         {
+          "title": "卓然股份：因涉嫌信息披露违法违规等事项，中国证监会决定对公司及实际控制人张锦红立案。",
+          "url": "https://wallstreetcn.com/livenews/3023903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "男子以监督学习为由隔空猥亵女孩获刑",
+          "url": "https://www.toutiao.com/trending/7585430327296786486/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "杀子案派出所未出警被立案审查",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AD%90%E6%A1%88%E6%B4%BE%E5%87%BA%E6%89%80%E6%9C%AA%E5%87%BA%E8%AD%A6%E8%A2%AB%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -365,17 +427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
-        },
-        {
-          "title": "释新闻丨欧盟搁置使用俄罗斯被冻结资产援乌，暴露欧洲深层次分裂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32203337",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         },
         {
           "title": "日本经济财政大臣城内实：极为重要的是执行适当货币政策以同时达成强劲经济增长及通胀稳定上升。",
@@ -395,7 +446,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
