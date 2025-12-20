@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T17:34:29.314841+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2025-12-20T18:41:15.705520+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 18时41分]"
         },
         {
           "title": "盲道撞人神判决!盲人反倒担主责",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348153&amp;topic_name=%E7%9B%B2%E9%81%93%E6%92%9E%E4%BA%BA%E7%A5%9E%E5%88%A4%E5%86%B3%21%E7%9B%B2%E4%BA%BA%E5%8F%8D%E5%80%92%E6%8B%85%E4%B8%BB%E8%B4%A3",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 18时41分]"
         },
         {
           "title": "美司法部公布爱泼斯坦案调查文件，隐去上千名受害者及家属信息",
@@ -54,28 +55,17 @@
           "time_info": "[11时41分 ~ 13时41分]"
         },
         {
-          "title": "巴黎法院驳回法国政府要求希音暂停运营三个月诉求",
-          "url": "https://wallstreetcn.com/livenews/3024253",
-          "source": "华尔街见闻-快讯",
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时34分]"
-        },
-        {
-          "title": "船运调查机构ITS数据显示，马来西亚12月1-20日棕榈油出口量为851,057吨，较上月同期增加2.4%。",
-          "url": "https://flash.jin10.com/detail/20251220151229183800",
-          "source": "金十数据",
-          "ranks": [
-            4,
+            9,
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 18时41分]"
         },
         {
           "title": "印尼苏门答腊岛洪灾和山体滑坡已致1071人死亡",
@@ -92,17 +82,53 @@
           "time_info": "[12时48分 ~ 16时48分]"
         },
         {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
+          "title": "巴黎法院驳回法国政府要求希音暂停运营三个月诉求",
+          "url": "https://wallstreetcn.com/livenews/3024253",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
+            1,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时41分]"
+        },
+        {
+          "title": "船运调查机构ITS数据显示，马来西亚12月1-20日棕榈油出口量为851,057吨，较上月同期增加2.4%。",
+          "url": "https://flash.jin10.com/detail/20251220151229183800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时48分 ~ 18时41分]"
+        },
+        {
+          "title": "日本一列车与汽车发生碰撞，汽车起火",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时41分 ~ 17时34分]"
+          "time_info": "[13时41分 ~ 18时41分]"
+        },
+        {
+          "title": "纽约联储主席威廉姆斯：没有进一步降息的紧迫性，数据存在一定失真",
+          "url": "https://wallstreetcn.com/articles/3761737",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 18时41分]"
         },
         {
           "title": "尹锡悦首次出席“金建希特检组”传唤调查",
@@ -116,27 +142,18 @@
           "time_info": "[11时41分 ~ 17时34分]"
         },
         {
-          "title": "日本一列车与汽车发生碰撞，汽车起火",
-          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
-          "source": "凤凰网",
+          "title": "母女在黄河岸边失联至今已超40天",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E5%9C%A8%E9%BB%84%E6%B2%B3%E5%B2%B8%E8%BE%B9%E5%A4%B1%E8%81%94%E8%87%B3%E4%BB%8A%E5%B7%B2%E8%B6%8540%E5%A4%A9",
+          "source": "百度热搜",
           "ranks": [
-            8
+            26,
+            19,
+            18,
+            21
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时41分 ~ 17时34分]"
-        },
-        {
-          "title": "纽约联储主席威廉姆斯：没有进一步降息的紧迫性，数据存在一定失真",
-          "url": "https://wallstreetcn.com/articles/3761737",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 17时34分]"
+          "time_info": "[15时32分 ~ 18时41分]"
         },
         {
           "title": "释新闻丨欧盟搁置使用俄罗斯被冻结资产援乌，暴露欧洲深层次分裂",
@@ -154,6 +171,17 @@
           "time_info": "[11时41分 ~ 15时32分]"
         },
         {
+          "title": "香港火灾遇难者增至161人，一具遗体中检测出夫妇二人的DNA",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcLX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 18时41分]"
+        },
+        {
           "title": "山东潍坊突发5.2级地震？假的",
           "url": "https://www.toutiao.com/trending/7585518860042747945/",
           "source": "今日头条",
@@ -165,17 +193,27 @@
           "time_info": "[11时41分 ~ 15时32分]"
         },
         {
-          "title": "母女在黄河岸边失联至今已超40天",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E5%A5%B3%E5%9C%A8%E9%BB%84%E6%B2%B3%E5%B2%B8%E8%BE%B9%E5%A4%B1%E8%81%94%E8%87%B3%E4%BB%8A%E5%B7%B2%E8%B6%8540%E5%A4%A9",
-          "source": "百度热搜",
+          "title": "韩国男子飞机上多次骚扰女乘客，被拖下飞机后跪地哭嚎",
+          "url": "https://v.ifeng.com/c/8pEchCSIhUq",
+          "source": "凤凰网",
           "ranks": [
-            26,
-            19,
-            18
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 17时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 18时41分]"
+        },
+        {
+          "title": "“成都女子家门口遇害案”一审判处被告人死刑，缓期二年执行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219674",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 18时41分]"
         },
         {
           "title": "香港火灾遇难者人数增至161人，一具遗体中检测出夫妇二人的DNA",
@@ -189,38 +227,15 @@
           "time_info": "[13时41分 ~ 15时32分]"
         },
         {
-          "title": "香港火灾遇难者增至161人，一具遗体中检测出夫妇二人的DNA",
-          "url": "https://news.ifeng.com/c/8pEfXfFWcLX",
-          "source": "凤凰网",
+          "title": "台北砍人案一伤者感染艾滋病",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E5%8C%97%E7%A0%8D%E4%BA%BA%E6%A1%88%E4%B8%80%E4%BC%A4%E8%80%85%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B%E7%97%85",
+          "source": "百度热搜",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 17时34分]"
-        },
-        {
-          "title": "韩国男子飞机上多次骚扰女乘客，被拖下飞机后跪地哭嚎",
-          "url": "https://v.ifeng.com/c/8pEchCSIhUq",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 17时34分]"
-        },
-        {
-          "title": "“成都女子家门口遇害案”一审判处被告人死刑，缓期二年执行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219674",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
             17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时47分 ~ 17时34分]"
+          "time_info": "[17时34分 ~ 18时41分]"
         },
         {
           "title": "香港火灾遇难者人数增至161人",
@@ -233,6 +248,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时32分 ~ 16时48分]"
+        },
+        {
+          "title": "“拥核论”再次引发日本政坛地震",
+          "url": "https://www.toutiao.com/trending/7585849162483109395/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时41分]"
         },
         {
           "title": "「成都女子家门口被害案」宣判，凶手被判死缓，缓期二年执行，怎样从法律角度解读？",
@@ -302,17 +329,6 @@
           "time_info": "13时41分"
         },
         {
-          "title": "台北砍人案一伤者感染艾滋病",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E5%8C%97%E7%A0%8D%E4%BA%BA%E6%A1%88%E4%B8%80%E4%BC%A4%E8%80%85%E6%84%9F%E6%9F%93%E8%89%BE%E6%BB%8B%E7%97%85",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
           "title": "台北车站攻击事件已致 4 死 5 伤，27 岁行凶者系逃兵通缉犯，从 6 楼坠楼身亡，目前情况如何？",
           "url": "https://www.zhihu.com/question/1985433357757146170",
           "source": "知乎",
@@ -341,18 +357,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "“拥核论”再次引发日本政坛地震",
-          "url": "https://www.toutiao.com/trending/7585849162483109395/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
