@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T12:48:52.301894+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-12-20T13:41:33.168637+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "河南方城县“英才学校13死4伤火灾案”一审宣判，学校创办人获刑7年",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时41分]"
         },
         {
           "title": "盲道撞人神判决!盲人反倒担主责",
@@ -26,19 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时48分]"
-        },
-        {
-          "title": "诸城一单位司机收钱“办社保”诈骗案判决：拒不交代赃款去向，判刑十四年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32210496",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时41分]"
         },
         {
           "title": "美司法部公布爱泼斯坦案调查文件，隐去上千名受害者及家属信息",
@@ -48,19 +37,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时41分]"
+        },
+        {
+          "title": "诸城一单位司机收钱“办社保”诈骗案判决：拒不交代赃款去向，判刑十四年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32210496",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时41分]"
         },
         {
           "title": "印尼苏门答腊岛洪灾和山体滑坡已致1071人死亡",
           "url": "https://wallstreetcn.com/livenews/3024233",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 13时41分]"
         },
         {
           "title": "释新闻丨欧盟搁置使用俄罗斯被冻结资产援乌，暴露欧洲深层次分裂",
@@ -68,11 +70,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时41分]"
         },
         {
           "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
@@ -83,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时41分]"
         },
         {
           "title": "尹锡悦首次出席“金建希特检组”传唤调查",
@@ -94,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时41分]"
         },
         {
           "title": "山东潍坊突发5.2级地震？假的",
@@ -105,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时41分]"
         },
         {
           "title": "北京同仁堂回应南极磷虾油问题：派工作组赴四川核查",
@@ -121,15 +124,59 @@
           "time_info": "[11时41分 ~ 12时48分]"
         },
         {
+          "title": "日本一列车与汽车发生碰撞，汽车起火",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "纽约联储主席威廉姆斯：没有进一步降息的紧迫性，数据存在一定失真",
+          "url": "https://wallstreetcn.com/articles/3761737",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "香港火灾遇难者人数增至161人，一具遗体中检测出夫妇二人的DNA",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcLX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "台北持刀砍人案件行凶者身份曝光",
           "url": "https://www.toutiao.com/trending/7585636211193298950/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "台北砍人案凶手系27岁逃兵通缉犯",
+          "url": "https://www.toutiao.com/trending/7585636211193298950/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "台北车站攻击事件已致 4 死 5 伤，27 岁行凶者系逃兵通缉犯，从 6 楼坠楼身亡，目前情况如何？",
