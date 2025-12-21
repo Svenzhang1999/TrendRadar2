@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T19:30:14.882920+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2025-12-21T21:21:50.849548+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "台北砍人案爆雷!伤者查出HIV",
@@ -13,11 +13,34 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 21时21分]"
+        },
+        {
+          "title": "印尼北马鲁古省附近海域发生5.6级地震",
+          "url": "https://flash.jin10.com/detail/20251221204526593800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "哈佛大学卖尸体,太平间成菜市场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348178&amp;topic_name=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%8D%96%E5%B0%B8%E4%BD%93%2C%E5%A4%AA%E5%B9%B3%E9%97%B4%E6%88%90%E8%8F%9C%E5%B8%82%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -32,20 +55,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 21时21分]"
         },
         {
-          "title": "日本横滨市疑发生工厂火灾",
-          "url": "https://wallstreetcn.com/livenews/3024423",
-          "source": "华尔街见闻-快讯",
+          "title": "江西省政协副主席尹建业被查，曾任省委常委、政法委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223916",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            7
+            14,
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时30分]"
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 21时21分]"
         },
         {
           "title": "毛主席纪念堂重要公告",
@@ -96,11 +120,25 @@
             15,
             16,
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时53分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时53分 ~ 21时21分]"
+        },
+        {
+          "title": "日本横滨市疑发生工厂火灾",
+          "url": "https://wallstreetcn.com/livenews/3024423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时21分]"
         },
         {
           "title": "江西省政协党组成员、副主席尹建业被查",
@@ -110,11 +148,12 @@
             3,
             9,
             16,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 19时30分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 21时21分]"
         },
         {
           "title": "为什么尸体动起来叫僵尸，尸体活过来叫丧尸？",
@@ -147,6 +186,30 @@
           "time_info": "[11时54分 ~ 17时35分]"
         },
         {
+          "title": "三亚警方通报一私人影院涉黄案：经营者被刑拘，3名员工被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223164",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 21时21分]"
+        },
+        {
+          "title": "江西省政协副主席尹建业被查",
+          "url": "https://www.douyin.com/hot/2343277",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 21时21分]"
+        },
+        {
           "title": "旧金山部分地区停电原因为变电站期起火",
           "url": "https://flash.jin10.com/detail/20251221095938992800",
           "source": "金十数据",
@@ -163,30 +226,6 @@
           "time_info": "[11时54分 ~ 16时49分]"
         },
         {
-          "title": "三亚警方通报一私人影院涉黄案：经营者被刑拘，3名员工被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223164",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 19时30分]"
-        },
-        {
-          "title": "江西省政协副主席尹建业被查",
-          "url": "https://www.douyin.com/hot/2343277",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 19时30分]"
-        },
-        {
           "title": "江西省政协副主席尹建业被查",
           "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%94%BF%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%B0%B9%E5%BB%BA%E4%B8%9A%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
@@ -198,6 +237,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时48分 ~ 19时30分]"
+        },
+        {
+          "title": "高铁女乘客劝小孩安静被打？警方调查",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%A5%B3%E4%B9%98%E5%AE%A2%E5%8A%9D%E5%B0%8F%E5%AD%A9%E5%AE%89%E9%9D%99%E8%A2%AB%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时48分 ~ 21时21分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -227,28 +279,29 @@
           "time_info": "[11时53分 ~ 14时56分]"
         },
         {
-          "title": "高铁女乘客劝小孩安静被打？警方调查",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%A5%B3%E4%B9%98%E5%AE%A2%E5%8A%9D%E5%B0%8F%E5%AD%A9%E5%AE%89%E9%9D%99%E8%A2%AB%E6%89%93%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时48分 ~ 19时30分]"
-        },
-        {
-          "title": "江西省政协副主席尹建业被查，曾任省委常委、政法委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223916",
+          "title": "“成都女子家门口遇害案”一审宣判，被告人及被害人家属均称不满死缓判决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223650",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            9
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时30分]"
+          "time_info": "[18时42分 ~ 21时21分]"
+        },
+        {
+          "title": "醉驾找人“摆平”被骗7万跳楼身亡",
+          "url": "https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E6%89%BE%E4%BA%BA%E2%80%9C%E6%91%86%E5%B9%B3%E2%80%9D%E8%A2%AB%E9%AA%977%E4%B8%87%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时21分]"
         },
         {
           "title": "曝美国外交系统“大地震”",
@@ -276,38 +329,71 @@
           "time_info": "[11时54分 ~ 13时42分]"
         },
         {
-          "title": "“成都女子家门口遇害案”一审宣判，被告人及被害人家属均称不满死缓判决",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223650",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时30分]"
-        },
-        {
-          "title": "醉驾找人“摆平”被骗7万跳楼身亡",
-          "url": "https://www.baidu.com/s?wd=%E9%86%89%E9%A9%BE%E6%89%BE%E4%BA%BA%E2%80%9C%E6%91%86%E5%B9%B3%E2%80%9D%E8%A2%AB%E9%AA%977%E4%B8%87%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时30分]"
-        },
-        {
           "title": "男子开车时射碎5辆车玻璃遭刑拘",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E6%97%B6%E5%B0%84%E7%A2%8E5%E8%BE%86%E8%BD%A6%E7%8E%BB%E7%92%83%E9%81%AD%E5%88%91%E6%8B%98",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时30分]"
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时21分]"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：对通胀保持警惕，倾向于在春季前将利率维持不变。",
+          "url": "https://wallstreetcn.com/livenews/3024431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "一中国女乘客在欧洲邮轮上失联",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%B9%98%E5%AE%A2%E5%9C%A8%E6%AC%A7%E6%B4%B2%E9%82%AE%E8%BD%AE%E4%B8%8A%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "郭德纲回应相声被投诉风波",
+          "url": "https://www.toutiao.com/trending/7585171783172046858/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "郭德纲首次公开回应相声被投诉",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E7%9B%B8%E5%A3%B0%E8%A2%AB%E6%8A%95%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "西安一私人影院涉黄 4经营者被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%80%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2%E6%B6%89%E9%BB%84+4%E7%BB%8F%E8%90%A5%E8%80%85%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     }
