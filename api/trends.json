@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T14:56:29.557286+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-12-21T15:33:28.702435+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时33分]"
         },
         {
           "title": "日本内阁府调查显示超七成受访者认为物价状况恶化",
@@ -25,9 +25,50 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时33分]"
+        },
+        {
+          "title": "盲道撞人神判决!盲人反倒担主责",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348153&amp;topic_name=%E7%9B%B2%E9%81%93%E6%92%9E%E4%BA%BA%E7%A5%9E%E5%88%A4%E5%86%B3%21%E7%9B%B2%E4%BA%BA%E5%8F%8D%E5%80%92%E6%8B%85%E4%B8%BB%E8%B4%A3",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 15时33分]"
+        },
+        {
+          "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/livenews/3024367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时33分]"
+        },
+        {
+          "title": "日本青森县附近海域发生5.5级地震",
+          "url": "https://flash.jin10.com/detail/20251221100051397800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12,
+            15,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "“成都女子家门口遇害案”一审判处被告人死刑，缓期二年执行",
@@ -43,46 +84,6 @@
           "time_info": "[11时53分 ~ 14时56分]"
         },
         {
-          "title": "盲道撞人神判决!盲人反倒担主责",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348153&amp;topic_name=%E7%9B%B2%E9%81%93%E6%92%9E%E4%BA%BA%E7%A5%9E%E5%88%A4%E5%86%B3%21%E7%9B%B2%E4%BA%BA%E5%8F%8D%E5%80%92%E6%8B%85%E4%B8%BB%E8%B4%A3",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 14时56分]"
-        },
-        {
-          "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/livenews/3024367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时56分]"
-        },
-        {
-          "title": "日本青森县附近海域发生5.5级地震",
-          "url": "https://flash.jin10.com/detail/20251221100051397800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时56分]"
-        },
-        {
           "title": "旧金山部分地区停电原因为变电站期起火",
           "url": "https://flash.jin10.com/detail/20251221095938992800",
           "source": "金十数据",
@@ -90,11 +91,12 @@
             9,
             13,
             16,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 15时33分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -106,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时33分]"
         },
         {
           "title": "曝美国外交系统“大地震”",
@@ -139,11 +141,12 @@
           "url": "https://www.zhihu.com/question/1973532745251714643",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 15时33分]"
         }
       ]
     }
