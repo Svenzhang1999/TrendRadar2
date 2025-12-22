@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T18:47:07.305169+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2025-12-22T19:32:23.083219+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "有消费者称华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 19时32分]"
         },
         {
           "title": "华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」合理吗？",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时58分 ~ 18时47分]"
+          "appearance_count": 13,
+          "time_info": "[11时58分 ~ 19时32分]"
         },
         {
           "title": "一次性信用修复政策打破“一朝失信，终生受限”困境 业内：惠及非恶意失信群体 非“征信洗白”",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 18时47分]"
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 19时32分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -114,11 +114,12 @@
             12,
             13,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时58分 ~ 18时47分]"
+          "appearance_count": 13,
+          "time_info": "[11时58分 ~ 19时32分]"
         },
         {
           "title": "台北砍人案爆雷!伤者查出HIV",
@@ -290,6 +291,17 @@
           "time_info": "15时43分"
         },
         {
+          "title": "李强主持召开国务院“十五五”规划《纲要草案》编制工作领导小组会议，丁薛祥出席。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3024922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "据美国财经媒体Semafor：美国白宫人工智能和加密货币顾问萨克斯和美国特使威特科夫可能因阿联酋交易面临道德调查。",
           "url": "https://flash.jin10.com/detail/20251222172447436800",
           "source": "金十数据",
@@ -301,6 +313,28 @@
           "time_info": "17时52分"
         },
         {
+          "title": "美国地质勘探局：巴布亚新几内亚戈罗卡东北偏北42公里处发生6.5级地震。",
+          "url": "https://flash.jin10.com/detail/20251222184740528800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "欧盟对捷克向杜科瓦尼两座新核电机组提供的政府补贴启动深入调查。",
+          "url": "https://flash.jin10.com/detail/20251222184532920800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "俄武装力量总参谋部作战训练局长在汽车炸弹爆炸中身亡",
           "url": "https://wallstreetcn.com/livenews/3024772",
           "source": "华尔街见闻-快讯",
@@ -310,6 +344,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "国家文物局介入调查南京博物院事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E6%96%87%E7%89%A9%E5%B1%80%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "德国地学研究中心：巴布亚新几内亚地区发生6.61级地震。",
+          "url": "https://flash.jin10.com/detail/20251222183740451800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "23岁硕士生徒步猝死事发地系封闭区域",
+          "url": "https://www.toutiao.com/trending/7585603646893706771/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "葡萄牙女主播解救遭印度男子骚扰女子",
+          "url": "https://www.toutiao.com/trending/7586229904062709766/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "俄军中将遭汽车炸弹爆炸身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E4%B8%AD%E5%B0%86%E9%81%AD%E6%B1%BD%E8%BD%A6%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "澳总理戴犹太小帽悼念遇难者遭抗议",
