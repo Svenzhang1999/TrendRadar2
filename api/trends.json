@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T13:02:13.784887+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-12-22T15:02:01.046563+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "游客租车遭遇 “做局式” 索赔后，大理五部门联合约谈辖区租车企业",
@@ -15,8 +15,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时02分]"
+        },
+        {
+          "title": "俄罗斯调查委员会称，丧生的将军负责监督俄罗斯武装部队的训练。",
+          "url": "https://flash.jin10.com/detail/20251222145430699800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "俄罗斯调查委员会称，一名将军在莫斯科的汽车爆炸中身亡。",
+          "url": "https://flash.jin10.com/detail/20251222145334036800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "江西省政协副主席尹建业被查，曾任省委常委、政法委书记",
@@ -26,8 +48,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时02分]"
         },
         {
           "title": "哈佛大学卖尸体,太平间成菜市场",
@@ -35,11 +70,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时02分]"
         },
         {
           "title": "“鸡精加热久了会致癌”系谣言",
@@ -49,20 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时02分]"
-        },
-        {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时02分]"
         },
         {
           "title": "“成都女子家门口遇害案”一审宣判，被告人及被害人家属均称不满死缓判决",
@@ -70,11 +94,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时02分]"
         },
         {
           "title": "台北砍人案爆雷!伤者查出HIV",
@@ -82,11 +107,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时02分]"
         },
         {
           "title": "女子欧洲乘邮轮失联 母亲发声",
@@ -94,11 +120,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时02分]"
         },
         {
           "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
@@ -108,8 +135,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 15时02分]"
         },
         {
           "title": "三亚警方通报一私人影院涉黄案：经营者被刑拘，3名员工被处罚",
@@ -123,6 +150,17 @@
           "time_info": "[11时58分 ~ 11时59分]"
         },
         {
+          "title": "星光大赏别虐待老人了",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%88%AB%E8%99%90%E5%BE%85%E8%80%81%E4%BA%BA%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
           "title": "美国“星链”一颗卫星或爆炸失联",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E4%B8%80%E9%A2%97%E5%8D%AB%E6%98%9F%E6%88%96%E7%88%86%E7%82%B8%E5%A4%B1%E8%81%94",
           "source": "百度热搜",
@@ -132,6 +170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "俄罗斯一名将军在莫斯科汽车爆炸中受伤。",
+          "url": "https://flash.jin10.com/detail/20251222145238700800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     }
