@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-23T13:50:27.047755+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2025-12-23T15:01:34.618849+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "部门例会上，领导狠狠的批评了你，会后领导让你去办公室，对你说，我刚才语气有点过分了，你该怎么回答?",
-          "url": "https://www.zhihu.com/question/820904380",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时50分]"
-        },
         {
           "title": "江苏省委省政府对南博开展全面调查",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E7%9C%81%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%8D%97%E5%8D%9A%E5%BC%80%E5%B1%95%E5%85%A8%E9%9D%A2%E8%B0%83%E6%9F%A5%23&t=31&band_rank=1&Refer=top",
@@ -25,20 +14,53 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
         {
-          "title": "江苏对南博文物管理问题开展调查",
-          "url": "https://www.toutiao.com/trending/7586913053422128681/",
+          "title": "江苏成立调查组彻查南博文物管理问题",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "江苏成立调查组彻查南博文物管理问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "江苏成立调查组彻查南博文物管理问题",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "成都23岁大学生失联9天后遗体被发现",
+          "url": "https://www.toutiao.com/trending/7586862525142237230/",
           "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "15时01分"
         },
         {
           "title": "在美国陪审团判决强生(JNJ.N)公司支付创纪录的15亿美元滑石粉致癌案赔偿金后，强生公司誓言将提起上诉。",
@@ -47,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -58,9 +80,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "部门例会上，领导狠狠的批评了你，会后领导让你去办公室，对你说，我刚才语气有点过分了，你该怎么回答?",
+          "url": "https://www.zhihu.com/question/820904380",
+          "source": "知乎",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 15时01分]"
+        },
+        {
+          "title": "江苏成立调查组彻查南博事件",
+          "url": "https://www.douyin.com/hot/2345120",
+          "source": "抖音",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时01分]"
+        },
+        {
+          "title": "江苏对南博文物管理问题开展调查",
+          "url": "https://www.toutiao.com/trending/7586913053422128681/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时01分]"
         },
         {
           "title": "黑龙江大通沟煤矿透水事故5名受困人员全部遇难",
@@ -81,11 +139,12 @@
           "ranks": [
             1,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 15时01分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -95,8 +154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 15时01分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -106,8 +165,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 15时01分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -117,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 15时01分]"
         },
         {
           "title": "国家文物局就南京博物院文物管理中的有关情况开展核查",
@@ -127,11 +186,12 @@
           "ranks": [
             15,
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 15时01分]"
         },
         {
           "title": "一份致癌的精子生下200个孩子",
@@ -142,8 +202,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 15时01分]"
+        },
+        {
+          "title": "黑龙江透水事故被困5人全部遇难",
+          "url": "https://www.douyin.com/hot/2345117",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时50分]"
+          "time_info": "[13时01分 ~ 15时01分]"
         },
         {
           "title": "用AI造谣中国女篮两男子被刑拘",
@@ -157,15 +228,27 @@
           "time_info": "[11时57分 ~ 13时01分]"
         },
         {
-          "title": "黑龙江透水事故被困5人全部遇难",
-          "url": "https://www.douyin.com/hot/2345117",
-          "source": "抖音",
+          "title": "“姐姐为亡弟追凶27年”案一审宣判：被告人被判处死刑，缓期二年执行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234980",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时50分]"
+          "time_info": "[13时50分 ~ 15时01分]"
+        },
+        {
+          "title": "爱泼斯坦狱中自杀曝光？美方速删视频",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%8B%B1%E4%B8%AD%E8%87%AA%E6%9D%80%E6%9B%9D%E5%85%89%EF%BC%9F%E7%BE%8E%E6%96%B9%E9%80%9F%E5%88%A0%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时01分]"
         },
         {
           "title": "江苏成立调查组彻查南博事件",
@@ -174,31 +257,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
         {
-          "title": "江苏成立调查组彻查南博事件",
-          "url": "https://www.douyin.com/hot/2345120",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "“姐姐为亡弟追凶27年”案一审宣判：被告人被判处死刑，缓期二年执行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234980",
+          "title": "江苏省委省政府成立调查组，对南京博物院文物管理问题开展全面调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32235586",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "15时01分"
         },
         {
           "title": "永不失联的HITFM",
@@ -207,7 +279,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -221,17 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
-        },
-        {
-          "title": "爱泼斯坦狱中自杀曝光？美方速删视频",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%8B%B1%E4%B8%AD%E8%87%AA%E6%9D%80%E6%9B%9D%E5%85%89%EF%BC%9F%E7%BE%8E%E6%96%B9%E9%80%9F%E5%88%A0%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "校园火灾班主任兼宿管被判刑六年",
