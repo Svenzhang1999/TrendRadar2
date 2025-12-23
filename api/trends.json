@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-23T11:57:51.910698+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T13:01:25.470382+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 领导 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "高铁乘客自曝提醒小孩太吵反被其家长打，警方已介入调查，真实情况如何？该如何界定家长行为？",
-          "url": "https://www.zhihu.com/question/1986070298194368095",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
         {
           "title": "部门例会上，领导狠狠的批评了你，会后领导让你去办公室，对你说，我刚才语气有点过分了，你该怎么回答?",
           "url": "https://www.zhihu.com/question/820904380",
@@ -26,8 +15,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时01分]"
+        },
+        {
+          "title": "黑龙江大通沟煤矿透水事故5名受困人员全部遇难",
+          "url": "https://wallstreetcn.com/livenews/3025363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "13时01分"
+        },
+        {
+          "title": "高铁乘客自曝提醒小孩太吵反被其家长打，警方已介入调查，真实情况如何？该如何界定家长行为？",
+          "url": "https://www.zhihu.com/question/1986070298194368095",
+          "source": "知乎",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时01分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -37,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时01分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -48,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时01分]"
         },
         {
           "title": "用AI造谣中国女篮两男子被刑拘",
@@ -59,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时01分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -70,30 +82,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时01分]"
         },
         {
           "title": "国家文物局就南京博物院文物管理中的有关情况开展核查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32234857",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时01分]"
         },
         {
           "title": "一份致癌的精子生下200个孩子",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%BB%BD%E8%87%B4%E7%99%8C%E7%9A%84%E7%B2%BE%E5%AD%90%E7%94%9F%E4%B8%8B200%E4%B8%AA%E5%AD%A9%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时01分]"
+        },
+        {
+          "title": "黑龙江透水事故被困5人全部遇难",
+          "url": "https://www.douyin.com/hot/2345117",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "13时01分"
         },
         {
           "title": "欧洲邮轮失联女子上船当天是生日",
@@ -105,6 +130,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "爱泼斯坦狱中自杀曝光？美方速删视频",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%8B%B1%E4%B8%AD%E8%87%AA%E6%9D%80%E6%9B%9D%E5%85%89%EF%BC%9F%E7%BE%8E%E6%96%B9%E9%80%9F%E5%88%A0%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "校园火灾班主任兼宿管被判刑六年",
+          "url": "https://s.weibo.com/weibo?q=%E6%A0%A1%E5%9B%AD%E7%81%AB%E7%81%BE%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%85%BC%E5%AE%BF%E7%AE%A1%E8%A2%AB%E5%88%A4%E5%88%91%E5%85%AD%E5%B9%B4&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "云南西双版纳深夜4.2级地震",
