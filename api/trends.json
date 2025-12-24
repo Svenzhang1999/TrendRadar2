@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T15:01:18.176229+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2025-12-24T15:43:03.624286+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "“宁波女婴术后离世”最新进展：医疗事故鉴定已启动，医疗诉讼进入司法程序",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时43分]"
         },
         {
           "title": "12月24日投资避雷针：8连板人气股提示 如股价进一步上涨将申请停牌核查",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时43分]"
         },
         {
           "title": "辟谣美国治理骚扰电话",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时00分 ~ 15时01分]"
+          "appearance_count": 4,
+          "time_info": "[15时00分 ~ 15时43分]"
         },
         {
           "title": "当地州长：乌克兰无人机袭击在俄罗斯图拉州一工业场地引发火灾。",
@@ -53,6 +53,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "据当地居民和地区官员称，俄罗斯图拉地区的一家合成橡胶厂于12月24日夜间遭袭并起火。",
+          "url": "https://flash.jin10.com/detail/20251224151548567800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "美银调查：基金经理几乎“满仓”跨年！现金水平降至3.3%历史新低",
           "url": "https://wallstreetcn.com/articles/3761907",
           "source": "华尔街见闻",
@@ -61,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时43分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -85,11 +96,12 @@
             5,
             6,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时43分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -100,8 +112,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时43分]"
         },
         {
           "title": "车辆落水致8人遇难，知情人：是7座SUV，主要负责接送孩子",
@@ -111,8 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时43分]"
         },
         {
           "title": "致癌精子生197个孩子部分已离世",
@@ -121,11 +133,12 @@
           "ranks": [
             11,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时43分]"
         },
         {
           "title": "老人从养老院回家遭儿子拒绝后跳楼",
@@ -137,8 +150,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 15时43分]"
+        },
+        {
+          "title": "自闭症儿子遇难父母靠工作麻痹自己",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E5%AD%90%E9%81%87%E9%9A%BE%E7%88%B6%E6%AF%8D%E9%9D%A0%E5%B7%A5%E4%BD%9C%E9%BA%BB%E7%97%B9%E8%87%AA%E5%B7%B1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 15时43分]"
         },
         {
           "title": "河南火灾班主任",
@@ -152,6 +178,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时00分 ~ 15时01分]"
+        },
+        {
+          "title": "为何判死缓？一审判决书详解成都27岁女子家门口遇害案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32238932",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 15时43分]"
         },
         {
           "title": "美联储主席热门人选哈西特：降息节奏仍不够快 且落后其他央行",
@@ -180,18 +218,6 @@
           "time_info": "[11时49分 ~ 13时50分]"
         },
         {
-          "title": "自闭症儿子遇难父母靠工作麻痹自己",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E5%AD%90%E9%81%87%E9%9A%BE%E7%88%B6%E6%AF%8D%E9%9D%A0%E5%B7%A5%E4%BD%9C%E9%BA%BB%E7%97%B9%E8%87%AA%E5%B7%B1%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 15时01分]"
-        },
-        {
           "title": "江苏省委省政府成立调查组，对南京博物院文物管理问题开展全面调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32235586",
           "source": "澎湃新闻",
@@ -213,17 +239,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时00分 ~ 13时50分]"
-        },
-        {
-          "title": "为何判死缓？一审判决书详解成都27岁女子家门口遇害案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32238932",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 15时01分]"
         },
         {
           "title": "美联储主席鲍威尔成为“最受欢迎的高级官员”",
@@ -250,6 +265,17 @@
           "time_info": "[13时01分 ~ 13时50分]"
         },
         {
+          "title": "杨天真被诈骗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%A2%AB%E8%AF%88%E9%AA%97%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
           "title": "你有过交友遇诈骗的经历吗",
           "url": "https://www.toutiao.com/trending/7587062883566141503/",
           "source": "今日头条",
@@ -259,6 +285,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
+          "title": "合肥卫健委通报新生儿住院治疗黄疸时死亡：涉事人员已停职接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243815",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "韩国特别检察官：起诉前总统尹锡悦非法获取民意调查。",
+          "url": "https://flash.jin10.com/detail/20251224151028084800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "2025年，英国七分之一的蓝筹公司更换了企业领导人，伦敦市值最高的10家上市公司中有3家与首席执行官分道扬镳。",
@@ -278,7 +326,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
