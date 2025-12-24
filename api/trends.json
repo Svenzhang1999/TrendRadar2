@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T19:33:19.773819+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-12-24T21:43:12.267429+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "“宁波女婴术后离世”最新进展：医疗事故鉴定已启动，医疗诉讼进入司法程序",
@@ -29,6 +29,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时49分 ~ 15时43分]"
+        },
+        {
+          "title": "强生爽身粉致癌案判赔女子约110亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%94%9F%E7%88%BD%E8%BA%AB%E7%B2%89%E8%87%B4%E7%99%8C%E6%A1%88%E5%88%A4%E8%B5%94%E5%A5%B3%E5%AD%90%E7%BA%A6110%E4%BA%BF%E5%85%83%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 21时43分]"
+        },
+        {
+          "title": "强生爽身粉致癌案判赔女子约110亿元",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%BA%E7%94%9F%E7%88%BD%E8%BA%AB%E7%B2%89%E8%87%B4%E7%99%8C%E6%A1%88%E5%88%A4%E8%B5%94%E5%A5%B3%E5%AD%90%E7%BA%A6110%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "台湾地震",
@@ -63,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
-        },
-        {
-          "title": "强生爽身粉致癌案判赔女子约110亿元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%94%9F%E7%88%BD%E8%BA%AB%E7%B2%89%E8%87%B4%E7%99%8C%E6%A1%88%E5%88%A4%E8%B5%94%E5%A5%B3%E5%AD%90%E7%BA%A6110%E4%BA%BF%E5%85%83%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
         },
         {
           "title": "据当地居民和地区官员称，俄罗斯图拉地区的一家合成橡胶厂于12月24日夜间遭袭并起火。",
@@ -136,11 +148,12 @@
             12,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时49分 ~ 19时33分]"
+          "appearance_count": 15,
+          "time_info": "[11时49分 ~ 21时43分]"
         },
         {
           "title": "台湾台东5.8级地震",
@@ -149,18 +162,6 @@
           "ranks": [
             2,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时33分]"
-        },
-        {
-          "title": "台湾台东县发生5.8级地震",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C%E5%8E%BF%E5%8F%91%E7%94%9F5.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -191,6 +192,19 @@
           "time_info": "[18时45分 ~ 19时33分]"
         },
         {
+          "title": "台湾台东县发生5.8级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C%E5%8E%BF%E5%8F%91%E7%94%9F5.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 21时43分]"
+        },
+        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -201,19 +215,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时49分 ~ 19时33分]"
-        },
-        {
-          "title": "车辆落水致8人遇难，知情人：是7座SUV，主要负责接送孩子",
-          "url": "https://news.ifeng.com/c/8pL9s0Lvh4H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时49分 ~ 17时44分]"
+          "appearance_count": 15,
+          "time_info": "[11时49分 ~ 21时43分]"
         },
         {
           "title": "为何判死缓？一审判决书详解成都27岁女子家门口遇害案",
@@ -227,8 +230,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时50分 ~ 19时33分]"
+          "appearance_count": 12,
+          "time_info": "[13时50分 ~ 21时43分]"
+        },
+        {
+          "title": "车辆落水致8人遇难，知情人：是7座SUV，主要负责接送孩子",
+          "url": "https://news.ifeng.com/c/8pL9s0Lvh4H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 17时44分]"
         },
         {
           "title": "胜通能源：如未来股票价格进一步上涨，可能向深交所申请停牌核查",
@@ -242,6 +256,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时44分 ~ 19时33分]"
+        },
+        {
+          "title": "合肥卫健委通报新生儿住院治疗黄疸时死亡：涉事人员已停职接受调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243815",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时42分 ~ 21时43分]"
         },
         {
           "title": "老人从养老院回家遭儿子拒绝后跳楼",
@@ -271,21 +300,6 @@
           "time_info": "[11时49分 ~ 15时43分]"
         },
         {
-          "title": "合肥卫健委通报新生儿住院治疗黄疸时死亡：涉事人员已停职接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243815",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时42分 ~ 19时33分]"
-        },
-        {
           "title": "杨天真被诈骗",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%A2%AB%E8%AF%88%E9%AA%97%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -297,6 +311,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时42分 ~ 19时33分]"
+        },
+        {
+          "title": "日本发放过期救济粮，要求领取者签免责书",
+          "url": "https://news.ifeng.com/c/8pLdALfAc5T",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 21时43分]"
         },
         {
           "title": "自闭症儿子遇难父母靠工作麻痹自己",
@@ -325,16 +351,28 @@
           "time_info": "[13时00分 ~ 15时01分]"
         },
         {
-          "title": "日本发放过期救济粮，要求领取者签免责书",
-          "url": "https://news.ifeng.com/c/8pLdALfAc5T",
-          "source": "凤凰网",
+          "title": "台湾台东县5.8级地震",
+          "url": "https://www.douyin.com/hot/2346506",
+          "source": "抖音",
           "ranks": [
-            9,
-            8
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时33分]"
+          "time_info": "[18时45分 ~ 21时43分]"
+        },
+        {
+          "title": "台湾5.8级地震 福州厦门等地有震感",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE5.8%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%B7%9E%E5%8E%A6%E9%97%A8%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 21时43分]"
         },
         {
           "title": "美联储主席热门人选哈西特：降息节奏仍不够快 且落后其他央行",
@@ -434,26 +472,15 @@
           "time_info": "[13时01分 ~ 13时50分]"
         },
         {
-          "title": "台湾5.8级地震 福州厦门等地有震感",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE5.8%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%B7%9E%E5%8E%A6%E9%97%A8%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F",
-          "source": "百度热搜",
+          "title": "河南火灾班主任儿子发文",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%81%AB%E7%81%BE%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%84%BF%E5%AD%90%E5%8F%91%E6%96%87%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时33分]"
-        },
-        {
-          "title": "台湾台东县5.8级地震",
-          "url": "https://www.douyin.com/hot/2346506",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时33分]"
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "你有过交友遇诈骗的经历吗",
@@ -507,9 +534,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：我们为此感到自豪。我们将予以保护。",
+          "url": "https://flash.jin10.com/detail/20251224212540020800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "【中国人民银行货币政策委员会召开2025年第四季度例会】会议研究了下阶段货币政策主要思路，建议发挥增量政策和存量政策集成效应，综合运用多种工具，加强货币政策调控，根据国内外经济金融形势和金融市场运行情况，把握好政策实施的力度、节奏和时机。保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配，促进社会综合融资成本低位运行。强化央行政策利率引导，完善市场化利率形成传导机制，发挥市场利率定价自律机制作用，加强利率政策执行和监督。从宏观审慎的角度观察、评估债市运行情况，关注长期收益率的变化。畅通货币政策传导机制，提高资金使用效率。增强外汇市场韧性，稳定市场预期，防范汇率超调风险，保持人民币汇率在合理均衡水平上的基本稳定。",
@@ -518,7 +556,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -540,9 +578,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：（谈美国签证禁令）言论自由是我们强大而充满活力的欧洲民主的基础。",
+          "url": "https://flash.jin10.com/detail/20251224212533881800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "美国汽车安全机构调查特斯拉Model 3紧急车门释放情况",
+          "url": "https://wallstreetcn.com/livenews/3026225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "以色列初步通过设立针对2023年10月7日事件调查委员会的法案。",
+          "url": "https://flash.jin10.com/detail/20251224212108922800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "法国总统马克龙：法国将继续与欧盟委员会和欧洲伙伴合作，捍卫我们的自主监管和数字主权。",
@@ -551,7 +622,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
