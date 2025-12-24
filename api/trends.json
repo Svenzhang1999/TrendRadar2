@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T18:45:26.407596+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2025-12-24T19:33:19.773819+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "“宁波女婴术后离世”最新进展：医疗事故鉴定已启动，医疗诉讼进入司法程序",
@@ -31,6 +31,18 @@
           "time_info": "[11时49分 ~ 15时43分]"
         },
         {
+          "title": "台湾地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
+        },
+        {
           "title": "当地州长：乌克兰无人机袭击在俄罗斯图拉州一工业场地引发火灾。",
           "url": "https://flash.jin10.com/detail/20251224122429920800",
           "source": "金十数据",
@@ -48,31 +60,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
         {
-          "title": "台湾地震",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
+          "title": "强生爽身粉致癌案判赔女子约110亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%94%9F%E7%88%BD%E8%BA%AB%E7%B2%89%E8%87%B4%E7%99%8C%E6%A1%88%E5%88%A4%E8%B5%94%E5%A5%B3%E5%AD%90%E7%BA%A6110%E4%BA%BF%E5%85%83%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "台湾台东5.8级地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C5.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时33分"
         },
         {
           "title": "据当地居民和地区官员称，俄罗斯图拉地区的一家合成橡胶厂于12月24日夜间遭袭并起火。",
@@ -84,39 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        },
-        {
-          "title": "台湾台东县发生5.8级地震",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C%E5%8E%BF%E5%8F%91%E7%94%9F5.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "中国地震台网正式测定：12月24日17时47分在台湾台东县（北纬22.86度，东经121.12度）发生5.8级地震，震源深度10千米。",
-          "url": "https://wallstreetcn.com/livenews/3026160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
-          "url": "https://wallstreetcn.com/livenews/3026156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "美银调查：基金经理几乎“满仓”跨年！现金水平降至3.3%历史新低",
@@ -144,23 +112,6 @@
           "time_info": "[15时00分 ~ 17时44分]"
         },
         {
-          "title": "同居≠性同意,小伙性侵女友入狱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348307&amp;topic_name=%E5%90%8C%E5%B1%85%E2%89%A0%E6%80%A7%E5%90%8C%E6%84%8F%2C%E5%B0%8F%E4%BC%99%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%8F%8B%E5%85%A5%E7%8B%B1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            8,
-            9,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时49分 ~ 18时45分]"
-        },
-        {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
           "url": "https://www.cls.cn/detail/2238272",
           "source": "财联社热门",
@@ -174,16 +125,70 @@
           "time_info": "[11时49分 ~ 15时01分]"
         },
         {
-          "title": "胜通能源：如未来股票价格进一步上涨，可能向深交所申请停牌核查",
-          "url": "https://wallstreetcn.com/livenews/3026147",
-          "source": "华尔街见闻-快讯",
+          "title": "同居≠性同意,小伙性侵女友入狱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348307&amp;topic_name=%E5%90%8C%E5%B1%85%E2%89%A0%E6%80%A7%E5%90%8C%E6%84%8F%2C%E5%B0%8F%E4%BC%99%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%8F%8B%E5%85%A5%E7%8B%B1",
+          "source": "贴吧",
           "ranks": [
-            1,
-            9
+            5,
+            6,
+            8,
+            9,
+            12,
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时49分 ~ 19时33分]"
+        },
+        {
+          "title": "台湾台东5.8级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C5.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时45分]"
+          "time_info": "[18时45分 ~ 19时33分]"
+        },
+        {
+          "title": "台湾台东县发生5.8级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C%E5%8E%BF%E5%8F%91%E7%94%9F5.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
+        },
+        {
+          "title": "中国地震台网正式测定：12月24日17时47分在台湾台东县（北纬22.86度，东经121.12度）发生5.8级地震，震源深度10千米。",
+          "url": "https://wallstreetcn.com/livenews/3026160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
+        },
+        {
+          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
+          "url": "https://wallstreetcn.com/livenews/3026156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -196,8 +201,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时49分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时49分 ~ 19时33分]"
         },
         {
           "title": "车辆落水致8人遇难，知情人：是7座SUV，主要负责接送孩子",
@@ -218,11 +223,25 @@
             19,
             15,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时50分 ~ 18时45分]"
+          "appearance_count": 10,
+          "time_info": "[13时50分 ~ 19时33分]"
+        },
+        {
+          "title": "胜通能源：如未来股票价格进一步上涨，可能向深交所申请停牌核查",
+          "url": "https://wallstreetcn.com/livenews/3026147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时33分]"
         },
         {
           "title": "老人从养老院回家遭儿子拒绝后跳楼",
@@ -259,11 +278,12 @@
             19,
             14,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 19时33分]"
         },
         {
           "title": "杨天真被诈骗",
@@ -275,8 +295,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 19时33分]"
         },
         {
           "title": "自闭症儿子遇难父母靠工作麻痹自己",
@@ -305,6 +325,18 @@
           "time_info": "[13时00分 ~ 15时01分]"
         },
         {
+          "title": "日本发放过期救济粮，要求领取者签免责书",
+          "url": "https://news.ifeng.com/c/8pLdALfAc5T",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 19时33分]"
+        },
+        {
           "title": "美联储主席热门人选哈西特：降息节奏仍不够快 且落后其他央行",
           "url": "https://www.cls.cn/detail/2238234",
           "source": "财联社热门",
@@ -329,18 +361,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时49分 ~ 13时50分]"
-        },
-        {
-          "title": "日本发放过期救济粮，要求领取者签免责书",
-          "url": "https://news.ifeng.com/c/8pLdALfAc5T",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 18时45分]"
         },
         {
           "title": "江苏省委省政府成立调查组，对南京博物院文物管理问题开展全面调查",
@@ -378,6 +398,30 @@
           "time_info": "[13时50分 ~ 15时01分]"
         },
         {
+          "title": "市场监管总局等部门：督促网络交易平台建立产品质量管理制度 及时排查价格明显低于合理区间产品",
+          "url": "https://wallstreetcn.com/livenews/3026149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
+        },
+        {
+          "title": "市场监管总局等部门：积极推动工业产品相关行政许可、强制性产品认证等公共数据开放",
+          "url": "https://wallstreetcn.com/livenews/3026148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
+        },
+        {
           "title": "2025年至今中国共完成87次航天发射，民企执行23次",
           "url": "https://wallstreetcn.com/livenews/3025987",
           "source": "华尔街见闻-快讯",
@@ -390,6 +434,28 @@
           "time_info": "[13时01分 ~ 13时50分]"
         },
         {
+          "title": "台湾5.8级地震 福州厦门等地有震感",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE5.8%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%B7%9E%E5%8E%A6%E9%97%A8%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
+        },
+        {
+          "title": "台湾台东县5.8级地震",
+          "url": "https://www.douyin.com/hot/2346506",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
+        },
+        {
           "title": "你有过交友遇诈骗的经历吗",
           "url": "https://www.toutiao.com/trending/7587062883566141503/",
           "source": "今日头条",
@@ -399,6 +465,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
+          "title": "孙进将任东方甄选执行总裁",
+          "url": "https://www.toutiao.com/trending/7587195425028227114/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时33分]"
         },
         {
           "title": "市场消息：乌克兰哈尔科夫近郊传出爆炸声。",
@@ -423,37 +501,26 @@
           "time_info": "15时43分"
         },
         {
-          "title": "市场监管总局等部门：督促网络交易平台建立产品质量管理制度 及时排查价格明显低于合理区间产品",
-          "url": "https://wallstreetcn.com/livenews/3026149",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国家公路交通安全管理局：就179,071辆特斯拉Model 3汽车启动缺陷调查请愿，原因是其机械车门释放装置隐蔽、未贴标签且操作不直观。",
+          "url": "https://flash.jin10.com/detail/20251224191041342800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时33分"
         },
         {
-          "title": "市场监管总局等部门：积极推动工业产品相关行政许可、强制性产品认证等公共数据开放",
-          "url": "https://wallstreetcn.com/livenews/3026148",
+          "title": "【中国人民银行货币政策委员会召开2025年第四季度例会】会议研究了下阶段货币政策主要思路，建议发挥增量政策和存量政策集成效应，综合运用多种工具，加强货币政策调控，根据国内外经济金融形势和金融市场运行情况，把握好政策实施的力度、节奏和时机。保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配，促进社会综合融资成本低位运行。强化央行政策利率引导，完善市场化利率形成传导机制，发挥市场利率定价自律机制作用，加强利率政策执行和监督。从宏观审慎的角度观察、评估债市运行情况，关注长期收益率的变化。畅通货币政策传导机制，提高资金使用效率。增强外汇市场韧性，稳定市场预期，防范汇率超调风险，保持人民币汇率在合理均衡水平上的基本稳定。",
+          "url": "https://wallstreetcn.com/livenews/3026187",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "台湾5.8级地震 福州厦门等地有震感",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE5.8%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%B7%9E%E5%8E%A6%E9%97%A8%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时33分"
         },
         {
           "title": "2025年，英国七分之一的蓝筹公司更换了企业领导人，伦敦市值最高的10家上市公司中有3家与首席执行官分道扬镳。",
@@ -467,15 +534,26 @@
           "time_info": "13时50分"
         },
         {
-          "title": "台湾台东县5.8级地震",
-          "url": "https://www.douyin.com/hot/2346506",
-          "source": "抖音",
+          "title": "接近英特尔(INTC.O)的消息人士质疑，首席执行官陈立武是否具备实现制造业务成功所需的技术专长。美国商务部一名官员表示，美国已给予英特尔一次成功的机会，但这家芯片制造商并非“大到不能倒”。",
+          "url": "https://flash.jin10.com/detail/20251224190443376800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时33分"
+        },
+        {
+          "title": "法国总统马克龙：法国将继续与欧盟委员会和欧洲伙伴合作，捍卫我们的自主监管和数字主权。",
+          "url": "https://flash.jin10.com/detail/20251224185731333800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "香港财库局及证监会：虚拟资产交易和托管服务有望纳入监管框架",
@@ -500,17 +578,6 @@
           "time_info": "16时57分"
         },
         {
-          "title": "孙进将任东方甄选执行总裁",
-          "url": "https://www.toutiao.com/trending/7587195425028227114/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "俄罗斯调查委员会：莫斯科汽车爆炸致两名警察及另一人身亡。",
           "url": "https://flash.jin10.com/detail/20251224135853314800",
           "source": "金十数据",
@@ -528,7 +595,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
