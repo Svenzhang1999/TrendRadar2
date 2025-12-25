@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-25T14:59:08.625314+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2025-12-25T15:39:24.294351+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "强生爽身粉致癌案被判赔女子 110 亿元，为什么会被美国陪审团判赔这么多？真的能赔偿吗？",
+          "url": "https://www.zhihu.com/question/1987239829688247081",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 15时39分]"
+        },
         {
           "title": "南博前院长落马,涉盗卖走私文物",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348362&amp;topic_name=%E5%8D%97%E5%8D%9A%E5%89%8D%E9%99%A2%E9%95%BF%E8%90%BD%E9%A9%AC%2C%E6%B6%89%E7%9B%97%E5%8D%96%E8%B5%B0%E7%A7%81%E6%96%87%E7%89%A9",
@@ -16,20 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 14时59分]"
-        },
-        {
-          "title": "强生爽身粉致癌案被判赔女子 110 亿元，为什么会被美国陪审团判赔这么多？真的能赔偿吗？",
-          "url": "https://www.zhihu.com/question/1987239829688247081",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 15时39分]"
         },
         {
           "title": "美国结束上届政府针对中国芯片贸易调查 未来18个月不对中国芯片加征额外关税",
@@ -62,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 15时39分]"
         },
         {
           "title": "男子性侵醉酒女子获刑3年2个月",
@@ -71,11 +72,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 15时39分]"
         },
         {
           "title": "女子冒充“富二代”虚构信托业务，诱骗好友1300万元挥霍一空被刑拘",
@@ -151,6 +153,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "购物遇缺斤少两你会维权吗",
+          "url": "https://www.toutiao.com/trending/7587635994804764678/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "山东录用公务员前将核查网络言论",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E5%89%8D%E5%B0%86%E6%A0%B8%E6%9F%A5%E7%BD%91%E7%BB%9C%E8%A8%80%E8%AE%BA",
           "source": "百度热搜",
@@ -182,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "方城火灾案判决书披露量刑依据",
+          "url": "https://www.douyin.com/hot/2347289",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "俄罗斯黑海港口储油罐遭袭起火",
