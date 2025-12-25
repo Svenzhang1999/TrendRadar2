@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T13:50:14.376850+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-25T14:59:08.625314+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,16 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "美国结束上届政府针对中国芯片贸易调查 未来18个月不对中国芯片加征额外关税",
-          "url": "https://www.cls.cn/detail/2239421",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 13时50分]"
-        },
-        {
           "title": "南博前院长落马,涉盗卖走私文物",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348362&amp;topic_name=%E5%8D%97%E5%8D%9A%E5%89%8D%E9%99%A2%E9%95%BF%E8%90%BD%E9%A9%AC%2C%E6%B6%89%E7%9B%97%E5%8D%96%E8%B5%B0%E7%A7%81%E6%96%87%E7%89%A9",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时59分]"
         },
         {
           "title": "强生爽身粉致癌案被判赔女子 110 亿元，为什么会被美国陪审团判赔这么多？真的能赔偿吗？",
@@ -37,6 +26,18 @@
           "ranks": [
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时59分]"
+        },
+        {
+          "title": "美国结束上届政府针对中国芯片贸易调查 未来18个月不对中国芯片加征额外关税",
+          "url": "https://www.cls.cn/detail/2239421",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -61,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时59分]"
         },
         {
           "title": "男子性侵醉酒女子获刑3年2个月",
@@ -73,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时59分]"
         },
         {
           "title": "女子冒充“富二代”虚构信托业务，诱骗好友1300万元挥霍一空被刑拘",
@@ -86,8 +87,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时59分]"
         },
         {
           "title": "男子性侵醉酒女子并发文炫耀获刑",
@@ -134,7 +135,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
