@@ -1,33 +1,57 @@
 {
-  "generated_at": "2025-12-26T11:50:36.916981+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-12-26T12:58:49.575758+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "“毛泽东号”司机每天擦拭主席像",
+          "url": "https://www.toutiao.com/trending/7588003423581130267/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "高手在民间!鸣潮3.0摩托性能爆炸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348416&amp;topic_name=%E9%AB%98%E6%89%8B%E5%9C%A8%E6%B0%91%E9%97%B4%21%E9%B8%A3%E6%BD%AE3.0%E6%91%A9%E6%89%98%E6%80%A7%E8%83%BD%E7%88%86%E7%82%B8",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
         {
           "title": "毛泽东号司机每天擦拭主席像",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%8F%B7%E5%8F%B8%E6%9C%BA%E6%AF%8F%E5%A4%A9%E6%93%A6%E6%8B%AD%E4%B8%BB%E5%B8%AD%E5%83%8F%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
         },
         {
           "title": "毛主席诞辰132周年",
           "url": "https://www.toutiao.com/trending/7587199848655372297/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
         },
         {
           "title": "市场监管总局：针对“南极磷虾油”问题将强化食品委托生产监管",
@@ -37,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
         },
         {
           "title": "班主任兼宿管被判刑引热议，河南方城“英才学校火灾案”判决书披露量刑依据",
@@ -48,41 +72,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "毛主席诞辰132周年",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E4%B8%BB%E5%B8%AD%E8%AF%9E%E8%BE%B0132%E5%91%A8%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
         },
         {
           "title": "还敢套利？国投白银LOF再出手：A类定投上限降回100元，12月29日起执行",
           "url": "https://wallstreetcn.com/articles/3762089",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
+        },
+        {
+          "title": "毛主席诞辰132周年",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E4%B8%BB%E5%B8%AD%E8%AF%9E%E8%BE%B0132%E5%91%A8%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
         },
         {
           "title": "老人在市场疑与城管争执被推倒后离世？福建福安警方：肇事者已被刑拘",
           "url": "https://m.thepaper.cn/newsDetail_forward_32255601",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
         },
         {
           "title": "广东江门一汽车坠河 一家五口遇难",
@@ -92,8 +119,19 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
+        },
+        {
+          "title": "全总答澎湃：针对欠薪、违法超时加班等问题，“一函两书”让维权关口前移",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32252331",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "12时58分"
         }
       ]
     }
