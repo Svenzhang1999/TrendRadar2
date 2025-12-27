@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T14:56:33.366547+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-12-27T15:33:22.351053+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "中央网信办发布网络名人账号行为负面清单",
@@ -15,19 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "白银还能更疯狂？库存耗尽、金银比坍塌，资深分析师喊出300美元天价",
           "url": "https://wallstreetcn.com/articles/3762152",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
+        },
+        {
+          "title": "6名大学生坠落事故调查结果",
+          "url": "https://www.douyin.com/hot/2348815",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "影子调查这一年：一路匆忙，也听到激人奋发的澎湃回声",
@@ -39,19 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
-        },
-        {
-          "title": "6名大学生坠落事故调查结果",
-          "url": "https://www.douyin.com/hot/2348815",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "闻泰科技1月将借听证会维权，国际仲裁索赔或达80亿美元",
@@ -61,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时33分]"
         },
         {
           "title": "6名大学生坠落事故调查结果",
@@ -76,26 +78,38 @@
           "time_info": "[11时48分 ~ 11时49分]"
         },
         {
-          "title": "乌克兰基辅响起巨大爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3027537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
           "title": "36岁银行女经理和丈夫先后自杀",
           "url": "https://www.toutiao.com/trending/7588410072783605299/",
           "source": "今日头条",
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时33分]"
+        },
+        {
+          "title": "乌克兰基辅响起巨大爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3027537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时33分]"
+        },
+        {
+          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3027538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "15时33分"
         },
         {
           "title": "河南周口通报一中学食堂承包方举报校领导：成立联合调查组",
@@ -107,20 +121,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
-        },
-        {
-          "title": "6名大学生参观矿企坠亡调查报告公布",
-          "url": "https://www.toutiao.com/trending/7588352922468106276/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "6名大学生坠落事故调查结果",
@@ -131,20 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
-        },
-        {
-          "title": "银行经理和丈夫自杀 曾转走储户钱款",
-          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E7%BB%8F%E7%90%86%E5%92%8C%E4%B8%88%E5%A4%AB%E8%87%AA%E6%9D%80+%E6%9B%BE%E8%BD%AC%E8%B5%B0%E5%82%A8%E6%88%B7%E9%92%B1%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "疑知名女星前夫涉诈骗被判无期",
@@ -159,16 +149,43 @@
           "time_info": "[11时48分 ~ 13时44分]"
         },
         {
+          "title": "6名大学生参观矿企坠亡调查报告公布",
+          "url": "https://www.toutiao.com/trending/7588352922468106276/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
+        },
+        {
+          "title": "银行经理和丈夫自杀 曾转走储户钱款",
+          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E7%BB%8F%E7%90%86%E5%92%8C%E4%B8%88%E5%A4%AB%E8%87%AA%E6%9D%80+%E6%9B%BE%E8%BD%AC%E8%B5%B0%E5%82%A8%E6%88%B7%E9%92%B1%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩将于周六参加与乌克兰总统泽连斯基、美国总统特朗普及其他欧盟领导人举行的通话。",
           "url": "https://flash.jin10.com/detail/20251227131840644800",
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时33分]"
         },
         {
           "title": "6名大学生参观矿企坠亡调查报告公布",
@@ -176,11 +193,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
@@ -190,11 +208,12 @@
             18,
             15,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "重庆一住宅疑似发生火灾系谣言",
@@ -204,8 +223,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "银行女经理和丈夫先后自杀：生前花180万预订豪车，留下两个幼女",
@@ -215,8 +234,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "“嘎子哥”谢孟伟成老赖",
@@ -226,8 +245,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
+        },
+        {
+          "title": "6 名大学生参观矿企坠落溺亡调查报告公布，人员偏离安全路线，42 人被追责问责，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1988190257821213964",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时33分]"
+        },
+        {
+          "title": "36岁银行女经理和丈夫先后自杀",
+          "url": "https://s.weibo.com/weibo?q=%2336%E5%B2%81%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%BB%8F%E7%90%86%E5%92%8C%E4%B8%88%E5%A4%AB%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时33分]"
         },
         {
           "title": "“嘎子哥”谢孟伟成老赖",
@@ -243,30 +286,6 @@
           "time_info": "[11时48分 ~ 13时44分]"
         },
         {
-          "title": "6 名大学生参观矿企坠落溺亡调查报告公布，人员偏离安全路线，42 人被追责问责，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1988190257821213964",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时56分]"
-        },
-        {
-          "title": "36岁银行女经理和丈夫先后自杀",
-          "url": "https://s.weibo.com/weibo?q=%2336%E5%B2%81%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%BB%8F%E7%90%86%E5%92%8C%E4%B8%88%E5%A4%AB%E5%85%88%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时56分]"
-        },
-        {
           "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
           "url": "https://wallstreetcn.com/livenews/3027516",
           "source": "华尔街见闻-快讯",
@@ -274,11 +293,12 @@
             13,
             17,
             18,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时49分 ~ 15时33分]"
         },
         {
           "title": "广东江门一在建桥施工栈桥发生车辆坠河一家五口遇难，镇政府：正善后",
@@ -291,6 +311,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时48分 ~ 12时57分]"
+        },
+        {
+          "title": "银行女经理自杀储户千万存款被转走",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%BB%8F%E7%90%86%E8%87%AA%E6%9D%80%E5%82%A8%E6%88%B7%E5%8D%83%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时33分]"
         },
         {
           "title": "女子手机充电到天亮爆炸全身烧伤70%",
@@ -315,18 +347,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 13时44分]"
-        },
-        {
-          "title": "银行女经理自杀储户千万存款被转走",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%BB%8F%E7%90%86%E8%87%AA%E6%9D%80%E5%82%A8%E6%88%B7%E5%8D%83%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时56分]"
         },
         {
           "title": "外卖骑手在家中猝死被保险公司拒赔",
@@ -361,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "30岁女子恋爱骗60岁大爷20万被刑拘",
+          "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B1%E9%AA%9760%E5%B2%81%E5%A4%A7%E7%88%B720%E4%B8%87%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     }
