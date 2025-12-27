@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T18:42:46.135775+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2025-12-27T19:29:25.641210+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "白银还能更疯狂？库存耗尽、金银比坍塌，资深分析师喊出300美元天价",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 19时29分]"
         },
         {
           "title": "影子调查这一年：一路匆忙，也听到激人奋发的澎湃回声",
@@ -27,11 +27,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 19时29分]"
         },
         {
           "title": "中央网信办发布网络名人账号行为负面清单",
@@ -63,11 +64,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 19时29分]"
         },
         {
           "title": "6名大学生坠落事故调查结果",
@@ -79,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 19时29分]"
         },
         {
           "title": "6名大学生坠落事故调查结果",
@@ -105,15 +107,15 @@
           "time_info": "[14时56分 ~ 15时33分]"
         },
         {
-          "title": "自杀银行女经理生前月薪五六万",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9D%80%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%BB%8F%E7%90%86%E7%94%9F%E5%89%8D%E6%9C%88%E8%96%AA%E4%BA%94%E5%85%AD%E4%B8%87%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "中国地震台网正式测定：12月27日18时40分在阿根廷（南纬28.35度，西经63.10度）发生5.6级地震，震源深度600千米。",
+          "url": "https://wallstreetcn.com/livenews/3027562",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "19时29分"
         },
         {
           "title": "6名大学生坠落事故调查结果",
@@ -124,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 19时29分]"
         },
         {
           "title": "乌克兰基辅响起巨大爆炸声",
@@ -136,11 +138,29 @@
             4,
             5,
             9,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时56分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时56分 ~ 19时29分]"
+        },
+        {
+          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            10,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 19时29分]"
         },
         {
           "title": "疑知名女星前夫涉诈骗被判无期",
@@ -155,20 +175,6 @@
           "time_info": "[11时48分 ~ 13时44分]"
         },
         {
-          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3027538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 18时42分]"
-        },
-        {
           "title": "银行经理和丈夫自杀 曾转走储户钱款",
           "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E7%BB%8F%E7%90%86%E5%92%8C%E4%B8%88%E5%A4%AB%E8%87%AA%E6%9D%80+%E6%9B%BE%E8%BD%AC%E8%B5%B0%E5%82%A8%E6%88%B7%E9%92%B1%E6%AC%BE",
           "source": "百度热搜",
@@ -180,22 +186,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时48分 ~ 15时33分]"
-        },
-        {
-          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
         },
         {
           "title": "6名大学生参观矿企坠亡调查报告公布",
@@ -213,16 +203,55 @@
           "time_info": "[11时48分 ~ 17时37分]"
         },
         {
+          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3027538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            8,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 19时29分]"
+        },
+        {
+          "title": "自杀银行女经理生前月薪五六万",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%9D%80%E9%93%B6%E8%A1%8C%E5%A5%B3%E7%BB%8F%E7%90%86%E7%94%9F%E5%89%8D%E6%9C%88%E8%96%AA%E4%BA%94%E5%85%AD%E4%B8%87%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时29分]"
+        },
+        {
           "title": "印尼一轮船在望加锡海峡沉没 至少3人死亡",
           "url": "https://flash.jin10.com/detail/20251227172120956800",
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时29分]"
+        },
+        {
+          "title": "6 名大学生参观矿企坠落溺亡调查报告公布，人员偏离安全路线，42 人被追责问责，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1988190257821213964",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 19时29分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩将于周六参加与乌克兰总统泽连斯基、美国总统特朗普及其他欧盟领导人举行的通话。",
@@ -259,17 +288,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时48分 ~ 17时37分]"
-        },
-        {
-          "title": "6 名大学生参观矿企坠落溺亡调查报告公布，人员偏离安全路线，42 人被追责问责，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1988190257821213964",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时56分 ~ 18时42分]"
         },
         {
           "title": "6名大学生参观矿企坠亡调查报告公布",
@@ -340,6 +358,43 @@
           "time_info": "[11时48分 ~ 13时44分]"
         },
         {
+          "title": "男子记恨幼时被严管 殴打80岁父亲",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%B0%E6%81%A8%E5%B9%BC%E6%97%B6%E8%A2%AB%E4%B8%A5%E7%AE%A1+%E6%AE%B4%E6%89%9380%E5%B2%81%E7%88%B6%E4%BA%B2",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时29分]"
+        },
+        {
+          "title": "银行女经理和丈夫先后自杀，储户78万存款只剩4000多元",
+          "url": "https://news.ifeng.com/c/8pQC6EWqcJo",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时29分]"
+        },
+        {
+          "title": "外卖骑手在家中猝死被保险公司拒赔，检察机关支持起诉促调解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263947",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时29分]"
+        },
+        {
           "title": "广东江门一在建桥施工栈桥发生车辆坠河一家五口遇难，镇政府：正善后",
           "url": "https://m.thepaper.cn/newsDetail_forward_32256919",
           "source": "澎湃新闻",
@@ -364,40 +419,17 @@
           "time_info": "[13时44分 ~ 15时33分]"
         },
         {
-          "title": "男子记恨幼时被严管 殴打80岁父亲",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AE%B0%E6%81%A8%E5%B9%BC%E6%97%B6%E8%A2%AB%E4%B8%A5%E7%AE%A1+%E6%AE%B4%E6%89%9380%E5%B2%81%E7%88%B6%E4%BA%B2",
-          "source": "百度热搜",
+          "title": "克里米亚议会主席：泽连斯基提出的乌克兰方案是拖延时间的“放风”",
+          "url": "https://flash.jin10.com/detail/20251227170159713800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            18,
-            12
+            9,
+            15,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时42分]"
-        },
-        {
-          "title": "银行女经理和丈夫先后自杀，储户78万存款只剩4000多元",
-          "url": "https://news.ifeng.com/c/8pQC6EWqcJo",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时42分]"
-        },
-        {
-          "title": "外卖骑手在家中猝死被保险公司拒赔，检察机关支持起诉促调解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263947",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时42分]"
+          "time_info": "[17时37分 ~ 19时29分]"
         },
         {
           "title": "女子手机充电到天亮爆炸全身烧伤70%",
@@ -410,6 +442,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 13时44分]"
+        },
+        {
+          "title": "日本67辆车连撞 20车起火燃烧",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC67%E8%BE%86%E8%BD%A6%E8%BF%9E%E6%92%9E+20%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%87%83%E7%83%A7",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时29分]"
         },
         {
           "title": "评论员：美方借盟友虚张声势骚扰中国",
@@ -436,18 +480,6 @@
           "time_info": "[13时44分 ~ 14时56分]"
         },
         {
-          "title": "克里米亚议会主席：泽连斯基提出的乌克兰方案是拖延时间的“放风”",
-          "url": "https://flash.jin10.com/detail/20251227170159713800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时42分]"
-        },
-        {
           "title": "中央网信办：规范网络名人账号行为管理",
           "url": "https://www.cls.cn/detail/2241204",
           "source": "财联社热门",
@@ -457,18 +489,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 11时49分]"
-        },
-        {
-          "title": "日本67辆车连撞 20车起火燃烧",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC67%E8%BE%86%E8%BD%A6%E8%BF%9E%E6%92%9E+20%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%87%83%E7%83%A7",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时42分]"
         },
         {
           "title": "乌克兰基辅响起巨大爆炸声",
@@ -481,6 +501,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时51分 ~ 17时37分]"
+        },
+        {
+          "title": "德国地学研究中心GFZ：阿根廷圣地亚哥-德尔埃斯特罗省发生5.65级地震。",
+          "url": "https://flash.jin10.com/detail/20251227184512355800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "国家主席习近平12月27日签署第六十三号、第六十四号、第六十五号、第六十六号、第六十七号、第六十八号主席令。",
+          "url": "https://flash.jin10.com/detail/20251227183819288800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "印尼苏门答腊岛附近海域发生5.9级地震",
