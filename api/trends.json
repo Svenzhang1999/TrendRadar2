@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T13:54:45.404125+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-12-29T15:02:47.298814+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
         },
         {
           "title": "辽宁辽阳三里厨娘饭店重大火灾事故调查报告发布，40名公职人员被问责",
           "url": "https://m.thepaper.cn/newsDetail_forward_32270381",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
         },
         {
           "title": "国女流落柬埔寨,境外诈骗太吓人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348494&amp;topic_name=%E5%9B%BD%E5%A5%B3%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%2C%E5%A2%83%E5%A4%96%E8%AF%88%E9%AA%97%E5%A4%AA%E5%90%93%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
         },
         {
           "title": "12月29日投资避雷针：五公司因涉嫌信息披露违法违规被证监会立案",
@@ -49,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
         },
         {
           "title": "长期冒充“中国书法家协会主席”的骗子被抓，此前曾有人冒充书协副主席",
@@ -61,8 +63,56 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
+        },
+        {
+          "title": "美国社会现状,传奇调查员早看透",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348487&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%8E%B0%E7%8A%B6%2C%E4%BC%A0%E5%A5%87%E8%B0%83%E6%9F%A5%E5%91%98%E6%97%A9%E7%9C%8B%E9%80%8F",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
+        },
+        {
+          "title": "吧头像变失传媒体,吧友调查寻根",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348486&amp;topic_name=%E5%90%A7%E5%A4%B4%E5%83%8F%E5%8F%98%E5%A4%B1%E4%BC%A0%E5%AA%92%E4%BD%93%2C%E5%90%A7%E5%8F%8B%E8%B0%83%E6%9F%A5%E5%AF%BB%E6%A0%B9",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
+        },
+        {
+          "title": "藏民撞人疑获偏袒,伤者维权受阻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348473&amp;topic_name=%E8%97%8F%E6%B0%91%E6%92%9E%E4%BA%BA%E7%96%91%E8%8E%B7%E5%81%8F%E8%A2%92%2C%E4%BC%A4%E8%80%85%E7%BB%B4%E6%9D%83%E5%8F%97%E9%98%BB",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
+        },
+        {
+          "title": "王梓莼称没有霸凌任何人",
+          "url": "https://www.douyin.com/hot/2350233",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时02分]"
         },
         {
           "title": "女子开浴霸洗澡突然起火",
@@ -70,28 +120,6 @@
           "source": "微博",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
-        },
-        {
-          "title": "美国社会现状,传奇调查员早看透",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348487&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%8E%B0%E7%8A%B6%2C%E4%BC%A0%E5%A5%87%E8%B0%83%E6%9F%A5%E5%91%98%E6%97%A9%E7%9C%8B%E9%80%8F",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
-        },
-        {
-          "title": "吧头像变失传媒体,吧友调查寻根",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348486&amp;topic_name=%E5%90%A7%E5%A4%B4%E5%83%8F%E5%8F%98%E5%A4%B1%E4%BC%A0%E5%AA%92%E4%BD%93%2C%E5%90%A7%E5%8F%8B%E8%B0%83%E6%9F%A5%E5%AF%BB%E6%A0%B9",
-          "source": "贴吧",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -109,26 +137,39 @@
           "time_info": "[12时16分 ~ 13时54分]"
         },
         {
-          "title": "藏民撞人疑获偏袒,伤者维权受阻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348473&amp;topic_name=%E8%97%8F%E6%B0%91%E6%92%9E%E4%BA%BA%E7%96%91%E8%8E%B7%E5%81%8F%E8%A2%92%2C%E4%BC%A4%E8%80%85%E7%BB%B4%E6%9D%83%E5%8F%97%E9%98%BB",
-          "source": "贴吧",
+          "title": "女子开浴霸洗澡突然起火",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E6%B5%B4%E9%9C%B8%E6%B4%97%E6%BE%A1%E7%AA%81%E7%84%B6%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
-            21
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 15时02分]"
         },
         {
-          "title": "王梓莼称没有霸凌任何人",
-          "url": "https://www.douyin.com/hot/2350233",
-          "source": "抖音",
+          "title": "广东廉江祖孙三人遭邻居杀害案二审维持死刑判决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272704",
+          "source": "澎湃新闻",
           "ranks": [
-            30
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时54分]"
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 15时02分]"
+        },
+        {
+          "title": "揭秘绝症求助诈骗套路",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E7%BB%9D%E7%97%87%E6%B1%82%E5%8A%A9%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 15时02分]"
         },
         {
           "title": "黄岩岛珊瑚礁生态调查报告发布",
@@ -142,46 +183,13 @@
           "time_info": "[12时16分 ~ 12时17分]"
         },
         {
-          "title": "女子开浴霸洗澡突然起火",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E6%B5%B4%E9%9C%B8%E6%B4%97%E6%BE%A1%E7%AA%81%E7%84%B6%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "广东廉江祖孙三人遭邻居杀害案二审维持死刑判决",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272704",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "揭秘绝症求助诈骗套路",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E7%BB%9D%E7%97%87%E6%B1%82%E5%8A%A9%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "男子因记恨幼时父亲严厉管教，多次翻墙进养老院殴打八旬父亲被判刑，这反映了怎样的家庭和社会问题？",
           "url": "https://www.zhihu.com/question/1988026395918611613",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -192,7 +200,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -203,7 +211,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
