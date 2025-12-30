@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T17:02:46.528216+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2025-12-30T17:53:34.862518+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "中国工商银行山东淄博分行原行长王世明接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3028694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
         {
           "title": "惠誉：2026年印尼企业面临消费复苏和监管风险。",
           "url": "https://flash.jin10.com/detail/20251230143305799800",
@@ -74,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 17时53分]"
         },
         {
           "title": "国女流落柬埔寨,境外诈骗太吓人",
@@ -86,11 +97,12 @@
             21,
             23,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 17时53分]"
         },
         {
           "title": "揭秘绝症求助诈骗套路",
@@ -103,8 +115,35 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 17时53分]"
+        },
+        {
+          "title": "医美光电设备“抢滩”三类证 业内呼吁严监管促创新",
+          "url": "https://www.cls.cn/detail/2243774",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时54分 ~ 15时46分]"
+          "time_info": "[14时59分 ~ 17时53分]"
+        },
+        {
+          "title": "内蒙古一考公机构打出“上岸彩礼多要二十万”横幅，市监部门已立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280689",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 17时53分]"
         },
         {
           "title": "女子面馆吃面遭老板骚扰露丝袜免单",
@@ -119,29 +158,28 @@
           "time_info": "[11时54分 ~ 15时46分]"
         },
         {
-          "title": "医美光电设备“抢滩”三类证 业内呼吁严监管促创新",
-          "url": "https://www.cls.cn/detail/2243774",
-          "source": "财联社热门",
+          "title": "全国监管局工作会议在北京召开",
+          "url": "https://wallstreetcn.com/livenews/3028660",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11,
-            8
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 17时02分]"
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时53分]"
         },
         {
-          "title": "内蒙古一考公机构打出“上岸彩礼多要二十万”横幅，市监部门已立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280689",
-          "source": "澎湃新闻",
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 17时02分]"
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时53分]"
         },
         {
           "title": "昆明女高中生试岗私人影院遭强制猥亵，仅店方被罚两万客人被拘五天引争议",
@@ -156,15 +194,16 @@
           "time_info": "[11时54分 ~ 13时02分]"
         },
         {
-          "title": "全国监管局工作会议在北京召开",
-          "url": "https://wallstreetcn.com/livenews/3028660",
+          "title": "中信银行：芦苇先生因工作调整，辞去本行执行董事、行长、董事会风险管理委员会主席及委员、董事会战略与可持续发展委员会委员职务。",
+          "url": "https://wallstreetcn.com/livenews/3028649",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时53分]"
         },
         {
           "title": "广东廉江祖孙三人遭邻居杀害案二审维持死刑判决",
@@ -178,26 +217,37 @@
           "time_info": "11时54分"
         },
         {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
           "title": "考公机构打出“上岸彩礼多要20万”广告词被调查(图)",
           "url": "https://news.ifeng.com/c/8pVRnrif04h",
           "source": "凤凰网",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "汶川地震举条幅男孩真成空降兵",
+          "url": "https://www.douyin.com/hot/2352128",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "全国总工会原副主席张世平被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282196",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "日本鹿儿岛县地震",
@@ -206,18 +256,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "中信银行：芦苇先生因工作调整，辞去本行执行董事、行长、董事会风险管理委员会主席及委员、董事会战略与可持续发展委员会委员职务。",
-          "url": "https://wallstreetcn.com/livenews/3028649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
