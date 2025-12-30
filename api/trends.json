@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T13:02:18.333927+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2025-12-30T14:59:56.367730+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "惠誉：2026年印尼企业面临消费复苏和监管风险。",
+          "url": "https://flash.jin10.com/detail/20251230143305799800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
         {
           "title": "美国白宫：将执行美以农产品贸易协议及其他相关目标。",
           "url": "https://flash.jin10.com/detail/20251230122311784800",
@@ -14,9 +25,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "中华全国总工会原党组成员、书记处书记、副主席张世平接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3028594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "12月30日投资避雷针：这只人气股12月12日至29日股价涨近214% 今起停牌核查",
+          "url": "https://www.cls.cn/detail/2243457",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 14时59分]"
         },
         {
           "title": "日本首都圈确认发生高致病性禽流感疫情",
@@ -31,18 +66,6 @@
           "time_info": "[11时54分 ~ 13时02分]"
         },
         {
-          "title": "12月30日投资避雷针：这只人气股12月12日至29日股价涨近214% 今起停牌核查",
-          "url": "https://www.cls.cn/detail/2243457",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时02分]"
-        },
-        {
           "title": "为博流量直播脚踩烈士陵墓被刑拘",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E5%8D%9A%E6%B5%81%E9%87%8F%E7%9B%B4%E6%92%AD%E8%84%9A%E8%B8%A9%E7%83%88%E5%A3%AB%E9%99%B5%E5%A2%93%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "bilibili 热搜",
@@ -50,20 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时02分]"
-        },
-        {
-          "title": "昆明女高中生试岗私人影院遭强制猥亵，仅店方被罚两万客人被拘五天引争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272922",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 14时59分]"
         },
         {
           "title": "揭秘绝症求助诈骗套路",
@@ -71,11 +82,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 14时59分]"
         },
         {
           "title": "女子面馆吃面遭老板骚扰露丝袜免单",
@@ -86,8 +98,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 14时59分]"
         },
         {
           "title": "国女流落柬埔寨,境外诈骗太吓人",
@@ -95,7 +107,20 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 14时59分]"
+        },
+        {
+          "title": "昆明女高中生试岗私人影院遭强制猥亵，仅店方被罚两万客人被拘五天引争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272922",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -113,13 +138,57 @@
           "time_info": "11时54分"
         },
         {
+          "title": "医美光电设备“抢滩”三类证 业内呼吁严监管促创新",
+          "url": "https://www.cls.cn/detail/2243774",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "内蒙古一考公机构打出“上岸彩礼多要二十万”横幅，市监部门已立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280689",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "也门总统委员会主席阿里米：取消与阿联酋的联合防御协议。",
+          "url": "https://flash.jin10.com/detail/20251230140452495800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "也门总统委员会主席阿里米：在也门实施为期72小时的禁飞区、海上封锁和地面封锁。所有豁免封锁的情况必须经过沙特领导的联军授权。",
+          "url": "https://flash.jin10.com/detail/20251230140037794800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "也门官员：沙特多次空袭穆卡拉港 引发巨大爆炸",
           "url": "https://wallstreetcn.com/livenews/3028523",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
