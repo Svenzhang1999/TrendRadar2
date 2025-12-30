@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T19:39:06.304960+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-30T21:55:00.552001+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "承德致20死重大火灾事故调查报告",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%89%BF%E5%BE%B7%E8%87%B420%E6%AD%BB%E9%87%8D%E5%A4%A7%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
         {
           "title": "惠誉：2026年印尼企业面临消费复苏和监管风险。",
           "url": "https://flash.jin10.com/detail/20251230143305799800",
@@ -43,16 +54,17 @@
           "time_info": "[11时54分 ~ 15时46分]"
         },
         {
-          "title": "小学食堂米线过期2.5小时被罚5万",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E7%B1%B3%E7%BA%BF%E8%BF%87%E6%9C%9F2.5%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%BD%9A5%E4%B8%87",
-          "source": "百度热搜",
+          "title": "全国总工会原副主席张世平被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282196",
+          "source": "澎湃新闻",
           "ranks": [
-            28,
-            4
+            15,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 21时55分]"
         },
         {
           "title": "日本首都圈确认发生高致病性禽流感疫情",
@@ -91,6 +103,19 @@
           "time_info": "[14时59分 ~ 15时46分]"
         },
         {
+          "title": "小学食堂米线过期2.5小时被罚5万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%82%E7%B1%B3%E7%BA%BF%E8%BF%87%E6%9C%9F2.5%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%BD%9A5%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时55分 ~ 21时55分]"
+        },
+        {
           "title": "为博流量直播脚踩烈士陵墓被刑拘",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E5%8D%9A%E6%B5%81%E9%87%8F%E7%9B%B4%E6%92%AD%E8%84%9A%E8%B8%A9%E7%83%88%E5%A3%AB%E9%99%B5%E5%A2%93%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "bilibili 热搜",
@@ -98,8 +123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 21时55分]"
         },
         {
           "title": "国女流落柬埔寨,境外诈骗太吓人",
@@ -115,8 +140,23 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 21时55分]"
+        },
+        {
+          "title": "内蒙古一考公机构打出“上岸彩礼多要二十万”横幅，市监部门已立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280689",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时54分 ~ 19时39分]"
+          "time_info": "[14时59分 ~ 21时55分]"
         },
         {
           "title": "医美光电设备“抢滩”三类证 业内呼吁严监管促创新",
@@ -127,20 +167,6 @@
             11,
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 19时39分]"
-        },
-        {
-          "title": "内蒙古一考公机构打出“上岸彩礼多要二十万”横幅，市监部门已立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280689",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            17,
-            16
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -173,16 +199,26 @@
           "time_info": "[17时02分 ~ 19时39分]"
         },
         {
-          "title": "全国总工会原副主席张世平被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32282196",
-          "source": "澎湃新闻",
+          "title": "女子杭州旅游就餐遭老板同桌男子骚扰，警方回应",
+          "url": "https://v.ifeng.com/c/8pVYtzx4Yjc",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            8
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时55分 ~ 21时55分]"
+        },
+        {
+          "title": "四川绵阳机械厂火灾系谣言",
+          "url": "https://www.toutiao.com/trending/7589206387272663081/",
+          "source": "今日头条",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时39分]"
+          "time_info": "[19时38分 ~ 21时55分]"
         },
         {
           "title": "女子面馆吃面遭老板骚扰露丝袜免单",
@@ -197,15 +233,15 @@
           "time_info": "[11时54分 ~ 15时46分]"
         },
         {
-          "title": "女子杭州旅游就餐遭老板同桌男子骚扰，警方回应",
-          "url": "https://v.ifeng.com/c/8pVYtzx4Yjc",
-          "source": "凤凰网",
+          "title": "老年公寓火灾致20死 45人被问责",
+          "url": "https://www.toutiao.com/trending/7589639830733065769/",
+          "source": "今日头条",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "全国监管局工作会议在北京召开",
@@ -220,15 +256,48 @@
           "time_info": "[17时02分 ~ 17时53分]"
         },
         {
-          "title": "四川绵阳机械厂火灾系谣言",
-          "url": "https://www.toutiao.com/trending/7589206387272663081/",
-          "source": "今日头条",
+          "title": "老年公寓火灾致20死 调查报告公布",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B4%E5%85%AC%E5%AF%93%E7%81%AB%E7%81%BE%E8%87%B420%E6%AD%BB+%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "女孩遭姨夫性侵父母拒绝出具谅解书",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%81%AD%E5%A7%A8%E5%A4%AB%E6%80%A7%E4%BE%B5%E7%88%B6%E6%AF%8D%E6%8B%92%E7%BB%9D%E5%87%BA%E5%85%B7%E8%B0%85%E8%A7%A3%E4%B9%A6%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "河北老年公寓20死火灾调查报告",
+          "url": "https://www.douyin.com/hot/2352428",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "下毒致7名学生死亡2人被执行死刑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E6%AF%92%E8%87%B47%E5%90%8D%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A12%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "昆明女高中生试岗私人影院遭强制猥亵，仅店方被罚两万客人被拘五天引争议",
@@ -276,6 +345,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时55分 ~ 19时39分]"
+        },
+        {
+          "title": "北京宠物犬中毒刑案受害人：至截止日被告人没上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32283286",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "男子杀害同居女友及子女被执行死刑",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%90%8C%E5%B1%85%E5%A5%B3%E5%8F%8B%E5%8F%8A%E5%AD%90%E5%A5%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "美国地质勘探局：美国阿拉斯加州亚库塔特以北90公里处发生5.0级地震。",
