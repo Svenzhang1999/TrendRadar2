@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T13:50:53.404081+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-31T15:01:00.880631+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "扫描“主播”｜真人互动擦边影游直播频出，律师：涉嫌违法，平台有监管责任",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "12月31日投资避雷针：8月22日至12月30日累计上涨718.39% 天普股份第五次停牌核查",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "内存条天价，为何没有新厂家抢占民用市场？",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "全国总工会原副主席张世平被查",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "北京宠物犬中毒刑案受害人：至截止日被告人没上诉",
@@ -65,8 +65,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 15时01分]"
         },
         {
           "title": "2025这些判决改变你我生活",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时50分]"
+        },
+        {
+          "title": "大连提刀砍门女子再次骚扰邻居",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%BF%9E%E6%8F%90%E5%88%80%E7%A0%8D%E9%97%A8%E5%A5%B3%E5%AD%90%E5%86%8D%E6%AC%A1%E9%AA%9A%E6%89%B0%E9%82%BB%E5%B1%85",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "发改委：将组织开展专项行动，对于骗补、套补等违法违规行为严格监管",
