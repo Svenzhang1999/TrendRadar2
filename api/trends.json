@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T11:53:06.050798+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-12-31T13:01:42.382547+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "扫描“主播”｜真人互动擦边影游直播频出，律师：涉嫌违法，平台有监管责任",
@@ -15,41 +15,55 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "全国总工会原副主席张世平被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32282196",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时01分]"
         },
         {
           "title": "12月31日投资避雷针：8月22日至12月30日累计上涨718.39% 天普股份第五次停牌核查",
           "url": "https://www.cls.cn/detail/2244790",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时01分]"
+        },
+        {
+          "title": "全国总工会原副主席张世平被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282196",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时01分]"
         },
         {
           "title": "内存条天价，为何没有新厂家抢占民用市场？",
           "url": "https://www.zhihu.com/question/1988935139783382175",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时01分]"
+        },
+        {
+          "title": "北京宠物犬中毒刑案受害人：至截止日被告人没上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32283286",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时01分]"
         },
         {
           "title": "2025这些判决改变你我生活",
@@ -63,15 +77,15 @@
           "time_info": "[11时52分 ~ 11时53分]"
         },
         {
-          "title": "北京宠物犬中毒刑案受害人：至截止日被告人没上诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32283286",
-          "source": "澎湃新闻",
+          "title": "第一次见国产剧一具尸体十个现场",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%9B%BD%E4%BA%A7%E5%89%A7%E4%B8%80%E5%85%B7%E5%B0%B8%E4%BD%93%E5%8D%81%E4%B8%AA%E7%8E%B0%E5%9C%BA&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "发改委：将组织开展专项行动，对于骗补、套补等违法违规行为严格监管",
@@ -80,7 +94,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
