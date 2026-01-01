@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T16:56:21.801857+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-01-01T17:44:35.815034+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 16时56分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 17时44分]"
         },
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -26,8 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 16时56分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 17时44分]"
+        },
+        {
+          "title": "国家主席习近平发表二〇二六年新年贺词",
+          "url": "https://wallstreetcn.com/articles/3762391",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 17时44分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -42,39 +54,40 @@
           "time_info": "[12时15分 ~ 16时56分]"
         },
         {
-          "title": "国家主席习近平发表二〇二六年新年贺词",
-          "url": "https://wallstreetcn.com/articles/3762391",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 16时56分]"
-        },
-        {
           "title": "IG法务出击,炫神败诉赔到破产",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 16时56分]"
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 17时44分]"
         },
         {
           "title": "好心女帮腔竟被诬告性骚扰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348624&amp;topic_name=%E5%A5%BD%E5%BF%83%E5%A5%B3%E5%B8%AE%E8%85%94%E7%AB%9F%E8%A2%AB%E8%AF%AC%E5%91%8A%E6%80%A7%E9%AA%9A%E6%89%B0",
           "source": "贴吧",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时44分]"
+        },
+        {
+          "title": "瑞士滑雪胜地酒吧发生爆炸 当局初步排除恐袭",
+          "url": "https://flash.jin10.com/detail/20260101173845740800",
+          "source": "金十数据",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "17时44分"
         },
         {
           "title": "据英国天空新闻：新年夜瑞士滑雪胜地酒吧火灾已致至少10人死亡，10人受伤。",
@@ -105,11 +118,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时44分]"
         },
         {
           "title": "中国地震台网自动测定：01月01日14时46分在美国阿拉斯加州东南部附近（北纬60.60度，西经140.16度）发生6.0级左右地震，最终结果以正式速报为准。",
@@ -117,11 +131,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时44分]"
         },
         {
           "title": "瑞士滑雪胜地一家酒吧发生爆炸，多人死伤",
@@ -130,11 +145,12 @@
           "ranks": [
             1,
             6,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时00分 ~ 16时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时00分 ~ 17时44分]"
         },
         {
           "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
@@ -143,11 +159,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 16时56分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 17时44分]"
         },
         {
           "title": "网友分享“免费防霸凌课”，负责人：不是让孩子主动攻击",
@@ -170,8 +187,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 16时56分]"
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 17时44分]"
         },
         {
           "title": "瑞士滑雪胜地发生爆炸 多人死伤",
@@ -180,11 +197,12 @@
           "ranks": [
             6,
             18,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时00分 ~ 16时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时00分 ~ 17时44分]"
         },
         {
           "title": "美国地质勘探局：阿拉斯加亚库塔地区发生5.6级地震。",
@@ -192,11 +210,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时44分]"
         },
         {
           "title": "乌军袭击赫尔松州餐厅和宾馆 致24人遇难50余人受伤",
@@ -204,33 +223,36 @@
           "source": "金十数据",
           "ranks": [
             11,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时44分]"
         },
         {
           "title": "瑞士酒吧爆炸引发火灾已致数十人死亡 近100人受伤",
           "url": "https://wallstreetcn.com/livenews/3029589",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时44分]"
         },
         {
           "title": "瑞士滑雪胜地爆炸以致10死10伤",
           "url": "https://flash.jin10.com/detail/20260101153657439800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时44分]"
         },
         {
           "title": "瑞士滑雪胜地爆炸致多人死伤",
@@ -239,9 +261,44 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时44分]"
+        },
+        {
+          "title": "瑞士雪山酒吧爆炸已致数十死 近百伤",
+          "url": "https://www.toutiao.com/trending/7590275269308121114/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时44分]"
+        },
+        {
+          "title": "瑞士滑雪胜地爆炸多人死伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E6%BB%91%E9%9B%AA%E8%83%9C%E5%9C%B0%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BC%A4%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时44分]"
+        },
+        {
+          "title": "3艘船只遭美军打击后发生剧烈爆炸",
+          "url": "https://www.toutiao.com/trending/7590169406853283846/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 17时44分]"
         },
         {
           "title": "2025以军向加沙投超11.2万吨爆炸物 2025年加沙建筑物受损比例近90%",
@@ -261,7 +318,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -275,39 +332,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        },
-        {
-          "title": "瑞士雪山酒吧爆炸已致数十死 近百伤",
-          "url": "https://www.toutiao.com/trending/7590275269308121114/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "瑞士滑雪胜地爆炸多人死伤",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E6%BB%91%E9%9B%AA%E8%83%9C%E5%9C%B0%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BC%A4%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "3艘船只遭美军打击后发生剧烈爆炸",
-          "url": "https://www.toutiao.com/trending/7590169406853283846/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
         },
         {
           "title": "以色列北部一家商铺爆炸致12人伤",
