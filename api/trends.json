@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T11:58:15.467931+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-01-02T13:03:58.013488+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "瑞士酒吧爆炸事件暂无嫌疑人被捕，基本排除恐袭",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "瑞士滑雪胜地起火爆炸已致数十人死亡，当地宣布进入紧急状态",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "瑞士酒吧火灾已致约40人丧生，马克龙：令人震惊",
@@ -48,30 +48,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "“新年噩梦”，瑞士滑雪胜地发生火灾已致数十人死亡，当地医院已满员",
           "url": "https://m.thepaper.cn/newsDetail_forward_32300096",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32292469",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
@@ -81,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -92,41 +94,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
           "url": "https://m.thepaper.cn/newsDetail_forward_32299363",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "1 月 1 日瑞士一滑雪小镇发生爆炸，至少 40 人死亡、 115 人受伤，具体情况如何？",
           "url": "https://www.zhihu.com/question/1990068959999911003",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         },
         {
           "title": "瑞士酒吧火灾死伤上百人",
           "url": "https://www.douyin.com/hot/2354268",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时03分]"
         }
       ]
     }
