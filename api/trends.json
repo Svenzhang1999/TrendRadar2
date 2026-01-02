@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T15:01:42.078823+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-01-02T15:43:12.708260+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 15时43分]"
         },
         {
           "title": "瑞士酒吧爆炸事件暂无嫌疑人被捕，基本排除恐袭",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 15时43分]"
         },
         {
           "title": "瑞士滑雪胜地起火爆炸已致数十人死亡，当地宣布进入紧急状态",
@@ -39,19 +39,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 15时43分]"
         },
         {
-          "title": "瑞士酒吧火灾已致约40人丧生，马克龙：令人震惊",
-          "url": "https://news.ifeng.com/c/8pZnHVfYYAO",
+          "title": "目击者：瑞士酒吧爆炸现场发生踩踏",
+          "url": "https://news.ifeng.com/c/8paRExInadX",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时01分]"
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         },
         {
           "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 15时43分]"
         },
         {
           "title": "“新年噩梦”，瑞士滑雪胜地发生火灾已致数十人死亡，当地医院已满员",
@@ -72,22 +72,24 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 15时43分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 15时43分]"
         },
         {
           "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
@@ -96,11 +98,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 15时43分]"
         },
         {
           "title": "1 月 1 日瑞士一滑雪小镇发生爆炸，至少 40 人死亡、 115 人受伤，具体情况如何？",
@@ -109,6 +112,17 @@
           "ranks": [
             18,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 15时43分]"
+        },
+        {
+          "title": "瑞士酒吧火灾已致约40人丧生，马克龙：令人震惊",
+          "url": "https://news.ifeng.com/c/8pZnHVfYYAO",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -139,13 +153,24 @@
           "time_info": "[11时57分 ~ 13时03分]"
         },
         {
+          "title": "瑞士一家酒吧爆炸并引发火灾，已致数十人死亡、近100人受伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32299616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
           "title": "据英国《金融时报》：英国金融监管机构关闭100项调查。",
           "url": "https://flash.jin10.com/detail/20260102130155172800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
