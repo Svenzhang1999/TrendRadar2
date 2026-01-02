@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T18:45:27.208812+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-01-02T19:32:14.828233+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时57分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时57分 ~ 19时32分]"
         },
         {
           "title": "瑞士滑雪胜地起火爆炸已致数十人死亡，当地宣布进入紧急状态",
@@ -43,6 +43,17 @@
           "time_info": "[11时57分 ~ 15时43分]"
         },
         {
+          "title": "瑞士酒吧火灾幸存者讲述恐怖经历：被压在3、4个人身下",
+          "url": "https://news.ifeng.com/c/8paaoUHswQh",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 19时32分]"
+        },
+        {
           "title": "目击者：瑞士酒吧爆炸现场发生踩踏",
           "url": "https://news.ifeng.com/c/8paRExInadX",
           "source": "凤凰网",
@@ -54,27 +65,18 @@
           "time_info": "[15时42分 ~ 16时57分]"
         },
         {
-          "title": "瑞士酒吧火灾幸存者讲述恐怖经历：被压在3、4个人身下",
-          "url": "https://news.ifeng.com/c/8paaoUHswQh",
-          "source": "凤凰网",
+          "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32292469",
+          "source": "澎湃新闻",
           "ranks": [
+            9,
+            8,
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 18时45分]"
-        },
-        {
-          "title": "日本确认2026年首起禽流感疫情",
-          "url": "https://wallstreetcn.com/livenews/3029802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时57分 ~ 19时32分]"
         },
         {
           "title": "日本确认2026年首起禽流感疫情",
@@ -87,19 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时46分 ~ 18时45分]"
-        },
-        {
-          "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32292469",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时57分 ~ 18时45分]"
         },
         {
           "title": "“新年噩梦”，瑞士滑雪胜地发生火灾已致数十人死亡，当地医院已满员",
@@ -121,11 +110,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时57分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时57分 ~ 19时32分]"
         },
         {
           "title": "1 月 1 日瑞士一滑雪小镇发生爆炸，至少 40 人死亡、 115 人受伤，具体情况如何？",
@@ -137,8 +127,34 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时57分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时57分 ~ 19时32分]"
+        },
+        {
+          "title": "日本确认2026年首起禽流感疫情",
+          "url": "https://wallstreetcn.com/livenews/3029802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时32分]"
+        },
+        {
+          "title": "婴儿体内有安眠药成分 育儿嫂被调查",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E4%BD%93%E5%86%85%E6%9C%89%E5%AE%89%E7%9C%A0%E8%8D%AF%E6%88%90%E5%88%86+%E8%82%B2%E5%84%BF%E5%AB%82%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 19时32分]"
         },
         {
           "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
@@ -153,19 +169,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时57分 ~ 15时43分]"
-        },
-        {
-          "title": "婴儿体内有安眠药成分 育儿嫂被调查",
-          "url": "https://www.baidu.com/s?wd=%E5%A9%B4%E5%84%BF%E4%BD%93%E5%86%85%E6%9C%89%E5%AE%89%E7%9C%A0%E8%8D%AF%E6%88%90%E5%88%86+%E8%82%B2%E5%84%BF%E5%AB%82%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 18时45分]"
         },
         {
           "title": "瑞士酒吧火灾已致约40人丧生，马克龙：令人震惊",
@@ -203,6 +206,30 @@
           "time_info": "[11时57分 ~ 13时03分]"
         },
         {
+          "title": "瑞士火灾暴露了什么问题",
+          "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%A3%AB%E7%81%AB%E7%81%BE%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时32分]"
+        },
+        {
+          "title": "调查显示亚洲高级投资银行家招聘量激增60%",
+          "url": "https://wallstreetcn.com/livenews/3029810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时32分]"
+        },
+        {
           "title": "瑞士一家酒吧爆炸并引发火灾，已致数十人死亡、近100人受伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_32299616",
           "source": "澎湃新闻",
@@ -225,24 +252,13 @@
           "time_info": "[16时56分 ~ 16时57分]"
         },
         {
-          "title": "调查显示亚洲高级投资银行家招聘量激增60%",
-          "url": "https://wallstreetcn.com/livenews/3029810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "波兰央行调查：波兰通胀预计将在2026年降至2.6%。",
           "url": "https://flash.jin10.com/detail/20260102175416435800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -258,15 +274,48 @@
           "time_info": "15时01分"
         },
         {
-          "title": "瑞士火灾暴露了什么问题",
-          "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%A3%AB%E7%81%AB%E7%81%BE%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "也门总统领导委员会副主席法拉杰·巴赫萨尼准将：将武器指向从胡塞武装手中解放出来的地区是不可取且危险的，并将导致更严重的混乱局面。",
+          "url": "https://flash.jin10.com/detail/20260102183707221800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "也门总统领导委员会副主席法拉杰·巴赫萨尼准将：也门哈德拉毛省不会成为清算政治或媒体恩怨的场所。",
+          "url": "https://flash.jin10.com/detail/20260102183613210800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "也门总统领导委员会副主席法拉杰·巴赫萨尼准将：指望在也门南部强行发动战争来瓦解南方人的意志是徒劳的。",
+          "url": "https://flash.jin10.com/detail/20260102183538810800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时32分"
+        },
+        {
+          "title": "也门总统领导委员会副主席法拉杰·巴赫萨尼准将：我们反对任何企图将也门南方拖入内部冲突的行径，这些冲突只会为敌人服务，其中最主要的敌人就是胡塞武装。",
+          "url": "https://flash.jin10.com/detail/20260102183522930800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     }
