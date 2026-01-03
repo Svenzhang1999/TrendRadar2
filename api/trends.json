@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T16:52:27.612878+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-01-03T17:42:18.975865+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "酒吧火灾已致40死，瑞士检方：可能由烟花棒引起",
@@ -42,15 +42,15 @@
           "time_info": "[14时56分 ~ 15时33分]"
         },
         {
-          "title": "据美联社记者：美国联邦航空管理局（FAA）因“持续的军事活动”在委内瑞拉首都加拉加斯爆炸事件前夕禁止美国商业航班进入委内瑞拉空域。",
-          "url": "https://flash.jin10.com/detail/20260103161308084800",
+          "title": "俄联邦委员会副主席：美国袭击委内瑞拉违反国际法",
+          "url": "https://flash.jin10.com/detail/20260103173359823800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "17时42分"
         },
         {
           "title": "委内瑞拉首都发生爆炸",
@@ -62,32 +62,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 17时42分]"
         },
         {
-          "title": "委内瑞拉首都传出爆炸声",
-          "url": "https://www.douyin.com/hot/2356021",
-          "source": "抖音",
+          "title": "现场视频：疑似委内瑞拉地空导弹遭空袭，发生剧烈爆炸",
+          "url": "https://v.ifeng.com/c/8pcDCuhG6Wd",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            2
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时52分]"
-        },
-        {
-          "title": "委内瑞拉首都加拉加斯传出数声爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3029977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时52分]"
+          "time_info": "[16时52分 ~ 17时42分]"
         },
         {
           "title": "据BNO新闻：在委内瑞拉首都发生爆炸期间，距离首都以东约 87 公里（54 英里）的伊格罗特机场也发生大爆炸。",
@@ -114,6 +102,18 @@
           "time_info": "[14时56分 ~ 15时33分]"
         },
         {
+          "title": "据美联社记者：美国联邦航空管理局（FAA）因“持续的军事活动”在委内瑞拉首都加拉加斯爆炸事件前夕禁止美国商业航班进入委内瑞拉空域。",
+          "url": "https://flash.jin10.com/detail/20260103161308084800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时42分]"
+        },
+        {
           "title": "委内瑞拉首都传来数声爆炸声",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A6%96%E9%83%BD%E4%BC%A0%E6%9D%A5%E6%95%B0%E5%A3%B0%E7%88%86%E7%82%B8%E5%A3%B0%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -126,18 +126,30 @@
           "time_info": "[14时56分 ~ 15时33分]"
         },
         {
-          "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
-          "url": "https://wallstreetcn.com/livenews/3029959",
-          "source": "华尔街见闻-快讯",
+          "title": "委内瑞拉首都传出爆炸声",
+          "url": "https://www.douyin.com/hot/2356021",
+          "source": "抖音",
           "ranks": [
-            7,
-            9,
-            16,
-            22
+            10,
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 17时42分]"
+        },
+        {
+          "title": "委内瑞拉首都加拉加斯传出数声爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3029977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 17时42分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -146,11 +158,27 @@
           "ranks": [
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 16时52分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 17时42分]"
+        },
+        {
+          "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
+          "url": "https://wallstreetcn.com/livenews/3029959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            16,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 17时42分]"
         },
         {
           "title": "瑞士火灾暴露了什么问题",
@@ -179,6 +207,18 @@
           "time_info": "[14时56分 ~ 16时52分]"
         },
         {
+          "title": "古巴国家主席：谴责美国袭击委内瑞拉的“罪行”",
+          "url": "https://news.ifeng.com/c/8pcD95nIT20",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 17时42分]"
+        },
+        {
           "title": "瑞士酒吧火灾仍有80至100名伤者情况危急",
           "url": "https://m.thepaper.cn/newsDetail_forward_32302589",
           "source": "澎湃新闻",
@@ -189,6 +229,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时46分 ~ 16时52分]"
+        },
+        {
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3029983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时42分]"
         },
         {
           "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
@@ -215,37 +267,15 @@
           "time_info": "[14时56分 ~ 15时33分]"
         },
         {
-          "title": "现场视频：疑似委内瑞拉地空导弹遭空袭，发生剧烈爆炸",
-          "url": "https://v.ifeng.com/c/8pcDCuhG6Wd",
-          "source": "凤凰网",
+          "title": "湖北美术馆发生火灾？当地回应",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            6
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
-          "url": "https://wallstreetcn.com/livenews/3029983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "古巴国家主席：谴责美国袭击委内瑞拉的“罪行”",
-          "url": "https://news.ifeng.com/c/8pcD95nIT20",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "市场消息：美国空袭委内瑞拉米兰达伊格罗特机场后发生重大二次爆炸。",
@@ -254,7 +284,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -279,6 +309,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "据《纽约时报》援引消息人士报道，委内瑞拉首都加拉加斯的爆炸已经停止，但美国军用飞机仍在空中飞行。",
+          "url": "https://flash.jin10.com/detail/20260103164900837800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "古巴国家主席：谴责美国袭击委内瑞拉的“罪行”",
+          "url": "https://flash.jin10.com/detail/20260103164246422800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     }
