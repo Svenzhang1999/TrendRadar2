@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T12:56:42.455074+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-01-03T13:45:45.326410+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时45分]"
         },
         {
           "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
@@ -27,8 +27,33 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时45分]"
+        },
+        {
+          "title": "IG法务出击,炫神败诉赔到破产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时45分]"
+        },
+        {
+          "title": "瑞士火灾暴露了什么问题",
+          "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%A3%AB%E7%81%AB%E7%81%BE%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时45分]"
         },
         {
           "title": "瑞士酒吧火灾仍有80至100名伤者情况危急",
@@ -37,29 +62,6 @@
           "ranks": [
             19,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时56分]"
-        },
-        {
-          "title": "IG法务出击,炫神败诉赔到破产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时56分]"
-        },
-        {
-          "title": "瑞士火灾暴露了什么问题",
-          "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%A3%AB%E7%81%AB%E7%81%BE%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
