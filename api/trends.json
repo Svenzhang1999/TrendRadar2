@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T11:46:49.702128+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-03T12:56:42.455074+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时56分]"
         },
         {
           "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
           "url": "https://wallstreetcn.com/livenews/3029959",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时56分]"
         },
         {
           "title": "瑞士酒吧火灾仍有80至100名伤者情况危急",
           "url": "https://m.thepaper.cn/newsDetail_forward_32302589",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时56分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -48,19 +50,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时56分]"
         },
         {
           "title": "瑞士火灾暴露了什么问题",
           "url": "https://search.bilibili.com/all?keyword=%E7%91%9E%E5%A3%AB%E7%81%AB%E7%81%BE%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时56分]"
         }
       ]
     }
