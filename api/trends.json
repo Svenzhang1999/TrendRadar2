@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T15:37:55.531407+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-01-04T16:54:25.607357+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "委内瑞拉首都接连传出爆炸声，疑似多架美军“支奴干”型直升机被目击者拍到在加拉加斯低空飞行",
@@ -32,6 +32,17 @@
           "time_info": "[12时17分 ~ 15时37分]"
         },
         {
+          "title": "搞权色交易 武汉原市长周先旺被双开",
+          "url": "https://www.toutiao.com/trending/7591413550879493678/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "法国对马斯克旗下聊天机器人 Grok 涉嫌生成色情内容启动调查，具体情况如何？",
           "url": "https://www.zhihu.com/question/1990786085630998063",
           "source": "知乎",
@@ -49,11 +60,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时58分 ~ 15时37分]"
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 16时54分]"
         },
         {
           "title": "委内瑞拉首都发生爆炸",
@@ -62,11 +74,12 @@
           "ranks": [
             24,
             27,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 15时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 16时54分]"
         },
         {
           "title": "湖北美术馆发生火灾？武汉市应急管理局回应消防已到场救援，正核实起火原因",
@@ -114,6 +127,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
+          "title": "湖北省政协原副主席周先旺被双开",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E7%9C%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%91%A8%E5%85%88%E6%97%BA%E8%A2%AB%E5%8F%8C%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "武汉原市长周先旺被双开",
+          "url": "https://www.douyin.com/hot/2357051",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "新疆4.6级地震",
+          "url": "https://www.douyin.com/hot/2357107",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "湖北省政协原副主席周先旺被双开",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E7%9C%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%91%A8%E5%85%88%E6%97%BA%E8%A2%AB%E5%8F%8C%E5%BC%80%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     }
