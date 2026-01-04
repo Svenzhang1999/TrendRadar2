@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-01-04T13:51:09.494956+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-01-04T14:58:32.341734+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "委内瑞拉首都接连传出爆炸声，疑似多架美军“支奴干”型直升机被目击者拍到在加拉加斯低空飞行",
           "url": "https://wallstreetcn.com/articles/3762475",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时51分]"
-        },
-        {
-          "title": "法国对马斯克旗下聊天机器人 Grok 涉嫌生成色情内容启动调查，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1990786085630998063",
-          "source": "知乎",
-          "ranks": [
+            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 14时58分]"
         },
         {
           "title": "云南德宏州州长卫岗主动投案，接受审查调查",
@@ -38,8 +28,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 14时58分]"
+        },
+        {
+          "title": "上海：加强对垄断和不正当竞争行为的监管执法 深化整治“内卷式”竞争",
+          "url": "https://flash.jin10.com/detail/20260104142400163800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "法国对马斯克旗下聊天机器人 Grok 涉嫌生成色情内容启动调查，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1990786085630998063",
+          "source": "知乎",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 14时58分]"
         },
         {
           "title": "湖北美术馆发生火灾？武汉市应急管理局回应消防已到场救援，正核实起火原因",
@@ -50,8 +63,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 14时58分]"
+        },
+        {
+          "title": "委内瑞拉首都发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A6%96%E9%83%BD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 14时58分]"
         },
         {
           "title": "未成年女孩遭网友性侵司机果断报警",
@@ -60,18 +86,6 @@
           "ranks": [
             17,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 13时51分]"
-        },
-        {
-          "title": "委内瑞拉首都发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A6%96%E9%83%BD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            27
           ],
           "is_new": false,
           "appearance_count": 3,
