@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:01:54.526304+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-01-07T17:53:09.102467+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "落马官员藏的万余张贰元纸钞拍出83万，收藏人士：4倍溢价不算高",
@@ -15,8 +15,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 17时01分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 17时53分]"
+        },
+        {
+          "title": "美国自动驾驶将迎重大推进？国会即将讨论立法简化监管",
+          "url": "https://www.cls.cn/detail/2250062",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时03分 ~ 17时53分]"
+        },
+        {
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://www.cls.cn/detail/2250455",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 17时53分]"
+        },
+        {
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://news.ifeng.com/c/8pim8n4QlIk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 17时53分]"
         },
         {
           "title": "分析师：金价看涨动力犹存，非农与最高法院判决成关键变数",
@@ -25,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -36,44 +72,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
-          "url": "https://www.cls.cn/detail/2250455",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
-          "url": "https://news.ifeng.com/c/8pim8n4QlIk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "美国自动驾驶将迎重大推进？国会即将讨论立法简化监管",
-          "url": "https://www.cls.cn/detail/2250062",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时03分 ~ 17时01分]"
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "1月7日投资避雷针：大牛股嘉美包装、国晟科技今起停牌核查",
@@ -113,8 +114,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 17时01分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 17时53分]"
         },
         {
           "title": "纯狱风,马杜罗被捕服装卖断货",
@@ -128,8 +129,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 17时01分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 17时53分]"
         },
         {
           "title": "广州海珠通报一拆迁被指“扬尘逼迁”：立即停工，成立联合调查组",
@@ -143,6 +144,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时55分 ~ 15时02分]"
+        },
+        {
+          "title": "许家印被执行4700万",
+          "url": "https://www.toutiao.com/trending/7591425505091452978/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 17时53分]"
+        },
+        {
+          "title": "对日本进口二氯二氢硅反倾销调查",
+          "url": "https://www.toutiao.com/trending/7592513566675796006/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 17时53分]"
         },
         {
           "title": "菲律宾发生6.7级地震",
@@ -167,6 +192,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 13时04分]"
+        },
+        {
+          "title": "香港扫黄8名女子被捕最大62岁",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%89%AB%E9%BB%848%E5%90%8D%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8D%95%E6%9C%80%E5%A4%A762%E5%B2%81%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "太平洋海啸预警中心（PTWC）：菲律宾巴库林发生6.7级地震，无海啸预警、警报、监视信息或海啸威胁。",
@@ -204,6 +241,28 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
+          "title": "许家印被执行4700万",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E6%89%A7%E8%A1%8C4700%E4%B8%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
+          "title": "河南坠楼女教师父母回应网上传闻",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%9D%A0%E6%A5%BC%E5%A5%B3%E6%95%99%E5%B8%88%E7%88%B6%E6%AF%8D%E5%9B%9E%E5%BA%94%E7%BD%91%E4%B8%8A%E4%BC%A0%E9%97%BB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
           "title": "女子获刑后4次怀孕 4次监外执行",
           "url": "https://www.toutiao.com/trending/7592107354481688603/",
           "source": "今日头条",
@@ -227,35 +286,13 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
-          "title": "许家印被执行4700万",
-          "url": "https://www.toutiao.com/trending/7591425505091452978/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "对日本进口二氯二氢硅反倾销调查",
-          "url": "https://www.toutiao.com/trending/7592513566675796006/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
           "title": "中央网信办：将加大对恶意营销信息处置力度",
           "url": "https://wallstreetcn.com/livenews/3032277",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -266,7 +303,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -280,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "火星将短暂“失联”",
+          "url": "https://news.ifeng.com/c/8piwGRLAFCw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "柬埔寨参议院主席洪森：致力于全面执行与泰国停火协议",
@@ -299,7 +347,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -409,7 +457,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
