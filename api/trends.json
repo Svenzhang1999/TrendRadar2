@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:47:21.777532+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-01-07T17:01:54.526304+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 28,
+      "match_count": 38,
       "titles": [
         {
           "title": "落马官员藏的万余张贰元纸钞拍出83万，收藏人士：4倍溢价不算高",
@@ -15,21 +15,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 17时01分]"
         },
         {
-          "title": "1月7日投资避雷针：大牛股嘉美包装、国晟科技今起停牌核查",
-          "url": "https://www.cls.cn/detail/2249958",
-          "source": "财联社热门",
+          "title": "分析师：金价看涨动力犹存，非农与最高法院判决成关键变数",
+          "url": "https://flash.jin10.com/detail/20260107165757917800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            8,
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "许家印被执行4700万",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E6%89%A7%E8%A1%8C4700%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://www.cls.cn/detail/2250455",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://news.ifeng.com/c/8pim8n4QlIk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "美国自动驾驶将迎重大推进？国会即将讨论立法简化监管",
@@ -41,8 +72,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时47分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 17时01分]"
+        },
+        {
+          "title": "1月7日投资避雷针：大牛股嘉美包装、国晟科技今起停牌核查",
+          "url": "https://www.cls.cn/detail/2249958",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 17时01分]"
         },
         {
           "title": "“兰州瓜农刺伤城管”案一审宣判，判决书详解两被告人为何获减轻处罚",
@@ -64,11 +109,12 @@
             3,
             6,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 17时01分]"
         },
         {
           "title": "纯狱风,马杜罗被捕服装卖断货",
@@ -78,11 +124,12 @@
             15,
             18,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 17时01分]"
         },
         {
           "title": "广州海珠通报一拆迁被指“扬尘逼迁”：立即停工，成立联合调查组",
@@ -180,6 +227,50 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
+          "title": "许家印被执行4700万",
+          "url": "https://www.toutiao.com/trending/7591425505091452978/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "对日本进口二氯二氢硅反倾销调查",
+          "url": "https://www.toutiao.com/trending/7592513566675796006/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "中央网信办：将加大对恶意营销信息处置力度",
+          "url": "https://wallstreetcn.com/livenews/3032277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "中央网信办：持续重拳整治低俗“擦边”等网络直播电商乱象",
+          "url": "https://wallstreetcn.com/livenews/3032276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "台空军一架F-16失联",
           "url": "https://news.ifeng.com/c/8phVwcT3uy3",
           "source": "凤凰网",
@@ -200,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "国家金融监督管理总局上海监管局公告称，核准Chin Meng Hwi （秦明慧）瑞再企商保险有限公司总经理的任职资格，并要求被核准任职资格人员2个月内到任，在任命后10日内报告任职情况。未在上述规定期限内到任的，其任职资格失效。",
+          "url": "https://wallstreetcn.com/livenews/3032275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "广州一工地被指“扬尘逼迁”，街道：责令涉事拆卸公司停工整改，立案处罚",
@@ -230,7 +332,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -263,7 +365,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -301,6 +403,17 @@
           "time_info": "11时55分"
         },
         {
+          "title": "数字人主播将被纳入直播电商监管",
+          "url": "https://wallstreetcn.com/livenews/3032258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "市场监管总局、国家网信办联合发布 《直播电商监督管理办法》",
           "url": "https://wallstreetcn.com/livenews/3032053",
           "source": "华尔街见闻-快讯",
@@ -318,7 +431,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
