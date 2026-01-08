@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T17:53:36.674631+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-01-08T18:53:51.206102+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "媒体：太子集团创始人陈志被捕并遣送中国",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时55分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 18时53分]"
         },
         {
           "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 17时53分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 18时53分]"
         },
         {
           "title": "太子集团创始人陈志被捕并遣送中国",
@@ -90,8 +90,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时55分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 18时53分]"
         },
         {
           "title": "4道海鲜与2个椰子1930元？三亚通报：相关部门联合介入调查",
@@ -120,8 +120,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时55分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 18时53分]"
         },
         {
           "title": "中央网信办查处假冒仿冒网站",
@@ -197,6 +197,18 @@
           "time_info": "[15时01分 ~ 15时45分]"
         },
         {
+          "title": "因外卖未送上楼殴打骑手 打人者获刑",
+          "url": "https://www.toutiao.com/trending/7592493704419049514/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 18时53分]"
+        },
+        {
           "title": "女子喝自制豆浆中毒上吐下泻",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E8%87%AA%E5%88%B6%E8%B1%86%E6%B5%86%E4%B8%AD%E6%AF%92%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -241,6 +253,17 @@
           "time_info": "11时55分"
         },
         {
+          "title": "以色列总理内塔尼亚胡取消了原定于今天对约旦河西岸的访问，转而与特朗普任命的加沙和平委员会新任主席尼古拉·姆拉德诺夫（Nikolay Mladenov）会面。",
+          "url": "https://flash.jin10.com/detail/20260108182040235800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "特朗普表示，美国对委内瑞拉的监管可能会持续多年，美国将在未来数年内开采委内瑞拉石油。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033071",
           "source": "华尔街见闻-快讯",
@@ -263,6 +286,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "万科Ａ：因到龄退休，董事、执行副总裁郁亮辞职",
+          "url": "https://wallstreetcn.com/livenews/3033229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
           "url": "https://www.cls.cn/detail/2251127",
           "source": "财联社热门",
@@ -274,15 +308,15 @@
           "time_info": "11时55分"
         },
         {
-          "title": "因外卖未送上楼殴打骑手 打人者获刑",
-          "url": "https://www.toutiao.com/trending/7592493704419049514/",
-          "source": "今日头条",
+          "title": "《标准物质管理办法》出台 “标尺”更准 监管更强",
+          "url": "https://wallstreetcn.com/livenews/3033222",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时01分"
+          "time_info": "18时53分"
         },
         {
           "title": "市场监管总局通报多晶硅垄断风险？相关方：一切以政府及企业依法依规披露信息为准",
@@ -294,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "新疆生产建设兵团党委常委、副司令员李旭接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3033212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "国家能源集团河南电力有限公司原一级业务总监朱国庆接受纪律审查和监察调查",
@@ -316,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "新疆生产建设兵团党委常委、副司令员李旭接受审查调查。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3033205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     }
