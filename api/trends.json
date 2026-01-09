@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T19:34:28.700246+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-01-09T21:56:51.271138+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "4道海鲜2个椰子1930元？三亚：拟对司机罚1.5万，海鲜店被立案",
@@ -38,24 +38,12 @@
           "ranks": [
             4,
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时59分 ~ 19时34分]"
-        },
-        {
-          "title": "对外卖平台市场竞争状况调查评估",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E7%8A%B6%E5%86%B5%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[16时59分 ~ 21时56分]"
         },
         {
           "title": "南通一医院酿一级甲等医疗事故",
@@ -92,6 +80,31 @@
           "time_info": "13时03分"
         },
         {
+          "title": "对外卖平台市场竞争状况调查评估",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E7%8A%B6%E5%86%B5%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 21时56分]"
+        },
+        {
+          "title": "天普股份被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2253455",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "或在周六，美国232关税调查结果将出！白银、铂金和钯金将面临“重大不确定性”",
           "url": "https://wallstreetcn.com/articles/3762911",
           "source": "华尔街见闻",
@@ -100,8 +113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时03分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 21时56分]"
         },
         {
           "title": "财联社C50风向指数调查：2025年12月社融增速或继续回落，M2与M1剪刀差走扩",
@@ -166,8 +179,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时59分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[16时59分 ~ 21时56分]"
+        },
+        {
+          "title": "官方调查外卖平台市场竞争状况",
+          "url": "https://www.douyin.com/hot/2362297",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 21时56分]"
         },
         {
           "title": "狗头萝莉自曝负债650万成老赖",
@@ -196,15 +221,16 @@
           "time_info": "[17时53分 ~ 19时34分]"
         },
         {
-          "title": "官方调查外卖平台市场竞争状况",
-          "url": "https://www.douyin.com/hot/2362297",
-          "source": "抖音",
+          "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
+          "url": "https://www.cls.cn/detail/2253152",
+          "source": "财联社热门",
           "ranks": [
-            18
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 19时34分]"
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 21时56分]"
         },
         {
           "title": "租房中介吐槽租客失联房内垃圾堆积如山：保洁公司拒绝接单清理",
@@ -217,18 +243,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时59分 ~ 17时54分]"
-        },
-        {
-          "title": "国务院反垄断反不正当竞争委员会：外卖平台服务行业拼补贴、拼价格、控流量等问题突出 决定开展调查、评估",
-          "url": "https://www.cls.cn/detail/2253152",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 19时34分]"
         },
         {
           "title": "官方调查外卖平台市场竞争状况",
@@ -331,6 +345,17 @@
           "time_info": "17时54分"
         },
         {
+          "title": "5人违规穿越鳌太线3人遇难，体总登山中心：严禁违规开展徒步穿越等活动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32352116",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "英特尔(INTC.O)盘前涨约2%，此前特朗普表示他与英特尔首席执行官举行了重要会晤。",
           "url": "https://flash.jin10.com/detail/20260109173013257800",
           "source": "金十数据",
@@ -425,7 +450,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -447,9 +472,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "新三国的编剧为什么要让关羽自杀?",
+          "url": "https://www.zhihu.com/question/620916088",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美团：坚决拥护国家开展外卖市场竞争调查评估",
