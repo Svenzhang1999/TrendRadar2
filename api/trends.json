@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T13:03:19.767827+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-01-09T15:02:22.361158+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "4道海鲜2个椰子1930元？三亚：拟对司机罚1.5万，海鲜店被立案",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 15时02分]"
         },
         {
           "title": "Nature 发布全球博士幸福指数调查，中国最低巴西最高，如何理解这一调查结果？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 15时02分]"
         },
         {
           "title": "景德镇肇事司机家属冲撞公诉席被摁住",
@@ -37,9 +38,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "南通一医院酿一级甲等医疗事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E4%B8%80%E5%8C%BB%E9%99%A2%E9%85%BF%E4%B8%80%E7%BA%A7%E7%94%B2%E7%AD%89%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "或在周六，美国232关税调查结果将出！白银、铂金和钯金将面临“重大不确定性”",
+          "url": "https://wallstreetcn.com/articles/3762911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 15时02分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -47,11 +71,36 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 15时02分]"
+        },
+        {
+          "title": "万科：因到龄退休，董事、执行副总裁郁亮辞职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32343532",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 15时02分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：2025年12月社融增速或继续回落，M2与M1剪刀差走扩",
+          "url": "https://www.cls.cn/detail/2252759",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 13时03分]"
+          "time_info": "[13时03分 ~ 15时02分]"
         },
         {
           "title": "裁决在即，调查内塔尼亚胡亲信贪腐案的法官车祸身亡",
@@ -59,17 +108,6 @@
           "source": "凤凰网",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 13时03分]"
-        },
-        {
-          "title": "万科：因到龄退休，董事、执行副总裁郁亮辞职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32343532",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -94,18 +132,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "或在周六，美国232关税调查结果将出！白银、铂金和钯金将面临“重大不确定性”",
-          "url": "https://wallstreetcn.com/articles/3762911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -116,20 +143,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
         {
-          "title": "财联社C50风向指数调查：2025年12月社融增速或继续回落，M2与M1剪刀差走扩",
-          "url": "https://www.cls.cn/detail/2252759",
-          "source": "财联社热门",
+          "title": "上海：对新产业、新业态、新模式广告探索包容审慎监管举措",
+          "url": "https://wallstreetcn.com/livenews/3033822",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "15时02分"
         },
         {
           "title": "男子胸背痛疑心梗去世 医生被指误诊",
@@ -138,7 +165,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -152,6 +179,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "景德镇车祸被告人听到判决面无表情",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E8%A2%AB%E5%91%8A%E4%BA%BA%E5%90%AC%E5%88%B0%E5%88%A4%E5%86%B3%E9%9D%A2%E6%97%A0%E8%A1%A8%E6%83%85%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "泰国总理：在黄金问题上，金融监管机构将负责监督相关事务。",
+          "url": "https://flash.jin10.com/detail/20260109133406538800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     }
