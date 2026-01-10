@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:42:58.260339+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-01-10T19:11:11.439283+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 19时11分]"
         },
         {
           "title": "16倍大牛股被证监会立案调查，多家机构曾现身十大流通股东",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 19时11分]"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 19时11分]"
         },
         {
           "title": "站长立霸王条款,公然挑衅劳动法",
@@ -47,11 +47,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 19时11分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -64,30 +65,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 19时11分]"
         },
         {
           "title": "婚前惊现天价债!男生跑路拒接盘",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348953&amp;topic_name=%E5%A9%9A%E5%89%8D%E6%83%8A%E7%8E%B0%E5%A4%A9%E4%BB%B7%E5%80%BA%21%E7%94%B7%E7%94%9F%E8%B7%91%E8%B7%AF%E6%8B%92%E6%8E%A5%E7%9B%98",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 19时11分]"
         },
         {
           "title": "基辅市议会表示，应国家电网运营商的要求切断城市供电后，基辅的供水和供热系统已暂停运行。",
           "url": "https://flash.jin10.com/detail/20260110181718990800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时11分]"
         },
         {
           "title": "天普股份被证监会立案调查",
@@ -130,18 +133,6 @@
           "time_info": "[12时58分 ~ 16时51分]"
         },
         {
-          "title": "网信办发布征求意见 新规拟定APP应提供注销账号便捷功能",
-          "url": "https://flash.jin10.com/detail/20260110164751967800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时42分]"
-        },
-        {
           "title": "李在明要求彻查“韩国无人机侵犯朝鲜领空”一事，韩国防部称可进行韩朝联合调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32358047",
           "source": "澎湃新闻",
@@ -151,8 +142,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 19时11分]"
         },
         {
           "title": "贵州毕节威宁县4.5级地震",
@@ -165,11 +156,12 @@
             19,
             23,
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 19时11分]"
         },
         {
           "title": "辟谣周榜｜四川机械厂火灾系谣言",
@@ -179,8 +171,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 19时11分]"
         },
         {
           "title": "美团、淘宝闪购回应“对外卖市场竞争调查评估”：坚决拥护，积极配合",
@@ -192,21 +184,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 18时42分]"
-        },
-        {
-          "title": "网信办发布征求意见 APP不得频繁索要客户个人信息并影响正常使用",
-          "url": "https://flash.jin10.com/detail/20260110164355891800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时48分 ~ 19时11分]"
         },
         {
           "title": "华泰证券：预计联储在1-5月暂停降息 待新联储主席就任后降息1-2次",
@@ -222,30 +201,17 @@
           "time_info": "[13时42分 ~ 15时33分]"
         },
         {
-          "title": "网信办发布征求意见 拟起草新规防APP偷听",
-          "url": "https://flash.jin10.com/detail/20260110164053548800",
+          "title": "网信办发布征求意见 新规拟定APP应提供注销账号便捷功能",
+          "url": "https://flash.jin10.com/detail/20260110164751967800",
           "source": "金十数据",
           "ranks": [
-            3,
-            9,
-            20
+            5,
+            16,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时42分]"
-        },
-        {
-          "title": "中国地震台网正式测定：01月10日15时57分在堪察加东岸远海（北纬52.70度，东经161.00度）发生5.4级地震，震源深度20千米。",
-          "url": "https://flash.jin10.com/detail/20260110162717210800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时42分]"
+          "time_info": "[17时37分 ~ 19时11分]"
         },
         {
           "title": "美国消费者银行家协会：然而，有证据表明10%的利率上限将降低信贷可获得性。若该上限付诸实施，只会迫使消费者转向监管更宽松、成本更高的替代方案。",
@@ -262,6 +228,20 @@
           "time_info": "[12时58分 ~ 15时33分]"
         },
         {
+          "title": "网信办发布征求意见 APP不得频繁索要客户个人信息并影响正常使用",
+          "url": "https://flash.jin10.com/detail/20260110164355891800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时11分]"
+        },
+        {
           "title": "日本四国地区确认本季首起禽流感疫情",
           "url": "https://wallstreetcn.com/livenews/3034491",
           "source": "华尔街见闻-快讯",
@@ -275,6 +255,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时49分 ~ 15时33分]"
+        },
+        {
+          "title": "网信办发布征求意见 拟起草新规防APP偷听",
+          "url": "https://flash.jin10.com/detail/20260110164053548800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时11分]"
+        },
+        {
+          "title": "中国地震台网正式测定：01月10日15时57分在堪察加东岸远海（北纬52.70度，东经161.00度）发生5.4级地震，震源深度20千米。",
+          "url": "https://flash.jin10.com/detail/20260110162717210800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时11分]"
         },
         {
           "title": "韩国总统要求彻查“韩国无人机侵犯朝鲜领空”一事 韩国国防部说可进行韩朝联合调查",
@@ -299,11 +307,12 @@
             16,
             12,
             9,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时48分 ~ 19时11分]"
         },
         {
           "title": "多益网络校招「拉黑」广东一高校，称因老师「颠倒是非」，企业是否涉嫌违法？如何加强监管以避免此类情况？",
@@ -316,8 +325,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 19时11分]"
         },
         {
           "title": "中国市场监管总局公布新规，优化消费维权，规制恶意索赔",
@@ -335,6 +344,18 @@
           "time_info": "[12时58分 ~ 16时51分]"
         },
         {
+          "title": "三亚游客点四菜花费 1868 元，调查认定商家明码标价且无价格违法，三亚海鲜是怎么定价的？为啥这么贵？",
+          "url": "https://www.zhihu.com/question/1992659743710401747",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时11分]"
+        },
+        {
           "title": "美国国家航空航天局：计划不早于美国东部时间1月14日下午5点（北京时间1月15日早上6点），执行SpaceX“Crew-11”任务组与国际空间站的分离对接。",
           "url": "https://flash.jin10.com/detail/20260110095439295800",
           "source": "金十数据",
@@ -347,6 +368,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时49分 ~ 14时57分]"
+        },
+        {
+          "title": "渤海部分海域连续20天执行军事任务",
+          "url": "https://www.toutiao.com/trending/7593319290544259135/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时11分]"
         },
         {
           "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
@@ -363,28 +397,16 @@
           "time_info": "[11时49分 ~ 14时57分]"
         },
         {
-          "title": "三亚游客点四菜花费 1868 元，调查认定商家明码标价且无价格违法，三亚海鲜是怎么定价的？为啥这么贵？",
-          "url": "https://www.zhihu.com/question/1992659743710401747",
-          "source": "知乎",
+          "title": "日本四国地区确认本季首起禽流感疫情",
+          "url": "https://flash.jin10.com/detail/20260110172301118800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            8
+            11,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时42分]"
-        },
-        {
-          "title": "渤海部分海域连续20天执行军事任务",
-          "url": "https://www.toutiao.com/trending/7593319290544259135/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时42分]"
+          "time_info": "[18时42分 ~ 19时11分]"
         },
         {
           "title": "船运调查机构ITS数据显示，马来西亚1月1日至10日棕榈油出口量预计为504400吨，增长29.2%。",
@@ -443,17 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 11时49分]"
-        },
-        {
-          "title": "日本四国地区确认本季首起禽流感疫情",
-          "url": "https://flash.jin10.com/detail/20260110172301118800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "亚运冠军曝训练基地主任猥亵女队员",
