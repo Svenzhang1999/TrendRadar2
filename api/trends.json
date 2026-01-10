@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T14:57:06.584066+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-10T15:33:36.888307+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "5人违规穿越鳌太线3人遇难，体总登山中心：严禁违规开展徒步穿越等活动",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "16倍大牛股被证监会立案调查，多家机构曾现身十大流通股东",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
@@ -38,32 +38,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "站长立霸王条款,公然挑衅劳动法",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348952&amp;topic_name=%E7%AB%99%E9%95%BF%E7%AB%8B%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE%2C%E5%85%AC%E7%84%B6%E6%8C%91%E8%A1%85%E5%8A%B3%E5%8A%A8%E6%B3%95",
           "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "中国证监会原副主席屠光绍：健全投融资相协调的资本市场功能已成为资本市场发展的核心任务",
-          "url": "https://wallstreetcn.com/livenews/3034495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            13
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时57分]"
+          "time_info": "[14时56分 ~ 15时33分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -74,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "天普股份被证监会立案调查",
@@ -86,8 +74,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
+        },
+        {
+          "title": "中国证监会原副主席屠光绍：健全投融资相协调的资本市场功能已成为资本市场发展的核心任务",
+          "url": "https://wallstreetcn.com/livenews/3034495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时33分]"
         },
         {
           "title": "王莉举报训练基地主任猥亵女队员",
@@ -107,11 +109,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 15时33分]"
         },
         {
           "title": "美国消费者银行家协会：然而，有证据表明10%的利率上限将降低信贷可获得性。若该上限付诸实施，只会迫使消费者转向监管更宽松、成本更高的替代方案。",
@@ -120,11 +123,12 @@
           "ranks": [
             3,
             6,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时33分]"
         },
         {
           "title": "日本四国地区确认本季首起禽流感疫情",
@@ -134,11 +138,12 @@
             1,
             8,
             9,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[11时49分 ~ 15时33分]"
         },
         {
           "title": "韩国总统要求彻查“韩国无人机侵犯朝鲜领空”一事 韩国国防部说可进行韩朝联合调查",
@@ -148,11 +153,12 @@
             4,
             11,
             12,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[11时49分 ~ 15时33分]"
         },
         {
           "title": "贵州毕节威宁县4.5级地震",
@@ -161,11 +167,12 @@
           "ranks": [
             6,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "对外卖平台市场竞争状况调查评估",
@@ -174,11 +181,12 @@
           "ranks": [
             16,
             12,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "辟谣周榜｜四川机械厂火灾系谣言",
@@ -188,8 +196,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
         },
         {
           "title": "美团、淘宝闪购回应“对外卖市场竞争调查评估”：坚决拥护，积极配合",
@@ -200,8 +208,22 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时33分]"
+        },
+        {
+          "title": "中国市场监管总局公布新规，优化消费维权，规制恶意索赔",
+          "url": "https://wallstreetcn.com/livenews/3034492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时33分]"
         },
         {
           "title": "美国国家航空航天局：计划不早于美国东部时间1月14日下午5点（北京时间1月15日早上6点），执行SpaceX“Crew-11”任务组与国际空间站的分离对接。",
@@ -232,28 +254,28 @@
           "time_info": "[11时49分 ~ 14时57分]"
         },
         {
-          "title": "中国市场监管总局公布新规，优化消费维权，规制恶意索赔",
-          "url": "https://wallstreetcn.com/livenews/3034492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时57分]"
-        },
-        {
           "title": "多益网络校招「拉黑」广东一高校，称因老师「颠倒是非」，企业是否涉嫌违法？如何加强监管以避免此类情况？",
           "url": "https://www.zhihu.com/question/1992387069503373624",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 15时33分]"
+        },
+        {
+          "title": "船运调查机构ITS数据显示，马来西亚1月1日至10日棕榈油出口量预计为504400吨，增长29.2%。",
+          "url": "https://flash.jin10.com/detail/20260110131858849800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
+          "time_info": "[14时57分 ~ 15时33分]"
         },
         {
           "title": "熬夜到什么程度可能会发生猝死",
@@ -278,6 +300,17 @@
           "time_info": "[11时48分 ~ 11时49分]"
         },
         {
+          "title": "李在明要求彻查“韩国无人机侵犯朝鲜领空”一事，韩国防部称可进行韩朝联合调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358047",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "亚运冠军曝训练基地主任猥亵女队员",
           "url": "https://www.toutiao.com/trending/7593542858507370532/",
           "source": "今日头条",
@@ -289,15 +322,15 @@
           "time_info": "13时42分"
         },
         {
-          "title": "船运调查机构ITS数据显示，马来西亚1月1日至10日棕榈油出口量预计为504400吨，增长29.2%。",
-          "url": "https://flash.jin10.com/detail/20260110131858849800",
-          "source": "金十数据",
+          "title": "说话含糊 言语霸凌",
+          "url": "https://s.weibo.com/weibo?q=%E8%AF%B4%E8%AF%9D%E5%90%AB%E7%B3%8A%20%E8%A8%80%E8%AF%AD%E9%9C%B8%E5%87%8C&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "15时33分"
         },
         {
           "title": "王莉举报训练基地主任猥亵队员",
