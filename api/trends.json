@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T12:41:29.346357+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-11T13:19:39.144156+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "一年举报2000多次但均不构成案件，市场监管总局公布新规规制恶意索赔",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "16倍大牛股被证监会立案调查，多家机构曾现身十大流通股东",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "【早报】两部门发文！取消光伏等产品增值税出口退税；天普股份被证监会立案调查",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "学生校内离奇身亡,官方盖章猝死",
@@ -52,6 +52,17 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "日本岩手县发生5.1级地震 震源深度60公里",
+          "url": "https://flash.jin10.com/detail/20260111124537017800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "地震痛失儿女的辅警又有了宝宝",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E7%97%9B%E5%A4%B1%E5%84%BF%E5%A5%B3%E7%9A%84%E8%BE%85%E8%AD%A6%E5%8F%88%E6%9C%89%E4%BA%86%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -63,6 +74,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "日本岩手县发生5.1级地震，震源深度60公里",
+          "url": "https://wallstreetcn.com/livenews/3034629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "婚前惊现天价债,男生跑路拒接盘",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348953&amp;topic_name=%E5%A9%9A%E5%89%8D%E6%83%8A%E7%8E%B0%E5%A4%A9%E4%BB%B7%E5%80%BA%2C%E7%94%B7%E7%94%9F%E8%B7%91%E8%B7%AF%E6%8B%92%E6%8E%A5%E7%9B%98",
           "source": "贴吧",
@@ -71,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "阿根廷中部森林火灾蔓延，过火面积逾5500公顷",
@@ -95,8 +117,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "对外卖平台市场竞争状况调查评估",
@@ -105,11 +127,12 @@
           "ranks": [
             17,
             12,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "河南新蔡再通报“一男生宿舍内身亡”：心源性疾病导致，排除外伤、中毒",
@@ -119,8 +142,70 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时19分]"
+        },
+        {
+          "title": "男子胸背痛疑心梗被误诊后去世，医方被定主责且警方刑事立案，暴露出医疗行业哪些问题？",
+          "url": "https://www.zhihu.com/question/1992623155601236574",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时19分]"
+        },
+        {
+          "title": "地震痛失儿女的辅警又有了宝宝",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E7%97%9B%E5%A4%B1%E5%84%BF%E5%A5%B3%E7%9A%84%E8%BE%85%E8%AD%A6%E5%8F%88%E6%9C%89%E4%BA%86%E5%AE%9D%E5%AE%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时19分]"
+        },
+        {
+          "title": "网信办起草新规防 App「偷听」，有哪些新看点？能彻底杜绝违规收集使用个人信息吗？",
+          "url": "https://www.zhihu.com/question/1993372449258042858",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时19分]"
+        },
+        {
+          "title": "云南回应亚运冠军举报训练基地主任“索要奖金”：范某某被立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360711",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时19分]"
+        },
+        {
+          "title": "网信办起草新规禁止APP偷听偷拍",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B5%B7%E8%8D%89%E6%96%B0%E8%A7%84%E7%A6%81%E6%AD%A2APP%E5%81%B7%E5%90%AC%E5%81%B7%E6%8B%8D",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时19分]"
         },
         {
           "title": "李在明要求彻查“韩国无人机侵犯朝鲜领空”一事，韩国防部称可进行韩朝联合调查",
@@ -135,62 +220,29 @@
           "time_info": "[09时04分 ~ 11时43分]"
         },
         {
-          "title": "男子胸背痛疑心梗被误诊后去世，医方被定主责且警方刑事立案，暴露出医疗行业哪些问题？",
-          "url": "https://www.zhihu.com/question/1992623155601236574",
-          "source": "知乎",
+          "title": "阿根廷中部森林火灾蔓延 过火面积逾5500公顷",
+          "url": "https://flash.jin10.com/detail/20260111085743571800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
-          "title": "地震痛失儿女的辅警又有了宝宝",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E7%97%9B%E5%A4%B1%E5%84%BF%E5%A5%B3%E7%9A%84%E8%BE%85%E8%AD%A6%E5%8F%88%E6%9C%89%E4%BA%86%E5%AE%9D%E5%AE%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
-          "title": "网信办起草新规防 App「偷听」，有哪些新看点？能彻底杜绝违规收集使用个人信息吗？",
-          "url": "https://www.zhihu.com/question/1993372449258042858",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
-          "title": "云南回应亚运冠军举报训练基地主任“索要奖金”：范某某被立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360711",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
+            13,
+            14,
             15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "time_info": "[11时43分 ~ 13时19分]"
         },
         {
-          "title": "网信办起草新规禁止APP偷听偷拍",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BF%A1%E5%8A%9E%E8%B5%B7%E8%8D%89%E6%96%B0%E8%A7%84%E7%A6%81%E6%AD%A2APP%E5%81%B7%E5%90%AC%E5%81%B7%E6%8B%8D",
-          "source": "百度热搜",
+          "title": "网购维权有新规：平台内经营者投诉管辖权明确",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358698",
+          "source": "澎湃新闻",
           "ranks": [
-            22,
-            23
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "村小校长：家长提意见 执不执行在我",
@@ -217,28 +269,16 @@
           "time_info": "[09时04分 ~ 11时43分]"
         },
         {
-          "title": "阿根廷中部森林火灾蔓延 过火面积逾5500公顷",
-          "url": "https://flash.jin10.com/detail/20260111085743571800",
-          "source": "金十数据",
+          "title": "证监会副主席陈华平：促进投融资功能协调必须抓住上市公司质量",
+          "url": "https://wallstreetcn.com/livenews/3034620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            14
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时41分]"
-        },
-        {
-          "title": "网购维权有新规：平台内经营者投诉管辖权明确",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358698",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时41分]"
+          "time_info": "[12时41分 ~ 13时19分]"
         },
         {
           "title": "三亚游客点四菜花费 1868 元，调查认定商家明码标价且无价格违法，三亚海鲜是怎么定价的？为啥这么贵？",
@@ -261,17 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "证监会副主席陈华平：促进投融资功能协调必须抓住上市公司质量",
-          "url": "https://wallstreetcn.com/livenews/3034620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "亚运冠军曝基地主任猥亵女队员",
@@ -338,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "施罗德试图殴打东契奇被禁赛3场",
+          "url": "https://www.toutiao.com/trending/7593237462144335926/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "在香港拿假支票存160亿欧元 1人被捕",
