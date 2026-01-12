@@ -1,34 +1,47 @@
 {
-  "generated_at": "2026-01-12T11:07:59.766952+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-01-12T12:43:04.945671+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "救援队被秦岭遇难者家属起诉一审结束，正等待判决，可能怎么判？判决结果会影响以后的救援机制吗？",
-          "url": "https://www.zhihu.com/question/1993420227908761003",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时07分]"
-        },
         {
           "title": "【早报】证监会提高“吹哨人”奖励标准；天普股份股价异常波动公告涉嫌重大遗漏被立案调查",
           "url": "https://www.cls.cn/detail/2254224",
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时43分]"
+        },
+        {
+          "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
+          "url": "https://wallstreetcn.com/articles/3763056",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时07分]"
+          "time_info": "[11时07分 ~ 12时43分]"
+        },
+        {
+          "title": "美联储主席鲍威尔遭刑事调查",
+          "url": "https://www.douyin.com/hot/2364900",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
         },
         {
           "title": "3大牛股明日复牌，16倍牛股天普股份被证监会立案调查",
@@ -40,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
-          "url": "https://wallstreetcn.com/articles/3763056",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
         },
         {
           "title": "据日本气象厅消息，当地时间今天（1月12日）上午9点50分左右，日本北海道宗谷地区南部发生5.0级地震，最大震感为震度3，震源深度极浅。",
@@ -72,8 +74,32 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时43分]"
+        },
+        {
+          "title": "救援队被秦岭遇难者家属起诉一审结束，正等待判决，可能怎么判？判决结果会影响以后的救援机制吗？",
+          "url": "https://www.zhihu.com/question/1993420227908761003",
+          "source": "知乎",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时43分]"
+        },
+        {
+          "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
+          "url": "https://www.zhihu.com/question/1993965084217713724",
+          "source": "知乎",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时07分]"
+          "time_info": "[11时07分 ~ 12时43分]"
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查",
@@ -81,11 +107,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时43分]"
         },
         {
           "title": "婚前惊现天价债,男生跑路拒接盘",
@@ -93,11 +120,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时43分]"
         },
         {
           "title": "站长立霸王条款,公然挑衅劳动法",
@@ -105,11 +133,69 @@
           "source": "贴吧",
           "ranks": [
             15,
-            18
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时43分]"
+        },
+        {
+          "title": "美联储主席鲍威尔证实遭刑事指控威胁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366032",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时07分]"
+          "time_info": "[11时07分 ~ 12时43分]"
+        },
+        {
+          "title": "冬季地下车库过久停留当心氡气致癌",
+          "url": "https://www.toutiao.com/trending/7593907751119306794/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 12时43分]"
+        },
+        {
+          "title": "1月12日投资避雷针：因股票交易异常波动公告涉嫌重大遗漏等 这只大牛股被证监会立案",
+          "url": "https://www.cls.cn/detail/2254278",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 12时43分]"
+        },
+        {
+          "title": "美联储主席鲍威尔遭刑事调查",
+          "url": "https://www.toutiao.com/trending/7594263518980931647/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 12时43分]"
+        },
+        {
+          "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
+          "url": "https://www.cls.cn/detail/2254455",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
         },
         {
           "title": "韩总统府：无意挑衅或刺激朝鲜，将启动军警联合调查",
@@ -134,6 +220,17 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
+          "title": "美总统称对美联储主席被查一无所知",
+          "url": "https://www.toutiao.com/trending/7593619866829996051/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
           "title": "卫健局将调查疑小澈住院记录曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%B1%80%E5%B0%86%E8%B0%83%E6%9F%A5%E7%96%91%E5%B0%8F%E6%BE%88%E4%BD%8F%E9%99%A2%E8%AE%B0%E5%BD%95%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -145,46 +242,13 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
-          "title": "美联储主席鲍威尔证实遭刑事指控威胁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366032",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
-          "url": "https://www.zhihu.com/question/1993965084217713724",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "冬季地下车库过久停留当心氡气致癌",
-          "url": "https://www.toutiao.com/trending/7593907751119306794/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
           "title": "股市好了，李鬼多了，券商打假“持续营业”，提醒五类诈骗套路",
           "url": "https://www.cls.cn/detail/2254107",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -195,29 +259,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "1月12日投资避雷针：因股票交易异常波动公告涉嫌重大遗漏等 这只大牛股被证监会立案",
-          "url": "https://www.cls.cn/detail/2254278",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
-          "title": "美联储主席鲍威尔遭刑事调查",
-          "url": "https://www.toutiao.com/trending/7594263518980931647/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -250,7 +292,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
