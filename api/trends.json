@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T19:13:55.311314+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-01-12T20:27:17.702043+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 45,
+      "match_count": 52,
       "titles": [
         {
           "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 20时27分]"
         },
         {
           "title": "【早报】证监会提高“吹哨人”奖励标准；天普股份股价异常波动公告涉嫌重大遗漏被立案调查",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时27分]"
         },
         {
           "title": "美联储主席鲍威尔证实遭刑事指控威胁",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 20时27分]"
         },
         {
           "title": "3大牛股明日复牌，16倍牛股天普股份被证监会立案调查",
@@ -75,7 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -113,6 +113,17 @@
           "time_info": "18时17分"
         },
         {
+          "title": "英国科技大臣肯德尔欢迎英国通信监管局对社交媒体平台“X”展开调查。",
+          "url": "https://flash.jin10.com/detail/20260112200253020800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
           "url": "https://www.zhihu.com/question/1993965084217713724",
           "source": "知乎",
@@ -123,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 20时27分]"
         },
         {
           "title": "国家级射击女教练因走私枪支配件获刑，此事件暴露出中国射击运动管理及枪支监管哪些问题？",
@@ -167,19 +178,6 @@
           "time_info": "[14时23分 ~ 19时13分]"
         },
         {
-          "title": "美联储主席鲍威尔遭刑事调查",
-          "url": "https://www.douyin.com/hot/2364900",
-          "source": "抖音",
-          "ranks": [
-            1,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 19时13分]"
-        },
-        {
           "title": "救援队被秦岭遇难者家属起诉一审结束，正等待判决，可能怎么判？判决结果会影响以后的救援机制吗？",
           "url": "https://www.zhihu.com/question/1993420227908761003",
           "source": "知乎",
@@ -193,6 +191,20 @@
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查",
+          "url": "https://www.douyin.com/hot/2364900",
+          "source": "抖音",
+          "ranks": [
+            1,
+            9,
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时42分 ~ 20时27分]"
+        },
+        {
+          "title": "美联储主席鲍威尔遭刑事调查",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
           "ranks": [
@@ -203,6 +215,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时01分 ~ 14时23分]"
+        },
+        {
+          "title": "缅甸宣布 KK 园区彻底清零，635 处诈骗据点被夷为平地，是真的吗？除了炸楼之外还有哪些更治本的方法？",
+          "url": "https://www.zhihu.com/question/1993684071562364213",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时23分 ~ 20时27分]"
         },
         {
           "title": "婚前惊现天价债,男生跑路拒接盘",
@@ -219,8 +243,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 20时27分]"
         },
         {
           "title": "站长立霸王条款,公然挑衅劳动法",
@@ -254,18 +278,6 @@
           "time_info": "[11时07分 ~ 16时20分]"
         },
         {
-          "title": "缅甸宣布 KK 园区彻底清零，635 处诈骗据点被夷为平地，是真的吗？除了炸楼之外还有哪些更治本的方法？",
-          "url": "https://www.zhihu.com/question/1993684071562364213",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 19时13分]"
-        },
-        {
           "title": "古巴国家主席：古巴不受胁迫，誓死捍卫主权",
           "url": "https://m.thepaper.cn/newsDetail_forward_32365679",
           "source": "澎湃新闻",
@@ -275,8 +287,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 20时27分]"
         },
         {
           "title": "冬季地下车库过久停留当心氡气致癌",
@@ -303,6 +315,17 @@
           "time_info": "[16时20分 ~ 19时13分]"
         },
         {
+          "title": "德国精锐部队被控性骚扰、吸毒、反犹和行纳粹礼",
+          "url": "https://news.ifeng.com/c/8pr6CbtbDVC",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时27分]"
+        },
+        {
           "title": "美联储主席鲍威尔遭刑事调查",
           "url": "https://www.toutiao.com/trending/7594263518980931647/",
           "source": "今日头条",
@@ -314,6 +337,17 @@
           "time_info": "[11时07分 ~ 12时43分]"
         },
         {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
           "title": "韩总统府：无意挑衅或刺激朝鲜，将启动军警联合调查",
           "url": "https://news.ifeng.com/c/8ppBa3tBe61",
           "source": "凤凰网",
@@ -323,6 +357,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "遗骸冲上海滩，澳警方初步确认：32岁华人男子浮潜抓龙虾遇难",
+          "url": "https://news.ifeng.com/c/8pr8qr78a14",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "上海击穿住宅小区公共收益“黑箱”:公共收益须进监管账户 每季度公示",
+          "url": "https://www.cls.cn/detail/2254948",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "柳州一小区因大部分业主欠缴物业费，46 部电梯全部停运，有人一个半月没下过楼，为什么会出现这个情况？",
@@ -369,6 +425,17 @@
           "time_info": "18时17分"
         },
         {
+          "title": "何立峰会见美国前财长、华平集团主席盖特纳",
+          "url": "https://wallstreetcn.com/livenews/3035313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "以总理内塔尼亚胡亲信因机密文件泄露案遭讯问",
           "url": "https://flash.jin10.com/detail/20260112160725514800",
           "source": "金十数据",
@@ -386,18 +453,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "德国精锐部队被控性骚扰、吸毒、反犹和行纳粹礼",
-          "url": "https://news.ifeng.com/c/8pr6CbtbDVC",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -512,6 +568,17 @@
           "time_info": "11时07分"
         },
         {
+          "title": "志特新材：股价涨幅异常，股票停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3035290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "鳌太线3人遇难细节披露",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B3%8C%E5%A4%AA%E7%BA%BF3%E4%BA%BA%E9%81%87%E9%9A%BE%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -521,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "青木科技：经核查，公司控股股东、实际控制人吕斌先生及一致行动人允宜合伙在股票异动期间存在卖出公司股票的行为。",
+          "url": "https://wallstreetcn.com/livenews/3035284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "罗云熙能让我演两集尸体吗",
