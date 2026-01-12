@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-12T17:23:56.378532+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-01-12T18:17:31.599101+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
+          "url": "https://wallstreetcn.com/articles/3763056",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时07分 ~ 18时17分]"
+        },
         {
           "title": "【早报】证监会提高“吹哨人”奖励标准；天普股份股价异常波动公告涉嫌重大遗漏被立案调查",
           "url": "https://www.cls.cn/detail/2254224",
@@ -21,31 +34,6 @@
           "time_info": "[09时01分 ~ 15时21分]"
         },
         {
-          "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
-          "url": "https://wallstreetcn.com/articles/3763056",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时07分 ~ 17时23分]"
-        },
-        {
-          "title": "美联储主席回应遭刑事调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 17时23分]"
-        },
-        {
           "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
           "url": "https://www.zhihu.com/question/1993965084217713724",
           "source": "知乎",
@@ -55,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时07分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时07分 ~ 18时17分]"
         },
         {
           "title": "美联储主席鲍威尔证实遭刑事指控威胁",
@@ -68,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时07分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时07分 ~ 18时17分]"
         },
         {
           "title": "结婚化债无望,女教师跳楼殒命",
@@ -79,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "3大牛股明日复牌，16倍牛股天普股份被证监会立案调查",
@@ -116,6 +104,30 @@
           "time_info": "09时02分"
         },
         {
+          "title": "高盛首席经济学家：料美联储仍将依据数据作出决策 不因调查压力而偏颇",
+          "url": "https://flash.jin10.com/detail/20260112180253074800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "美联储主席回应遭刑事调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时23分 ~ 18时17分]"
+        },
+        {
           "title": "国家级射击女教练因走私枪支配件获刑，此事件暴露出中国射击运动管理及枪支监管哪些问题？",
           "url": "https://www.zhihu.com/question/1990222623448260935",
           "source": "知乎",
@@ -136,8 +148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 18时17分]"
         },
         {
           "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
@@ -150,8 +162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 18时17分]"
         },
         {
           "title": "救援队被秦岭遇难者家属起诉一审结束，正等待判决，可能怎么判？判决结果会影响以后的救援机制吗？",
@@ -188,11 +200,12 @@
             22,
             23,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时01分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 18时17分]"
         },
         {
           "title": "站长立霸王条款,公然挑衅劳动法",
@@ -234,8 +247,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 18时17分]"
+        },
+        {
+          "title": "古巴国家主席：古巴不受胁迫，誓死捍卫主权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32365679",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时17分]"
         },
         {
           "title": "冬季地下车库过久停留当心氡气致癌",
@@ -251,17 +277,15 @@
           "time_info": "[11时07分 ~ 13时23分]"
         },
         {
-          "title": "古巴国家主席：古巴不受胁迫，誓死捍卫主权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32365679",
-          "source": "澎湃新闻",
+          "title": "12 岁小学生家中自杀，遗书称写不会英语单词，其母起诉学校案将二审，案件责任如何界定？如何避免此类悲剧？",
+          "url": "https://www.zhihu.com/question/1994030534972629927",
+          "source": "知乎",
           "ranks": [
-            15,
-            14,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查",
@@ -284,17 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "12 岁小学生家中自杀，遗书称写不会英语单词，其母起诉学校案将二审，案件责任如何界定？如何避免此类悲剧？",
-          "url": "https://www.zhihu.com/question/1994030534972629927",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时23分]"
         },
         {
           "title": "柳州一小区因大部分业主欠缴物业费，46 部电梯全部停运，有人一个半月没下过楼，为什么会出现这个情况？",
@@ -328,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "荷兰银行：调查压力之下 美联储或将抵制近期降息",
+          "url": "https://flash.jin10.com/detail/20260112175957504800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "以总理内塔尼亚胡亲信因机密文件泄露案遭讯问",
@@ -369,7 +393,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -391,7 +415,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -405,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "高盛首席经济学家哈祖斯：关于美联储主席鲍威尔遭刑事调查的最新消息将加剧对美联储独立性的担忧。我的预期是，FOMC将继续根据其法定职责和经济数据作出利率决策。",
+          "url": "https://flash.jin10.com/detail/20260112173749584800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "美联储主席鲍威尔：司法部已向美联储发出传票，“这些只是借口”",
