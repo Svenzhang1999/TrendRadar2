@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T16:20:31.240692+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-01-12T17:23:56.378532+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "【早报】证监会提高“吹哨人”奖励标准；天普股份股价异常波动公告涉嫌重大遗漏被立案调查",
@@ -30,19 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 16时20分]"
-        },
-        {
-          "title": "美联储主席鲍威尔遭刑事调查",
-          "url": "https://www.douyin.com/hot/2364900",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 17时23分]"
         },
         {
           "title": "美联储主席回应遭刑事调查",
@@ -53,19 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 16时20分]"
-        },
-        {
-          "title": "3大牛股明日复牌，16倍牛股天普股份被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2254058",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 17时23分]"
         },
         {
           "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
@@ -77,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 17时23分]"
         },
         {
           "title": "美联储主席鲍威尔证实遭刑事指控威胁",
@@ -90,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 17时23分]"
         },
         {
           "title": "结婚化债无望,女教师跳楼殒命",
@@ -100,9 +78,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时23分]"
+        },
+        {
+          "title": "3大牛股明日复牌，16倍牛股天普股份被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2254058",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查背后",
@@ -139,6 +128,32 @@
           "time_info": "[09时01分 ~ 15时21分]"
         },
         {
+          "title": "美联储主席鲍威尔遭刑事调查",
+          "url": "https://www.douyin.com/hot/2364900",
+          "source": "抖音",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 17时23分]"
+        },
+        {
+          "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
+          "url": "https://www.cls.cn/detail/2254455",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 17时23分]"
+        },
+        {
           "title": "救援队被秦岭遇难者家属起诉一审结束，正等待判决，可能怎么判？判决结果会影响以后的救援机制吗？",
           "url": "https://www.zhihu.com/question/1993420227908761003",
           "source": "知乎",
@@ -149,19 +164,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时01分 ~ 12时43分]"
-        },
-        {
-          "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
-          "url": "https://www.cls.cn/detail/2254455",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 16时20分]"
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查",
@@ -185,11 +187,12 @@
             16,
             22,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 17时23分]"
         },
         {
           "title": "站长立霸王条款,公然挑衅劳动法",
@@ -200,11 +203,12 @@
             18,
             24,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时01分 ~ 17时23分]"
         },
         {
           "title": "1月12日投资避雷针：因股票交易异常波动公告涉嫌重大遗漏等 这只大牛股被证监会立案",
@@ -230,8 +234,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 16时20分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 17时23分]"
         },
         {
           "title": "冬季地下车库过久停留当心氡气致癌",
@@ -252,11 +256,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时23分]"
         },
         {
           "title": "美联储主席鲍威尔遭刑事调查",
@@ -279,6 +284,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "12 岁小学生家中自杀，遗书称写不会英语单词，其母起诉学校案将二审，案件责任如何界定？如何避免此类悲剧？",
+          "url": "https://www.zhihu.com/question/1994030534972629927",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时23分]"
         },
         {
           "title": "柳州一小区因大部分业主欠缴物业费，46 部电梯全部停运，有人一个半月没下过楼，为什么会出现这个情况？",
@@ -320,7 +336,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -347,15 +363,15 @@
           "time_info": "11时07分"
         },
         {
-          "title": "12 岁小学生家中自杀，遗书称写不会英语单词，其母起诉学校案将二审，案件责任如何界定？如何避免此类悲剧？",
-          "url": "https://www.zhihu.com/question/1994030534972629927",
-          "source": "知乎",
+          "title": "重磅！美联储主席鲍威尔遭刑事调查 罕见视频回应",
+          "url": "https://www.cls.cn/detail/2254384",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "17时23分"
         },
         {
           "title": "在政府施压下 英国竞争监管机构2025年并购审查“零否决”",
@@ -369,13 +385,24 @@
           "time_info": "14时23分"
         },
         {
+          "title": "马来西亚国家石油公司：希望就砂拉越地区的石油监管框架问题获得明确答复。",
+          "url": "https://flash.jin10.com/detail/20260112165657011800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "招商平安资产回应成被执行人：正在申请抗诉进行维权",
           "url": "https://wallstreetcn.com/livenews/3035084",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -430,7 +457,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
