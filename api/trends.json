@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T18:15:25.016171+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-01-13T19:13:51.083955+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "结婚化债无望,女教师跳楼殒命",
@@ -54,6 +54,17 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
+          "title": "2025年空难中部分遇难者家属和遗产已向英国法院提起针对印度航空的人身伤害诉讼。",
+          "url": "https://flash.jin10.com/detail/20260113185023069800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
           "url": "https://flash.jin10.com/detail/20260113161050388800",
           "source": "金十数据",
@@ -65,24 +76,13 @@
           "time_info": "16时19分"
         },
         {
-          "title": "懂王出手狠辣,鲍威尔惨遭调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349090&amp;topic_name=%E6%87%82%E7%8E%8B%E5%87%BA%E6%89%8B%E7%8B%A0%E8%BE%A3%2C%E9%B2%8D%E5%A8%81%E5%B0%94%E6%83%A8%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
           "title": "沃尔沃旗下NOVO Energy宣布暂停运营",
           "url": "https://wallstreetcn.com/livenews/3036005",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -111,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 19时13分]"
         },
         {
           "title": "1月13日投资避雷针：20CM6连板大牛股今起停牌核查",
@@ -143,6 +143,18 @@
           "time_info": "[10时52分 ~ 16时19分]"
         },
         {
+          "title": "懂王出手狠辣,鲍威尔惨遭调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349090&amp;topic_name=%E6%87%82%E7%8E%8B%E5%87%BA%E6%89%8B%E7%8B%A0%E8%BE%A3%2C%E9%B2%8D%E5%A8%81%E5%B0%94%E6%83%A8%E9%81%AD%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时13分]"
+        },
+        {
           "title": "瑞银集团首席执行官安思杰（Sergio P. Ermotti）计划于2027年4月卸任。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3035816",
           "source": "华尔街见闻-快讯",
@@ -165,8 +177,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 19时13分]"
         },
         {
           "title": "多邻国 App 被曝存在「免费陷阱」，有用户被扣费近千元退款遭拒，怎么回事？消费者该如何维权？",
@@ -303,6 +315,43 @@
           "time_info": "[08时54分 ~ 10时52分]"
         },
         {
+          "title": "5 人违规穿越秦岭「鳌太线」 3 人遇难，为何有的山不能登？「违规登山」到底有多危险？",
+          "url": "https://www.zhihu.com/question/1994335953473517025",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时13分]"
+        },
+        {
+          "title": "被诈骗120万后的真实生活",
+          "url": "https://www.douyin.com/hot/2366456",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时13分]"
+        },
+        {
+          "title": "上海母亲雨雪天罚女儿跪行街头，称是「自家教育方式」，亲生父母就可以体罚孩子吗？这会对孩子造成什么影响？",
+          "url": "https://www.zhihu.com/question/1994086138000991484",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时13分]"
+        },
+        {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2255324",
           "source": "财联社热门",
@@ -314,36 +363,12 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "5 人违规穿越秦岭「鳌太线」 3 人遇难，为何有的山不能登？「违规登山」到底有多危险？",
-          "url": "https://www.zhihu.com/question/1994335953473517025",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时15分]"
-        },
-        {
           "title": "报道：各国央行将发表声明声援美联储主席鲍威尔",
           "url": "https://wallstreetcn.com/livenews/3035970",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时15分]"
-        },
-        {
-          "title": "被诈骗120万后的真实生活",
-          "url": "https://www.douyin.com/hot/2366456",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -416,6 +441,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "日本央行发言人就欧洲央行及其他一些央行支持美联储主席鲍威尔的声明表示，将避免评论其他央行的行动。",
+          "url": "https://flash.jin10.com/detail/20260113183819715800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "商业航天牛股*ST铖昌，明起停牌核查",
           "url": "https://www.cls.cn/detail/2255369",
           "source": "财联社热门",
@@ -425,17 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "上海母亲雨雪天罚女儿跪行街头，称是「自家教育方式」，亲生父母就可以体罚孩子吗？这会对孩子造成什么影响？",
-          "url": "https://www.zhihu.com/question/1994086138000991484",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "韩国总统李在明：韩国与日本将合作打击网络诈骗。",
@@ -493,6 +518,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "空客：马蒂厄·卢沃被任命为空中客车直升机首席执行官。",
+          "url": "https://flash.jin10.com/detail/20260113183138530800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布美国12月CPI数据，圣路易联储主席穆萨莱姆将发表讲话。",
           "url": "https://flash.jin10.com/detail/20260113075841359800",
           "source": "金十数据",
@@ -502,6 +538,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "市场监管总局质检抽查发现76批次不合格产品，涉机动车制动液、蚕丝被等",
+          "url": "https://wallstreetcn.com/livenews/3036038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "全球多家主要央行行长周二发表联合声明 声援美联储主席鲍威尔",
+          "url": "https://flash.jin10.com/detail/20260113182554699800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美国前财经要员联名批评特朗普政府对鲍威尔发起刑事调查",
@@ -524,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "海底捞：董事会主席兼执行董事张勇已获委任为首席执行官",
+          "url": "https://wallstreetcn.com/livenews/3036026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     }
