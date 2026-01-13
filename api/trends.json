@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T19:13:51.083955+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-01-13T20:26:34.144020+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
         {
           "title": "结婚化债无望,女教师跳楼殒命",
@@ -54,13 +54,24 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
+          "title": "道达尔能源首席执行官：人们急于重返委内瑞拉，但这需要明确的框架，而且需要时间。",
+          "url": "https://flash.jin10.com/detail/20260113202448790800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "2025年空难中部分遇难者家属和遗产已向英国法院提起针对印度航空的人身伤害诉讼。",
           "url": "https://flash.jin10.com/detail/20260113185023069800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -111,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时52分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时52分 ~ 20时26分]"
         },
         {
           "title": "1月13日投资避雷针：20CM6连板大牛股今起停牌核查",
@@ -143,18 +154,6 @@
           "time_info": "[10时52分 ~ 16时19分]"
         },
         {
-          "title": "懂王出手狠辣,鲍威尔惨遭调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349090&amp;topic_name=%E6%87%82%E7%8E%8B%E5%87%BA%E6%89%8B%E7%8B%A0%E8%BE%A3%2C%E9%B2%8D%E5%A8%81%E5%B0%94%E6%83%A8%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
-        },
-        {
           "title": "瑞银集团首席执行官安思杰（Sergio P. Ermotti）计划于2027年4月卸任。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3035816",
           "source": "华尔街见闻-快讯",
@@ -177,8 +176,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时52分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时52分 ~ 20时26分]"
         },
         {
           "title": "多邻国 App 被曝存在「免费陷阱」，有用户被扣费近千元退款遭拒，怎么回事？消费者该如何维权？",
@@ -236,6 +235,19 @@
           "time_info": "[11时59分 ~ 17时20分]"
         },
         {
+          "title": "懂王出手狠辣,鲍威尔惨遭调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349090&amp;topic_name=%E6%87%82%E7%8E%8B%E5%87%BA%E6%89%8B%E7%8B%A0%E8%BE%A3%2C%E9%B2%8D%E5%A8%81%E5%B0%94%E6%83%A8%E9%81%AD%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时26分]"
+        },
+        {
           "title": "景区“黑导游”猥亵游客 牡丹江通报",
           "url": "https://www.baidu.com/s?wd=%E6%99%AF%E5%8C%BA%E2%80%9C%E9%BB%91%E5%AF%BC%E6%B8%B8%E2%80%9D%E7%8C%A5%E4%BA%B5%E6%B8%B8%E5%AE%A2+%E7%89%A1%E4%B8%B9%E6%B1%9F%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -277,6 +289,19 @@
           "time_info": "[11时59分 ~ 14时21分]"
         },
         {
+          "title": "被诈骗120万后的真实生活",
+          "url": "https://www.douyin.com/hot/2366456",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时26分]"
+        },
+        {
           "title": "台军方断断续续收到失联战机信号",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E5%86%9B%E6%96%B9%E6%96%AD%E6%96%AD%E7%BB%AD%E7%BB%AD%E6%94%B6%E5%88%B0%E5%A4%B1%E8%81%94%E6%88%98%E6%9C%BA%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
@@ -303,6 +328,19 @@
           "time_info": "[10时52分 ~ 12时39分]"
         },
         {
+          "title": "上海母亲雨雪天罚女儿跪行街头，称是「自家教育方式」，亲生父母就可以体罚孩子吗？这会对孩子造成什么影响？",
+          "url": "https://www.zhihu.com/question/1994086138000991484",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时26分]"
+        },
+        {
           "title": "遗骸冲上海滩，澳警方初步确认：32岁华人男子浮潜抓龙虾遇难",
           "url": "https://news.ifeng.com/c/8pr8qr78a14",
           "source": "凤凰网",
@@ -326,30 +364,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时20分 ~ 19时13分]"
-        },
-        {
-          "title": "被诈骗120万后的真实生活",
-          "url": "https://www.douyin.com/hot/2366456",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时13分]"
-        },
-        {
-          "title": "上海母亲雨雪天罚女儿跪行街头，称是「自家教育方式」，亲生父母就可以体罚孩子吗？这会对孩子造成什么影响？",
-          "url": "https://www.zhihu.com/question/1994086138000991484",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -419,6 +433,39 @@
           "time_info": "16时19分"
         },
         {
+          "title": "上交所对杭萧钢构及有关责任人予以监管警示",
+          "url": "https://wallstreetcn.com/livenews/3036138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "内蒙古小学校服薄膜调查结果",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E8%96%84%E8%86%9C%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "上交所对电科数字及有关责任人予以监管警示",
+          "url": "https://wallstreetcn.com/livenews/3036131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "德国地学研究中心GFZ：千岛群岛发生6.22级地震。",
           "url": "https://flash.jin10.com/detail/20260113154938839800",
           "source": "金十数据",
@@ -447,9 +494,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今晚将公布美国12月CPI报告，2028年FOMC票委、圣路易联储主席穆萨莱姆将发表讲话",
+          "url": "https://flash.jin10.com/detail/20260113200815271800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "商业航天牛股*ST铖昌，明起停牌核查",
@@ -472,6 +530,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "摩根大通首席执行官：各业务线表现良好。 美国经济保持韧性。 市场似乎低估了潜在风险。",
+          "url": "https://wallstreetcn.com/livenews/3036127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：将迅速提议对伊朗实施进一步制裁。",
+          "url": "https://flash.jin10.com/detail/20260113200739700800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "日本三重县确认一起高致病性禽流感疫情",
@@ -524,7 +604,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -546,7 +626,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -557,7 +637,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -590,9 +670,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "*ST东晶：因独立董事傅宝善先生涉嫌内幕交易，中国证券监督管理委员会决定对其立案。",
+          "url": "https://wallstreetcn.com/livenews/3036101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     }
