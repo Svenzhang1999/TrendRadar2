@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-01-14T14:21:16.175225+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-01-14T15:19:22.683848+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
-          "title": "基辅市长表示，基辅遭敌方无人机袭击，据报道称有公寓起火。",
-          "url": "https://flash.jin10.com/detail/20260114141400956800",
-          "source": "金十数据",
+          "title": "韩国统一部说将视无人机事件调查结果采取相应措施",
+          "url": "https://wallstreetcn.com/livenews/3036760",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "15时19分"
         },
         {
           "title": "官方通报贵州省博29件套文物丢失或被盗：成立调查组",
@@ -41,6 +41,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "教育部教育督导局副局长杨宇接受纪律审查和监察调查",
+          "url": "https://wallstreetcn.com/livenews/3036758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "当地官员：乌克兰无人机袭击引发俄罗斯罗斯托夫工业区火灾，并损毁公寓楼，",
           "url": "https://flash.jin10.com/detail/20260114083841148800",
           "source": "金十数据",
@@ -50,6 +61,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "1月14日投资避雷针：13连板锋龙股份停牌核查 4连板杭萧钢构遭上交所监管警示",
+          "url": "https://www.cls.cn/detail/2256938",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 15时19分]"
+        },
+        {
+          "title": "基辅市长表示，基辅遭敌方无人机袭击，据报道称有公寓起火。",
+          "url": "https://flash.jin10.com/detail/20260114141400956800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时19分]"
         },
         {
           "title": "美放宽英伟达H200芯片对华出口监管",
@@ -64,19 +101,6 @@
           "time_info": "[09时01分 ~ 11时05分]"
         },
         {
-          "title": "1月14日投资避雷针：13连板锋龙股份停牌核查 4连板杭萧钢构遭上交所监管警示",
-          "url": "https://www.cls.cn/detail/2256938",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时21分]"
-        },
-        {
           "title": "这些落马者是怎么“周末愉快”的",
           "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E8%90%BD%E9%A9%AC%E8%80%85%E6%98%AF%E6%80%8E%E4%B9%88%E2%80%9C%E5%91%A8%E6%9C%AB%E6%84%89%E5%BF%AB%E2%80%9D%E7%9A%84",
           "source": "百度热搜",
@@ -84,11 +108,12 @@
             5,
             14,
             13,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 15时19分]"
         },
         {
           "title": "上交所出手！两只“商业航天”概念股，被监管警示",
@@ -100,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 15时19分]"
         },
         {
           "title": "涉嫌性侵女儿348次，台北捷运警察队一名主管庭审前在家中身亡",
@@ -112,8 +137,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 15时19分]"
         },
         {
           "title": "懂王出手狠辣,鲍威尔惨遭调查",
@@ -123,23 +148,12 @@
             9,
             14,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时21分]"
-        },
-        {
-          "title": "内蒙古通报 13 岁学生被多人殴打，4 名未成年人被拘留并罚款，怎样从法律角度解读？",
-          "url": "https://www.zhihu.com/question/1994486724139642912",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 15时19分]"
         },
         {
           "title": "马上评丨14岁霸凌者“应拘尽拘”，新治安法开了一个好头",
@@ -152,8 +166,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 15时19分]"
         },
         {
           "title": "内蒙古五原县警方通报13岁女生校外被殴打：涉案人员均已到案",
@@ -165,8 +179,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 15时19分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -177,8 +191,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 15时19分]"
+        },
+        {
+          "title": "内蒙古通报 13 岁学生被多人殴打，4 名未成年人被拘留并罚款，怎样从法律角度解读？",
+          "url": "https://www.zhihu.com/question/1994486724139642912",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 14时21分]"
         },
         {
           "title": "男子疑因辞职照顾母亲没被批准跳楼",
@@ -227,6 +253,17 @@
           "time_info": "13时17分"
         },
         {
+          "title": "伊朗驻荷兰大使馆遭袭 多人被捕",
+          "url": "https://flash.jin10.com/detail/20260114145800437800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "13连板牛股锋龙股份，明起停牌核查",
           "url": "https://www.cls.cn/detail/2256597",
           "source": "财联社热门",
@@ -258,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "伊朗驻荷兰大使馆遭袭 多人被捕",
+          "url": "https://wallstreetcn.com/livenews/3036742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "女医学生被前男友杀害藏尸一审宣判，凶手被判死刑当庭上诉，如何理解这一判决？上诉结果可能如何？",
