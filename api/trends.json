@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-14T16:18:51.728759+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-01-14T17:21:22.959969+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://www.toutiao.com/trending/7595045710718930468/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
         {
           "title": "官方通报贵州省博29件套文物丢失或被盗：成立调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_32376397",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "不满移民政策，美特勤局特工泄露万斯安保信息",
+          "url": "https://news.ifeng.com/c/8puU5SmjXe1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "特斯拉计划就加州工厂种族骚扰案与监管机构进行和解谈判",
@@ -30,15 +52,26 @@
           "time_info": "09时01分"
         },
         {
-          "title": "黑吃黑?男子反向骗电诈被刑拘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349122&amp;topic_name=%E9%BB%91%E5%90%83%E9%BB%91%3F%E7%94%B7%E5%AD%90%E5%8F%8D%E5%90%91%E9%AA%97%E7%94%B5%E8%AF%88%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "贴吧",
+          "title": "上纬新材：如未来股票价格进一步上涨，公司将进一步申请停牌核查",
+          "url": "https://wallstreetcn.com/livenews/3036863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "伊朗驻荷兰大使馆遭袭，多人被捕",
+          "url": "https://news.ifeng.com/c/8puQRfizORn",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时21分"
         },
         {
           "title": "当地官员：乌克兰无人机袭击引发俄罗斯罗斯托夫工业区火灾，并损毁公寓楼，",
@@ -62,8 +95,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时05分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时05分 ~ 17时21分]"
+        },
+        {
+          "title": "黑吃黑?男子反向骗电诈被刑拘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349122&amp;topic_name=%E9%BB%91%E5%90%83%E9%BB%91%3F%E7%94%B7%E5%AD%90%E5%8F%8D%E5%90%91%E9%AA%97%E7%94%B5%E8%AF%88%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时21分]"
         },
         {
           "title": "基辅市长表示，基辅遭敌方无人机袭击，据报道称有公寓起火。",
@@ -138,20 +183,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 16时18分]"
-        },
-        {
-          "title": "涉嫌性侵女儿348次，台北捷运警察队一名主管庭审前在家中身亡",
-          "url": "https://news.ifeng.com/c/8pt6cY6QnZn",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时01分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 17时21分]"
         },
         {
           "title": "懂王出手狠辣,鲍威尔惨遭调查",
@@ -163,7 +196,20 @@
             20,
             21,
             22,
-            24
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时01分 ~ 17时21分]"
+        },
+        {
+          "title": "涉嫌性侵女儿348次，台北捷运警察队一名主管庭审前在家中身亡",
+          "url": "https://news.ifeng.com/c/8pt6cY6QnZn",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -180,8 +226,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时05分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时05分 ~ 17时21分]"
         },
         {
           "title": "内蒙古五原县警方通报13岁女生校外被殴打：涉案人员均已到案",
@@ -190,11 +236,12 @@
           "ranks": [
             20,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时05分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时05分 ~ 17时21分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -205,8 +252,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 17时21分]"
         },
         {
           "title": "内蒙古通报 13 岁学生被多人殴打，4 名未成年人被拘留并罚款，怎样从法律角度解读？",
@@ -231,6 +278,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 14时21分]"
+        },
+        {
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%AF%B9%E6%90%BA%E7%A8%8B%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时21分]"
         },
         {
           "title": "男子疑因请假照顾母亲没被批准跳楼",
@@ -278,13 +337,35 @@
           "time_info": "15时19分"
         },
         {
+          "title": "携程：将积极配合监管部门调查，全面落实监管要求",
+          "url": "https://wallstreetcn.com/livenews/3036857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "市场监管总局对携程立案调查，具体情况如何？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1994801921710646359",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "市场监管总局依法对携程集团有限公司立案调查",
           "url": "https://wallstreetcn.com/livenews/3036800",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -295,7 +376,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -312,14 +393,25 @@
         },
         {
           "title": "市场监管总局对携程立案调查",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%AF%B9%E6%90%BA%E7%A8%8B%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
+          "url": "https://www.douyin.com/hot/2367563",
+          "source": "抖音",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时21分"
+        },
+        {
+          "title": "市场监管总局对携程立案调查",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%AF%B9%E6%90%BA%E7%A8%8B%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "14岁霸凌者“应拘尽拘”，新治安法开了一个好头",
@@ -355,6 +447,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "伊朗司法总监敦促加快调查审理涉“恐怖分子和骚乱分子”案件",
+          "url": "https://wallstreetcn.com/livenews/3036839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "女医学生被前男友杀害藏尸一审宣判，凶手被判死刑当庭上诉，如何理解这一判决？上诉结果可能如何？",
           "url": "https://www.zhihu.com/question/1994401414517057472",
           "source": "知乎",
@@ -364,6 +467,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "普洛斯集团任命赵明琪为普洛斯中国首席执行官",
+          "url": "https://wallstreetcn.com/livenews/3036835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "泰国总理：铁路事故原因正在调查中",
+          "url": "https://wallstreetcn.com/livenews/3036823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     }
