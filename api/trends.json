@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T19:13:20.062747+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-01-15T20:25:39.811492+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "携程涉嫌垄断遭市监总局立案，此前被曝借“调价助手”修改上架酒店房价",
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[10时55分 ~ 20时25分]"
         },
         {
           "title": "向日葵被立案调查重组终止 兮璞材料收购“沉睡工厂”竹篮打水",
@@ -44,6 +45,17 @@
           "time_info": "[10时55分 ~ 17时19分]"
         },
         {
+          "title": "前任背刺藏奸情,女子崩溃跳楼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349217&amp;topic_name=%E5%89%8D%E4%BB%BB%E8%83%8C%E5%88%BA%E8%97%8F%E5%A5%B8%E6%83%85%2C%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83%E8%B7%B3%E6%A5%BC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时25分]"
+        },
+        {
           "title": "官方通报福建一水库大坝偷工减料调查结果：数十人被追责问责、罚款超2000万元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32383278",
           "source": "澎湃新闻",
@@ -55,15 +67,15 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
-          "title": "前任背刺藏奸情,女子崩溃跳楼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349217&amp;topic_name=%E5%89%8D%E4%BB%BB%E8%83%8C%E5%88%BA%E8%97%8F%E5%A5%B8%E6%83%85%2C%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83%E8%B7%B3%E6%A5%BC",
-          "source": "贴吧",
+          "title": "万事达(MA.N)、Visa(V.N)和英国金融科技公司Revolut在英国支付监管机构提出的跨境卡费用上限计划的法律挑战中败诉。",
+          "url": "https://flash.jin10.com/detail/20260115200357329800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时25分"
         },
         {
           "title": "SpaceX的Crew-11任务组提前数周离开国际空间站，在太空执行任务167天后结束任务。",
@@ -154,11 +166,12 @@
             21,
             23,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时56分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[08时56分 ~ 20时25分]"
         },
         {
           "title": "黑吃黑?男子反向骗电诈被刑拘",
@@ -221,11 +234,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时25分]"
         },
         {
           "title": "携程被立案背后：酒店越来越难",
@@ -368,7 +382,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -404,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "学生疑上午匿名投诉学校下午被找到",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%96%91%E4%B8%8A%E5%8D%88%E5%8C%BF%E5%90%8D%E6%8A%95%E8%AF%89%E5%AD%A6%E6%A0%A1%E4%B8%8B%E5%8D%88%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "演员成毅持续遭跟踪，车辆被喷红漆写恶毒文字，工作室称将法律维权，其中涉及哪些违法行为？有何法律责任？",
