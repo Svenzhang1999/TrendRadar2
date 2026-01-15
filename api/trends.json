@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T15:19:16.107244+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-01-15T16:19:43.920744+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 16时19分]"
         },
         {
           "title": "女法官搞偏袒,吧友维权被薄纱",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时55分 ~ 16时19分]"
         },
         {
           "title": "官方通报福建一水库大坝偷工减料调查结果：数十人被追责问责、罚款超2000万元",
@@ -46,11 +46,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时55分 ~ 16时19分]"
         },
         {
           "title": "初中女儿一整节外教课根本没上教材，全是跟老师闲聊她的中二爱好，我该投诉老师还是处理青春期孩子呢？",
@@ -62,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 16时19分]"
         },
         {
           "title": "市场监管总局对携程立案调查",
@@ -80,19 +81,6 @@
           "time_info": "[08时56分 ~ 15时19分]"
         },
         {
-          "title": "市场监管总局依法对携程集团有限公司立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382955",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时19分]"
-        },
-        {
           "title": "涉嫌垄断行为被立案调查，携程：积极配合监管部门，全面落实监管要求",
           "url": "https://m.thepaper.cn/newsDetail_forward_32383284",
           "source": "澎湃新闻",
@@ -102,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 16时19分]"
         },
         {
           "title": "宰客又坑商,携程被查水太深",
@@ -114,11 +102,12 @@
             15,
             19,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 16时19分]"
         },
         {
           "title": "黑吃黑?男子反向骗电诈被刑拘",
@@ -129,7 +118,21 @@
             20,
             24,
             25,
-            26
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 16时19分]"
+        },
+        {
+          "title": "市场监管总局依法对携程集团有限公司立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382955",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -145,8 +148,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时55分 ~ 16时19分]"
         },
         {
           "title": "携程回应被立案调查",
@@ -217,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "深度解读鲍威尔遭刑事调查",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E9%B2%8D%E5%A8%81%E5%B0%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 16时19分]"
         },
         {
           "title": "女子撞见闺蜜和前男友后难接受跳楼",
@@ -294,17 +309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
-        },
-        {
-          "title": "深度解读鲍威尔遭刑事调查",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E9%B2%8D%E5%A8%81%E5%B0%94%E9%81%AD%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "欧盟委员会主席：格陵兰岛归属只能由丹麦内部自行决定",
