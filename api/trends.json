@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T14:21:21.669002+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-01-16T15:18:33.830757+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "尹锡悦因妨害公务执行等罪被判5年",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时18分]"
         },
         {
           "title": "澳大利亚国库部长查默斯：支持澳洲联储主席布洛克签署信函支持美联储主席鲍威尔的决定。",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "日本央行：决定于1月19日执行ETF和J-REIT处置指引。",
+          "url": "https://flash.jin10.com/detail/20260116150349794800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "微软：我们正在调查一项问题，北美地区的用户报告称在使用微软Copilot时遇到了问题。",
@@ -69,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -94,21 +105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 14时21分]"
-        },
-        {
-          "title": "携程被多次约谈仍不改",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%90%BA%E7%A8%8B%E8%A2%AB%E5%A4%9A%E6%AC%A1%E7%BA%A6%E8%B0%88%E4%BB%8D%E4%B8%8D%E6%94%B9%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 15时18分]"
         },
         {
           "title": "影子调查｜查无此人！“国家级非遗传承人”罗大友多重身份被打假",
@@ -119,8 +117,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时18分]"
+        },
+        {
+          "title": "携程被多次约谈仍不改",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%90%BA%E7%A8%8B%E8%A2%AB%E5%A4%9A%E6%AC%A1%E7%BA%A6%E8%B0%88%E4%BB%8D%E4%B8%8D%E6%94%B9%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            4,
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时18分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩预计将于2月访问澳大利亚。（英国金融时报）",
@@ -142,8 +154,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时18分]"
         },
         {
           "title": "律师谈成毅遭跟踪和骚扰",
@@ -153,11 +165,39 @@
             17,
             19,
             25,
-            23
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时18分]"
+        },
+        {
+          "title": "「与辉同行」带货「皖西麻黄鸡」被指虚假宣传，市监局已介入调查，这会让用户对与辉同行的信任崩塌吗？",
+          "url": "https://www.zhihu.com/question/1994809126551778249",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8,
+            7,
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时59分 ~ 14时21分]"
+          "time_info": "[10时58分 ~ 15时18分]"
+        },
+        {
+          "title": "23岁女生跟38岁男子相亲领证后喝农药自杀，生命体征已好转，多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32391122",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 15时18分]"
         },
         {
           "title": "宰客又坑商,携程被查水太深",
@@ -170,32 +210,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时59分 ~ 14时21分]"
-        },
-        {
-          "title": "「与辉同行」带货「皖西麻黄鸡」被指虚假宣传，市监局已介入调查，这会让用户对与辉同行的信任崩塌吗？",
-          "url": "https://www.zhihu.com/question/1994809126551778249",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 14时21分]"
-        },
-        {
-          "title": "23岁女生跟38岁男子相亲领证后喝农药自杀，生命体征已好转，多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32391122",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 14时21分]"
         },
         {
           "title": "吴佩慈“婆婆”在美被捕",
@@ -308,7 +322,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -324,13 +338,24 @@
           "time_info": "08时59分"
         },
         {
+          "title": "德国地学研究中心：墨西哥格雷罗地区发生4.9级地震。",
+          "url": "https://flash.jin10.com/detail/20260116145233621800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "韩国法院以妨害公务执行等罪名判处尹锡悦有期徒刑5年",
           "url": "https://wallstreetcn.com/livenews/3038501",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -352,7 +377,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -366,6 +391,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "据目击者报道，墨西哥城响起地震警报。",
+          "url": "https://flash.jin10.com/detail/20260116144407496800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "市场监管总局附条件批准美国车桥收购道莱斯股权案",
+          "url": "https://wallstreetcn.com/livenews/3038553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "印度政府约谈多家电商平台，要求取消骑手“10分钟送达”时限",
@@ -396,9 +443,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "市场监管总局：正在筹建“全国动力电池回收利用标准化技术委员会”",
+          "url": "https://wallstreetcn.com/livenews/3038533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     }
