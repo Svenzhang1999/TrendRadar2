@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T19:13:05.536136+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-01-16T20:24:32.618944+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "尹锡悦因妨害公务执行等罪被判5年",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[14时21分 ~ 20时24分]"
         },
         {
           "title": "澳大利亚国库部长查默斯：支持澳洲联储主席布洛克签署信函支持美联储主席鲍威尔的决定。",
@@ -114,7 +114,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -158,18 +158,6 @@
           "time_info": "[12时02分 ~ 15时18分]"
         },
         {
-          "title": "韩国火灾已投入85辆消防车",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%81%AB%E7%81%BE%E5%B7%B2%E6%8A%95%E5%85%A585%E8%BE%86%E6%B6%88%E9%98%B2%E8%BD%A6%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时13分]"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩预计将于2月访问澳大利亚。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3038477",
           "source": "华尔街见闻-快讯",
@@ -180,6 +168,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时21分]"
+        },
+        {
+          "title": "韩国火灾已投入85辆消防车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%81%AB%E7%81%BE%E5%B7%B2%E6%8A%95%E5%85%A585%E8%BE%86%E6%B6%88%E9%98%B2%E8%BD%A6%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时24分]"
         },
         {
           "title": "网购烧烤炭生火除湿，母女3人中毒1人进ICU",
@@ -248,6 +249,19 @@
           "time_info": "[08时59分 ~ 14时21分]"
         },
         {
+          "title": "23岁新娘喝农药自杀，母亲回应逼婚等五大质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398340",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 20时24分]"
+        },
+        {
           "title": "吴佩慈“婆婆”在美被捕",
           "url": "https://www.baidu.com/s?wd=%E5%90%B4%E4%BD%A9%E6%85%88%E2%80%9C%E5%A9%86%E5%A9%86%E2%80%9D%E5%9C%A8%E7%BE%8E%E8%A2%AB%E6%8D%95",
           "source": "百度热搜",
@@ -283,16 +297,16 @@
           "time_info": "[10时58分 ~ 13时19分]"
         },
         {
-          "title": "23岁新娘喝农药自杀，母亲回应逼婚等五大质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398340",
-          "source": "澎湃新闻",
+          "title": "韩国法院以妨害公务执行等罪名判处尹锡悦有期徒刑5年",
+          "url": "https://www.cls.cn/detail/2260089",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            18
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 20时24分]"
         },
         {
           "title": "向华强自曝助手冒名诈骗他人10亿",
@@ -329,17 +343,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时21分]"
-        },
-        {
-          "title": "韩国法院以妨害公务执行等罪名判处尹锡悦有期徒刑5年",
-          "url": "https://www.cls.cn/detail/2260089",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
         },
         {
           "title": "向华强自曝助手冒名诈骗他人10亿",
@@ -387,6 +390,17 @@
           "time_info": "[10时58分 ~ 10时59分]"
         },
         {
+          "title": "深交所：近期“*ST铖昌”股价出现严重异常波动，公司停牌核查并发布风险提示公告，1月16日复牌后股价继续涨停，部分投资者在交易该股过程中存在影响股票交易正常秩序的异常交易行为，本所依规对相关投资者采取了暂停交易等自律监管措施。",
+          "url": "https://wallstreetcn.com/livenews/3038775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "德国地学研究中心GFZ：俄勒冈州海岸附近发生6级地震。",
           "url": "https://flash.jin10.com/detail/20260116113241367800",
           "source": "金十数据",
@@ -418,6 +432,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "韩国首尔火灾已投入85辆消防车",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E7%81%AB%E7%81%BE%E5%B7%B2%E6%8A%95%E5%85%A585%E8%BE%86%E6%B6%88%E9%98%B2%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "韩国法院以妨害公务执行等罪名判处尹锡悦有期徒刑5年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32399308",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "德国地学研究中心：墨西哥格雷罗地区发生4.9级地震。",
@@ -530,6 +566,17 @@
           "time_info": "16时18分"
         },
         {
+          "title": "证监会征求意见：遵循审慎监管原则 可以对衍生品交易实施逆周期调节管理",
+          "url": "https://wallstreetcn.com/livenews/3038757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "诺和诺德(NVO.N)股价盘前一度上涨6.3%。英国卫生监管机构于周五批准了该公司重磅减肥药Wegovy的每周最大剂量为7.2毫克。",
           "url": "https://flash.jin10.com/detail/20260116180044975800",
           "source": "金十数据",
@@ -591,7 +638,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
