@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T18:12:58.436077+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-01-17T19:11:01.664740+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时56分 ~ 18时12分]"
+          "appearance_count": 16,
+          "time_info": "[08时56分 ~ 19时11分]"
         },
         {
           "title": "韩国法院以妨害公务执行等罪名判处尹锡悦有期徒刑5年",
@@ -45,18 +45,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时51分 ~ 15时13分]"
-        },
-        {
-          "title": "印尼一小型飞机失联 机上载有11人",
-          "url": "https://flash.jin10.com/detail/20260117161038934800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时12分]"
         },
         {
           "title": "大陆词语成台独网军霸凌借口",
@@ -109,8 +97,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 18时12分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 19时11分]"
         },
         {
           "title": "盲人推拿师被5名女性指认猥亵",
@@ -123,6 +111,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时56分 ~ 15时13分]"
+        },
+        {
+          "title": "印尼一小型飞机失联 机上载有11人",
+          "url": "https://flash.jin10.com/detail/20260117161038934800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 19时11分]"
         },
         {
           "title": "多名中国公民在柬失联失踪，中国驻柬埔寨大使汪文斌约见柬副首相",
@@ -211,6 +212,18 @@
           "time_info": "[10时47分 ~ 15时13分]"
         },
         {
+          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
+          "url": "https://www.cls.cn/detail/2261084",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 19时11分]"
+        },
+        {
           "title": "美国明尼苏达州发生天然气管道爆炸事故",
           "url": "https://wallstreetcn.com/livenews/3039059",
           "source": "华尔街见闻-快讯",
@@ -279,18 +292,6 @@
           "time_info": "[08时56分 ~ 11时51分]"
         },
         {
-          "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
-          "url": "https://www.cls.cn/detail/2261084",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 18时12分]"
-        },
-        {
           "title": "学校通报上午匿名投诉下午就被找",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E9%80%9A%E6%8A%A5%E4%B8%8A%E5%8D%88%E5%8C%BF%E5%90%8D%E6%8A%95%E8%AF%89%E4%B8%8B%E5%8D%88%E5%B0%B1%E8%A2%AB%E6%89%BE%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -338,6 +339,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 10时47分]"
+        },
+        {
+          "title": "丽江观光火车入不敷出暂停运营？轨道公司：打了报告提示风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32401584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 19时11分]"
+        },
+        {
+          "title": "安徽通报一起较大中毒和窒息事故",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E9%80%9A%E6%8A%A5%E4%B8%80%E8%B5%B7%E8%BE%83%E5%A4%A7%E4%B8%AD%E6%AF%92%E5%92%8C%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时11分]"
         },
         {
           "title": "4人中毒窒息身亡 盲目施救致伤亡扩大",
@@ -418,17 +443,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "丽江观光火车入不敷出暂停运营？轨道公司：打了报告提示风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32401584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
           "title": "加州理工和麻省理工，到底哪个更好? 为什么在《生活大爆炸》中，谢尔顿那么看不起麻省理工?",
           "url": "https://www.zhihu.com/question/1919816595011765083",
           "source": "知乎",
@@ -468,7 +482,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -482,17 +496,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "安徽通报一起较大中毒和窒息事故",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E9%80%9A%E6%8A%A5%E4%B8%80%E8%B5%B7%E8%BE%83%E5%A4%A7%E4%B8%AD%E6%AF%92%E5%92%8C%E7%AA%92%E6%81%AF%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "美联储副主席杰斐逊：当前的政策立场使我们处于有利位置，可以确定政策利率的调整幅度和时机。",
