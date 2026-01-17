@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T11:51:55.658002+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-01-17T12:25:42.276596+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时25分]"
         },
         {
           "title": "韩国法院以妨害公务执行等罪名判处尹锡悦有期徒刑5年",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时25分]"
         },
         {
           "title": "多名中国公民在柬失联失踪 中国驻柬埔寨大使汪文斌约见柬副首相",
@@ -38,20 +38,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时25分]"
         },
         {
           "title": "韩国一养猪场出现非洲猪瘟疫情",
           "url": "https://flash.jin10.com/detail/20260117104426474800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时25分]"
+        },
+        {
+          "title": "多名中国公民在柬失联失踪，中国驻柬埔寨大使汪文斌约见柬副首相",
+          "url": "https://flash.jin10.com/detail/20260117113832834800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时51分"
+          "time_info": "12时25分"
         },
         {
           "title": "去年115名省部级及以上干部被立案",
@@ -60,11 +72,12 @@
           "ranks": [
             7,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时25分]"
         },
         {
           "title": "日本网帖煽动对高考考生性骚扰",
@@ -72,11 +85,116 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            20
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时25分]"
+        },
+        {
+          "title": "23岁新娘喝农药自杀，新郎父亲：从认识到领证3个月，同意离婚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398393",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时25分]"
+        },
+        {
+          "title": "女星吴佩慈婆婆在美国被捕，涉嫌违反美国移民法规则，她将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/1995414971920638365",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时25分]"
+        },
+        {
+          "title": "23岁新娘喝农药自杀，家属讲述事件背后深层次原因",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398388",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时25分]"
+        },
+        {
+          "title": "盲人推拿师被5名女性指认猥亵",
+          "url": "https://www.toutiao.com/trending/7595575426275442751/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时25分]"
+        },
+        {
+          "title": "美国明尼苏达州发生天然气管道爆炸事故",
+          "url": "https://wallstreetcn.com/livenews/3039059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时51分]"
+          "time_info": "[08时56分 ~ 12时25分]"
+        },
+        {
+          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
+          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时25分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊：关于劳动力供应，移民政策已放缓劳动力的整体增长。",
+          "url": "https://flash.jin10.com/detail/20260117051052514800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时25分]"
+        },
+        {
+          "title": "监管机构驳回申请，巨型铁路合并案被迫叫停",
+          "url": "https://wallstreetcn.com/livenews/3039054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 12时25分]"
         },
         {
           "title": "23岁新娘喝农药自杀，母亲回应逼婚等五大质疑",
@@ -92,105 +210,16 @@
           "time_info": "[08时56分 ~ 11时51分]"
         },
         {
-          "title": "女星吴佩慈婆婆在美国被捕，涉嫌违反美国移民法规则，她将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/1995414971920638365",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时51分]"
-        },
-        {
-          "title": "23岁新娘喝农药自杀，新郎父亲：从认识到领证3个月，同意离婚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398393",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时51分]"
-        },
-        {
-          "title": "23岁新娘喝农药自杀，家属讲述事件背后深层次原因",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398388",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时51分]"
-        },
-        {
-          "title": "盲人推拿师被5名女性指认猥亵",
-          "url": "https://www.toutiao.com/trending/7595575426275442751/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时51分]"
-        },
-        {
-          "title": "美国明尼苏达州发生天然气管道爆炸事故",
-          "url": "https://wallstreetcn.com/livenews/3039059",
+          "title": "美国FTC调查科技巨头“人才收购”规避反垄断",
+          "url": "https://wallstreetcn.com/livenews/3039067",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时51分]"
-        },
-        {
-          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
-          "url": "https://flash.jin10.com/detail/20260117080445022800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时51分]"
-        },
-        {
-          "title": "美联储副主席杰斐逊：关于劳动力供应，移民政策已放缓劳动力的整体增长。",
-          "url": "https://flash.jin10.com/detail/20260117051052514800",
-          "source": "金十数据",
           "ranks": [
             9,
-            22,
-            28
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时51分]"
-        },
-        {
-          "title": "监管机构驳回申请，巨型铁路合并案被迫叫停",
-          "url": "https://wallstreetcn.com/livenews/3039054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 11时51分]"
+          "time_info": "[10时47分 ~ 12时25分]"
         },
         {
           "title": "美联储副主席杰斐逊：劳动力市场正在放缓，因为整体经济环境变得更加不确定。",
@@ -218,18 +247,6 @@
           "time_info": "[08时56分 ~ 10时47分]"
         },
         {
-          "title": "美国FTC调查科技巨头“人才收购”规避反垄断",
-          "url": "https://wallstreetcn.com/livenews/3039067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 11时51分]"
-        },
-        {
           "title": "去年115名省部级及以上干部被立案",
           "url": "https://www.toutiao.com/trending/7596049706963177002/",
           "source": "今日头条",
@@ -239,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 10时47分]"
+        },
+        {
+          "title": "大陆词语成台独网军霸凌借口",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%99%86%E8%AF%8D%E8%AF%AD%E6%88%90%E5%8F%B0%E7%8B%AC%E7%BD%91%E5%86%9B%E9%9C%B8%E5%87%8C%E5%80%9F%E5%8F%A3%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "日本网帖煽动对高考考生性骚扰",
@@ -261,6 +289,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "官方发布致4死中毒窒息事故报告：盲目施救致伤亡扩大",
+          "url": "https://news.ifeng.com/c/8pz9b3MrZwL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "加州理工和麻省理工，到底哪个更好? 为什么在《生活大爆炸》中，谢尔顿那么看不起麻省理工?",
+          "url": "https://www.zhihu.com/question/1919816595011765083",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
