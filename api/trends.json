@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:15:42.400191+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-01-19T20:28:09.156157+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 55,
+      "match_count": 70,
       "titles": [
         {
           "title": "国务院挂牌督办包钢爆炸事故",
@@ -20,6 +20,17 @@
           "time_info": "[14时25分 ~ 19时15分]"
         },
         {
+          "title": "云南昭通发生5.1级地震",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%98%AD%E9%80%9A%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
           "title": "内蒙古就爆炸事故成立调查组",
           "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%B1%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 09时03分]"
+        },
+        {
+          "title": "云南地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "谁是新主席、起诉鲍威尔、颠覆美联储？围绕美联储的各种斗争，下周分胜负？",
@@ -53,6 +75,17 @@
           "time_info": "[09时02分 ~ 09时03分]"
         },
         {
+          "title": "云南昭通5.1级地震",
+          "url": "https://www.douyin.com/hot/2373319",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
           "title": "调查显示，瑞典货币市场参与者预计，1月份12个月CPIF通胀率预期为1.5%，去年12月份预期为1.6%。1月份5年CPIF通胀率预期为2.1%，去年12月预期为2.1%。",
           "url": "https://flash.jin10.com/detail/20260119150229017800",
           "source": "金十数据",
@@ -62,6 +95,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "阿富汗首都发生一起爆炸事件",
+          "url": "https://wallstreetcn.com/livenews/3039765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "阿富汗内政部：阿富汗首都喀布尔发生爆炸，多人身亡。",
+          "url": "https://flash.jin10.com/detail/20260119200933571800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "市场监管总局最新统计数据显示，2025年发布国家计量技术规范213项，较2024年增长63.8%，总量达2273项。",
@@ -111,8 +166,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[14时25分 ~ 20时28分]"
+        },
+        {
+          "title": "大V金永荣利用社交平台影响力“抢帽子操纵”，7个月获利超4000万！监管出手重罚",
+          "url": "https://www.cls.cn/detail/2262337",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时28分]"
         },
         {
           "title": "应急管理部派工作组指导包钢板材厂爆炸事故救援处置 国务院安委会决定对事故查处挂牌督办",
@@ -178,20 +245,6 @@
           "time_info": "[14时25分 ~ 16时21分]"
         },
         {
-          "title": "去年城镇调查失业率平均值为5.2%",
-          "url": "https://www.douyin.com/hot/2372549",
-          "source": "抖音",
-          "ranks": [
-            10,
-            8,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时31分 ~ 19时15分]"
-        },
-        {
           "title": "马斯克提出天价索赔！最多将获9300亿元",
           "url": "https://news.ifeng.com/c/8q291JJH6vj",
           "source": "凤凰网",
@@ -200,8 +253,23 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时02分 ~ 20时28分]"
+        },
+        {
+          "title": "去年城镇调查失业率平均值为5.2%",
+          "url": "https://www.douyin.com/hot/2372549",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8,
+            12,
+            19,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 15,
-          "time_info": "[09时02分 ~ 19时15分]"
+          "time_info": "[11时31分 ~ 20时28分]"
         },
         {
           "title": "ICE内部清算,探员下班被捕",
@@ -216,11 +284,27 @@
             23,
             26,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时02分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时02分 ~ 20时28分]"
+        },
+        {
+          "title": "西班牙列车脱轨相撞已致39死",
+          "url": "https://www.douyin.com/hot/2372817",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14,
+            9,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时22分 ~ 20时28分]"
         },
         {
           "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
@@ -250,18 +334,19 @@
           "time_info": "[12时44分 ~ 14时25分]"
         },
         {
-          "title": "西班牙列车脱轨相撞已致39死",
-          "url": "https://www.douyin.com/hot/2372817",
-          "source": "抖音",
+          "title": "江西警方通报鄱阳湖湿地野生动物疑被投毒：全面开展排查清理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413826",
+          "source": "澎湃新闻",
           "ranks": [
+            17,
+            15,
             13,
-            14,
-            9,
-            15
+            16,
+            19
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时22分 ~ 19时15分]"
+          "time_info": "[16时21分 ~ 20时28分]"
         },
         {
           "title": "行业协会有89名“副会长”？联合调查组：依法暂停其对外活动",
@@ -290,6 +375,17 @@
           "time_info": "[09时02分 ~ 14时25分]"
         },
         {
+          "title": "断流枯泉复涌和地震有关吗？科普",
+          "url": "https://www.baidu.com/s?wd=%E6%96%AD%E6%B5%81%E6%9E%AF%E6%B3%89%E5%A4%8D%E6%B6%8C%E5%92%8C%E5%9C%B0%E9%9C%87%E6%9C%89%E5%85%B3%E5%90%97%EF%BC%9F%E7%A7%91%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 20时28分]"
+        },
+        {
           "title": "包钢板材厂爆炸已致2死8失联84伤",
           "url": "https://www.baidu.com/s?wd=%E5%8C%85%E9%92%A2%E6%9D%BF%E6%9D%90%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E6%AD%BB8%E5%A4%B1%E8%81%9484%E4%BC%A4",
           "source": "百度热搜",
@@ -315,20 +411,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时02分 ~ 13时25分]"
-        },
-        {
-          "title": "江西警方通报鄱阳湖湿地野生动物疑被投毒：全面开展排查清理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413826",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时15分]"
         },
         {
           "title": "国务院安委会对包钢板材厂爆炸事故查处挂牌督办",
@@ -383,15 +465,17 @@
           "time_info": "[11时31分 ~ 14时25分]"
         },
         {
-          "title": "断流枯泉复涌和地震有关吗？科普",
-          "url": "https://www.baidu.com/s?wd=%E6%96%AD%E6%B5%81%E6%9E%AF%E6%B3%89%E5%A4%8D%E6%B6%8C%E5%92%8C%E5%9C%B0%E9%9C%87%E6%9C%89%E5%85%B3%E5%90%97%EF%BC%9F%E7%A7%91%E6%99%AE",
-          "source": "百度热搜",
+          "title": "国务院安委会挂牌督办包钢爆炸事故",
+          "url": "https://www.toutiao.com/trending/7596943133692952639/",
+          "source": "今日头条",
           "ranks": [
-            11
+            23,
+            14,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时25分 ~ 19时15分]"
+          "time_info": "[18时19分 ~ 20时28分]"
         },
         {
           "title": "西班牙高铁脱轨事故已致至少21死",
@@ -442,18 +526,6 @@
           "time_info": "[09时02分 ~ 11时32分]"
         },
         {
-          "title": "国务院安委会挂牌督办包钢爆炸事故",
-          "url": "https://www.toutiao.com/trending/7596943133692952639/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时15分]"
-        },
-        {
           "title": "尹锡悦就涉内乱首案判决结果提起上诉",
           "url": "https://wallstreetcn.com/livenews/3039624",
           "source": "华尔街见闻-快讯",
@@ -475,6 +547,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "云南巧家县5.1级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B7%A7%E5%AE%B6%E5%8E%BF5.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "印尼确认失联飞机已坠毁",
@@ -510,6 +593,28 @@
           "time_info": "[11时31分 ~ 11时32分]"
         },
         {
+          "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414856",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
+          "title": "包钢板材厂爆炸已致4人死亡6人失联",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%85%E9%92%A2%E6%9D%BF%E6%9D%90%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B44%E4%BA%BA%E6%AD%BB%E4%BA%A16%E4%BA%BA%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
           "title": "包头市委市政府向遇难者表示沉痛哀悼",
           "url": "https://www.toutiao.com/trending/7596917237311979574/",
           "source": "今日头条",
@@ -519,6 +624,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "包钢板材厂爆炸事故已致4死6失联",
+          "url": "https://www.toutiao.com/trending/7597033217577504306/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
         },
         {
           "title": "2025年城镇调查失业率平均值为5.2%",
@@ -541,17 +657,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 09时03分]"
-        },
-        {
-          "title": "大V金永荣利用社交平台影响力“抢帽子操纵”，7个月获利超4000万！监管出手重罚",
-          "url": "https://www.cls.cn/detail/2262337",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "西班牙国家铁路公司总裁：高铁脱轨事故中人为失误几乎可以排除",
@@ -587,6 +692,28 @@
           "time_info": "15时23分"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "云南昭通市巧家县发生5.1级地震 震源深度10千米",
+          "url": "https://wallstreetcn.com/livenews/3039747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "日本央行12月季度调查：日本家庭中，86.0%预计一年后物价将上涨，上一次调查为88.0%。83.0%的日本家庭预计五年后物价将上涨，高于上一次调查的84.8%。日本家庭预计从现在起一年后通胀率平均将上升11.6%，中位数为10.0%。日本家庭预计五年后通胀率平均将上升9.8%，中位数为5.0%。",
           "url": "https://flash.jin10.com/detail/20260119123459727800",
           "source": "金十数据",
@@ -598,6 +725,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260119195033650800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "特朗普：明尼苏达州存在190亿美元索马里诈骗",
           "url": "https://flash.jin10.com/detail/20260119114952164800",
           "source": "金十数据",
@@ -607,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：美国总统特朗普周三在达沃斯召集首席执行官参加招待会。",
+          "url": "https://flash.jin10.com/detail/20260119194231884800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "女商人服刑7年后无罪提国赔获立案",
@@ -631,15 +780,37 @@
           "time_info": "09时03分"
         },
         {
+          "title": "巴基斯坦卡拉奇购物中心火灾已致24人死亡",
+          "url": "https://wallstreetcn.com/livenews/3039735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "中国核工业集团有限公司原党组副书记、总经理顾军接受审查调查。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3039695",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "包钢板材厂爆炸事故目前仍有6人等待搜救 救援工作全力推进中",
+          "url": "https://wallstreetcn.com/livenews/3039730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "欧洲地中海地震中心：克什米尔西北部地区发生6级地震。",
