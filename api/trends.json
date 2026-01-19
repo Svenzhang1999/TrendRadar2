@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-19T16:21:41.788054+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-01-19T17:26:37.671716+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "国务院挂牌督办包钢爆炸事故",
           "url": "https://www.douyin.com/hot/2372757",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 17时26分]"
         },
         {
           "title": "内蒙古就爆炸事故成立调查组",
@@ -61,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
-        },
-        {
-          "title": "中国农业发展银行专家委员会原研究员黄小卫接受纪律审查和监察调查",
-          "url": "https://wallstreetcn.com/livenews/3039630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "市场监管总局最新统计数据显示，2025年发布国家计量技术规范213项，较2024年增长63.8%，总量达2273项。",
@@ -122,6 +112,18 @@
           "time_info": "[13时25分 ~ 14时25分]"
         },
         {
+          "title": "中国农业发展银行专家委员会原研究员黄小卫接受纪律审查和监察调查",
+          "url": "https://wallstreetcn.com/livenews/3039630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时26分]"
+        },
+        {
           "title": "路透调查：预计2026年棕榈油价格平均为每吨4,125林吉特，同比下降2.55%。预计马来西亚2026年棕榈油产量为1,975万吨，同比下降2.61%。预计印尼2026年棕榈油产量将达到创纪录的5,120万吨，同比上升0.39%。",
           "url": "https://flash.jin10.com/detail/20260119122646390800",
           "source": "金十数据",
@@ -161,20 +163,16 @@
           "time_info": "[14时25分 ~ 16时21分]"
         },
         {
-          "title": "ICE内部清算,探员下班被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349307&amp;topic_name=ICE%E5%86%85%E9%83%A8%E6%B8%85%E7%AE%97%2C%E6%8E%A2%E5%91%98%E4%B8%8B%E7%8F%AD%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "去年城镇调查失业率平均值为5.2%",
+          "url": "https://www.douyin.com/hot/2372549",
+          "source": "抖音",
           "ranks": [
-            7,
-            14,
-            16,
-            18,
-            21,
-            23
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时02分 ~ 16时21分]"
+          "time_info": "[11时31分 ~ 17时26分]"
         },
         {
           "title": "马斯克提出天价索赔！最多将获9300亿元",
@@ -185,8 +183,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 17时26分]"
+        },
+        {
+          "title": "ICE内部清算,探员下班被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349307&amp;topic_name=ICE%E5%86%85%E9%83%A8%E6%B8%85%E7%AE%97%2C%E6%8E%A2%E5%91%98%E4%B8%8B%E7%8F%AD%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            14,
+            16,
+            18,
+            21,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 17时26分]"
         },
         {
           "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
@@ -199,8 +214,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 17时26分]"
         },
         {
           "title": "日本央行调查：日本家庭平均预期未来一年通胀率为11.6%，预估中值为10.0%。 日本家庭平均预期未来五年通胀率10.0%，预估中值为5.0%。",
@@ -214,18 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时44分 ~ 14时25分]"
-        },
-        {
-          "title": "去年城镇调查失业率平均值为5.2%",
-          "url": "https://www.douyin.com/hot/2372549",
-          "source": "抖音",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时31分 ~ 16时21分]"
         },
         {
           "title": "行业协会有89名“副会长”？联合调查组：依法暂停其对外活动",
@@ -252,6 +255,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时02分 ~ 14时25分]"
+        },
+        {
+          "title": "福建女商人林惠荣提国家赔偿申请获立案，曾服刑7年后获无罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413928",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 17时26分]"
         },
         {
           "title": "包钢板材厂爆炸已致2死8失联84伤",
@@ -306,6 +323,19 @@
           "time_info": "[09时02分 ~ 12时44分]"
         },
         {
+          "title": "西班牙列车脱轨相撞已致39死",
+          "url": "https://www.douyin.com/hot/2372817",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 17时26分]"
+        },
+        {
           "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E6%9A%B4%E9%9B%AA%E4%BE%B5%E8%A2%AD+%E6%9C%89%E4%BA%BA%E2%80%9C%E8%B7%B3%E6%A5%BC%E2%80%9D%E5%87%BA%E9%97%A8",
           "source": "百度热搜",
@@ -318,19 +348,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时31分 ~ 14时25分]"
-        },
-        {
-          "title": "福建女商人林惠荣提国家赔偿申请获立案，曾服刑7年后获无罪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413928",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 16时21分]"
         },
         {
           "title": "西班牙高铁脱轨事故已致至少21死",
@@ -381,16 +398,39 @@
           "time_info": "[09时02分 ~ 11时32分]"
         },
         {
-          "title": "西班牙列车脱轨相撞已致39死",
-          "url": "https://www.douyin.com/hot/2372817",
-          "source": "抖音",
+          "title": "江西警方通报鄱阳湖湿地野生动物疑被投毒：全面开展排查清理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413826",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            14
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 17时26分]"
+        },
+        {
+          "title": "国务院安委会对包钢板材厂爆炸事故查处挂牌督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414416",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时26分]"
+        },
+        {
+          "title": "尹锡悦就涉内乱首案判决结果提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3039624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时26分]"
         },
         {
           "title": "包钢股份一厂区发生爆炸，已致5人失联",
@@ -413,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 09时03分]"
+        },
+        {
+          "title": "断流枯泉复涌和地震有关吗？科普",
+          "url": "https://www.baidu.com/s?wd=%E6%96%AD%E6%B5%81%E6%9E%AF%E6%B3%89%E5%A4%8D%E6%B6%8C%E5%92%8C%E5%9C%B0%E9%9C%87%E6%9C%89%E5%85%B3%E5%90%97%EF%BC%9F%E7%A7%91%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "“千亿合同金额”竟系公司估算 容百科技涉嫌误导性陈述被立案 | 速读公告",
@@ -459,24 +510,13 @@
           "time_info": "[09时02分 ~ 09时03分]"
         },
         {
-          "title": "尹锡悦就涉内乱首案判决结果提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3039624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "西班牙国家铁路公司总裁：高铁脱轨事故中人为失误几乎可以排除",
           "url": "https://wallstreetcn.com/livenews/3039623",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -525,35 +565,13 @@
           "time_info": "12时44分"
         },
         {
-          "title": "江西警方通报鄱阳湖湿地野生动物疑被投毒：全面开展排查清理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413826",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "国务院安委会对包钢板材厂爆炸事故查处挂牌督办",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414416",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "女商人服刑7年后无罪提国赔获立案",
           "url": "https://www.toutiao.com/trending/7596549745667162153/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
