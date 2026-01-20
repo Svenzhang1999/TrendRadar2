@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-20T17:25:41.760041+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-01-20T18:19:07.267171+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
-        {
-          "title": "西班牙高铁脱轨事故已致至少 39 人死亡，百余人受伤，为什么会发生这种事故？具体情况如何？",
-          "url": "https://www.zhihu.com/question/1996597559750328753",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 14时22分]"
-        },
         {
           "title": "牢A警告留子:你的尸体很值钱",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349380&amp;topic_name=%E7%89%A2A%E8%AD%A6%E5%91%8A%E7%95%99%E5%AD%90%3A%E4%BD%A0%E7%9A%84%E5%B0%B8%E4%BD%93%E5%BE%88%E5%80%BC%E9%92%B1",
@@ -30,8 +18,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时59分 ~ 17时25分]"
+          "appearance_count": 10,
+          "time_info": "[10时59分 ~ 18时19分]"
+        },
+        {
+          "title": "西班牙高铁脱轨事故已致至少 39 人死亡，百余人受伤，为什么会发生这种事故？具体情况如何？",
+          "url": "https://www.zhihu.com/question/1996597559750328753",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 14时22分]"
         },
         {
           "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
@@ -80,6 +80,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：地缘政治冲击能够也必须成为欧洲的机遇。我们今天正在经历的剧变，是构建一种新型欧洲独立性的必然要求。",
+          "url": "https://flash.jin10.com/detail/20260120181452701800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "乌克兰首都基辅响起多次爆炸声。",
           "url": "https://flash.jin10.com/detail/20260120083719954800",
           "source": "金十数据",
@@ -111,11 +122,26 @@
             3,
             4,
             10,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时06分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 18时19分]"
+        },
+        {
+          "title": "江西铅山警方通报“19岁小伙失联柬埔寨”：电诈园区近期将其送出，非法入境时被查获",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417458",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 18时19分]"
         },
         {
           "title": "男子三年前右脑出血被误开左脑，后又开右脑，多部门正调查，这种事故对病情影响多大？相关责任该如何认定？",
@@ -129,8 +155,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 18时19分]"
         },
         {
           "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
@@ -146,17 +172,16 @@
           "time_info": "[08时58分 ~ 12时06分]"
         },
         {
-          "title": "江西铅山警方通报“19岁小伙失联柬埔寨”：电诈园区近期将其送出，非法入境时被查获",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32417458",
-          "source": "澎湃新闻",
+          "title": "许金花被执行死刑",
+          "url": "https://www.douyin.com/hot/2374215",
+          "source": "抖音",
           "ranks": [
-            8,
-            6,
+            11,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "R星工作室发生爆炸",
@@ -168,11 +193,12 @@
             12,
             18,
             23,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 18时19分]"
         },
         {
           "title": "1名中国公民在阿富汗首都爆炸事件中死亡",
@@ -183,8 +209,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 18时19分]"
         },
         {
           "title": "如何评价最近从顶级量化交易机构泄露的 AlphaGPT？",
@@ -200,6 +226,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时06分 ~ 16时21分]"
+        },
+        {
+          "title": "西班牙高铁脱轨细节分析",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E8%84%B1%E8%BD%A8%E7%BB%86%E8%8A%82%E5%88%86%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时19分]"
         },
         {
           "title": "包钢板材厂爆炸已致9死",
@@ -240,18 +279,6 @@
           "time_info": "[13时22分 ~ 15时21分]"
         },
         {
-          "title": "西班牙高铁脱轨细节分析",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E8%84%B1%E8%BD%A8%E7%BB%86%E8%8A%82%E5%88%86%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时21分]"
-        },
-        {
           "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
           "url": "https://www.cls.cn/detail/2262717",
           "source": "财联社热门",
@@ -265,6 +292,40 @@
           "time_info": "[08时58分 ~ 12时06分]"
         },
         {
+          "title": "12岁女孩遭虐亡案继母被执行死刑",
+          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E8%99%90%E4%BA%A1%E6%A1%88%E7%BB%A7%E6%AF%8D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
+        },
+        {
+          "title": "女孩被3人性侵之后：家属控告民警，甘肃临夏检察院未立案",
+          "url": "https://news.ifeng.com/c/8q4NjYlgd8H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
+        },
+        {
+          "title": "女孩被虐死案继母许金花被执行死刑",
+          "url": "https://www.toutiao.com/trending/7597359969544965638/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
+        },
+        {
           "title": "叶文斌失联系在柬从事电诈 已被刑拘",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B6%E6%96%87%E6%96%8C%E5%A4%B1%E8%81%94%E7%B3%BB%E5%9C%A8%E6%9F%AC%E4%BB%8E%E4%BA%8B%E7%94%B5%E8%AF%88+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "百度热搜",
@@ -276,6 +337,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时58分 ~ 12时06分]"
+        },
+        {
+          "title": "警方通报叶文斌在柬埔寨失联事件，系主动参与诈骗，已被刑拘，此前其母亲赴柬寻子引关注，如何看待？",
+          "url": "https://www.zhihu.com/question/1996891234078253184",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
+        },
+        {
+          "title": "大 V 操纵市场被罚没超 8300 万，「荐股后大量反向卖出」，这种做法对市场有何影响，如何维权？",
+          "url": "https://www.zhihu.com/question/1996865847277401706",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
+        },
+        {
+          "title": "12岁女孩被虐致死案继母被执行死刑",
+          "url": "https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%99%90%E8%87%B4%E6%AD%BB%E6%A1%88%E7%BB%A7%E6%AF%8D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "李亚鹏关联多家公司已被冻结股权",
@@ -338,6 +435,17 @@
           "time_info": "[13时22分 ~ 14时22分]"
         },
         {
+          "title": "女孩被3人性侵之后：家属控告民警，甘肃临夏检察院认定不构成渎职未立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32389314",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
           "title": "阿富汗爆炸事件致中国公民1死1重伤",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%E8%87%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%911%E6%AD%BB1%E9%87%8D%E4%BC%A4",
           "source": "百度热搜",
@@ -348,6 +456,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时58分 ~ 10时59分]"
+        },
+        {
+          "title": "小区高层起火 大哥逐层敲门大喊快走",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E9%AB%98%E5%B1%82%E8%B5%B7%E7%81%AB+%E5%A4%A7%E5%93%A5%E9%80%90%E5%B1%82%E6%95%B2%E9%97%A8%E5%A4%A7%E5%96%8A%E5%BF%AB%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
+          "title": "许金花被执行死刑前见了近亲属",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%87%91%E8%8A%B1%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%E5%89%8D%E8%A7%81%E4%BA%86%E8%BF%91%E4%BA%B2%E5%B1%9E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "哈马斯称已准备好交权并执行交接程序",
@@ -372,37 +502,15 @@
           "time_info": "13时22分"
         },
         {
-          "title": "12岁女孩遭虐亡案继母被执行死刑",
-          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E8%99%90%E4%BA%A1%E6%A1%88%E7%BB%A7%E6%AF%8D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-          "source": "百度热搜",
+          "title": "调查显示：德国消费者信心在1月超预期提升",
+          "url": "https://flash.jin10.com/detail/20260120181352641800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "女孩被3人性侵之后：家属控告民警，甘肃临夏检察院未立案",
-          "url": "https://news.ifeng.com/c/8q4NjYlgd8H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "女孩被虐死案继母许金花被执行死刑",
-          "url": "https://www.toutiao.com/trending/7597359969544965638/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "18时19分"
         },
         {
           "title": "当地时间20日，乌克兰首都基辅响起多次爆炸声。（央视新闻）",
@@ -414,17 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "许金花被执行死刑",
-          "url": "https://www.douyin.com/hot/2374215",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "路透调查：马来西亚央行将于1月22日将隔夜政策利率维持在2.75%。马来西亚央行隔夜政策利率预计在2026年维持在2.75%。",
@@ -447,17 +544,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "警方通报叶文斌在柬埔寨失联事件，系主动参与诈骗，已被刑拘，此前其母亲赴柬寻子引关注，如何看待？",
-          "url": "https://www.zhihu.com/question/1996891234078253184",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "江西警方通报鄱阳湖湿地野生动物疑被投毒：全面开展排查清理",
@@ -493,17 +579,6 @@
           "time_info": "08时58分"
         },
         {
-          "title": "大 V 操纵市场被罚没超 8300 万，「荐股后大量反向卖出」，这种做法对市场有何影响，如何维权？",
-          "url": "https://www.zhihu.com/question/1996865847277401706",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "国务院安委会对包钢板材厂爆炸事故查处挂牌督办",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414416",
           "source": "澎湃新闻",
@@ -513,17 +588,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
-        },
-        {
-          "title": "12岁女孩被虐致死案继母被执行死刑",
-          "url": "https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%99%90%E8%87%B4%E6%AD%BB%E6%A1%88%E7%BB%A7%E6%AF%8D%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "特朗普霸凌欧洲引发反弹 “让美国滚开”棒球帽在欧美走红",
