@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T10:59:25.104896+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-01-20T12:06:52.646022+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "西班牙高铁脱轨事故已致至少 39 人死亡，百余人受伤，为什么会发生这种事故？具体情况如何？",
@@ -15,31 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时59分]"
-        },
-        {
-          "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
-          "url": "https://www.toutiao.com/trending/7595870902936813587/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时59分]"
-        },
-        {
-          "title": "R星工作室发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=R%E6%98%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时06分]"
         },
         {
           "title": "牢A警告留子:你的尸体很值钱",
@@ -48,9 +25,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时06分]"
+        },
+        {
+          "title": "R星回应工作室爆炸",
+          "url": "https://search.bilibili.com/all?keyword=R%E6%98%9F%E5%9B%9E%E5%BA%94%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时06分"
         },
         {
           "title": "监管对“投资大V”出手，收割粉丝套路曝光，左手荐股右手出货",
@@ -75,6 +63,19 @@
           "time_info": "08时58分"
         },
         {
+          "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
+          "url": "https://www.toutiao.com/trending/7595870902936813587/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时06分]"
+        },
+        {
           "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414856",
           "source": "澎湃新闻",
@@ -83,8 +84,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时06分]"
+        },
+        {
+          "title": "R星工作室发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=R%E6%98%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时59分]"
+          "time_info": "[10时59分 ~ 12时06分]"
         },
         {
           "title": "江西铅山警方通报“19岁小伙失联柬埔寨”：电诈园区近期将其送出，非法入境时被查获",
@@ -95,8 +108,59 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时06分]"
+        },
+        {
+          "title": "1名中国公民在阿富汗首都爆炸事件中死亡",
+          "url": "https://news.ifeng.com/c/8q3WlIzYyxY",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时06分]"
+        },
+        {
+          "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2262717",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时06分]"
+        },
+        {
+          "title": "叶文斌失联系在柬从事电诈 已被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B6%E6%96%87%E6%96%8C%E5%A4%B1%E8%81%94%E7%B3%BB%E5%9C%A8%E6%9F%AC%E4%BB%8E%E4%BA%8B%E7%94%B5%E8%AF%88+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时06分]"
+        },
+        {
+          "title": "李亚鹏关联多家公司已被冻结股权",
+          "url": "https://www.toutiao.com/trending/7596341484709789742/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时06分]"
         },
         {
           "title": "福建女商人林惠荣提国家赔偿申请获立案，曾服刑7年后获无罪",
@@ -116,53 +180,6 @@
           "ranks": [
             8,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时59分]"
-        },
-        {
-          "title": "1名中国公民在阿富汗首都爆炸事件中死亡",
-          "url": "https://news.ifeng.com/c/8q3WlIzYyxY",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时59分]"
-        },
-        {
-          "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2262717",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时59分]"
-        },
-        {
-          "title": "叶文斌失联系在柬从事电诈 已被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B6%E6%96%87%E6%96%8C%E5%A4%B1%E8%81%94%E7%B3%BB%E5%9C%A8%E6%9F%AC%E4%BB%8E%E4%BA%8B%E7%94%B5%E8%AF%88+%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时59分]"
-        },
-        {
-          "title": "李亚鹏关联多家公司已被冻结股权",
-          "url": "https://www.toutiao.com/trending/7596341484709789742/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -201,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "如何评价最近从顶级量化交易机构泄露的 AlphaGPT？",
+          "url": "https://www.zhihu.com/question/1995864049414603432",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "机构调查：80%员工认为AI将影响工作岗位，Z世代最为担忧",
@@ -245,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "国务院安委会对包钢板材厂爆炸事故查处挂牌督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414416",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "ICE内部清算,探员下班被捕",
