@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T11:01:49.605993+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-01-21T12:07:39.938478+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "携程支配地位是怎么来的？在反垄断调查前，携程利润率为何能超过大部分互联网平台？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时07分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时07分]"
         },
         {
           "title": "欧盟决定永久冻结俄罗斯资产",
@@ -50,8 +50,34 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时07分]"
+        },
+        {
+          "title": "女孩被3人性侵之后：家属控告民警，甘肃临夏检察院认定不构成渎职未立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32389314",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时07分]"
+        },
+        {
+          "title": "牢A警告留子:你的尸体很值钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349380&amp;topic_name=%E7%89%A2A%E8%AD%A6%E5%91%8A%E7%95%99%E5%AD%90%3A%E4%BD%A0%E7%9A%84%E5%B0%B8%E4%BD%93%E5%BE%88%E5%80%BC%E9%92%B1",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时07分]"
         },
         {
           "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
@@ -65,28 +91,16 @@
           "time_info": "[09时00分 ~ 11时01分]"
         },
         {
-          "title": "女孩被3人性侵之后：家属控告民警，甘肃临夏检察院认定不构成渎职未立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32389314",
-          "source": "澎湃新闻",
+          "title": "1月21日投资避雷针：锋龙股份、嘉美包装再发风险提示 如股价异常上涨将申请停牌核查",
+          "url": "https://www.cls.cn/detail/2264360",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            15
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时01分]"
-        },
-        {
-          "title": "牢A警告留子:你的尸体很值钱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349380&amp;topic_name=%E7%89%A2A%E8%AD%A6%E5%91%8A%E7%95%99%E5%AD%90%3A%E4%BD%A0%E7%9A%84%E5%B0%B8%E4%BD%93%E5%BE%88%E5%80%BC%E9%92%B1",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时01分]"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时07分]"
         },
         {
           "title": "“四川殴打5人者有特殊背景”不实",
@@ -155,15 +169,15 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "1月21日投资避雷针：锋龙股份、嘉美包装再发风险提示 如股价异常上涨将申请停牌核查",
-          "url": "https://www.cls.cn/detail/2264360",
-          "source": "财联社热门",
+          "title": "重庆马拉松「破三大神」跑者去世，为何经验跑者仍可能在赛道猝死？",
+          "url": "https://www.zhihu.com/question/1996960668721648341",
+          "source": "知乎",
           "ranks": [
-            9
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "12时07分"
         }
       ]
     }
