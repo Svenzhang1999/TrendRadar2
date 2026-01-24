@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-24T10:52:26.282547+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-01-24T11:56:55.827300+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "韩国贸易特使：已告知美国贸易代表格里尔，政府对Coupang的调查与对任何韩国公司进行的调查并无二致。",
           "url": "https://flash.jin10.com/detail/20260124094802506800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时56分]"
         },
         {
           "title": "北交所新股市场热度高，网上冻结资金刷新纪录",
@@ -29,6 +30,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 10时52分]"
+        },
+        {
+          "title": "云南建水县回应薯农使用禁用高毒农药种植红薯：已成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448849",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时56分]"
+        },
+        {
+          "title": "鼎益丰案隋广义等80人被提起公诉，曾以“禅易投资法”非法集资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448389",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时56分]"
+        },
+        {
+          "title": "32岁程序员猝死背后有何警示",
+          "url": "https://search.bilibili.com/all?keyword=32%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%8C%9D%E6%AD%BB%E8%83%8C%E5%90%8E%E6%9C%89%E4%BD%95%E8%AD%A6%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时56分]"
+        },
+        {
+          "title": "纯牛马?社畜加班猝死仍被催",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349548&amp;topic_name=%E7%BA%AF%E7%89%9B%E9%A9%AC%3F%E7%A4%BE%E7%95%9C%E5%8A%A0%E7%8F%AD%E7%8C%9D%E6%AD%BB%E4%BB%8D%E8%A2%AB%E5%82%AC",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时56分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -54,17 +102,6 @@
           "time_info": "[08时57分 ~ 10时52分]"
         },
         {
-          "title": "云南建水县回应薯农使用禁用高毒农药种植红薯：已成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448849",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时52分]"
-        },
-        {
           "title": "华尔街优势持续扩大 欧盟呼吁银行业监管机构放宽管制以提高竞争力",
           "url": "https://flash.jin10.com/detail/20260124034751877800",
           "source": "金十数据",
@@ -77,38 +114,38 @@
           "time_info": "[08时57分 ~ 10时52分]"
         },
         {
-          "title": "鼎益丰案隋广义等80人被提起公诉，曾以“禅易投资法”非法集资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448389",
-          "source": "澎湃新闻",
+          "title": "尽快改掉会诱发猝死的习惯",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BD%E5%BF%AB%E6%94%B9%E6%8E%89%E4%BC%9A%E8%AF%B1%E5%8F%91%E7%8C%9D%E6%AD%BB%E7%9A%84%E4%B9%A0%E6%83%AF%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 11时56分]"
         },
         {
-          "title": "32岁程序员猝死背后有何警示",
-          "url": "https://search.bilibili.com/all?keyword=32%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%8C%9D%E6%AD%BB%E8%83%8C%E5%90%8E%E6%9C%89%E4%BD%95%E8%AD%A6%E7%A4%BA",
-          "source": "bilibili 热搜",
+          "title": "欧委会对中企启动《外国补贴条例》深入调查发布简要报告，欧盟中国商会回应",
+          "url": "https://wallstreetcn.com/livenews/3043190",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            17,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 11时56分]"
         },
         {
-          "title": "纯牛马?社畜加班猝死仍被催",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349548&amp;topic_name=%E7%BA%AF%E7%89%9B%E9%A9%AC%3F%E7%A4%BE%E7%95%9C%E5%8A%A0%E7%8F%AD%E7%8C%9D%E6%AD%BB%E4%BB%8D%E8%A2%AB%E5%82%AC",
-          "source": "贴吧",
+          "title": "加州将成为美国首个加入世卫全球疫情警报和反应网络的州",
+          "url": "https://wallstreetcn.com/livenews/3043211",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
-            28
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "「爆炸糖游戏」火了，许多家长借此教育孩子远离赌博，这游戏能起到警示作用吗？家长操作不当是否会弄巧成拙？",
@@ -133,17 +170,6 @@
           "time_info": "08时57分"
         },
         {
-          "title": "尽快改掉会诱发猝死的习惯",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BD%E5%BF%AB%E6%94%B9%E6%8E%89%E4%BC%9A%E8%AF%B1%E5%8F%91%E7%8C%9D%E6%AD%BB%E7%9A%84%E4%B9%A0%E6%83%AF%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "美国疾控中心：婴儿肉毒中毒事件关联至ByHeart原料供应商",
           "url": "https://wallstreetcn.com/livenews/3043170",
           "source": "华尔街见闻-快讯",
@@ -153,17 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "欧委会对中企启动《外国补贴条例》深入调查发布简要报告，欧盟中国商会回应",
-          "url": "https://wallstreetcn.com/livenews/3043190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         }
       ]
     }
