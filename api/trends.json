@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-01-25T12:45:41.410725+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-01-25T13:23:01.329771+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "张又侠、刘振立涉嫌严重违纪违法被立案审查调查",
+          "url": "https://www.cls.cn/detail/2268618",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时23分]"
+        },
+        {
+          "title": "日本茨城县南部发生4.2级地震",
+          "url": "https://flash.jin10.com/detail/20260125105641176800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时23分]"
+        },
         {
           "title": "菲律宾南部船只失联事故已致7人死亡，船已沉没",
           "url": "https://news.ifeng.com/c/8qB4U64DAQh",
@@ -19,39 +43,26 @@
           "time_info": "[09时05分 ~ 12时45分]"
         },
         {
-          "title": "张又侠、刘振立涉嫌严重违纪违法被立案审查调查",
-          "url": "https://www.cls.cn/detail/2268618",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时45分]"
-        },
-        {
-          "title": "日本茨城县南部发生4.2级地震",
-          "url": "https://flash.jin10.com/detail/20260125105641176800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时45分]"
-        },
-        {
           "title": "美国州检察官起诉特朗普政府 指控其阻碍枪击案调查",
           "url": "https://flash.jin10.com/detail/20260125113356104800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时23分]"
+        },
+        {
+          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
+          "url": "https://wallstreetcn.com/livenews/3043350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时23分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
-          "url": "https://wallstreetcn.com/livenews/3043350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "智利附近海域发生5.0级地震",
@@ -93,11 +93,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时23分]"
         },
         {
           "title": "小学强制老师排练年会节目被投诉，教育局回应",
@@ -107,8 +108,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时23分]"
+        },
+        {
+          "title": "张又侠刘振立被立案调查",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%88%98%E6%8C%AF%E7%AB%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时23分]"
         },
         {
           "title": "成都一小学强制老师排练年会节目被投诉，教育局称已沟通",
@@ -120,8 +134,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时23分]"
         },
         {
           "title": "成都一职校欠薪三月被老师投诉，教育局称已督促发放部分工资",
@@ -132,20 +146,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时23分]"
         },
         {
-          "title": "张又侠刘振立被立案调查",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%88%98%E6%8C%AF%E7%AB%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
+          "title": "美联储新主席人选，一匹“黑马”意外杀出",
+          "url": "https://news.ifeng.com/c/8qCGNJBvUF4",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            16
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时45分]"
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "32岁程序员猝死背后有何警示",
