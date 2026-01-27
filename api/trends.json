@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T19:16:46.342347+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-01-27T20:27:56.279411+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "印度出现尼帕病毒疫情，专家：不是新敌人，无需恐慌但应保持敬畏",
@@ -24,11 +24,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349763&amp;topic_name=%E5%A7%94%E5%9B%BD%E5%BD%93%E8%80%81%E8%B5%96%2C%E5%80%BA%E4%B8%BB%E4%BB%AC%E8%BF%9E%E5%A4%9C%E4%B8%8A%E5%90%8A",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时27分]"
         },
         {
           "title": "韩国总统办公室：韩国贸易特使即将访问美国，并将与美国贸易代表会面，以商讨贸易协议的执行事宜。我们将向美国表达落实关税协议的意愿。",
@@ -83,8 +84,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时20分 ~ 19时16分]"
+          "appearance_count": 10,
+          "time_info": "[13时20分 ~ 20时27分]"
         },
         {
           "title": "女子上班前反向送娃遭遇车祸申请工伤被人社局驳回，法院则认为此举是日常生活工作必需活动，判决是否合理？",
@@ -228,6 +229,20 @@
           "time_info": "[12时40分 ~ 14时22分]"
         },
         {
+          "title": "香港蔡天凤碎尸案新进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%94%A1%E5%A4%A9%E5%87%A4%E7%A2%8E%E5%B0%B8%E6%A1%88%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时27分]"
+        },
+        {
           "title": "男子电诈园区跳楼逃生险被活埋",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E8%B7%B3%E6%A5%BC%E9%80%83%E7%94%9F%E9%99%A9%E8%A2%AB%E6%B4%BB%E5%9F%8B%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -240,17 +255,17 @@
           "time_info": "[14时21分 ~ 15时21分]"
         },
         {
-          "title": "香港蔡天凤碎尸案新进展",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%94%A1%E5%A4%A9%E5%87%A4%E7%A2%8E%E5%B0%B8%E6%A1%88%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "渐冻人称遭男护工猥亵 警方立案",
+          "url": "https://www.toutiao.com/trending/7599952869088886790/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            11,
-            15
+            23,
+            21,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时16分]"
+          "time_info": "[18时18分 ~ 20时27分]"
         },
         {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
@@ -301,6 +316,18 @@
           "time_info": "[16时19分 ~ 16时20分]"
         },
         {
+          "title": "渐冻人李小中称遭男护工猥亵报案",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E6%9D%8E%E5%B0%8F%E4%B8%AD%E7%A7%B0%E9%81%AD%E7%94%B7%E6%8A%A4%E5%B7%A5%E7%8C%A5%E4%BA%B5%E6%8A%A5%E6%A1%88%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时27分]"
+        },
+        {
           "title": "德选择党：泽连斯基要为北溪爆炸买单",
           "url": "https://www.toutiao.com/trending/7599111650607939634/",
           "source": "今日头条",
@@ -334,18 +361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 12时40分]"
-        },
-        {
-          "title": "渐冻人称遭男护工猥亵 警方立案",
-          "url": "https://www.toutiao.com/trending/7599952869088886790/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "2001年以来印度已暴发9次尼帕疫情",
@@ -388,7 +403,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -410,7 +425,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -421,7 +436,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -454,7 +469,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -476,9 +491,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "太原国资委通报“酒厂董事长殴打他人”：停职，开展专项调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32470037",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "谷歌法律顾问：然而，我们担心，那些往往由竞争对手投诉驱动而非以消费者利益为导向的进一步规则，将损害用户隐私、安全和创新。",
@@ -547,17 +573,6 @@
           "time_info": "16时20分"
         },
         {
-          "title": "渐冻人李小中称遭男护工猥亵报案",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E6%9D%8E%E5%B0%8F%E4%B8%AD%E7%A7%B0%E9%81%AD%E7%94%B7%E6%8A%A4%E5%B7%A5%E7%8C%A5%E4%BA%B5%E6%8A%A5%E6%A1%88%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "阿联酋阿布扎比国家石油公司首席执行官表示，从现在到2040年，石油需求将保持在每天1亿桶以上。（外媒更正为1亿桶/日而非10亿桶/日）",
           "url": "https://flash.jin10.com/detail/20260127134141007800",
           "source": "金十数据",
@@ -580,6 +595,17 @@
           "time_info": "14时22分"
         },
         {
+          "title": "广期所对部分客户采取限制开仓、限制出金监管措施",
+          "url": "https://wallstreetcn.com/livenews/3044755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "韩国国会贸易委员会主席：此类法案的通过通常需要6至7个月。",
           "url": "https://flash.jin10.com/detail/20260127133820623800",
           "source": "金十数据",
@@ -597,7 +623,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -608,7 +634,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
