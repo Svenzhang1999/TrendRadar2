@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-27T11:31:39.753547+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-01-27T12:40:35.096366+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "印度出现尼帕病毒疫情，专家：不是新敌人，无需恐慌但应保持敬畏",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466809",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
         },
         {
           "title": "韩国总统办公室：韩国贸易特使即将访问美国，并将与美国贸易代表会面，以商讨贸易协议的执行事宜。我们将向美国表达落实关税协议的意愿。",
@@ -25,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -41,16 +42,29 @@
           "time_info": "09时02分"
         },
         {
+          "title": "女子上班前反向送娃遭遇车祸申请工伤被人社局驳回，法院则认为此举是日常生活工作必需活动，判决是否合理？",
+          "url": "https://www.zhihu.com/question/1996331521422946715",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
+        },
+        {
           "title": "甘肃甘南州迭部县连续发生5.5级、3.2级地震",
           "url": "https://m.thepaper.cn/newsDetail_forward_32465095",
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 12时40分]"
         },
         {
           "title": "国企董事长殴打他人被拘 当地通报",
@@ -58,11 +72,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 12时40分]"
         },
         {
           "title": "宠物犬中毒刑案受害人遭辱骂和威胁，北京警方：对男子罚款1000元",
@@ -70,11 +85,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 12时40分]"
         },
         {
           "title": "印度尼帕病毒疫情已致5人感染，周边国家加强入境筛查",
@@ -82,11 +98,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 12时40分]"
         },
         {
           "title": "甘肃甘南5.5级地震",
@@ -97,8 +114,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 12时40分]"
         },
         {
           "title": "视源股份处理“32岁程序员猝死”事件记录曝光，“他是受器重的管理层”",
@@ -106,11 +123,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 12时40分]"
         },
         {
           "title": "美国正式退出世卫组织还抹黑中国，外交部：坚决反对将疫情政治化",
@@ -121,8 +139,32 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 12时40分]"
+        },
+        {
+          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
+          "url": "https://www.zhihu.com/question/1998804557132690728",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时02分 ~ 11时31分]"
+          "time_info": "[11时31分 ~ 12时40分]"
+        },
+        {
+          "title": "日本千叶县确认高致病性禽流感疫情",
+          "url": "https://www.toutiao.com/trending/7599834381955465252/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
         },
         {
           "title": "2001年以来印度已暴发9次尼帕疫情",
@@ -148,15 +190,15 @@
           "time_info": "09时02分"
         },
         {
-          "title": "女子上班前反向送娃遭遇车祸申请工伤被人社局驳回，法院则认为此举是日常生活工作必需活动，判决是否合理？",
-          "url": "https://www.zhihu.com/question/1996331521422946715",
+          "title": "全世界人类聚集在一起用尽全力大吼，造成的音波会引发地震吗？",
+          "url": "https://www.zhihu.com/question/1982140555115909752",
           "source": "知乎",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "12时40分"
         },
         {
           "title": "市场消息：韩国财长将与委员会主席会晤，商讨美韩贸易协定相关立法事宜。",
@@ -165,29 +207,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
-          "url": "https://www.zhihu.com/question/1998804557132690728",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "日本千叶县确认高致病性禽流感疫情",
-          "url": "https://www.toutiao.com/trending/7599834381955465252/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -198,7 +218,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
