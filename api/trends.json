@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:22:01.919478+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-01-28T14:23:44.806521+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -16,19 +16,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时23分]"
         },
         {
           "title": "印度坠毁飞机机上人员全遇难",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E6%9C%BA%E4%B8%8A%E4%BA%BA%E5%91%98%E5%85%A8%E9%81%87%E9%9A%BE%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时23分]"
+        },
+        {
+          "title": "四川省成都市人大常委会原党组书记、主任包惠接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473994",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时23分]"
         },
         {
           "title": "在盒马买鲜百合被误送水仙致中毒",
@@ -42,16 +56,16 @@
           "time_info": "08时59分"
         },
         {
-          "title": "四川省成都市人大常委会原党组书记、主任包惠接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473994",
-          "source": "澎湃新闻",
+          "title": "印度一飞机坠毁 机上人员全部遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81+%E6%9C%BA%E4%B8%8A%E4%BA%BA%E5%91%98%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时23分]"
         },
         {
           "title": "盒马误将水仙球当作食用百合卖致祖孙中毒送医，称「顾客误食也有一定责任」，是这样吗？法律上如何界定？",
@@ -79,29 +93,31 @@
           "time_info": "[08时59分 ~ 12时38分]"
         },
         {
+          "title": "男子术后被输过期注射液医护称“没有坏处”，卫健执法部门介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473979",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时23分]"
+        },
+        {
           "title": "印度尼帕病毒疫情中提到的「生枣椰汁」成为「危险饮品」，它为什么会有传播病毒的风险？",
           "url": "https://www.zhihu.com/question/1999382546333529141",
           "source": "知乎",
           "ranks": [
             20,
             6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时22分]"
-        },
-        {
-          "title": "男子术后被输过期注射液医护称“没有坏处”，卫健执法部门介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473979",
-          "source": "澎湃新闻",
-          "ranks": [
             10,
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时23分]"
         },
         {
           "title": "委国当老赖,债主们连夜上吊",
@@ -113,8 +129,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 14时23分]"
         },
         {
           "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
@@ -126,8 +142,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 14时23分]"
         },
         {
           "title": "调查：市价不到两百的护眼灯校园采购价却高达七八百，背后藏何猫腻？",
@@ -136,11 +152,12 @@
           "ranks": [
             18,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 14时23分]"
         },
         {
           "title": "印度疫情对我国有何影响",
@@ -148,22 +165,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 13时22分]"
-        },
-        {
-          "title": "印度一飞机坠毁 机上人员全部遇难",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81+%E6%9C%BA%E4%B8%8A%E4%BA%BA%E5%91%98%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时23分]"
         },
         {
           "title": "印度坠毁飞机机上人员全遇难",
@@ -173,8 +180,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时23分]"
+        },
+        {
+          "title": "一起诈骗案“真凶再现”：老人狱中病亡14年后获宣告无罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32479945",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时23分]"
         },
         {
           "title": "盒马回应误送水仙球致祖孙俩中毒",
@@ -186,17 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时03分 ~ 11时04分]"
-        },
-        {
-          "title": "一起诈骗案“真凶再现”：老人狱中病亡14年后获宣告无罪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32479945",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "女子投诉餐厅标语恶臭是太较真吗",
@@ -227,9 +235,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "日本电力公司JERA首席执行官：印度在未来十年进口液化天然气的潜力巨大。",
+          "url": "https://flash.jin10.com/detail/20260128133933986800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "太原国资委通报“酒厂董事长殴打他人”：停职，开展专项调查",
@@ -252,6 +271,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "日本电力公司JERA首席执行官：我们正在考虑如何在日本以外利用我们的投资组合。",
+          "url": "https://flash.jin10.com/detail/20260128133859418800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "日本电力公司JERA首席执行官：我们需要更灵活的液化天然气合同，包括自行处理运输以应对不确定性。",
+          "url": "https://flash.jin10.com/detail/20260128133845266800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "MSCI对印尼股票指数调整实施临时冻结。",
