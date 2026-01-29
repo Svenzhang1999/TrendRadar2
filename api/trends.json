@@ -1,38 +1,12 @@
 {
-  "generated_at": "2026-01-29T18:27:33.586643+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-01-29T19:25:01.432061+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
-        {
-          "title": "缅北明家案11名罪犯被执行死刑",
-          "url": "https://www.toutiao.com/trending/7600270391793438227/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时07分 ~ 18时27分]"
-        },
-        {
-          "title": "211学霸当保安,母校连夜约谈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349882&amp;topic_name=211%E5%AD%A6%E9%9C%B8%E5%BD%93%E4%BF%9D%E5%AE%89%2C%E6%AF%8D%E6%A0%A1%E8%BF%9E%E5%A4%9C%E7%BA%A6%E8%B0%88",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 18时27分]"
-        },
         {
           "title": "明家犯罪集团11人被执行死刑",
           "url": "https://www.douyin.com/hot/2382827",
@@ -44,8 +18,22 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 18时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 19时25分]"
+        },
+        {
+          "title": "缅北明家案11名罪犯被执行死刑",
+          "url": "https://www.toutiao.com/trending/7600270391793438227/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时07分 ~ 19时25分]"
         },
         {
           "title": "打工人的福音:保猝死险来了",
@@ -59,6 +47,20 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
+          "title": "211学霸当保安,母校连夜约谈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349882&amp;topic_name=211%E5%AD%A6%E9%9C%B8%E5%BD%93%E4%BF%9D%E5%AE%89%2C%E6%AF%8D%E6%A0%A1%E8%BF%9E%E5%A4%9C%E7%BA%A6%E8%B0%88",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时34分 ~ 19时25分]"
+        },
+        {
           "title": "印尼证券监管机构：印尼目前正在等待MSCI对拟议调整的回应。",
           "url": "https://flash.jin10.com/detail/20260129142115036800",
           "source": "金十数据",
@@ -68,17 +70,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
-        },
-        {
-          "title": "潘功胜出席东亚及太平洋地区央行行长会议组织（EMEAP）第20次亚太地区银行监管高级别会议",
-          "url": "https://wallstreetcn.com/livenews/3046378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "印度尼西亚金融监管机构：我们希望尽快实施审慎改革。",
@@ -97,11 +88,28 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 18时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 19时25分]"
+        },
+        {
+          "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488742",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时07分 ~ 19时25分]"
         },
         {
           "title": "缅甸出现一处3000人新诈骗园区",
@@ -110,11 +118,26 @@
           "ranks": [
             2,
             5,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 19时25分]"
+        },
+        {
+          "title": "缅北明家11人被执行死刑",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B611%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4,
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 19时25分]"
         },
         {
           "title": "鲍威尔：美联储当前没有加息考量 建议新主席“远离政治”",
@@ -135,25 +158,12 @@
           "ranks": [
             29,
             2,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时07分 ~ 18时27分]"
-        },
-        {
-          "title": "缅北明家11人被执行死刑",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B611%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[13时07分 ~ 19时25分]"
         },
         {
           "title": "明家犯罪集团11人被执行死刑",
@@ -168,19 +178,16 @@
           "time_info": "[12时01分 ~ 13时07分]"
         },
         {
-          "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488742",
-          "source": "澎湃新闻",
+          "title": "潘功胜出席东亚及太平洋地区央行行长会议组织（EMEAP）第20次亚太地区银行监管高级别会议",
+          "url": "https://wallstreetcn.com/livenews/3046378",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            9,
-            8,
-            7,
-            5
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时07分 ~ 18时27分]"
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时25分]"
         },
         {
           "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
@@ -190,11 +197,12 @@
             14,
             10,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 19时25分]"
         },
         {
           "title": "美联储主席对黄金表态透露哪些信息",
@@ -220,8 +228,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 18时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 19时25分]"
         },
         {
           "title": "利率已被焊死？“新债王”冈拉克：鲍威尔主席任内美联储将不会再降息",
@@ -234,8 +242,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 19时25分]"
         },
         {
           "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
@@ -245,11 +253,12 @@
             12,
             11,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 19时25分]"
         },
         {
           "title": "谁会是下任美联储主席",
@@ -260,11 +269,12 @@
             25,
             20,
             28,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 19时25分]"
         },
         {
           "title": "警方称成立调查组调查金晨逃逸案",
@@ -272,11 +282,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时34分 ~ 19时25分]"
         },
         {
           "title": "哥伦比亚客机坠毁，机上15人全部遇难，包括一名总统候选人",
@@ -289,6 +300,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时07分 ~ 14时35分]"
+        },
+        {
+          "title": "金晨被曝肇事逃逸，警方：已成立调查组",
+          "url": "https://news.ifeng.com/c/8qJDOWuG2k9",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 19时25分]"
         },
         {
           "title": "中国游客贝加尔湖遇难 中领馆提醒",
@@ -317,15 +339,28 @@
           "time_info": "[12时01分 ~ 15时35分]"
         },
         {
-          "title": "金晨被曝肇事逃逸，警方：已成立调查组",
-          "url": "https://news.ifeng.com/c/8qJDOWuG2k9",
-          "source": "凤凰网",
+          "title": "缅甸出现一处3000人新诈骗园区",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%87%BA%E7%8E%B0%E4%B8%80%E5%A4%843000%E4%BA%BA%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA",
+          "source": "百度热搜",
           "ranks": [
-            12
+            19,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时27分]"
+          "time_info": "[18时27分 ~ 19时25分]"
+        },
+        {
+          "title": "疑遭男护工多次猥亵渐冻症女子发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E7%94%B7%E6%8A%A4%E5%B7%A5%E5%A4%9A%E6%AC%A1%E7%8C%A5%E4%BA%B5%E6%B8%90%E5%86%BB%E7%97%87%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时25分]"
         },
         {
           "title": "外籍女性婚姻诈骗团伙被打掉",
@@ -418,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 13时07分]"
+        },
+        {
+          "title": "“甘肃肃南发生5.1级地震”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%98%E8%82%83%E8%82%83%E5%8D%97%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "视源股份内部通告“32岁猝死程序员”入职6年未体检，妻子称丈夫患乙肝每年有体检",
@@ -563,15 +609,15 @@
           "time_info": "12时01分"
         },
         {
-          "title": "缅甸出现一处3000人新诈骗园区",
-          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%87%BA%E7%8E%B0%E4%B8%80%E5%A4%843000%E4%BA%BA%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA",
-          "source": "百度热搜",
+          "title": "中国人民银行行长潘功胜会见高盛集团董事长兼首席执行官苏德巍",
+          "url": "https://wallstreetcn.com/livenews/3046398",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "19时25分"
         },
         {
           "title": "印度中部一架飞机坠毁，机上5人全部遇难",
@@ -627,17 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
-        },
-        {
-          "title": "疑遭男护工多次猥亵渐冻症女子发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E7%94%B7%E6%8A%A4%E5%B7%A5%E5%A4%9A%E6%AC%A1%E7%8C%A5%E4%BA%B5%E6%B8%90%E5%86%BB%E7%97%87%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "英伟达CEO黄仁勋：当然会与台积电首席执行官会面。",
