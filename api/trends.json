@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-01-29T19:25:01.432061+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-01-29T20:33:29.135383+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 56,
+      "match_count": 65,
       "titles": [
-        {
-          "title": "明家犯罪集团11人被执行死刑",
-          "url": "https://www.douyin.com/hot/2382827",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时01分 ~ 19时25分]"
-        },
         {
           "title": "缅北明家案11名罪犯被执行死刑",
           "url": "https://www.toutiao.com/trending/7600270391793438227/",
@@ -32,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时07分 ~ 19时25分]"
+          "appearance_count": 10,
+          "time_info": "[13时07分 ~ 20时33分]"
         },
         {
           "title": "打工人的福音:保猝死险来了",
@@ -47,18 +33,19 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
-          "title": "211学霸当保安,母校连夜约谈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349882&amp;topic_name=211%E5%AD%A6%E9%9C%B8%E5%BD%93%E4%BF%9D%E5%AE%89%2C%E6%AF%8D%E6%A0%A1%E8%BF%9E%E5%A4%9C%E7%BA%A6%E8%B0%88",
-          "source": "贴吧",
+          "title": "明家犯罪集团11人被执行死刑",
+          "url": "https://www.douyin.com/hot/2382827",
+          "source": "抖音",
           "ranks": [
-            2,
-            3,
             4,
-            9
+            1,
+            2,
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时34分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 20时33分]"
         },
         {
           "title": "印尼证券监管机构：印尼目前正在等待MSCI对拟议调整的回应。",
@@ -83,17 +70,19 @@
           "time_info": "14时35分"
         },
         {
-          "title": "缅北明家11人被执行死刑",
-          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B611%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-          "source": "百度热搜",
+          "title": "211学霸当保安,母校连夜约谈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349882&amp;topic_name=211%E5%AD%A6%E9%9C%B8%E5%BD%93%E4%BF%9D%E5%AE%89%2C%E6%AF%8D%E6%A0%A1%E8%BF%9E%E5%A4%9C%E7%BA%A6%E8%B0%88",
+          "source": "贴吧",
           "ranks": [
-            1,
-            7,
-            25
+            2,
+            3,
+            4,
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时01分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[15时34分 ~ 20时33分]"
         },
         {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
@@ -105,11 +94,28 @@
             8,
             7,
             5,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时07分 ~ 20时33分]"
+        },
+        {
+          "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
+          "url": "https://www.zhihu.com/question/2000170572613706473",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            9,
+            5,
+            6,
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时07分 ~ 19时25分]"
+          "time_info": "[14时35分 ~ 20时33分]"
         },
         {
           "title": "缅甸出现一处3000人新诈骗园区",
@@ -127,17 +133,17 @@
         },
         {
           "title": "缅北明家11人被执行死刑",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B611%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-          "source": "bilibili 热搜",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B611%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            4,
-            8,
-            7
+            1,
+            7,
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时01分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 20时33分]"
         },
         {
           "title": "鲍威尔：美联储当前没有加息考量 建议新主席“远离政治”",
@@ -152,6 +158,21 @@
           "time_info": "[09时07分 ~ 13时07分]"
         },
         {
+          "title": "缅北明家11人被执行死刑",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B611%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 20时33分]"
+        },
+        {
           "title": "外籍女性在中国从事婚姻诈骗",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E5%A5%B3%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%8E%E4%BA%8B%E5%A9%9A%E5%A7%BB%E8%AF%88%E9%AA%97",
           "source": "百度热搜",
@@ -159,11 +180,28 @@
             29,
             2,
             17,
-            19
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时07分 ~ 20时33分]"
+        },
+        {
+          "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488154",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时07分 ~ 19时25分]"
+          "time_info": "[14时35分 ~ 20时33分]"
         },
         {
           "title": "明家犯罪集团11人被执行死刑",
@@ -190,21 +228,6 @@
           "time_info": "[18时27分 ~ 19时25分]"
         },
         {
-          "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
-          "url": "https://www.zhihu.com/question/2000170572613706473",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 19时25分]"
-        },
-        {
           "title": "美联储主席对黄金表态透露哪些信息",
           "url": "https://www.toutiao.com/trending/7600621628191411731/",
           "source": "今日头条",
@@ -228,8 +251,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时01分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 20时33分]"
         },
         {
           "title": "利率已被焊死？“新债王”冈拉克：鲍威尔主席任内美联储将不会再降息",
@@ -242,23 +265,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 19时25分]"
-        },
-        {
-          "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488154",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时35分 ~ 20时33分]"
         },
         {
           "title": "谁会是下任美联储主席",
@@ -273,8 +281,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时35分 ~ 20时33分]"
         },
         {
           "title": "警方称成立调查组调查金晨逃逸案",
@@ -283,11 +291,12 @@
           "ranks": [
             12,
             6,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时34分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[15时34分 ~ 20时33分]"
         },
         {
           "title": "哥伦比亚客机坠毁，机上15人全部遇难，包括一名总统候选人",
@@ -326,6 +335,18 @@
           "time_info": "[13时07分 ~ 16时28分]"
         },
         {
+          "title": "缅甸出现一处3000人新诈骗园区",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%87%BA%E7%8E%B0%E4%B8%80%E5%A4%843000%E4%BA%BA%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时33分]"
+        },
+        {
           "title": "军事基地附近现气象探测站 国安调查",
           "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E9%99%84%E8%BF%91%E7%8E%B0%E6%B0%94%E8%B1%A1%E6%8E%A2%E6%B5%8B%E7%AB%99+%E5%9B%BD%E5%AE%89%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
@@ -339,16 +360,15 @@
           "time_info": "[12时01分 ~ 15时35分]"
         },
         {
-          "title": "缅甸出现一处3000人新诈骗园区",
-          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E7%94%B8%E5%87%BA%E7%8E%B0%E4%B8%80%E5%A4%843000%E4%BA%BA%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA",
+          "title": "“甘肃肃南发生5.1级地震”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%98%E8%82%83%E8%82%83%E5%8D%97%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E2%80%9D%E4%B8%8D%E5%AE%9E",
           "source": "百度热搜",
           "ranks": [
-            19,
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时25分]"
+          "time_info": "[19时24分 ~ 20时33分]"
         },
         {
           "title": "疑遭男护工多次猥亵渐冻症女子发声",
@@ -455,17 +475,6 @@
           "time_info": "[12时01分 ~ 13时07分]"
         },
         {
-          "title": "“甘肃肃南发生5.1级地震”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%98%E8%82%83%E8%82%83%E5%8D%97%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
           "title": "视源股份内部通告“32岁猝死程序员”入职6年未体检，妻子称丈夫患乙肝每年有体检",
           "url": "https://m.thepaper.cn/newsDetail_forward_32479896",
           "source": "澎湃新闻",
@@ -521,6 +530,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "路透调查：LME现货铅均价预计2026年为2,042美元/吨，2027年为2,100美元/吨，而2025年为1,962美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200908926800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "印度尼西亚金融监管机构：致力于提高透明度，实施有效且及时的监管。",
           "url": "https://flash.jin10.com/detail/20260129140955848800",
           "source": "金十数据",
@@ -541,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "路透调查：LME现货铜均价预计2026年为11,975美元/吨，2027年为11,994美元/吨，而2025年为9,939美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200853225800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "印度尼西亚金融监管机构：自律组织将实施15%的股票自由流通量要求。",
@@ -565,6 +596,17 @@
           "time_info": "17时33分"
         },
         {
+          "title": "路透调查：预计2026年镍市场供应过剩21.4万吨，2027年过剩扩大至22.4万吨。",
+          "url": "https://flash.jin10.com/detail/20260129200750378800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "市场监管总局：2025年完成经营者集中反垄断审查706件",
           "url": "https://wallstreetcn.com/livenews/3046211",
           "source": "华尔街见闻-快讯",
@@ -576,6 +618,39 @@
           "time_info": "15时35分"
         },
         {
+          "title": "路透调查：LME现货镍均价预计2026年为15,988美元/吨，2027年为16,063美元/吨，而2025年为15,154美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200730593800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "路透调查：LME现货铝均价预计2026年和2027年均为2,946美元/吨，而2025年为2,630美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200653900800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "路透调查：LME现货锌均价预计2026年为2,976美元/吨，2027年为2,866美元/吨，而2025年为2,867美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200631978800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "印度尼西亚金融监管机构：将采取多项措施应对MSCI公告。",
           "url": "https://flash.jin10.com/detail/20260129140544385800",
           "source": "金十数据",
@@ -585,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "路透调查：铜市场预计2026年将出现23.85万吨供应缺口，2027年缺口预计为11.6万吨。",
+          "url": "https://flash.jin10.com/detail/20260129200552686800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "外籍女性入境婚姻诈骗涉案500多万",
@@ -609,15 +695,37 @@
           "time_info": "12时01分"
         },
         {
+          "title": "路透调查：铝市场预计2026年供应过剩8万吨，2027年将转为短缺14.9万吨。",
+          "url": "https://flash.jin10.com/detail/20260129200456414800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "中国人民银行行长潘功胜会见高盛集团董事长兼首席执行官苏德巍",
           "url": "https://wallstreetcn.com/livenews/3046398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "路透调查：LME现货锡均价预计2026年为39,613美元/吨，2027年为38,063美元/吨，而2025年为34,096美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129200435569800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "印度中部一架飞机坠毁，机上5人全部遇难",
