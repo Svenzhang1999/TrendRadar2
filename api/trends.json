@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-30T09:07:27.655348+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-30T12:02:04.244682+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "缅北明家案11名罪犯被执行死刑",
-          "url": "https://www.toutiao.com/trending/7600270391793438227/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
         {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32488742",
@@ -26,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时02分]"
         },
         {
           "title": "缅北明家11人被执行死刑",
@@ -39,6 +28,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "缅北明家案11名罪犯被执行死刑",
+          "url": "https://www.toutiao.com/trending/7600270391793438227/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时02分]"
+        },
+        {
+          "title": "一家人吃自制牛瘪火锅中毒双手变蓝",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%90%83%E8%87%AA%E5%88%B6%E7%89%9B%E7%98%AA%E7%81%AB%E9%94%85%E4%B8%AD%E6%AF%92%E5%8F%8C%E6%89%8B%E5%8F%98%E8%93%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时02分]"
+        },
+        {
+          "title": "新疆富蕴：一雪豹咬死35只羊被捕获，初步判断同咬伤游客的雪豹为同一只",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32494427",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时02分]"
+        },
+        {
+          "title": "211学霸当保安,母校连夜约谈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349882&amp;topic_name=211%E5%AD%A6%E9%9C%B8%E5%BD%93%E4%BF%9D%E5%AE%89%2C%E6%AF%8D%E6%A0%A1%E8%BF%9E%E5%A4%9C%E7%BA%A6%E8%B0%88",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "监管火速通报某基金公司违规销售，暂停新发，高管遭追责，处罚全文来了",
+          "url": "https://www.cls.cn/detail/2275210",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "男子喝自制中药中毒身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D%E8%87%AA%E5%88%B6%E4%B8%AD%E8%8D%AF%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "女子在家自制牛瘪火锅4人集体中毒",
+          "url": "https://www.toutiao.com/trending/7600722012121694244/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "男子喝网购自制中药中毒身亡",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E7%BD%91%E8%B4%AD%E8%87%AA%E5%88%B6%E4%B8%AD%E8%8D%AF%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "丧夫丧子阿姨遇天价殡葬费",
+          "url": "https://www.toutiao.com/trending/7600693387347869742/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "乘客称飞机要爆炸要求下机？航司回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%98%E5%AE%A2%E7%A7%B0%E9%A3%9E%E6%9C%BA%E8%A6%81%E7%88%86%E7%82%B8%E8%A6%81%E6%B1%82%E4%B8%8B%E6%9C%BA%EF%BC%9F%E8%88%AA%E5%8F%B8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
@@ -74,17 +188,6 @@
           "time_info": "09时07分"
         },
         {
-          "title": "一家人吃自制牛瘪火锅中毒双手变蓝",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%90%83%E8%87%AA%E5%88%B6%E7%89%9B%E7%98%AA%E7%81%AB%E9%94%85%E4%B8%AD%E6%AF%92%E5%8F%8C%E6%89%8B%E5%8F%98%E8%93%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
           "title": "凯文·沃什当选美联储新主席的概率激增",
           "url": "https://wallstreetcn.com/livenews/3046814",
           "source": "华尔街见闻-快讯",
@@ -105,6 +208,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "美媒：特朗普“会面+通话”，敲定沃什为下一任美联储主席人选",
+          "url": "https://flash.jin10.com/detail/20260130112120127800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "游戏驿站首席执行官表示，正瞄准一家大型上市公司进行收购，目标是将市值提升至1000亿美元。(华尔街日报)",
+          "url": "https://wallstreetcn.com/livenews/3046949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "特朗普将于今晚公布美联储主席人选",
@@ -129,28 +254,6 @@
           "time_info": "09时07分"
         },
         {
-          "title": "211学霸当保安,母校连夜约谈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349882&amp;topic_name=211%E5%AD%A6%E9%9C%B8%E5%BD%93%E4%BF%9D%E5%AE%89%2C%E6%AF%8D%E6%A0%A1%E8%BF%9E%E5%A4%9C%E7%BA%A6%E8%B0%88",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "新疆富蕴：一雪豹咬死35只羊被捕获，初步判断同咬伤游客的雪豹为同一只",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32494427",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
           "title": "谁会是下任美联储主席",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
           "source": "bilibili 热搜",
@@ -160,6 +263,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "据华尔街日报：游戏驿站(GME.N)首席执行官拒绝透露潜在收购目标。",
+          "url": "https://flash.jin10.com/detail/20260130110217244800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "据华尔街日报：游戏驿站(GME.N)首席执行官表示正关注消费者或零售公司。",
+          "url": "https://flash.jin10.com/detail/20260130110137863800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "据华尔街日报：游戏驿站(GME.N)首席执行官表示，正瞄准一家大型上市公司进行收购，目标是将市值提升至1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130110118737800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "路透调查：澳洲联储将把现金利率维持在3.85%直至2026年底。",
@@ -195,6 +331,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "美国地质勘探局：南太平洋中脊东部发生5.0级地震。",
+          "url": "https://flash.jin10.com/detail/20260130105617679800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美国总统特朗普：明天上午（北京时间今晚）宣布美联储主席人选。当选美联储主席的人选非常合适。",
           "url": "https://wallstreetcn.com/livenews/3046798",
           "source": "华尔街见闻-快讯",
@@ -215,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "美媒：豪门人脉加持，沃什问鼎美联储主席似乎胜券在握",
+          "url": "https://flash.jin10.com/detail/20260130105442934800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "今年首个落马正部级 孙绍骋任上被查",
