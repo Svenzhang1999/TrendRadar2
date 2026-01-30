@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T14:36:19.582910+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-01-30T15:35:41.764294+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
@@ -25,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时35分]"
         },
         {
           "title": "缅北明家11人被执行死刑",
@@ -39,6 +39,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "监管火速通报某基金公司违规销售，暂停新发，高管遭追责，处罚全文来了",
+          "url": "https://www.cls.cn/detail/2275210",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时35分]"
         },
         {
           "title": "缅北明家案11名罪犯被执行死刑",
@@ -53,30 +67,18 @@
           "time_info": "[09时07分 ~ 12时02分]"
         },
         {
-          "title": "监管火速通报某基金公司违规销售，暂停新发，高管遭追责，处罚全文来了",
-          "url": "https://www.cls.cn/detail/2275210",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 14时36分]"
-        },
-        {
           "title": "一家人吃自制牛瘪火锅中毒双手变蓝",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%90%83%E8%87%AA%E5%88%B6%E7%89%9B%E7%98%AA%E7%81%AB%E9%94%85%E4%B8%AD%E6%AF%92%E5%8F%8C%E6%89%8B%E5%8F%98%E8%93%9D",
           "source": "百度热搜",
           "ranks": [
             10,
             8,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时35分]"
         },
         {
           "title": "新疆富蕴：一雪豹咬死35只羊被捕获，初步判断同咬伤游客的雪豹为同一只",
@@ -86,11 +88,12 @@
             17,
             15,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时35分]"
         },
         {
           "title": "211学霸当保安,母校连夜约谈",
@@ -100,11 +103,12 @@
             16,
             22,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时35分]"
         },
         {
           "title": "特朗普：计划30日公布美联储下任主席提名",
@@ -114,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时35分]"
         },
         {
           "title": "男子喝网购自制中药中毒身亡",
@@ -127,21 +131,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 14时36分]"
-        },
-        {
-          "title": "男子喝自制中药中毒身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D%E8%87%AA%E5%88%B6%E4%B8%AD%E8%8D%AF%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时35分]"
         },
         {
           "title": "乘客称飞机要爆炸要求下机？航司回应",
@@ -151,6 +142,19 @@
             24,
             27,
             22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时35分]"
+        },
+        {
+          "title": "男子喝自制中药中毒身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D%E8%87%AA%E5%88%B6%E4%B8%AD%E8%8D%AF%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            29,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -202,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时11分]"
+        },
+        {
+          "title": "深圳中院一执行法官被两企业举报，法院：系正常履职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32463582",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时35分]"
         },
         {
           "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
@@ -281,6 +296,17 @@
           "time_info": "13时11分"
         },
         {
+          "title": "印尼金融监管官员：将于下周一任命一名印尼证券交易所董事担任临时首席执行官。",
+          "url": "https://flash.jin10.com/detail/20260130150333066800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "特朗普将于今晚公布美联储主席人选",
           "url": "https://flash.jin10.com/detail/20260130081458404800",
           "source": "金十数据",
@@ -298,7 +324,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -312,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "深圳中院一执行法官被两企业举报，法院：系正常履职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32463582",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         },
         {
           "title": "谁会是下任美联储主席",
@@ -477,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "道明证券：若沃什顺利当选下一任美联储主席，美债收益率曲线料会变陡",
+          "url": "https://flash.jin10.com/detail/20260130145242916800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "今年首个落马正部级 孙绍骋任上被查",
