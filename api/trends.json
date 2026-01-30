@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T15:35:41.764294+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-01-30T16:27:22.140190+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
@@ -30,6 +30,17 @@
           "time_info": "[14时36分 ~ 15时35分]"
         },
         {
+          "title": "甘肃白银3.6级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B63.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "缅北明家11人被执行死刑",
           "url": "https://search.bilibili.com/all?keyword=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B611%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
           "source": "bilibili 热搜",
@@ -51,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 16时27分]"
         },
         {
           "title": "缅北明家案11名罪犯被执行死刑",
@@ -65,6 +76,49 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 12时02分]"
+        },
+        {
+          "title": "新疆富蕴：一雪豹咬死35只羊被捕获，初步判断同咬伤游客的雪豹为同一只",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32494427",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 16时27分]"
+        },
+        {
+          "title": "211学霸当保安,母校连夜约谈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349882&amp;topic_name=211%E5%AD%A6%E9%9C%B8%E5%BD%93%E4%BF%9D%E5%AE%89%2C%E6%AF%8D%E6%A0%A1%E8%BF%9E%E5%A4%9C%E7%BA%A6%E8%B0%88",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            22,
+            23,
+            25,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 16时27分]"
         },
         {
           "title": "一家人吃自制牛瘪火锅中毒双手变蓝",
@@ -81,58 +135,18 @@
           "time_info": "[09时07分 ~ 15时35分]"
         },
         {
-          "title": "新疆富蕴：一雪豹咬死35只羊被捕获，初步判断同咬伤游客的雪豹为同一只",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32494427",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 15时35分]"
-        },
-        {
-          "title": "211学霸当保安,母校连夜约谈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349882&amp;topic_name=211%E5%AD%A6%E9%9C%B8%E5%BD%93%E4%BF%9D%E5%AE%89%2C%E6%AF%8D%E6%A0%A1%E8%BF%9E%E5%A4%9C%E7%BA%A6%E8%B0%88",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            22,
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 15时35分]"
-        },
-        {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时35分]"
-        },
-        {
           "title": "男子喝网购自制中药中毒身亡",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%96%9D%E7%BD%91%E8%B4%AD%E8%87%AA%E5%88%B6%E4%B8%AD%E8%8D%AF%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
             20,
             19,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 16时27分]"
         },
         {
           "title": "乘客称飞机要爆炸要求下机？航司回应",
@@ -166,11 +180,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 16时27分]"
         },
         {
           "title": "丧夫丧子阿姨遇天价殡葬费",
@@ -182,6 +197,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时01分 ~ 13时11分]"
+        },
+        {
+          "title": "深圳中院一执行法官被两企业举报，法院：系正常履职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32463582",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时27分]"
         },
         {
           "title": "丧子丧偶阿姨又遭遇天价丧葬费",
@@ -208,17 +235,6 @@
           "time_info": "[12时02分 ~ 13时11分]"
         },
         {
-          "title": "深圳中院一执行法官被两企业举报，法院：系正常履职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32463582",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时35分]"
-        },
-        {
           "title": "湖南省政协原副主席魏文彬逝世，享年76岁",
           "url": "https://m.thepaper.cn/newsDetail_forward_32488154",
           "source": "澎湃新闻",
@@ -239,6 +255,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "两部门：各地可适当调整省内煤电中长期市场交易价格下限，不再统一执行基准价下浮20%的下限",
+          "url": "https://wallstreetcn.com/livenews/3047137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "女子吃自制牛瘪火锅中毒双手变蓝",
@@ -285,6 +323,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "网红周媛被立案调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%91%A8%E5%AA%9B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "德邦基金处罚落地！监管严禁无资质互联网大V带货",
           "url": "https://wallstreetcn.com/livenews/3046970",
           "source": "华尔街见闻-快讯",
@@ -302,7 +351,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -417,6 +466,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "28岁川大博士生在意大利失联已10天",
+          "url": "https://www.baidu.com/s?wd=28%E5%B2%81%E5%B7%9D%E5%A4%A7%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%B1%E8%81%94%E5%B7%B210%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "美国总统特朗普起诉美国国税局和财政部，索赔100亿美元，理由是税表泄露。",
           "url": "https://flash.jin10.com/detail/20260130080816203800",
           "source": "金十数据",
@@ -500,7 +560,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
