@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T14:26:45.260923+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-01-31T15:21:58.890652+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "天价彩礼劝退!不婚成无奈选择",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "「黑白颠周媛」被立案调查，责令其停止线上线下社会行为，具体情况如何？",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -52,19 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
-        },
-        {
-          "title": "美联储主席提名人沃什被爆卷入爱泼斯坦案",
-          "url": "https://flash.jin10.com/detail/20260131133522823800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "500多天的刑案马拉松：一起9名员工和4名主播“构成”的诈骗案",
@@ -76,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "女儿被造黄谣妈妈果断报警维权",
@@ -100,11 +89,24 @@
             3,
             5,
             8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 15时21分]"
+        },
+        {
+          "title": "美联储主席提名人沃什被爆卷入爱泼斯坦案",
+          "url": "https://flash.jin10.com/detail/20260131133522823800",
+          "source": "金十数据",
+          "ranks": [
+            5,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 14时26分]"
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时21分]"
         },
         {
           "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
@@ -117,8 +119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "28岁博士在意大利失联父母一夜白头",
@@ -141,11 +143,12 @@
             4,
             10,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 15时21分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -157,8 +160,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "美联储新主席的政策轨迹",
@@ -170,8 +173,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
@@ -182,8 +185,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "山西一县委原书记搞政绩工程被双开",
@@ -191,11 +194,25 @@
           "source": "今日头条",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 15时21分]"
+        },
+        {
+          "title": "市场监管总局公布4起直播电商领域典型案例，成都快购被罚超2600万",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32500597",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 15时21分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -222,18 +239,6 @@
           "time_info": "[09时04分 ~ 12时59分]"
         },
         {
-          "title": "市场监管总局公布4起直播电商领域典型案例，成都快购被罚超2600万",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32500597",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 14时26分]"
-        },
-        {
           "title": "美联储穆萨莱姆：沃什完全可以胜任美联储主席一职。",
           "url": "https://flash.jin10.com/detail/20260131031915799800",
           "source": "金十数据",
@@ -256,6 +261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 11时57分]"
+        },
+        {
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时21分]"
         },
         {
           "title": "男子因高血糖在直播间买中药，自行泡制中毒身亡，网购中药自行泡制风险有多大？",
@@ -289,17 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "中领馆通报28岁留学生意大利失联",
@@ -341,7 +347,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -366,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "美联储主席提名候选人何许人也",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%90%8D%E5%80%99%E9%80%89%E4%BA%BA%E4%BD%95%E8%AE%B8%E4%BA%BA%E4%B9%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     }
