@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-02-02T12:14:31.696368+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-02-02T13:58:20.668250+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "白家犯罪集团案4名罪犯被执行死刑",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%884%E5%90%8D%E7%BD%AA%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "白家犯罪集团4人被执行死刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A24%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "缅北白家4人执行死刑 白所成一审后病亡",
@@ -36,9 +26,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "缅北白家4人被执行死刑",
@@ -47,7 +37,18 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
+          "title": "白家犯罪集团4人被执行死刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A24%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 13时58分]"
         },
         {
           "title": "蛙蛙爆典:大陆景点用过期冰",
@@ -72,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 13时58分]"
         },
         {
           "title": "男子冒充军人与100多名女性搞暧昧，已被检察机关提起公诉",
@@ -81,11 +82,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 13时58分]"
         },
         {
           "title": "武汉地铁施工工地大型机械倒向路面砸中轿车，应急部门回应伤者送医，事故正调查",
@@ -93,11 +95,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 13时58分]"
         },
         {
           "title": "18岁女生遭6名未成年当街辱骂殴打，警方通报",
@@ -109,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "被曝与爱泼斯坦前女友调情，洛杉矶奥组委主席回应",
+          "url": "https://news.ifeng.com/c/8qPgKND9qbO",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -155,6 +169,28 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "白家犯罪集团案4名罪犯被执行死刑",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%884%E5%90%8D%E7%BD%AA%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
+          "title": "相亲女点天价餐,小伙尿遁跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349993&amp;topic_name=%E7%9B%B8%E4%BA%B2%E5%A5%B3%E7%82%B9%E5%A4%A9%E4%BB%B7%E9%A4%90%2C%E5%B0%8F%E4%BC%99%E5%B0%BF%E9%81%81%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
           "title": "演员前男友盗窃富家女财物被刑拘",
           "url": "https://www.toutiao.com/trending/7601556829449355318/",
           "source": "今日头条",
@@ -175,6 +211,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "30岁男子如厕时猝死",
+          "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E5%A6%82%E5%8E%95%E6%97%B6%E7%8C%9D%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "保护母亲反坐牢,谁还能拦老赖?",
@@ -199,15 +247,26 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "被曝与爱泼斯坦前女友调情，洛杉矶奥组委主席回应",
-          "url": "https://news.ifeng.com/c/8qPgKND9qbO",
-          "source": "凤凰网",
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时58分"
+        },
+        {
+          "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32513494",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "迪士尼董事会已接近选定乐园业务负责人Josh D’Amaro为下一任首席执行官（CEO）。（彭博）",
@@ -221,46 +280,24 @@
           "time_info": "09时11分"
         },
         {
+          "title": "缅北白家犯罪集团案 4 名罪犯被执行死刑，白所成因病死亡，有哪些警示作用？",
+          "url": "https://www.zhihu.com/question/2001617377809417361",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "监管层换血直击痛点 花旗看好印尼市场信心修复",
           "url": "https://flash.jin10.com/detail/20260202112818157800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "白家犯罪集团案4名罪犯被执行死刑",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%884%E5%90%8D%E7%BD%AA%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "相亲女点天价餐,小伙尿遁跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349993&amp;topic_name=%E7%9B%B8%E4%BA%B2%E5%A5%B3%E7%82%B9%E5%A4%A9%E4%BB%B7%E9%A4%90%2C%E5%B0%8F%E4%BC%99%E5%B0%BF%E9%81%81%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "30岁男子如厕时猝死",
-          "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E5%A6%82%E5%8E%95%E6%97%B6%E7%8C%9D%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
