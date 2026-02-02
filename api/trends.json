@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:30:19.468589+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-02-02T20:35:12.160757+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "员工卷款220w,银行装死拒赔",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时30分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 20时35分]"
         },
         {
           "title": "白家犯罪集团4人被执行死刑",
@@ -71,8 +71,40 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 20时35分]"
+        },
+        {
+          "title": "北京长峰医院火灾事故致29死，被告人汪文杰等19人一审获刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32514675",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 20时35分]"
+        },
+        {
+          "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32513494",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 20时35分]"
         },
         {
           "title": "白家犯罪集团案4名罪犯被执行死刑",
@@ -91,18 +123,18 @@
           "time_info": "[12时14分 ~ 18时35分]"
         },
         {
-          "title": "北京长峰医院火灾事故致29死，被告人汪文杰等19人一审获刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32514675",
-          "source": "澎湃新闻",
+          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
+          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            8,
+            10,
+            7,
             5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 19时30分]"
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 20时35分]"
         },
         {
           "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
@@ -112,22 +144,6 @@
             6,
             4,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时58分 ~ 19时30分]"
-        },
-        {
-          "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32513494",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4,
-            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -146,8 +162,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[09时10分 ~ 20时35分]"
         },
         {
           "title": "蛙蛙爆典:大陆景点用过期冰",
@@ -162,8 +178,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[09时10分 ~ 20时35分]"
         },
         {
           "title": "缅北白家4人执行死刑 白所成一审后病亡",
@@ -179,17 +195,17 @@
           "time_info": "[12时14分 ~ 17时37分]"
         },
         {
-          "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
-          "url": "https://wallstreetcn.com/premium/articles/3764602?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "缅北白家犯罪集团案 4 名罪犯被执行死刑，白所成因病死亡，有哪些警示作用？",
+          "url": "https://www.zhihu.com/question/2001617377809417361",
+          "source": "知乎",
           "ranks": [
-            10,
+            15,
             7,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 19时30分]"
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 20时35分]"
         },
         {
           "title": "武汉地铁施工工地大型机械倒向路面砸中轿车，应急部门回应伤者送医，事故正调查",
@@ -217,21 +233,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 19时30分]"
-        },
-        {
-          "title": "缅北白家犯罪集团案 4 名罪犯被执行死刑，白所成因病死亡，有哪些警示作用？",
-          "url": "https://www.zhihu.com/question/2001617377809417361",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时58分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 20时35分]"
         },
         {
           "title": "男子冒充军人与100多名女性搞暧昧，已被检察机关提起公诉",
@@ -246,6 +249,56 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时10分 ~ 16时32分]"
+        },
+        {
+          "title": "爱泼斯坦曾毫不避讳承认是性侵犯者",
+          "url": "https://www.toutiao.com/trending/7601836211501547561/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 20时35分]"
+        },
+        {
+          "title": "爱泼斯坦毫不避讳承认是性侵犯者",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%AF%AB%E4%B8%8D%E9%81%BF%E8%AE%B3%E6%89%BF%E8%AE%A4%E6%98%AF%E6%80%A7%E4%BE%B5%E7%8A%AF%E8%80%85%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            26,
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 20时35分]"
+        },
+        {
+          "title": "金银崩盘、韩指熔断，和美联储主席提名人有关？",
+          "url": "https://news.ifeng.com/c/8qQ5ADB6pGS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 20时35分]"
+        },
+        {
+          "title": "-30℃的基辅超500栋公寓停暖，下水管道冻结！区长建议用猫砂",
+          "url": "https://news.ifeng.com/c/8qQ1NEH3sd1",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 20时35分]"
         },
         {
           "title": "被曝与爱泼斯坦前女友调情，洛杉矶奥组委主席回应",
@@ -270,53 +323,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时32分 ~ 19时30分]"
-        },
-        {
-          "title": "爱泼斯坦曾毫不避讳承认是性侵犯者",
-          "url": "https://www.toutiao.com/trending/7601836211501547561/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时30分]"
-        },
-        {
-          "title": "爱泼斯坦毫不避讳承认是性侵犯者",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%AF%AB%E4%B8%8D%E9%81%BF%E8%AE%B3%E6%89%BF%E8%AE%A4%E6%98%AF%E6%80%A7%E4%BE%B5%E7%8A%AF%E8%80%85%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时30分]"
-        },
-        {
-          "title": "-30℃的基辅超500栋公寓停暖，下水管道冻结！区长建议用猫砂",
-          "url": "https://news.ifeng.com/c/8qQ1NEH3sd1",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 19时30分]"
-        },
-        {
-          "title": "金银崩盘、韩指熔断，和美联储主席提名人有关？",
-          "url": "https://news.ifeng.com/c/8qQ5ADB6pGS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 19时30分]"
         },
         {
           "title": "白家犯罪集团案4名罪犯被执行死刑",
@@ -506,7 +512,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -528,7 +534,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -539,7 +545,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -594,7 +600,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -608,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "陈吉宁会见世界技能组织主席弗朗西斯·乌汉、首席执行官大卫·霍伊一行",
+          "url": "https://wallstreetcn.com/livenews/3048336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "中信建投：监管不再要求房企上报三条红线指标，房企信用领域出现两则利好",
