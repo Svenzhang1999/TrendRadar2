@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T15:36:58.646954+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-02-03T16:27:07.875399+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "北京长峰医院火灾事故致29死，被告人汪文杰等19人一审获刑",
@@ -20,15 +20,15 @@
           "time_info": "[09时12分 ~ 14时38分]"
         },
         {
-          "title": "夫妻网购娃娃菜食用中毒系丈夫下毒",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E9%A3%9F%E7%94%A8%E4%B8%AD%E6%AF%92%E7%B3%BB%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%AF%92%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "内蒙古一银行员工诱导 11 位储户将 220 万元转其他「高息储蓄」然后挥霍，储户告银行败诉，法律依据是什么？",
+          "url": "https://www.zhihu.com/question/2001218732253525675",
+          "source": "知乎",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时36分]"
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 15时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 16时27分]"
         },
         {
           "title": "精神病院骗保,正常人被逼自杀",
@@ -64,8 +64,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时27分]"
+        },
+        {
+          "title": "夫妻网购娃娃菜食用中毒系丈夫下毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E9%A3%9F%E7%94%A8%E4%B8%AD%E6%AF%92%E7%B3%BB%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%AF%92%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时06分 ~ 15时36分]"
+          "time_info": "[14时38分 ~ 16时27分]"
         },
         {
           "title": "夫妻网购娃娃菜食用中毒系丈夫下毒",
@@ -74,18 +86,6 @@
           "ranks": [
             7,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时36分]"
-        },
-        {
-          "title": "大学生遭车祸 交警通知被父母当诈骗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E8%BD%A6%E7%A5%B8+%E4%BA%A4%E8%AD%A6%E9%80%9A%E7%9F%A5%E8%A2%AB%E7%88%B6%E6%AF%8D%E5%BD%93%E8%AF%88%E9%AA%97",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -102,8 +102,21 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 15时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 16时27分]"
+        },
+        {
+          "title": "大学生遭车祸 交警通知被父母当诈骗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E8%BD%A6%E7%A5%B8+%E4%BA%A4%E8%AD%A6%E9%80%9A%E7%9F%A5%E8%A2%AB%E7%88%B6%E6%AF%8D%E5%BD%93%E8%AF%88%E9%AA%97",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时27分]"
         },
         {
           "title": "夫妻吃网购娃娃菜中毒：系丈夫下毒",
@@ -140,11 +153,12 @@
             14,
             16,
             13,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 15时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时27分]"
         },
         {
           "title": "精神病院违规收治患者、涉嫌骗保？湖北襄阳：开展起底式排查调查",
@@ -155,8 +169,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 15时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 16时27分]"
         },
         {
           "title": "浙江一对夫妻网购娃娃菜食用后杀鼠剂中毒，警方侦查发现系丈夫下毒",
@@ -167,8 +181,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时27分]"
         },
         {
           "title": "黑龙江一养老机构发生火灾，5人死亡",
@@ -178,8 +192,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时27分]"
+        },
+        {
+          "title": "黑龙江一养老院起火致5死4伤",
+          "url": "https://www.douyin.com/hot/2388143",
+          "source": "抖音",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时27分]"
+        },
+        {
+          "title": "第一批重仓黄金的人正排队“维权”",
+          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%8D%E4%BB%93%E9%BB%84%E9%87%91%E7%9A%84%E4%BA%BA%E6%AD%A3%E6%8E%92%E9%98%9F%E2%80%9C%E7%BB%B4%E6%9D%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时27分]"
         },
         {
           "title": "澳洲联储主席Bullock：告诉政府应如何制定财政政策并非我的职责。 澳元是政策传导机制的一部分。 澳元若持续升值将有助于降低进口价格。 不知道当前政策是否处于收紧周期。 不能排除任何可能性，也不能确定未来的政策行动。",
@@ -188,17 +226,6 @@
           "ranks": [
             11,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时38分]"
-        },
-        {
-          "title": "黑龙江一养老院起火致5死4伤",
-          "url": "https://www.douyin.com/hot/2388143",
-          "source": "抖音",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -215,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 12时06分]"
+        },
+        {
+          "title": "夫妻吃娃娃菜中毒案系丈夫下毒",
+          "url": "https://www.douyin.com/hot/2388349",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "澳洲联储主席Bullock：没有讨论加息50个基点。 政策不会被市场所驱动。 委员会并未对利率设定特定路径。 委员会在利率问题上将保持谨慎。 努力降低通胀率的同时保持接近充分就业的状态。 通过澳元走势可以看到金融环境出现一定程度的收紧。 经济的确处于良好状态，但存在供应方面的限制。",
@@ -258,18 +296,6 @@
           "ranks": [
             19,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时36分]"
-        },
-        {
-          "title": "第一批重仓黄金的人正排队“维权”",
-          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%8D%E4%BB%93%E9%BB%84%E9%87%91%E7%9A%84%E4%BA%BA%E6%AD%A3%E6%8E%92%E9%98%9F%E2%80%9C%E7%BB%B4%E6%9D%83%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -326,7 +352,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -373,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "据今日俄罗斯：伊朗首都德黑兰的詹纳塔巴德集市发生火灾，多个摊位被烧毁，浓烟滚滚升腾。消防员正在全力扑救大火，目前尚未收到人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260203155051962800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "襄阳宜昌分别成立联合调查专班",
