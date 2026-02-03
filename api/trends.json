@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:44:27.435604+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-02-03T14:38:32.659746+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 32,
+      "match_count": 43,
       "titles": [
         {
           "title": "北京长峰医院火灾事故致29死，被告人汪文杰等19人一审获刑",
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 14时38分]"
         },
         {
           "title": "精神病院骗保,正常人被逼自杀",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350093&amp;topic_name=%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%AA%97%E4%BF%9D%2C%E6%AD%A3%E5%B8%B8%E4%BA%BA%E8%A2%AB%E9%80%BC%E8%87%AA%E6%9D%80",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时38分]"
         },
         {
           "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
@@ -42,6 +43,28 @@
           "time_info": "09时12分"
         },
         {
+          "title": "夫妻网购娃娃菜食用中毒系丈夫下毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E9%A3%9F%E7%94%A8%E4%B8%AD%E6%AF%92%E7%B3%BB%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%AF%92%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "大学生遭车祸 交警通知被父母当诈骗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E8%BD%A6%E7%A5%B8+%E4%BA%A4%E8%AD%A6%E9%80%9A%E7%9F%A5%E8%A2%AB%E7%88%B6%E6%AF%8D%E5%BD%93%E8%AF%88%E9%AA%97",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "受贿1.37亿余元，江西省政协原主席唐一军一审被判无期",
           "url": "https://m.thepaper.cn/newsDetail_forward_32515437",
           "source": "澎湃新闻",
@@ -50,8 +73,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 14时38分]"
         },
         {
           "title": "员工卷款220w,银行装死拒赔",
@@ -59,11 +82,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 14时38分]"
         },
         {
           "title": "襄阳宜昌全面调查精神病院骗保",
@@ -71,11 +95,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时38分]"
         },
         {
           "title": "卧底调查精神病院 许多病人无异常",
@@ -83,11 +108,47 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            16
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时38分]"
+        },
+        {
+          "title": "夫妻吃网购娃娃菜中毒：系丈夫下毒",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%83%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%EF%BC%9A%E7%B3%BB%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时44分]"
+          "time_info": "[13时44分 ~ 14时38分]"
+        },
+        {
+          "title": "澳洲联储主席Bullock：告诉政府应如何制定财政政策并非我的职责。 澳元是政策传导机制的一部分。 澳元若持续升值将有助于降低进口价格。 不知道当前政策是否处于收紧周期。 不能排除任何可能性，也不能确定未来的政策行动。",
+          "url": "https://wallstreetcn.com/livenews/3048822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时38分]"
+        },
+        {
+          "title": "黑龙江一养老院起火致5死4伤",
+          "url": "https://www.douyin.com/hot/2388143",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时38分]"
         },
         {
           "title": "珠海一餐厅销售来源不明的河豚致2人中毒，被追究刑事责任",
@@ -102,6 +163,29 @@
           "time_info": "[09时12分 ~ 12时06分]"
         },
         {
+          "title": "精神病院违规收治患者、涉嫌骗保？湖北襄阳：开展起底式排查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521537",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时38分]"
+        },
+        {
+          "title": "澳洲联储主席Bullock：没有讨论加息50个基点。 政策不会被市场所驱动。 委员会并未对利率设定特定路径。 委员会在利率问题上将保持谨慎。 努力降低通胀率的同时保持接近充分就业的状态。 通过澳元走势可以看到金融环境出现一定程度的收紧。 经济的确处于良好状态，但存在供应方面的限制。",
+          "url": "https://wallstreetcn.com/livenews/3048814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时38分]"
+        },
+        {
           "title": "记者卧底调查精神病医院骗保内幕",
           "url": "https://www.douyin.com/hot/2387812",
           "source": "抖音",
@@ -111,6 +195,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 13时44分]"
+        },
+        {
+          "title": "澳洲联储主席Bullock：通胀的势头过于猛烈了，不能允许通胀失控。 不会对利率给出明确指引，委员会将继续关注数据。 担心目前的这种高通胀水平可能会变得根深蒂固。 认为目前经济中的需求过度。",
+          "url": "https://wallstreetcn.com/livenews/3048811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时38分]"
         },
         {
           "title": "江苏盐城响水一在建大桥塌落致2死3失联",
@@ -124,6 +220,28 @@
           "time_info": "09时12分"
         },
         {
+          "title": "夫妻网购娃娃菜食用中毒系丈夫下毒",
+          "url": "https://www.toutiao.com/trending/7602517870320520750/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "利比亚国家石油公司主席：到2030年初，我们将拥有可供出口至欧洲的天然气。",
+          "url": "https://flash.jin10.com/detail/20260203142542883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "金银崩盘、韩指熔断，和美联储主席提名人有关？",
           "url": "https://news.ifeng.com/c/8qQ5ADB6pGS",
           "source": "凤凰网",
@@ -135,15 +253,26 @@
           "time_info": "09时12分"
         },
         {
-          "title": "澳洲联储主席Bullock：告诉政府应如何制定财政政策并非我的职责。 澳元是政策传导机制的一部分。 澳元若持续升值将有助于降低进口价格。 不知道当前政策是否处于收紧周期。 不能排除任何可能性，也不能确定未来的政策行动。",
-          "url": "https://wallstreetcn.com/livenews/3048822",
-          "source": "华尔街见闻-快讯",
+          "title": "利比亚国家石油公司主席：我们已制定计划，在未来五年内将天然气产量提高至近1万亿标准立方英尺。",
+          "url": "https://flash.jin10.com/detail/20260203142534185800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "黑龙江一养老机构发生火灾，5人死亡",
+          "url": "https://news.ifeng.com/c/8qRS115XDrr",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "14时38分"
         },
         {
           "title": "齐齐哈尔一养老院起火致5死4伤",
@@ -152,53 +281,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
         {
-          "title": "黑龙江一养老院起火致5死4伤",
-          "url": "https://www.douyin.com/hot/2388143",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "夫妻吃网购娃娃菜中毒：系丈夫下毒",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AB%E5%A6%BB%E5%90%83%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%EF%BC%9A%E7%B3%BB%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "精神病院违规收治患者、涉嫌骗保？湖北襄阳：开展起底式排查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521537",
+          "title": "浙江一对夫妻网购娃娃菜食用后杀鼠剂中毒，警方侦查发现系丈夫下毒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521749",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "14时38分"
         },
         {
-          "title": "澳洲联储主席Bullock：没有讨论加息50个基点。 政策不会被市场所驱动。 委员会并未对利率设定特定路径。 委员会在利率问题上将保持谨慎。 努力降低通胀率的同时保持接近充分就业的状态。 通过澳元走势可以看到金融环境出现一定程度的收紧。 经济的确处于良好状态，但存在供应方面的限制。",
-          "url": "https://wallstreetcn.com/livenews/3048814",
-          "source": "华尔街见闻-快讯",
+          "title": "利比亚国家石油公司主席：约37家公司参与了招标，结果将于2月11日公布。",
+          "url": "https://flash.jin10.com/detail/20260203141950901800",
+          "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "14时38分"
         },
         {
           "title": "记者卧底调查精神病医院骗保内幕",
@@ -212,15 +319,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "澳洲联储主席Bullock：通胀的势头过于猛烈了，不能允许通胀失控。 不会对利率给出明确指引，委员会将继续关注数据。 担心目前的这种高通胀水平可能会变得根深蒂固。 认为目前经济中的需求过度。",
-          "url": "https://wallstreetcn.com/livenews/3048811",
-          "source": "华尔街见闻-快讯",
+          "title": "警方回应夫妻网购娃娃菜食用中毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E9%A3%9F%E7%94%A8%E4%B8%AD%E6%AF%92%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "14时38分"
         },
         {
           "title": "澳洲联储主席布洛克：委员会将非常积极地监控数据。",
@@ -229,7 +336,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -240,7 +347,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -251,7 +358,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -273,9 +380,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "齐齐哈尔一养老院起火致5死4伤",
+          "url": "https://www.toutiao.com/trending/7602501927636569636/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "第一批重仓黄金的人正排队“维权”",
+          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%8D%E4%BB%93%E9%BB%84%E9%87%91%E7%9A%84%E4%BA%BA%E6%AD%A3%E6%8E%92%E9%98%9F%E2%80%9C%E7%BB%B4%E6%9D%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "蛙蛙爆典:大陆景点用过期冰",
@@ -295,7 +424,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -317,7 +446,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -339,7 +468,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -350,7 +479,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
