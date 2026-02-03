@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-02-03T09:12:17.617869+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-03T12:06:51.842639+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "北京长峰医院火灾事故致29死，被告人汪文杰等19人一审获刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32514675",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时06分]"
+        },
+        {
+          "title": "精神病院骗保,正常人被逼自杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350093&amp;topic_name=%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%AA%97%E4%BF%9D%2C%E6%AD%A3%E5%B8%B8%E4%BA%BA%E8%A2%AB%E9%80%BC%E8%87%AA%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "12时06分"
         },
         {
           "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
@@ -30,15 +42,51 @@
           "time_info": "09时12分"
         },
         {
+          "title": "襄阳宜昌全面调查精神病院骗保",
+          "url": "https://www.toutiao.com/trending/7602463782221155886/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "受贿1.37亿余元，江西省政协原主席唐一军一审被判无期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32515437",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时06分]"
+        },
+        {
           "title": "员工卷款220w,银行装死拒赔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350063&amp;topic_name=%E5%91%98%E5%B7%A5%E5%8D%B7%E6%AC%BE220w%2C%E9%93%B6%E8%A1%8C%E8%A3%85%E6%AD%BB%E6%8B%92%E8%B5%94",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时06分]"
+        },
+        {
+          "title": "珠海一餐厅销售来源不明的河豚致2人中毒，被追究刑事责任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32513721",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时06分]"
         },
         {
           "title": "江苏盐城响水一在建大桥塌落致2死3失联",
@@ -46,17 +94,6 @@
           "source": "澎湃新闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "受贿1.37亿余元，江西省政协原主席唐一军一审被判无期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32515437",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,15 +111,26 @@
           "time_info": "09时12分"
         },
         {
-          "title": "珠海一餐厅销售来源不明的河豚致2人中毒，被追究刑事责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32513721",
-          "source": "澎湃新闻",
+          "title": "卧底调查精神病院 许多病人无异常",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A7%E5%BA%95%E8%B0%83%E6%9F%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2+%E8%AE%B8%E5%A4%9A%E7%97%85%E4%BA%BA%E6%97%A0%E5%BC%82%E5%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "记者卧底调查精神病医院骗保内幕",
+          "url": "https://www.douyin.com/hot/2387812",
+          "source": "抖音",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "12时06分"
         },
         {
           "title": "记者卧底调查精神病医院骗保内幕",
