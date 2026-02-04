@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T17:34:25.497141+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-02-04T18:31:31.584787+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "警方通报：网购娃娃菜中毒夫妻涉敲诈勒索罪，已被采取刑事强制措施",
@@ -16,8 +16,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时31分]"
+        },
+        {
+          "title": "欧盟宣布调查金风科技 外交部回应",
+          "url": "https://www.cls.cn/detail/2280238",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时31分]"
+        },
+        {
+          "title": "官员落马导致16亿项目烂尾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "吃娃娃菜中毒夫妻最高判刑十年以上",
@@ -31,15 +55,15 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "欧盟宣布调查金风科技 外交部回应",
-          "url": "https://www.cls.cn/detail/2280238",
-          "source": "财联社热门",
+          "title": "官方集体约谈精神类定点医疗机构",
+          "url": "https://www.douyin.com/hot/2389544",
+          "source": "抖音",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时34分]"
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "吃娃娃菜中毒夫妻最高判刑十年以上",
@@ -51,39 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "国家医保局：对精神疾病类医保定点医疗机构展开集体约谈",
-          "url": "https://wallstreetcn.com/livenews/3049764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "官员落马导致16亿项目烂尾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "官方集体约谈精神类定点医疗机构",
-          "url": "https://www.douyin.com/hot/2389544",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "吃娃娃菜中毒夫妻最高判刑十年以上",
@@ -107,11 +98,12 @@
             12,
             14,
             16,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时31分]"
         },
         {
           "title": "家教遇骚扰,吧友拒绝反被威胁",
@@ -123,11 +115,12 @@
             13,
             15,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时31分]"
         },
         {
           "title": "多重反转!娃娃菜中毒纯属闹剧",
@@ -139,11 +132,24 @@
             14,
             16,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时31分]"
+        },
+        {
+          "title": "国家医保局：对精神疾病类医保定点医疗机构展开集体约谈",
+          "url": "https://wallstreetcn.com/livenews/3049764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "警方通报“夫妻吃娃娃菜中毒”",
@@ -168,11 +174,12 @@
             15,
             14,
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时04分 ~ 17时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 18时31分]"
         },
         {
           "title": "湖北省成立联合调查组，赴襄阳宜昌彻查精神病院相关问题",
@@ -184,8 +191,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 17时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 18时31分]"
         },
         {
           "title": "湖北成立联合调查组彻查精神病院问题",
@@ -251,6 +258,20 @@
           "time_info": "[13时41分 ~ 15时38分]"
         },
         {
+          "title": "四川泸州“花坛白骨案”嫌犯被公诉",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E2%80%9C%E8%8A%B1%E5%9D%9B%E7%99%BD%E9%AA%A8%E6%A1%88%E2%80%9D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E5%85%AC%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            29,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 18时31分]"
+        },
+        {
           "title": "湖北成立调查组彻查精神病院问题",
           "url": "https://www.toutiao.com/trending/7602842388146523694/",
           "source": "今日头条",
@@ -288,6 +309,19 @@
           "time_info": "[09时06分 ~ 12时04分]"
         },
         {
+          "title": "微信把元宝红包链接给“封了”：相关营销诱导用户高频分享，骚扰用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32530069",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时31分]"
+        },
+        {
           "title": "湖北宜昌夷陵区回应“精神病医院骗保”事件：全面调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32521609",
           "source": "澎湃新闻",
@@ -310,19 +344,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时41分 ~ 14时39分]"
-        },
-        {
-          "title": "四川泸州“花坛白骨案”嫌犯被公诉",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E2%80%9C%E8%8A%B1%E5%9D%9B%E7%99%BD%E9%AA%A8%E6%A1%88%E2%80%9D%E5%AB%8C%E7%8A%AF%E8%A2%AB%E5%85%AC%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 17时34分]"
         },
         {
           "title": "爆火的Skill是名词诈骗吗",
@@ -360,18 +381,6 @@
           "time_info": "[15时38分 ~ 16时29分]"
         },
         {
-          "title": "微信把元宝红包链接给“封了”：相关营销诱导用户高频分享，骚扰用户",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32530069",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时34分]"
-        },
-        {
           "title": "伊朗称失联无人机曾传回图片",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%A4%B1%E8%81%94%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9B%BE%E4%BC%A0%E5%9B%9E%E5%9B%BE%E7%89%87%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -403,6 +412,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
+        },
+        {
+          "title": "网友称推拿遭猥亵 涉事技师被行拘",
+          "url": "https://www.toutiao.com/trending/7602643203208708146/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "员工卷款220w,银行装死拒赔",
@@ -460,6 +481,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "襄阳精神病院被指骗保，湖北成立联合调查组，暴露出哪些监管漏洞？如何才能从根本上解决这类问题？",
+          "url": "https://www.zhihu.com/question/2002327691395819062",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "中方回应欧盟宣布调查金风科技：敦促欧方停止滥用单边经贸工具",
           "url": "https://wallstreetcn.com/livenews/3049663",
           "source": "华尔街见闻-快讯",
@@ -504,6 +536,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "“周生生挂坠金含量争议”新进展：已由市场监管部门封存送检",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "印度证券交易委员会主席：监管机构将就预算案债券市场改革提案与各方磋商。",
           "url": "https://flash.jin10.com/detail/20260204140315965800",
           "source": "金十数据",
@@ -513,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "美国夫妻斩首两子女还虐待其余孩子",
+          "url": "https://www.toutiao.com/trending/7602781500504801321/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "嘉士伯首席执行官：贸易政策将成为决定2026年消费者环境的最大因素。",
@@ -548,6 +602,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "门店回应技师按摩时猥亵顾客：属实",
+          "url": "https://www.baidu.com/s?wd=%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E6%8A%80%E5%B8%88%E6%8C%89%E6%91%A9%E6%97%B6%E7%8C%A5%E4%BA%B5%E9%A1%BE%E5%AE%A2%EF%BC%9A%E5%B1%9E%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "盈利超预期支撑回购计划 瑞银在整合红利与监管压力间博弈",
           "url": "https://flash.jin10.com/detail/20260204135341411800",
           "source": "金十数据",
@@ -559,15 +624,15 @@
           "time_info": "14时39分"
         },
         {
-          "title": "网友称推拿遭猥亵 涉事技师被行拘",
-          "url": "https://www.toutiao.com/trending/7602643203208708146/",
-          "source": "今日头条",
+          "title": "印尼雅加达证券交易所监管草案将新上市公司最低自由流通股要求从10%上调至15%。",
+          "url": "https://flash.jin10.com/detail/20260204174815508800",
+          "source": "金十数据",
           "ranks": [
-            26
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时34分"
+          "time_info": "18时31分"
         },
         {
           "title": "中金：谁当美联储主席都很难撼动资产负债表常态化扩张",
@@ -579,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "国家医保局集体约谈精神疾病医疗机构",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E9%9B%86%E4%BD%93%E7%BA%A6%E8%B0%88%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E5%8C%BB%E7%96%97%E6%9C%BA%E6%9E%84",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "夫妻中毒事件被冤枉的店铺已注销",
