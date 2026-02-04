@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T13:41:33.891849+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-02-04T14:39:13.643592+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "警方通报：网购娃娃菜中毒夫妻涉敲诈勒索罪，已被采取刑事强制措施",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时39分]"
         },
         {
           "title": "吃娃娃菜中毒夫妻最高判刑十年以上",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时39分]"
         },
         {
           "title": "家教遇骚扰,吧友拒绝反被威胁",
@@ -76,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时39分]"
         },
         {
           "title": "多重反转!娃娃菜中毒纯属闹剧",
@@ -89,8 +89,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时39分]"
         },
         {
           "title": "警方通报“夫妻吃娃娃菜中毒”",
@@ -98,11 +98,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时39分]"
         },
         {
           "title": "精神病院骗保,正常人被逼自杀",
@@ -114,8 +115,33 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时06分 ~ 14时39分]"
+        },
+        {
+          "title": "家长称花9万“关系费”送孩子进高校警方已立案，涉事画室称是咨询服务费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521721",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时06分 ~ 13时41分]"
+          "time_info": "[12时04分 ~ 14时39分]"
+        },
+        {
+          "title": "湖北成立联合调查组彻查精神病院问题",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 14时39分]"
         },
         {
           "title": "3名失联人员遗体已找到，江苏盐城响水一大桥塌落事故造成5人死亡",
@@ -130,6 +156,30 @@
           "time_info": "[09时06分 ~ 12时04分]"
         },
         {
+          "title": "郑大一附院医生诈骗94名患者获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E5%8C%BB%E7%94%9F%E8%AF%88%E9%AA%9794%E5%90%8D%E6%82%A3%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时39分]"
+        },
+        {
+          "title": "郑大一附院医生诈骗94名患者获刑",
+          "url": "https://www.toutiao.com/trending/7602800874356817926/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时39分]"
+        },
+        {
           "title": "湖北宜昌夷陵区回应“精神病医院骗保”事件：全面调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32521609",
           "source": "澎湃新闻",
@@ -142,6 +192,65 @@
           "time_info": "[09时06分 ~ 12时04分]"
         },
         {
+          "title": "湖北省成立联合调查组，赴襄阳宜昌彻查精神病院相关问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32530021",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时39分]"
+        },
+        {
+          "title": "为什么大多数人没有超强的执行力？",
+          "url": "https://www.zhihu.com/question/1998684934932546708",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时39分]"
+        },
+        {
+          "title": "湖北成立调查组彻查精神病院问题",
+          "url": "https://www.toutiao.com/trending/7602842388146523694/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时39分]"
+        },
+        {
+          "title": "爱泼斯坦何以搅起美国“八级地震”",
+          "url": "https://www.toutiao.com/trending/7602816077310987818/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时39分]"
+        },
+        {
+          "title": "爆火的Skill是名词诈骗吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E7%81%AB%E7%9A%84Skill%E6%98%AF%E5%90%8D%E8%AF%8D%E8%AF%88%E9%AA%97%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 14时39分]"
+        },
+        {
           "title": "精神病院违规收治患者、涉嫌骗保？湖北襄阳：开展起底式排查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32521537",
           "source": "澎湃新闻",
@@ -151,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
+        },
+        {
+          "title": "郑大一附院医生诈骗94名患者获刑",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E5%8C%BB%E7%94%9F%E8%AF%88%E9%AA%9794%E5%90%8D%E6%82%A3%E8%80%85%E8%8E%B7%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "伊朗称失联无人机曾传回图片",
@@ -175,30 +295,6 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "家长称花9万“关系费”送孩子进高校警方已立案，涉事画室称是咨询服务费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521721",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时41分]"
-        },
-        {
-          "title": "湖北成立联合调查组彻查精神病院问题",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时41分]"
-        },
-        {
           "title": "警方通报“夫妻吃娃娃菜中毒”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A4%AB%E5%A6%BB%E5%90%83%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%E2%80%9D",
           "source": "百度热搜",
@@ -221,17 +317,6 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "郑大一附院医生诈骗94名患者获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E5%8C%BB%E7%94%9F%E8%AF%88%E9%AA%9794%E5%90%8D%E6%82%A3%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
           "title": "澳大利亚Sunrise公司首席执行官表示，预计将向美国关键矿物储备供应钪。",
           "url": "https://flash.jin10.com/detail/20260204085020284800",
           "source": "金十数据",
@@ -243,70 +328,26 @@
           "time_info": "09时07分"
         },
         {
-          "title": "郑大一附院医生诈骗94名患者获刑",
-          "url": "https://www.toutiao.com/trending/7602800874356817926/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "湖北省成立联合调查组，赴襄阳宜昌彻查精神病院相关问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32530021",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "为什么大多数人没有超强的执行力？",
-          "url": "https://www.zhihu.com/question/1998684934932546708",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "湖北成立调查组彻查精神病院问题",
-          "url": "https://www.toutiao.com/trending/7602842388146523694/",
-          "source": "今日头条",
+          "title": "印度证券交易委员会主席：企业债券衍生品将有助于投资者进行风险管理。",
+          "url": "https://flash.jin10.com/detail/20260204140323322800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "14时39分"
         },
         {
-          "title": "爱泼斯坦何以搅起美国“八级地震”",
-          "url": "https://www.toutiao.com/trending/7602816077310987818/",
-          "source": "今日头条",
+          "title": "印度证券交易委员会主席：监管机构将就预算案债券市场改革提案与各方磋商。",
+          "url": "https://flash.jin10.com/detail/20260204140315965800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "爆火的Skill是名词诈骗吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E7%81%AB%E7%9A%84Skill%E6%98%AF%E5%90%8D%E8%AF%8D%E8%AF%88%E9%AA%97%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "14时39分"
         },
         {
           "title": "高鑫零售：公司暂时无法与执行董事兼首席执行官李卫平取得联系。",
@@ -331,6 +372,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "盈利超预期支撑回购计划 瑞银在整合红利与监管压力间博弈",
+          "url": "https://flash.jin10.com/detail/20260204135341411800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "中金：谁当美联储主席都很难撼动资产负债表常态化扩张",
           "url": "https://flash.jin10.com/detail/20260204081934177800",
           "source": "金十数据",
@@ -348,7 +400,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         }
