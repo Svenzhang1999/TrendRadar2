@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T19:27:31.154333+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-02-04T20:36:24.680573+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 64,
+      "match_count": 72,
       "titles": [
         {
           "title": "警方通报：网购娃娃菜中毒夫妻涉敲诈勒索罪，已被采取刑事强制措施",
@@ -28,20 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 19时27分]"
-        },
-        {
-          "title": "官员落马导致16亿项目烂尾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 20时36分]"
         },
         {
           "title": "官方集体约谈精神类定点医疗机构",
@@ -51,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时36分]"
         },
         {
           "title": "吃娃娃菜中毒夫妻最高判刑十年以上",
@@ -77,15 +65,15 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "官员落马导致16亿项目烂尾",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE",
-          "source": "百度热搜",
+          "title": "小米通报辽宁营口起火事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "20时36分"
         },
         {
           "title": "市场消息：美国航空公司飞行员正考虑对首席执行官艾索姆发起不信任投票。",
@@ -94,20 +82,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
         {
-          "title": "意大利失联博士疑似被看到买咖啡",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%B1%E8%81%94%E5%8D%9A%E5%A3%AB%E7%96%91%E4%BC%BC%E8%A2%AB%E7%9C%8B%E5%88%B0%E4%B9%B0%E5%92%96%E5%95%A1%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "美国共和党参议员汤姆·蒂利斯：沃什是美联储主席的绝佳人选。",
+          "url": "https://flash.jin10.com/detail/20260204202537088800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "20时36分"
+        },
+        {
+          "title": "官员落马导致16亿项目烂尾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时36分]"
         },
         {
           "title": "吃娃娃菜中毒夫妻最高判刑十年以上",
@@ -150,11 +151,12 @@
             16,
             18,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 20时36分]"
         },
         {
           "title": "家教遇骚扰,吧友拒绝反被威胁",
@@ -168,11 +170,24 @@
             17,
             19,
             22,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时06分 ~ 20时36分]"
+        },
+        {
+          "title": "官员落马导致16亿项目烂尾",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%E5%AF%BC%E8%87%B416%E4%BA%BF%E9%A1%B9%E7%9B%AE%E7%83%82%E5%B0%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时06分 ~ 19时27分]"
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时36分]"
         },
         {
           "title": "国家医保局：对精神疾病类医保定点医疗机构展开集体约谈",
@@ -187,18 +202,16 @@
           "time_info": "[17时34分 ~ 18时31分]"
         },
         {
-          "title": "警方通报“夫妻吃娃娃菜中毒”",
-          "url": "https://www.douyin.com/hot/2388789",
-          "source": "抖音",
+          "title": "意大利失联博士疑似被看到买咖啡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%B1%E8%81%94%E5%8D%9A%E5%A3%AB%E7%96%91%E4%BC%BC%E8%A2%AB%E7%9C%8B%E5%88%B0%E4%B9%B0%E5%92%96%E5%95%A1%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            16,
-            27,
-            26,
-            29
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时34分]"
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时36分]"
         },
         {
           "title": "湖北省成立联合调查组，赴襄阳宜昌彻查精神病院相关问题",
@@ -211,8 +224,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 19时27分]"
+          "appearance_count": 9,
+          "time_info": "[13时41分 ~ 20时36分]"
+        },
+        {
+          "title": "警方通报“夫妻吃娃娃菜中毒”",
+          "url": "https://www.douyin.com/hot/2388789",
+          "source": "抖音",
+          "ranks": [
+            16,
+            27,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时06分 ~ 17时34分]"
         },
         {
           "title": "家长称花9万“关系费”送孩子进高校警方已立案，涉事画室称是咨询服务费",
@@ -258,18 +285,6 @@
           "time_info": "[09时06分 ~ 14时39分]"
         },
         {
-          "title": "郑大一附院医生诈骗94名患者获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E5%8C%BB%E7%94%9F%E8%AF%88%E9%AA%9794%E5%90%8D%E6%82%A3%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时38分]"
-        },
-        {
           "title": "微信把元宝红包链接给“封了”：相关营销诱导用户高频分享，骚扰用户",
           "url": "https://m.thepaper.cn/newsDetail_forward_32530069",
           "source": "澎湃新闻",
@@ -280,8 +295,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 20时36分]"
+        },
+        {
+          "title": "郑大一附院医生诈骗94名患者获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E5%8C%BB%E7%94%9F%E8%AF%88%E9%AA%9794%E5%90%8D%E6%82%A3%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时29分 ~ 19时27分]"
+          "time_info": "[13时41分 ~ 15时38分]"
         },
         {
           "title": "郑大一附院医生诈骗94名患者获刑",
@@ -359,6 +386,45 @@
           "time_info": "[09时06分 ~ 12时04分]"
         },
         {
+          "title": "国家医保局集体约谈精神疾病医疗机构",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E9%9B%86%E4%BD%93%E7%BA%A6%E8%B0%88%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E5%8C%BB%E7%96%97%E6%9C%BA%E6%9E%84",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时36分]"
+        },
+        {
+          "title": "襄阳精神病院被指骗保，湖北成立联合调查组，暴露出哪些监管漏洞？如何才能从根本上解决这类问题？",
+          "url": "https://www.zhihu.com/question/2002327691395819062",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时36分]"
+        },
+        {
+          "title": "“周生生挂坠金含量争议”新进展：已由市场监管部门封存送检",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时36分]"
+        },
+        {
           "title": "湖北宜昌夷陵区回应“精神病医院骗保”事件：全面调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32521609",
           "source": "澎湃新闻",
@@ -381,6 +447,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时41分 ~ 14时39分]"
+        },
+        {
+          "title": "门店回应技师按摩时猥亵顾客：属实",
+          "url": "https://www.baidu.com/s?wd=%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E6%8A%80%E5%B8%88%E6%8C%89%E6%91%A9%E6%97%B6%E7%8C%A5%E4%BA%B5%E9%A1%BE%E5%AE%A2%EF%BC%9A%E5%B1%9E%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时36分]"
         },
         {
           "title": "爆火的Skill是名词诈骗吗",
@@ -406,6 +485,30 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
+          "title": "上交所对沃格光电及有关责任人予以监管警示：“商业航天”“脑机接口”相关信息发布不准确、不完整，风险提示不充分，可能对投资者决策产生误导。",
+          "url": "https://wallstreetcn.com/livenews/3049841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时36分]"
+        },
+        {
+          "title": "新西兰克马德克群岛附近发生6.1级左右地震",
+          "url": "https://wallstreetcn.com/livenews/3049839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时36分]"
+        },
+        {
           "title": "缩表、降息、去监管：沃什的“非对称”剧本 反而可能有利于股债市场？",
           "url": "https://www.cls.cn/detail/2279785",
           "source": "财联社热门",
@@ -416,18 +519,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时38分 ~ 16时29分]"
-        },
-        {
-          "title": "国家医保局集体约谈精神疾病医疗机构",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E9%9B%86%E4%BD%93%E7%BA%A6%E8%B0%88%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E5%8C%BB%E7%96%97%E6%9C%BA%E6%9E%84",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "伊朗称失联无人机曾传回图片",
@@ -441,18 +532,6 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "襄阳精神病院被指骗保，湖北成立联合调查组，暴露出哪些监管漏洞？如何才能从根本上解决这类问题？",
-          "url": "https://www.zhihu.com/question/2002327691395819062",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
-        },
-        {
           "title": "家长称花9万“关系费”送孩子进高校，警方已立案",
           "url": "https://news.ifeng.com/c/8qRo5oXobhF",
           "source": "凤凰网",
@@ -464,18 +543,6 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "“周生生挂坠金含量争议”新进展：已由市场监管部门封存送检",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531370",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
-        },
-        {
           "title": "警方通报“夫妻吃娃娃菜中毒”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%A4%AB%E5%A6%BB%E5%90%83%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%E2%80%9D",
           "source": "百度热搜",
@@ -485,18 +552,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "门店回应技师按摩时猥亵顾客：属实",
-          "url": "https://www.baidu.com/s?wd=%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E6%8A%80%E5%B8%88%E6%8C%89%E6%91%A9%E6%97%B6%E7%8C%A5%E4%BA%B5%E9%A1%BE%E5%AE%A2%EF%BC%9A%E5%B1%9E%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "网友称推拿遭猥亵 涉事技师被行拘",
@@ -539,31 +594,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
         {
-          "title": "上交所对沃格光电及有关责任人予以监管警示：“商业航天”“脑机接口”相关信息发布不准确、不完整，风险提示不充分，可能对投资者决策产生误导。",
-          "url": "https://wallstreetcn.com/livenews/3049841",
+          "title": "美国众议院共和党成员French Hill：鲍威尔调查可能令沃什提名确认更难。",
+          "url": "https://wallstreetcn.com/livenews/3049871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "新西兰克马德克群岛附近发生6.1级左右地震",
-          "url": "https://wallstreetcn.com/livenews/3049839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "20时36分"
         },
         {
           "title": "诺和诺德(NVO.N)首席执行官：Wegovy口服片的大幅普及完全证明了降价的合理性。",
@@ -572,7 +616,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -605,7 +649,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -630,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关。（澎湃）",
+          "url": "https://wallstreetcn.com/livenews/3049861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "英国两家监管机构调查“格罗克”风波",
@@ -663,6 +718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "美国众议院金融服务委员会主席弗伦奇·希尔：对美联储主席鲍威尔的调查可能使沃什的提名确认更加困难。",
+          "url": "https://flash.jin10.com/detail/20260204200149365800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "印度证券交易委员会主席：监管机构将就预算案债券市场改革提案与各方磋商。",
@@ -720,13 +786,24 @@
           "time_info": "12时04分"
         },
         {
+          "title": "51岁按摩技师猥亵顾客被行拘7日",
+          "url": "https://s.weibo.com/weibo?q=%2351%E5%B2%81%E6%8C%89%E6%91%A9%E6%8A%80%E5%B8%88%E7%8C%A5%E4%BA%B5%E9%A1%BE%E5%AE%A2%E8%A2%AB%E8%A1%8C%E6%8B%987%E6%97%A5%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "国家医保局要求各省份集体约谈精神疾病类医保定点医疗机构",
           "url": "https://wallstreetcn.com/livenews/3049814",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -773,6 +850,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "媒体评医生诈骗患者狂吃回扣",
+          "url": "https://www.toutiao.com/trending/7602937794821885481/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "336万年薪CEO上任2个月就“失联”",
+          "url": "https://www.baidu.com/s?wd=336%E4%B8%87%E5%B9%B4%E8%96%AACEO%E4%B8%8A%E4%BB%BB2%E4%B8%AA%E6%9C%88%E5%B0%B1%E2%80%9C%E5%A4%B1%E8%81%94%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     }
