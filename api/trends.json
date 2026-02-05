@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T14:45:40.042034+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-02-05T15:44:01.943470+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
@@ -16,19 +16,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 15时44分]"
         },
         {
           "title": "马杜罗亲信被捕，将被引渡到美国",
           "url": "https://news.ifeng.com/c/8qUW1Cg4uHC",
           "source": "凤凰网",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 15时44分]"
+        },
+        {
+          "title": "宁波小洛熙术后离世调查结果",
+          "url": "https://www.douyin.com/hot/2390541",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "娃娃菜中毒夫妻公司以二人名字命名",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%E5%A4%AB%E5%A6%BB%E5%85%AC%E5%8F%B8%E4%BB%A5%E4%BA%8C%E4%BA%BA%E5%90%8D%E5%AD%97%E5%91%BD%E5%90%8D%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 14时45分]"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "马杜罗一名亲信被曝在委被捕 其律师否认",
@@ -37,18 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "娃娃菜中毒事件为何多次反转",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%BD%95%E5%A4%9A%E6%AC%A1%E5%8F%8D%E8%BD%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -88,16 +100,29 @@
           "time_info": "[09时08分 ~ 14时45分]"
         },
         {
+          "title": "娃娃菜中毒事件为何多次反转",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%BD%95%E5%A4%9A%E6%AC%A1%E5%8F%8D%E8%BD%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时44分]"
+        },
+        {
           "title": "郑大一附院医生诈骗 94 名患者获刑 12 年，医生诈骗这么多人为何一直没被发现？此事带来哪些反思？",
           "url": "https://www.zhihu.com/question/2002355170688902097",
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 15时44分]"
         },
         {
           "title": "国家医保局：对精神疾病类医保定点医疗机构开展集体约谈",
@@ -106,22 +131,24 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 15时44分]"
         },
         {
           "title": "爱泼斯坦文件再曝：潘基文机密对话泄露，英前首相疑收巨额顾问费",
           "url": "https://news.ifeng.com/c/8qUUNZYwo77",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 15时44分]"
         },
         {
           "title": "网购娃娃菜中毒反转再反转",
@@ -147,6 +174,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时05分 ~ 13时48分]"
+        },
+        {
+          "title": "新能源车侧滑起火 路人砸窗救3人",
+          "url": "https://www.toutiao.com/trending/7602805701480628262/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时44分]"
         },
         {
           "title": "小米回应辽宁营口起火事件",
@@ -182,6 +221,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 12时06分]"
+        },
+        {
+          "title": "娃娃菜中毒闹剧谁在透支社会信任",
+          "url": "https://www.toutiao.com/trending/7602603906639593523/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "吃娃娃菜中毒夫妻被抓村民发声",
@@ -234,7 +284,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -256,7 +306,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -311,7 +361,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -322,7 +372,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -344,9 +394,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "潘多拉首席执行官：我们并未在美国看到客流量、消费者情绪和信用卡消费情况的改善。",
+          "url": "https://flash.jin10.com/detail/20260205151645143800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "潘多拉首席执行官：我们计划将珠宝组合中近60%的银饰比例降至大约20%。",
+          "url": "https://flash.jin10.com/detail/20260205151621217800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "潘多拉首席执行官：公司正逐步减少对白银的依赖，以摆脱企业经营表现与大宗商品价格波动的过度关联。",
+          "url": "https://flash.jin10.com/detail/20260205151611671800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "女子洗浴遭陌生男子猥亵 警方立案",
@@ -355,18 +438,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "新能源车侧滑起火 路人砸窗救3人",
-          "url": "https://www.toutiao.com/trending/7602805701480628262/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
