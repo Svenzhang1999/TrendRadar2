@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:29:06.431769+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-02-05T20:37:58.312908+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 67,
+      "match_count": 74,
       "titles": [
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 20时37分]"
         },
         {
           "title": "马杜罗亲信被捕，将被引渡到美国",
@@ -36,11 +36,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%B8%80%E7%BA%A7%E7%94%B2%E7%AD%89%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时37分]"
         },
         {
           "title": "宁波小洛熙术后离世调查结果",
@@ -109,6 +110,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "英国央行：调查显示，今年的工资增长率为3.4%，而2025年为4%。",
+          "url": "https://flash.jin10.com/detail/20260205200553186800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "欧委会对中国风电企业启动深入调查 商务部发声",
           "url": "https://www.cls.cn/detail/2280770",
           "source": "财联社热门",
@@ -152,8 +164,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时37分]"
         },
         {
           "title": "小洛熙事件为一级甲等医疗事故",
@@ -167,8 +179,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时37分]"
         },
         {
           "title": "娃娃菜中毒事件为何多次反转",
@@ -180,11 +192,12 @@
             7,
             9,
             8,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时45分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[14时45分 ~ 20时37分]"
         },
         {
           "title": "郑大一附院医生诈骗 94 名患者获刑 12 年，医生诈骗这么多人为何一直没被发现？此事带来哪些反思？",
@@ -245,11 +258,12 @@
           "url": "https://www.douyin.com/hot/2390541",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时37分]"
         },
         {
           "title": "宁波女婴术后离世调查处置情况",
@@ -260,8 +274,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时37分]"
         },
         {
           "title": "小洛熙事件为一级甲等医疗事故",
@@ -269,11 +283,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时37分]"
         },
         {
           "title": "“女婴小洛熙离世”调查结果公布",
@@ -284,8 +299,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时37分]"
         },
         {
           "title": "宁波通报小洛熙事件调查处置情况",
@@ -295,8 +310,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 20时37分]"
+        },
+        {
+          "title": "爱泼斯坦案受害者发声：14岁遭性侵",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%EF%BC%9A14%E5%B2%81%E9%81%AD%E6%80%A7%E4%BE%B5",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时35分 ~ 19时29分]"
+          "time_info": "[18时31分 ~ 20时37分]"
         },
         {
           "title": "网购娃娃菜中毒反转再反转",
@@ -324,16 +352,16 @@
           "time_info": "[12时05分 ~ 13时48分]"
         },
         {
-          "title": "爱泼斯坦案受害者发声：14岁遭性侵",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%EF%BC%9A14%E5%B2%81%E9%81%AD%E6%80%A7%E4%BE%B5",
-          "source": "百度热搜",
+          "title": "克林顿夫妇就爱泼斯坦调查作证时间确认，将被全程录像，之前二人一直拒绝亲自出席作证，为何突然转变态度？",
+          "url": "https://www.zhihu.com/question/2002317830301967379",
+          "source": "知乎",
           "ranks": [
-            26,
-            25
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 20时37分]"
         },
         {
           "title": "小米回应辽宁营口起火事件",
@@ -407,17 +435,6 @@
           "time_info": "[12时05分 ~ 12时06分]"
         },
         {
-          "title": "克林顿夫妇就爱泼斯坦调查作证时间确认，将被全程录像，之前二人一直拒绝亲自出席作证，为何突然转变态度？",
-          "url": "https://www.zhihu.com/question/2002317830301967379",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
-        },
-        {
           "title": "血友病患者卷入巨额医保诈骗案",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A1%80%E5%8F%8B%E7%97%85%E6%82%A3%E8%80%85%E5%8D%B7%E5%85%A5%E5%B7%A8%E9%A2%9D%E5%8C%BB%E4%BF%9D%E8%AF%88%E9%AA%97%E6%A1%88%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -480,7 +497,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -527,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "七旬夫妇骑「老头乐」闯红灯被撞，法院判赔 36 万，这一判决有哪些法律依据？",
+          "url": "https://www.zhihu.com/question/2002410673213284683",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "马士基首席执行官：我担忧许多国家庞大的财政赤字；经济正处于“强效刺激”状态，这种状况可能会产生反效果。",
@@ -617,6 +645,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "小洛熙事件已明确「医方承担主要责任」，公安机关已立案侦查，涉事医生或面临哪些法律后果？会有刑事追责吗？",
+          "url": "https://www.zhihu.com/question/2002774192509117516",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "路透调查：对印度卢比的做空押注升至自12月中旬以来的最高水平。",
           "url": "https://flash.jin10.com/detail/20260205142127061800",
           "source": "金十数据",
@@ -648,6 +687,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "从起火车中救出3人男子系过错方",
+          "url": "https://www.toutiao.com/trending/7603306817284800539/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "海南省人大常委会原党组成员、副主任肖杰接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540901",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "路透调查：对马来西亚林吉特的做多押注为2018年1月以来最高。",
@@ -727,6 +788,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "云南男子从起火车中救3人：实为过错方",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E7%94%B7%E5%AD%90%E4%BB%8E%E8%B5%B7%E7%81%AB%E8%BD%A6%E4%B8%AD%E6%95%913%E4%BA%BA%EF%BC%9A%E5%AE%9E%E4%B8%BA%E8%BF%87%E9%94%99%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "俄外长：美伊关系恶化对中东地区有潜在“爆炸性”影响",
           "url": "https://wallstreetcn.com/livenews/3050523",
           "source": "华尔街见闻-快讯",
@@ -736,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "*ST立方：公司股票短期内价格涨幅较大，停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3050639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "复星医药：控股子公司复宏汉霖与Eisai签订《许可协议》，由复宏汉霖授予Eisai于许可区域（即日本）及领域（即用于肿瘤适应症治疗）开发、生产及商业化斯鲁利单抗注射液的权利。根据约定，Eisai应就许可产品向复宏汉霖支付至多1.55亿美元不可退还的首付款、监管里程碑款项。",
