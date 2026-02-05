@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:32:17.099629+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-02-05T19:29:06.431769+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 19时29分]"
         },
         {
           "title": "马杜罗亲信被捕，将被引渡到美国",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 19时29分]"
         },
         {
           "title": "宁波小洛熙术后离世调查结果",
@@ -93,7 +93,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -144,19 +144,6 @@
           "time_info": "[09时08分 ~ 14时45分]"
         },
         {
-          "title": "小洛熙事件为一级甲等医疗事故",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%B8%80%E7%BA%A7%E7%94%B2%E7%AD%89%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
-        },
-        {
           "title": "宁波通报小洛熙事件调查结果：一级甲等医疗事故，吊销主刀医师执业证书",
           "url": "https://m.thepaper.cn/newsDetail_forward_32540700",
           "source": "澎湃新闻",
@@ -165,8 +152,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时29分]"
+        },
+        {
+          "title": "小洛熙事件为一级甲等医疗事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%B8%80%E7%BA%A7%E7%94%B2%E7%AD%89%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时29分]"
         },
         {
           "title": "娃娃菜中毒事件为何多次反转",
@@ -177,11 +179,12 @@
             10,
             7,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时45分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[14时45分 ~ 19时29分]"
         },
         {
           "title": "郑大一附院医生诈骗 94 名患者获刑 12 年，医生诈骗这么多人为何一直没被发现？此事带来哪些反思？",
@@ -230,11 +233,12 @@
             30,
             14,
             21,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时45分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[14时45分 ~ 19时29分]"
         },
         {
           "title": "小洛熙事件调查结果",
@@ -244,8 +248,55 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时29分]"
+        },
+        {
+          "title": "宁波女婴术后离世调查处置情况",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%A9%B4%E6%9C%AF%E5%90%8E%E7%A6%BB%E4%B8%96%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时29分]"
+        },
+        {
+          "title": "小洛熙事件为一级甲等医疗事故",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%B8%80%E7%BA%A7%E7%94%B2%E7%AD%89%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时29分]"
+        },
+        {
+          "title": "“女婴小洛熙离世”调查结果公布",
+          "url": "https://www.toutiao.com/trending/7603279464079949860/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时29分]"
+        },
+        {
+          "title": "宁波通报小洛熙事件调查处置情况",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E9%80%9A%E6%8A%A5%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 19时29分]"
         },
         {
           "title": "网购娃娃菜中毒反转再反转",
@@ -261,42 +312,6 @@
           "time_info": "[12时05分 ~ 13时48分]"
         },
         {
-          "title": "宁波女婴术后离世调查处置情况",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%A9%B4%E6%9C%AF%E5%90%8E%E7%A6%BB%E4%B8%96%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
-        },
-        {
-          "title": "小洛熙事件为一级甲等医疗事故",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%B8%80%E7%BA%A7%E7%94%B2%E7%AD%89%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
-        },
-        {
-          "title": "“女婴小洛熙离世”调查结果公布",
-          "url": "https://www.toutiao.com/trending/7603279464079949860/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
-        },
-        {
           "title": "安徽萧县地震",
           "url": "https://www.douyin.com/hot/2390014",
           "source": "抖音",
@@ -309,15 +324,16 @@
           "time_info": "[12时05分 ~ 13时48分]"
         },
         {
-          "title": "宁波通报小洛熙事件调查处置情况",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E6%B3%A2%E9%80%9A%E6%8A%A5%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E6%83%85%E5%86%B5",
+          "title": "爱泼斯坦案受害者发声：14岁遭性侵",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%EF%BC%9A14%E5%B2%81%E9%81%AD%E6%80%A7%E4%BE%B5",
           "source": "百度热搜",
           "ranks": [
-            7
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 19时29分]"
         },
         {
           "title": "小米回应辽宁营口起火事件",
@@ -391,6 +407,29 @@
           "time_info": "[12时05分 ~ 12时06分]"
         },
         {
+          "title": "克林顿夫妇就爱泼斯坦调查作证时间确认，将被全程录像，之前二人一直拒绝亲自出席作证，为何突然转变态度？",
+          "url": "https://www.zhihu.com/question/2002317830301967379",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
+          "title": "血友病患者卷入巨额医保诈骗案",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A1%80%E5%8F%8B%E7%97%85%E6%82%A3%E8%80%85%E5%8D%B7%E5%85%A5%E5%B7%A8%E9%A2%9D%E5%8C%BB%E4%BF%9D%E8%AF%88%E9%AA%97%E6%A1%88%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
           "title": "吃娃娃菜中毒夫妻被抓村民发声",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%E5%A4%AB%E5%A6%BB%E8%A2%AB%E6%8A%93%E6%9D%91%E6%B0%91%E5%8F%91%E5%A3%B0%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -400,17 +439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
-          "title": "爱泼斯坦案受害者发声：14岁遭性侵",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%EF%BC%9A14%E5%B2%81%E9%81%AD%E6%80%A7%E4%BE%B5",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "3人趴护栏拍视频 院坝突然坍塌",
@@ -444,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "路透调查：加元/美元在接下来的12个月内预计将上涨1.3%，达到1.35；未来三个月将下跌0.9%，至1.38（均与1月份调查结果相同）。",
+          "url": "https://flash.jin10.com/detail/20260205184158703800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "2026年全国药品注册管理和上市后监管工作会议召开",
@@ -518,7 +557,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
