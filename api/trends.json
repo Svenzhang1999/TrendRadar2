@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T19:26:35.818799+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-02-06T20:36:17.702640+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "国家卫健委工作组赴湖北督促调查精神病医院有关问题",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 20时36分]"
+        },
+        {
+          "title": "快递停运",
+          "url": "https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 20时36分]"
         },
         {
           "title": "海南省人大常委会原党组成员、副主任肖杰接受审查调查",
@@ -31,29 +43,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时07分 ~ 15时40分]"
-        },
-        {
-          "title": "快递停运",
-          "url": "https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时40分 ~ 19时26分]"
-        },
-        {
-          "title": "贪1.5亿！落马医院院长被判死缓",
-          "url": "https://www.toutiao.com/trending/7603680009479261746/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时26分]"
         },
         {
           "title": "七旬夫妇骑「老头乐」闯红灯被撞，法院判赔 36 万，这一判决有哪些法律依据？",
@@ -95,9 +84,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "3名副部同日被“双开”",
+          "url": "https://www.toutiao.com/trending/7603571339680812582/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 20时36分]"
         },
         {
           "title": "校长与离异女教师恋爱被定为师德不合格，当地将重启调查，目前的处分合理吗？此事的核心争议点是什么？",
@@ -111,22 +114,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 20时36分]"
         },
         {
-          "title": "3名副部同日被“双开”",
-          "url": "https://www.toutiao.com/trending/7603571339680812582/",
+          "title": "贪1.5亿！落马医院院长被判死缓",
+          "url": "https://www.toutiao.com/trending/7603680009479261746/",
           "source": "今日头条",
           "ranks": [
-            5,
-            2,
-            20,
-            30
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时06分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时36分]"
         },
         {
           "title": "2月6日投资避雷针：涉嫌操纵市场！这家上市公司实控人被证监会立案",
@@ -184,11 +185,12 @@
             15,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 20时36分]"
         },
         {
           "title": "海南省委原秘书长倪强被双开",
@@ -239,6 +241,17 @@
           "time_info": "[13时45分 ~ 17时34分]"
         },
         {
+          "title": "云南瑞丽辟谣“疫情再次暴发封城”",
+          "url": "https://www.toutiao.com/trending/7602815376359211071/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时36分]"
+        },
+        {
           "title": "2026年全国邮政市场监管工作会议：聚力整治快递行业内卷，健全规范有序竞争生态",
           "url": "https://wallstreetcn.com/livenews/3051090",
           "source": "华尔街见闻-快讯",
@@ -263,6 +276,17 @@
           "time_info": "[18时31分 ~ 19时26分]"
         },
         {
+          "title": "巴基斯坦爆炸已致31死",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B431%E6%AD%BB%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
+        },
+        {
           "title": "欧盟对中国风电企业启动《外国补贴条例》深度调查 中国机电商会：强烈呼吁欧方秉持客观、公正立场",
           "url": "https://wallstreetcn.com/livenews/3051281",
           "source": "华尔街见闻-快讯",
@@ -275,6 +299,17 @@
           "time_info": "[17时34分 ~ 18时31分]"
         },
         {
+          "title": "“云南瑞丽疫情再次暴发”不实",
+          "url": "https://www.douyin.com/hot/2392144",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
+        },
+        {
           "title": "男子在姐姐婚宴上骗走两名女童猥亵",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A7%90%E5%A7%90%E5%A9%9A%E5%AE%B4%E4%B8%8A%E9%AA%97%E8%B5%B0%E4%B8%A4%E5%90%8D%E5%A5%B3%E7%AB%A5%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -284,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "冬奥这个项目为了赢无所不用其极，世界反兴奋剂组织介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32548914",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
         },
         {
           "title": "浙江原人大副主任高兴夫被双开",
@@ -341,6 +387,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "金融监管总局等五部门：警惕不法“代理维权”短视频及直播陷阱",
+          "url": "https://wallstreetcn.com/livenews/3051401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "娃娃菜中毒事件为何多次反转",
           "url": "https://search.bilibili.com/all?keyword=%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%BD%95%E5%A4%9A%E6%AC%A1%E5%8F%8D%E8%BD%AC",
           "source": "bilibili 热搜",
@@ -363,6 +420,17 @@
           "time_info": "13时46分"
         },
         {
+          "title": "市场监管总局执法稽查局副局长彭增田：全面强化打击商标侵权",
+          "url": "https://wallstreetcn.com/livenews/3051400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "俄罗斯调查委员会：莫斯科针对国防部高级官员遇刺未遂事件启动刑事案件调查。",
           "url": "https://flash.jin10.com/detail/20260206160437928800",
           "source": "金十数据",
@@ -380,7 +448,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -413,7 +481,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -427,17 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
-        },
-        {
-          "title": "云南瑞丽辟谣“疫情再次暴发封城”",
-          "url": "https://www.toutiao.com/trending/7602815376359211071/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
         },
         {
           "title": "欧洲央行调查：预计2026年通胀率为1.8%，2027年为2.0%，长期通胀率为2.0%。",
@@ -501,7 +558,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -548,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "亚辉龙：因涉嫌信息披露违法违规，中国证监会决定对公司予以立案。",
+          "url": "https://wallstreetcn.com/livenews/3051377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "云南男子从起火车中救3人：实为过错方",
