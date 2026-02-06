@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T14:41:24.144250+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-02-06T15:40:34.484130+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "国家卫健委工作组赴湖北督促调查精神病医院有关问题",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时40分]"
         },
         {
           "title": "海南省人大常委会原党组成员、副主任肖杰接受审查调查",
@@ -28,20 +28,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时40分]"
         },
         {
-          "title": "3名副部同日被“双开”",
-          "url": "https://www.toutiao.com/trending/7603571339680812582/",
-          "source": "今日头条",
+          "title": "快递停运",
+          "url": "https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%81%9C%E8%BF%90&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 14时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "七旬夫妇骑「老头乐」闯红灯被撞，法院判赔 36 万，这一判决有哪些法律依据？",
@@ -71,11 +70,61 @@
           "source": "知乎",
           "ranks": [
             10,
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时40分]"
+        },
+        {
+          "title": "3名副部同日被“双开”",
+          "url": "https://www.toutiao.com/trending/7603571339680812582/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时41分]"
+          "time_info": "[12时06分 ~ 15时40分]"
+        },
+        {
+          "title": "李佩仪目睹闺蜜自杀",
+          "url": "https://www.douyin.com/hot/2391003",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时40分]"
+        },
+        {
+          "title": "海南省委原秘书长倪强被双开",
+          "url": "https://www.douyin.com/hot/2391236",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 15时40分]"
+        },
+        {
+          "title": "2月6日投资避雷针：涉嫌操纵市场！这家上市公司实控人被证监会立案",
+          "url": "https://www.cls.cn/detail/2282324",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 15时40分]"
         },
         {
           "title": "男子疝气手术后死亡被鉴定系一级甲等医疗事故，医院被罚4万",
@@ -90,40 +139,6 @@
           "time_info": "[09时07分 ~ 14时41分]"
         },
         {
-          "title": "李佩仪目睹闺蜜自杀",
-          "url": "https://www.douyin.com/hot/2391003",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时07分 ~ 14时41分]"
-        },
-        {
-          "title": "海南省委原秘书长倪强被双开",
-          "url": "https://www.douyin.com/hot/2391236",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 14时41分]"
-        },
-        {
-          "title": "2月6日投资避雷针：涉嫌操纵市场！这家上市公司实控人被证监会立案",
-          "url": "https://www.cls.cn/detail/2282324",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 14时41分]"
-        },
-        {
           "title": "瑞丽辟谣“疫情再次爆发将封城”",
           "url": "https://www.baidu.com/s?wd=%E7%91%9E%E4%B8%BD%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%96%AB%E6%83%85%E5%86%8D%E6%AC%A1%E7%88%86%E5%8F%91%E5%B0%86%E5%B0%81%E5%9F%8E%E2%80%9D",
           "source": "百度热搜",
@@ -131,8 +146,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 15时40分]"
         },
         {
           "title": "重庆市政协原副主席段成刚被公诉",
@@ -142,8 +157,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 15时40分]"
         },
         {
           "title": "爱泼斯坦案现食人行为？媒体核查",
@@ -151,11 +166,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 15时40分]"
         },
         {
           "title": "2026年全国邮政市场监管工作会议：聚力整治快递行业内卷，健全规范有序竞争生态",
@@ -201,6 +217,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "受贿数额特别巨大 段成刚被公诉",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7+%E6%AE%B5%E6%88%90%E5%88%9A%E8%A2%AB%E5%85%AC%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时40分]"
+        },
+        {
+          "title": "据俄罗斯国家媒体报道，俄罗斯调查委员会称，俄高级军事官员在莫斯科遭枪击后入院治疗。",
+          "url": "https://flash.jin10.com/detail/20260206153118428800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "娃娃菜中毒事件为何多次反转",
@@ -253,7 +291,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -302,6 +340,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "巴萨主席来拜年",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%90%A8%E4%B8%BB%E5%B8%AD%E6%9D%A5%E6%8B%9C%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "美国众议院监督委员会主席：比尔·盖茨将可能就爱泼斯坦案接受问询",
           "url": "https://wallstreetcn.com/livenews/3051106",
           "source": "华尔街见闻-快讯",
@@ -311,6 +360,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "浙江原人大副主任高兴夫被双开",
+          "url": "https://www.douyin.com/hot/2391301",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "印度央行副行长：已大幅加强监管，使其以数据为导向。",
+          "url": "https://flash.jin10.com/detail/20260206151237698800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "云南男子从起火车中救3人：实为过错方",
@@ -330,18 +401,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "受贿数额特别巨大 段成刚被公诉",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E8%B4%BF%E6%95%B0%E9%A2%9D%E7%89%B9%E5%88%AB%E5%B7%A8%E5%A4%A7+%E6%AE%B5%E6%88%90%E5%88%9A%E8%A2%AB%E5%85%AC%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
