@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:31:46.523708+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-02-06T17:34:44.083409+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "国家卫健委工作组赴湖北督促调查精神病医院有关问题",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 17时34分]"
         },
         {
           "title": "海南省人大常委会原党组成员、副主任肖杰接受审查调查",
@@ -40,21 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时31分]"
-        },
-        {
-          "title": "校长与离异女教师恋爱被定为师德不合格，当地将重启调查，目前的处分合理吗？此事的核心争议点是什么？",
-          "url": "https://www.zhihu.com/question/2002488690631467441",
-          "source": "知乎",
-          "ranks": [
-            10,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时34分]"
         },
         {
           "title": "七旬夫妇骑「老头乐」闯红灯被撞，法院判赔 36 万，这一判决有哪些法律依据？",
@@ -79,6 +66,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "欧洲央行调查：通胀走势与三个月前持平；预计今年经济增长将触及更高水平。",
+          "url": "https://flash.jin10.com/detail/20260206170143814800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "3名副部同日被“双开”",
           "url": "https://www.toutiao.com/trending/7603571339680812582/",
           "source": "今日头条",
@@ -90,6 +88,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时06分 ~ 15时40分]"
+        },
+        {
+          "title": "校长与离异女教师恋爱被定为师德不合格，当地将重启调查，目前的处分合理吗？此事的核心争议点是什么？",
+          "url": "https://www.zhihu.com/question/2002488690631467441",
+          "source": "知乎",
+          "ranks": [
+            10,
+            2,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 17时34分]"
         },
         {
           "title": "2月6日投资避雷针：涉嫌操纵市场！这家上市公司实控人被证监会立案",
@@ -111,11 +123,23 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 17时34分]"
+        },
+        {
+          "title": "瑞丽辟谣“疫情再次爆发将封城”",
+          "url": "https://www.baidu.com/s?wd=%E7%91%9E%E4%B8%BD%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%96%AB%E6%83%85%E5%86%8D%E6%AC%A1%E7%88%86%E5%8F%91%E5%B0%86%E5%B0%81%E5%9F%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时07分 ~ 16时31分]"
+          "time_info": "[12时06分 ~ 17时34分]"
         },
         {
           "title": "海南省委原秘书长倪强被双开",
@@ -124,17 +148,6 @@
           "ranks": [
             8,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时06分 ~ 16时31分]"
-        },
-        {
-          "title": "瑞丽辟谣“疫情再次爆发将封城”",
-          "url": "https://www.baidu.com/s?wd=%E7%91%9E%E4%B8%BD%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%96%AB%E6%83%85%E5%86%8D%E6%AC%A1%E7%88%86%E5%8F%91%E5%B0%86%E5%B0%81%E5%9F%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -173,8 +186,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 17时34分]"
         },
         {
           "title": "2026年全国邮政市场监管工作会议：聚力整治快递行业内卷，健全规范有序竞争生态",
@@ -283,7 +296,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -308,6 +321,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "欧洲央行调查：今年经济增长率预计为1.2%，高于三个月前预期的1.1%。",
+          "url": "https://flash.jin10.com/detail/20260206170023536800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "欧盟对中国风电企业启动《外国补贴条例》深度调查 中国机电商会：强烈呼吁欧方秉持客观、公正立场",
+          "url": "https://wallstreetcn.com/livenews/3051281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "欧洲央行调查：预计2026年通胀率为1.8%，2027年为2.0%，长期通胀率为2.0%。",
+          "url": "https://flash.jin10.com/detail/20260206170014025800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "市场监管总局公布五起人工智能领域不正当竞争典型案例",
@@ -415,7 +461,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
