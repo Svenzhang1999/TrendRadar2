@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T09:06:04.063406+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-07T12:01:41.921688+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】深夜，中国资产大涨；虚拟货币监管再升级",
@@ -48,8 +48,67 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时01分]"
+        },
+        {
+          "title": "博主发小米极氪对撞测试视频被捕",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时01分]"
+        },
+        {
+          "title": "冬奥这个项目为了赢无所不用其极，世界反兴奋剂组织介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32548914",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时01分]"
+        },
+        {
+          "title": "海口致3死1伤男子畏罪自杀身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8F%A3%E8%87%B43%E6%AD%BB1%E4%BC%A4%E7%94%B7%E5%AD%90%E7%95%8F%E7%BD%AA%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时01分]"
+        },
+        {
+          "title": "老头乐闯红灯获赔 36 万，法院以「生命权大于路权」判决，会如何影响交通规则与责任认定？",
+          "url": "https://www.zhihu.com/question/2002699248001652076",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时01分]"
+        },
+        {
+          "title": "贪1.5亿！落马医院院长被判死缓",
+          "url": "https://www.toutiao.com/trending/7603680009479261746/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时01分]"
         },
         {
           "title": "巴基斯坦首都爆炸已致31人死亡",
@@ -85,66 +144,11 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
-          "title": "海口致3死1伤男子畏罪自杀身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8F%A3%E8%87%B43%E6%AD%BB1%E4%BC%A4%E7%94%B7%E5%AD%90%E7%95%8F%E7%BD%AA%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "冬奥这个项目为了赢无所不用其极，世界反兴奋剂组织介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32548914",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "老头乐闯红灯获赔 36 万，法院以「生命权大于路权」判决，会如何影响交通规则与责任认定？",
-          "url": "https://www.zhihu.com/question/2002699248001652076",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
           "title": "记者称中超与主流联赛强度节奏脱轨，年轻球员更早留洋价值更大，这一观点是否合理？",
           "url": "https://www.zhihu.com/question/1999060448310486448",
           "source": "知乎",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "博主发小米极氪对撞测试视频被捕",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "贪1.5亿！落马医院院长被判死缓",
-          "url": "https://www.toutiao.com/trending/7603680009479261746/",
-          "source": "今日头条",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -162,15 +166,70 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "印尼塔宁巴尔群岛附近发生5.9级地震",
+          "url": "https://flash.jin10.com/detail/20260207104010889800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "00后男子强奸幼女被执行死刑",
+          "url": "https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%94%B7%E5%AD%90%E5%BC%BA%E5%A5%B8%E5%B9%BC%E5%A5%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "国投白银 LOF 调整估值遭万人投诉，回应称已成立工作组，支持投资者依法解决诉求，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2003237661041775825",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "美食品药品监管局针对仿制减肥药采取行动",
           "url": "https://flash.jin10.com/detail/20260207082747130800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "韩国电商酷澎公司数据泄露事件再增约16.5万受害者",
+          "url": "https://flash.jin10.com/detail/20260207093311019800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "“奈晚推拿猥亵事件”受害女生：没等到道歉，心理状态受打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550937",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "报道：美司法部调查奈飞是否存在反竞争行为",
@@ -179,7 +238,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         }
