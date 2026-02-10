@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T12:24:57.228297+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-02-10T14:06:46.837989+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】沪深北交易所：优化再融资一揽子措施；高德打车被约谈",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 14时06分]"
         },
         {
           "title": "针对压低运价、应急处置不当等问题，高德打车被约谈",
@@ -25,22 +25,36 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 14时06分]"
         },
         {
           "title": "高德打车被约谈，要求防止层层抽成、保障司机收入，这能改变网约车司机的处境吗？",
           "url": "https://www.zhihu.com/question/2004281335016027563",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 14时06分]"
+        },
+        {
+          "title": "大V带货遭重锤，基金公司投放急刹车，营销生态最新调查",
+          "url": "https://www.cls.cn/detail/2285446",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 14时06分]"
         },
         {
           "title": "江苏通报南京博物院《江南春》图卷等相关受赠文物管理问题调查处理情况",
@@ -54,15 +68,28 @@
           "time_info": "09时22分"
         },
         {
-          "title": "大V带货遭重锤，基金公司投放急刹车，营销生态最新调查",
-          "url": "https://www.cls.cn/detail/2285446",
-          "source": "财联社热门",
+          "title": "逼学生造假,川大博导遭调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350427&amp;topic_name=%E9%80%BC%E5%AD%A6%E7%94%9F%E9%80%A0%E5%81%87%2C%E5%B7%9D%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%81%AD%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
           "ranks": [
-            5
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 14时06分]"
+        },
+        {
+          "title": "儿子遭霸凌,亲爹双斧教做人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350454&amp;topic_name=%E5%84%BF%E5%AD%90%E9%81%AD%E9%9C%B8%E5%87%8C%2C%E4%BA%B2%E7%88%B9%E5%8F%8C%E6%96%A7%E6%95%99%E5%81%9A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 14时06分]"
         },
         {
           "title": "江苏通报南京博物院《江南春》图卷等相关受赠文物管理问题调查处理情况",
@@ -77,28 +104,16 @@
           "time_info": "[09时22分 ~ 12时24分]"
         },
         {
-          "title": "逼学生造假,川大博导遭调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350427&amp;topic_name=%E9%80%BC%E5%AD%A6%E7%94%9F%E9%80%A0%E5%81%87%2C%E5%B7%9D%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
+          "title": "国务院安委办对山西朔州“2·7”较大爆炸事故查处挂牌督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566008",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            17
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时24分]"
-        },
-        {
-          "title": "儿子遭霸凌,亲爹双斧教做人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350454&amp;topic_name=%E5%84%BF%E5%AD%90%E9%81%AD%E9%9C%B8%E5%87%8C%2C%E4%BA%B2%E7%88%B9%E5%8F%8C%E6%96%A7%E6%95%99%E5%81%9A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时24分]"
+          "time_info": "[12时24分 ~ 14时06分]"
         },
         {
           "title": "多家快递公司辟谣“春节停运”",
@@ -129,7 +144,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -173,18 +188,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "国务院安委办对山西朔州“2·7”较大爆炸事故查处挂牌督办",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32566008",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -195,7 +199,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -250,7 +254,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -264,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "黑白颠周媛被立案后已结案传闻不实",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%99%BD%E9%A2%A0%E5%91%A8%E5%AA%9B%E8%A2%AB%E7%AB%8B%E6%A1%88%E5%90%8E%E5%B7%B2%E7%BB%93%E6%A1%88%E4%BC%A0%E9%97%BB%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     }
