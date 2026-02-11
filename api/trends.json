@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T14:04:11.830665+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-02-11T15:48:06.859474+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "据彭博，维权投资者Ancora据称买入华纳兄弟探索公司的股份。 另据华尔街日报，Ancora已购入华纳兄弟探索公司2亿美元的股份，并敦促其退出与奈飞的交易。 Ancora计划增持更多股份；如果华纳董事会拒绝与派拉蒙进行谈判，Ancora可能会发起代理人战争（Proxy Fight）。",
@@ -28,8 +28,70 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时48分]"
+        },
+        {
+          "title": "逼学生造假,川大博导遭调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350427&amp;topic_name=%E9%80%BC%E5%AD%A6%E7%94%9F%E9%80%A0%E5%81%87%2C%E5%B7%9D%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%81%AD%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时48分]"
+        },
+        {
+          "title": "2月11日投资避雷针：9天7板人气股提示 如股价进一步异常上涨可能申请停牌核查",
+          "url": "https://www.cls.cn/detail/2286594",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 15时48分]"
+        },
+        {
+          "title": "美欢迎台当局天价军购 国台办回应",
+          "url": "https://www.toutiao.com/trending/7604461233760141358/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时20分 ~ 14时04分]"
+          "time_info": "[14时03分 ~ 15时48分]"
+        },
+        {
+          "title": "景区回应“旋转真马”被指虐待动物",
+          "url": "https://www.toutiao.com/trending/7605057985623162926/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 15时48分]"
+        },
+        {
+          "title": "爱泼斯坦狱警用假尸体伪装现场",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%8B%B1%E8%AD%A6%E7%94%A8%E5%81%87%E5%B0%B8%E4%BD%93%E4%BC%AA%E8%A3%85%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 15时48分]"
         },
         {
           "title": "浙江省委：坚决拥护党中央对易炼红进行审查调查的决定",
@@ -44,61 +106,59 @@
           "time_info": "[09时20分 ~ 14时04分]"
         },
         {
-          "title": "逼学生造假,川大博导遭调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350427&amp;topic_name=%E9%80%BC%E5%AD%A6%E7%94%9F%E9%80%A0%E5%81%87%2C%E5%B7%9D%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 14时04分]"
-        },
-        {
-          "title": "2月11日投资避雷针：9天7板人气股提示 如股价进一步异常上涨可能申请停牌核查",
-          "url": "https://www.cls.cn/detail/2286594",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 14时04分]"
-        },
-        {
-          "title": "美欢迎台当局天价军购 国台办回应",
-          "url": "https://www.toutiao.com/trending/7604461233760141358/",
+          "title": "狻猊静心破妄 洞见“假药”真相",
+          "url": "https://www.toutiao.com/trending/7605488700189278235/",
           "source": "今日头条",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时03分 ~ 14时04分]"
+          "time_info": "[15时47分 ~ 15时48分]"
         },
         {
-          "title": "爱泼斯坦狱警用假尸体伪装现场",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%8B%B1%E8%AD%A6%E7%94%A8%E5%81%87%E5%B0%B8%E4%BD%93%E4%BC%AA%E8%A3%85%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 14时04分]"
-        },
-        {
-          "title": "景区回应“旋转真马”被指虐待动物",
-          "url": "https://www.toutiao.com/trending/7605057985623162926/",
-          "source": "今日头条",
+          "title": "天价头鱼背后的秘密",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BB%B7%E5%A4%B4%E9%B1%BC%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%98%E5%AF%86",
+          "source": "bilibili 热搜",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时03分 ~ 14时04分]"
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
+          "title": "道达尔能源首席执行官：鉴于欧盟明年将禁止俄罗斯液化天然气，需求仍将继续上升。",
+          "url": "https://flash.jin10.com/detail/20260211151222441800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "道达尔能源首席执行官：我们预计全球液化天然气供应将增加，但迄今为止，欧洲的需求一直在消化这些供应。",
+          "url": "https://flash.jin10.com/detail/20260211151215537800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "道达尔能源首席执行官：海上俄罗斯石油储量越来越多，美国的制裁正在引发市场上的紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260211151032746800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "“大连一海域发生4.0级地震”不实",
