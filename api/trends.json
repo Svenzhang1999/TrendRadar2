@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T17:34:42.085405+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-02-13T18:31:27.208033+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "耶鲁教授被停课调查，曾推荐女学生为爱泼斯坦工作",
@@ -60,7 +60,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -153,8 +153,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 18时31分]"
+        },
+        {
+          "title": "华为原终端BG多媒体技术部部长被捕",
+          "url": "https://www.toutiao.com/trending/7606223301510234155/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "教练霸凌勒索,体操少女跳楼",
@@ -166,11 +178,12 @@
             16,
             19,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 18时31分]"
         },
         {
           "title": "2月13日投资避雷针：信息披露可能误导投资者 这只太空光伏人气股遭上交所监管警示",
@@ -186,6 +199,19 @@
           "time_info": "[12时11分 ~ 16时32分]"
         },
         {
+          "title": "相声演员卢鑫失联，法院公开悬赏，有哪些信息可以关注？可能面临哪些处罚？",
+          "url": "https://www.zhihu.com/question/2005300424836671398",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时47分 ~ 18时31分]"
+        },
+        {
           "title": "男子被拖进女厕殴打骨折，西宁中院终审维持原判：涉案民警被判刑8个月，2名辅警被判缓刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32591442",
           "source": "澎湃新闻",
@@ -199,19 +225,6 @@
           "time_info": "[12时11分 ~ 14时47分]"
         },
         {
-          "title": "相声演员卢鑫失联，法院公开悬赏，有哪些信息可以关注？可能面临哪些处罚？",
-          "url": "https://www.zhihu.com/question/2005300424836671398",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时47分 ~ 17时34分]"
-        },
-        {
           "title": "爱泼斯坦假尸体事件披露",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E5%81%87%E5%B0%B8%E4%BD%93%E4%BA%8B%E4%BB%B6%E6%8A%AB%E9%9C%B2%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -221,8 +234,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 17时34分]"
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 18时31分]"
         },
         {
           "title": "正部级“女老虎”王莉霞被双开",
@@ -282,6 +295,40 @@
           "time_info": "[12时11分 ~ 12时12分]"
         },
         {
+          "title": "官方通报“中学女生疑似遭多名男生殴打晕倒”",
+          "url": "https://news.ifeng.com/c/8qiFv2807Ko",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
+          "title": "广东海滩发现失去头颅的海兽尸体，专家：基本确认为印太江豚",
+          "url": "https://news.ifeng.com/c/8qiJDW3U5r2",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
+          "title": "国务院食安办、市场监管总局部署各地强化婴幼儿配方乳粉质量安全管控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32594210",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
           "title": "中戏院长郝戎落马不足两个月",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E9%99%A2%E9%95%BF%E9%83%9D%E6%88%8E%E8%90%BD%E9%A9%AC%E4%B8%8D%E8%B6%B3%E4%B8%A4%E4%B8%AA%E6%9C%88%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -313,39 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
-        },
-        {
-          "title": "华为原终端BG多媒体技术部部长被捕",
-          "url": "https://www.toutiao.com/trending/7606223301510234155/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "官方通报“中学女生疑似遭多名男生殴打晕倒”",
-          "url": "https://news.ifeng.com/c/8qiFv2807Ko",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "广东海滩发现失去头颅的海兽尸体，专家：基本确认为印太江豚",
-          "url": "https://news.ifeng.com/c/8qiJDW3U5r2",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "市场消息：美国执法官员称，亚利桑那州警长阻止联邦调查局获取古思里失踪案关键证据。",
@@ -387,18 +401,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "国务院食安办、市场监管总局部署各地强化婴幼儿配方乳粉质量安全管控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32594210",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -409,7 +412,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -431,7 +434,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -442,7 +445,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -456,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "上交所对天合光能股份有限公司及有关责任人予以监管警示",
+          "url": "https://wallstreetcn.com/livenews/3055095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "事关集贸市场诚信计量体系建设 市场监管总局公开征求意见",
@@ -475,9 +489,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "深交所：近期，“嘉美包装”股价出现严重异常波动，公司停牌核查并多次发布风险提示公告，复牌后股价连续上涨，部分投资者在交易该股过程中存在影响股票交易正常秩序的异常交易行为，本所依规对相关投资者采取了暂停交易等自律监管措施。",
+          "url": "https://wallstreetcn.com/livenews/3055093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "南非认定口蹄疫疫情为国家灾难",
@@ -489,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "两部门：进一步加强跨境电商零售进口食品召回监管",
+          "url": "https://wallstreetcn.com/livenews/3055081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     }
