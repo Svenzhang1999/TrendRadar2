@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-02-13T09:16:27.692097+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-13T12:12:12.180372+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "中央网信办启动“清朗·2026年营造喜庆祥和春节网络环境”专项行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591699",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
+        },
+        {
+          "title": "广东湛江发现疑似儒艮尸体",
+          "url": "https://www.toutiao.com/trending/7605978194998657051/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
+        },
+        {
+          "title": "耶鲁教授被停课调查，曾推荐女学生为爱泼斯坦工作",
+          "url": "https://news.ifeng.com/c/8qh69zxxMpx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
         {
           "title": "禁止引导付费优先购票！12家第三方火车票网络销售平台被约谈",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590307",
@@ -19,33 +54,11 @@
           "time_info": "09时16分"
         },
         {
-          "title": "中央网信办启动“清朗·2026年营造喜庆祥和春节网络环境”专项行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591699",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
           "title": "借SpaceX“东风”拉涨停？双良节能被上交所监管警示",
           "url": "https://www.cls.cn/detail/2288800",
           "source": "财联社热门",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "广东湛江发现疑似儒艮尸体",
-          "url": "https://www.toutiao.com/trending/7605978194998657051/",
-          "source": "今日头条",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,26 +87,40 @@
           "time_info": "09时16分"
         },
         {
-          "title": "市场消息：美国执法官员称，亚利桑那州警长阻止联邦调查局获取古思里失踪案关键证据。",
-          "url": "https://flash.jin10.com/detail/20260213083910618800",
-          "source": "金十数据",
+          "title": "广东湛江发现疑似儒艮尸体",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%84%92%E8%89%AE%E5%B0%B8%E4%BD%93",
+          "source": "百度热搜",
           "ranks": [
-            12
+            19,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
+        },
+        {
+          "title": "正部级“女老虎”王莉霞被双开",
+          "url": "https://www.toutiao.com/trending/7605076587528113705/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
         },
         {
           "title": "教练霸凌勒索,体操少女跳楼",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350614&amp;topic_name=%E6%95%99%E7%BB%83%E9%9C%B8%E5%87%8C%E5%8B%92%E7%B4%A2%2C%E4%BD%93%E6%93%8D%E5%B0%91%E5%A5%B3%E8%B7%B3%E6%A5%BC",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
         },
         {
           "title": "12家第三方火车票销售平台被约谈，新华快评：加速包不能成添堵包",
@@ -101,6 +128,85 @@
           "source": "澎湃新闻",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
+        },
+        {
+          "title": "贵州遵义市联合调查组发布仁怀市涉企有关问题的调查通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32592578",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
+        },
+        {
+          "title": "大动作！印度要花天价采购阵风战机",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8A%A8%E4%BD%9C%EF%BC%81%E5%8D%B0%E5%BA%A6%E8%A6%81%E8%8A%B1%E5%A4%A9%E4%BB%B7%E9%87%87%E8%B4%AD%E9%98%B5%E9%A3%8E%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
+        },
+        {
+          "title": "军委副主席张升民：要加强练兵备战",
+          "url": "https://www.toutiao.com/trending/7605917299287002687/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时12分]"
+        },
+        {
+          "title": "2月13日投资避雷针：信息披露可能误导投资者 这只太空光伏人气股遭上交所监管警示",
+          "url": "https://www.cls.cn/detail/2289110",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "伊朗为何愿意接受任何核项目核查",
+          "url": "https://www.toutiao.com/trending/7606136522760261146/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "男子被拖进女厕殴打骨折，西宁中院终审维持原判：涉案民警被判刑8个月，2名辅警被判缓刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591442",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "市场消息：美国执法官员称，亚利桑那州警长阻止联邦调查局获取古思里失踪案关键证据。",
+          "url": "https://flash.jin10.com/detail/20260213083910618800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,66 +224,11 @@
           "time_info": "09时16分"
         },
         {
-          "title": "正部级“女老虎”王莉霞被双开",
-          "url": "https://www.toutiao.com/trending/7605076587528113705/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
           "title": "韩国财长：将加强对加密货币市场的监管。",
           "url": "https://flash.jin10.com/detail/20260213083425974800",
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "广东湛江发现疑似儒艮尸体",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%84%92%E8%89%AE%E5%B0%B8%E4%BD%93",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "贵州遵义市联合调查组发布仁怀市涉企有关问题的调查通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32592578",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "大动作！印度要花天价采购阵风战机",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8A%A8%E4%BD%9C%EF%BC%81%E5%8D%B0%E5%BA%A6%E8%A6%81%E8%8A%B1%E5%A4%A9%E4%BB%B7%E9%87%87%E8%B4%AD%E9%98%B5%E9%A3%8E%E6%88%98%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "军委副主席张升民：要加强练兵备战",
-          "url": "https://www.toutiao.com/trending/7605917299287002687/",
-          "source": "今日头条",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
