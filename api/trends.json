@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T15:28:51.683142+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-02-14T16:20:17.419472+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 16时20分]"
         },
         {
           "title": "湖北发布关于襄阳宜昌精神卫生医疗机构有关问题调查处理情况的通报",
@@ -70,6 +70,20 @@
           "time_info": "[09时08分 ~ 14时33分]"
         },
         {
+          "title": "“功能性灭绝”儒艮尸体现广东湛江海滩？专家：确认为印太江豚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603097",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 16时20分]"
+        },
+        {
           "title": "日本释放被捕的中国渔船船长",
           "url": "https://www.douyin.com/hot/2399989",
           "source": "抖音",
@@ -78,24 +92,12 @@
             12,
             23,
             25,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时28分]"
-        },
-        {
-          "title": "“功能性灭绝”儒艮尸体现广东湛江海滩？专家：确认为印太江豚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603097",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 16时20分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -107,8 +109,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 16时20分]"
         },
         {
           "title": "官方通报幼儿产检正常出生却畸形「系漏诊，涉事医生被调离岗位，分管副院长被立案调查」，哪些信息值得关注？",
@@ -121,19 +123,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 16时20分]"
         },
         {
           "title": "官方回应湛江海滩现疑似儒艮尸体",
           "url": "https://www.douyin.com/hot/2399758",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 16时20分]"
         },
         {
           "title": "恒基地产主席李家诚控告女星周秀娜",
@@ -184,6 +187,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 14时33分]"
+        },
+        {
+          "title": "中国游客目击巴厘岛乌布王宫部分坍塌",
+          "url": "https://www.toutiao.com/trending/7606566476081807401/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时20分]"
         },
         {
           "title": "中戏表演系主任王鑫主动投案，系郝戎、陈刚后中戏落马第三人，具体情况如何？哪些信息值得关注？",
@@ -332,24 +347,13 @@
           "time_info": "12时01分"
         },
         {
-          "title": "中国游客目击巴厘岛乌布王宫部分坍塌",
-          "url": "https://www.toutiao.com/trending/7606566476081807401/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
           "title": "金虔佑 霸凌工作人员",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E8%99%94%E4%BD%91%20%E9%9C%B8%E5%87%8C%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
