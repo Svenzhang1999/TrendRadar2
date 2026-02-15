@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T17:22:46.894315+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-02-15T18:17:24.731675+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时14分 ~ 18时17分]"
         },
         {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
@@ -80,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -95,6 +95,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时39分 ~ 17时22分]"
+        },
+        {
+          "title": "市场监管总局约谈阿里巴巴、抖音、百度等 7 家平台企业，能治住大厂们「内卷式」竞争的老毛病吗？",
+          "url": "https://www.zhihu.com/question/2006053589701908350",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时17分]"
         },
         {
           "title": "大疆前销售副总裁被刑拘",
@@ -119,11 +131,25 @@
             14,
             15,
             19,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 18时17分]"
+        },
+        {
+          "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
+          "url": "https://wallstreetcn.com/articles/3765740",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 18时17分]"
         },
         {
           "title": "中国地震台网正式测定：02月15日14时19分在四川阿坝州汶川县（北纬30.87度，东经103.32度）发生3.1级地震，震源深度10千米。",
@@ -133,11 +159,12 @@
             1,
             9,
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 18时17分]"
         },
         {
           "title": "国家网信办发布第四批境内金融信息服务机构报备编号",
@@ -168,16 +195,16 @@
           "time_info": "[13时49分 ~ 16时22分]"
         },
         {
-          "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
-          "url": "https://wallstreetcn.com/articles/3765740",
-          "source": "华尔街见闻",
+          "title": "男子参加“聚会”被下药 5人被刑拘",
+          "url": "https://www.toutiao.com/trending/7606761300865204267/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时12分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 18时17分]"
         },
         {
           "title": "假千金骗婚案二审维持原判：“新娘”因诈骗罪一审获刑4年半",
@@ -190,18 +217,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时14分 ~ 15时33分]"
-        },
-        {
-          "title": "男子参加“聚会”被下药 5人被刑拘",
-          "url": "https://www.toutiao.com/trending/7606761300865204267/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时12分 ~ 17时22分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：与美国参议院Lindsey Graham等人的会谈情况不错。",
@@ -246,17 +261,6 @@
           "time_info": "[09时14分 ~ 12时13分]"
         },
         {
-          "title": "市场监管总局约谈阿里巴巴、抖音、百度等 7 家平台企业，能治住大厂们「内卷式」竞争的老毛病吗？",
-          "url": "https://www.zhihu.com/question/2006053589701908350",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时22分]"
-        },
-        {
           "title": "法医最新透露，爱泼斯坦或遭勒死非自杀",
           "url": "https://v.ifeng.com/c/8qlRI98Beb4",
           "source": "凤凰网",
@@ -264,8 +268,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时17分]"
         },
         {
           "title": "丈夫过年回家发现外籍妻子出走失联",
@@ -273,11 +277,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时17分]"
         },
         {
           "title": "四川大学通报王竹卿事件调查结果",
