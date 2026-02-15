@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T19:16:19.746816+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-02-15T20:27:35.886283+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "市场监管总局约谈7家平台企业",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时14分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时14分 ~ 20时27分]"
         },
         {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
@@ -74,6 +74,17 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
+          "title": "大阪闹市砍人,领馆提醒勿赴日",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350727&amp;topic_name=%E5%A4%A7%E9%98%AA%E9%97%B9%E5%B8%82%E7%A0%8D%E4%BA%BA%2C%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92%E5%8B%BF%E8%B5%B4%E6%97%A5",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "为了不失联的信号",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E5%A4%B1%E8%81%94%E7%9A%84%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -85,6 +96,17 @@
           "time_info": "17时22分"
         },
         {
+          "title": "涉嫌腐败 乌克兰前司法部长加卢先科试图离境时被捕",
+          "url": "https://flash.jin10.com/detail/20260215191138310800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度等 7 家平台企业，能治住大厂们「内卷式」竞争的老毛病吗？",
           "url": "https://www.zhihu.com/question/2006053589701908350",
           "source": "知乎",
@@ -94,8 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 20时27分]"
         },
         {
           "title": "大疆前副总裁袁某被刑拘",
@@ -148,8 +170,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时12分 ~ 20时27分]"
         },
         {
           "title": "中国地震台网正式测定：02月15日14时19分在四川阿坝州汶川县（北纬30.87度，东经103.32度）发生3.1级地震，震源深度10千米。",
@@ -161,11 +183,12 @@
             16,
             20,
             23,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 20时27分]"
         },
         {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度、腾讯、京东、美团、淘宝闪购等平台企业",
@@ -244,8 +267,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 20时27分]"
+        },
+        {
+          "title": "丈夫过年回家发现外籍妻子出走失联",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E8%BF%87%E5%B9%B4%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%A4%96%E7%B1%8D%E5%A6%BB%E5%AD%90%E5%87%BA%E8%B5%B0%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 20时27分]"
         },
         {
           "title": "船运调查机构ITS：马来西亚2月1日至15日棕榈油出口量下降11.2%，预计为645,656吨。",
@@ -260,20 +297,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时39分 ~ 17时22分]"
-        },
-        {
-          "title": "丈夫过年回家发现外籍妻子出走失联",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E8%BF%87%E5%B9%B4%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%A4%96%E7%B1%8D%E5%A6%BB%E5%AD%90%E5%87%BA%E8%B5%B0%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时16分]"
         },
         {
           "title": "一中国公民在新加坡赌博跳楼身亡",
@@ -297,6 +320,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "洛杉矶奥组委主席在爱泼斯坦案文件中",
+          "url": "https://news.ifeng.com/c/8qlik25DEla",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "日本大阪闹市区砍人致多人死伤",
