@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T17:42:41.592885+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-02-16T18:40:05.259374+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
@@ -63,18 +63,6 @@
           "time_info": "15时07分"
         },
         {
-          "title": "国务院安委办对江苏连云港烟花爆竹爆炸事故挂牌督办",
-          "url": "https://wallstreetcn.com/livenews/3055702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时42分]"
-        },
-        {
           "title": "大阪闹市砍人,领馆叫停赴日",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350727&amp;topic_name=%E5%A4%A7%E9%98%AA%E9%97%B9%E5%B8%82%E7%A0%8D%E4%BA%BA%2C%E9%A2%86%E9%A6%86%E5%8F%AB%E5%81%9C%E8%B5%B4%E6%97%A5",
           "source": "贴吧",
@@ -87,8 +75,32 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 17时42分]"
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 18时40分]"
+        },
+        {
+          "title": "国务院安委办对江苏连云港烟花爆竹爆炸事故挂牌督办",
+          "url": "https://wallstreetcn.com/livenews/3055702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时40分]"
+        },
+        {
+          "title": "“太原出现了疫情”系谣言",
+          "url": "https://www.douyin.com/hot/2402876",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 18时40分]"
         },
         {
           "title": "大疆前销售副总裁涉嫌非国家工作人员受贿罪被刑拘",
@@ -131,17 +143,6 @@
           "time_info": "[14时01分 ~ 17时42分]"
         },
         {
-          "title": "“太原出现了疫情”系谣言",
-          "url": "https://www.douyin.com/hot/2402876",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 17时42分]"
-        },
-        {
           "title": "爸爸给儿子压岁钱像“坐跳楼机”",
           "url": "https://www.toutiao.com/trending/7606277727309824038/",
           "source": "今日头条",
@@ -179,15 +180,27 @@
           "time_info": "[16时35分 ~ 17时42分]"
         },
         {
+          "title": "赖清德当局春节当“老赖”！持续拖欠“军公教警消”工资福利",
+          "url": "https://news.ifeng.com/c/8qjruhyBJ3z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
           "title": "据瑞士广播电视台报道，当地时间16日7时许，一列火车在瑞士戈彭施泰因和布里格之间脱轨。",
           "url": "https://flash.jin10.com/detail/20260216165226956800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时40分]"
         },
         {
           "title": "市场消息：乌克兰反腐败调查人员称前能源部长为一起备受瞩目的贿赂案嫌疑人。",
@@ -199,17 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
-        },
-        {
-          "title": "赖清德当局春节当“老赖”！持续拖欠“军公教警消”工资福利",
-          "url": "https://news.ifeng.com/c/8qjruhyBJ3z",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "地方当局表示，俄罗斯塔曼港的火灾已被扑灭。",
