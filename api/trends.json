@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T16:35:04.639899+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-02-17T17:38:48.713248+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "大阪闹市砍人,领馆叫停赴日",
@@ -18,8 +18,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 16时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时11分 ~ 17时38分]"
         },
         {
           "title": "应急管理部：继续抓好春节假期烟花爆竹全链条安全监管",
@@ -78,9 +78,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "俄罗斯联邦通信、信息技术和大众传媒监管局（Roskomnadzor）对此前公布的有关Telegram被封禁的信息没有补充说明。",
+          "url": "https://flash.jin10.com/detail/20260217170803365800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "缅甸北部一矿区坍塌 伤亡情况不明",
@@ -100,7 +111,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
