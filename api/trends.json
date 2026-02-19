@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T12:11:22.597072+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-02-19T13:53:50.213073+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "《医疗保障基金智能监管规则库、知识库（2025年版）》发行",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -36,9 +36,64 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "巴基斯坦发生燃气泄漏爆炸事故 已致12人死亡",
+          "url": "https://flash.jin10.com/detail/20260219132916614800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "文件显示，印度券商游说团体致函市场监管机构，请求就央行针对银行向交易商放贷的新规定进行干预，游说团体要求将印度央行近期出台的规则实施推迟六个月。",
+          "url": "https://flash.jin10.com/detail/20260219132827236800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "湖北宜城烟花爆竹爆燃事故致12人遇难，遇难者身份全部核实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632159",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "宜城烟花爆燃事故12名遇难者身份核实",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%9F%8E%E7%83%9F%E8%8A%B1%E7%88%86%E7%87%83%E4%BA%8B%E6%95%8512%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E6%A0%B8%E5%AE%9E%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "新西兰联储助理主席：央行面临经济增长与通胀放缓的“两难困境”",
+          "url": "https://flash.jin10.com/detail/20260219130942077800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "巴尔卡萨尔当选秘鲁国会主席 将接任总统",
@@ -47,7 +102,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -58,9 +113,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "中国地震台网正式测定：02月19日12时40分在西藏阿里地区日土县（北纬33.62度，东经81.89度）发生3.6级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260219125408840800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "路透调查：日本央行或将在6月底前将政策利率上调至1%",
+          "url": "https://flash.jin10.com/detail/20260219123146827800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     }
