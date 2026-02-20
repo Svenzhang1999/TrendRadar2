@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-02-20T15:42:07.895122+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-02-20T16:31:15.462047+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "安德鲁王子为何被捕",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E5%BE%B7%E9%B2%81%E7%8E%8B%E5%AD%90%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 15时42分]"
-        },
         {
           "title": "广东地震",
           "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
@@ -28,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 16时31分]"
         },
         {
           "title": "英国国王回应安德鲁被捕",
@@ -65,6 +52,20 @@
           "time_info": "14时42分"
         },
         {
+          "title": "安德鲁王子为何被捕",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E5%BE%B7%E9%B2%81%E7%8E%8B%E5%AD%90%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 16时31分]"
+        },
+        {
           "title": "英国国王之弟安德鲁因涉嫌担任公职期间行为不端被捕",
           "url": "https://m.thepaper.cn/newsDetail_forward_32632938",
           "source": "澎湃新闻",
@@ -74,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 16时31分]"
         },
         {
           "title": "银行理财“收益打榜”？监管出手，两家股份行理财公司被罚",
@@ -113,8 +114,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 16时31分]"
         },
         {
           "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管",
@@ -126,8 +127,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 16时31分]"
+        },
+        {
+          "title": "广东阳江市阳西县发生4.0级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E9%98%B3%E6%B1%9F%E5%B8%82%E9%98%B3%E8%A5%BF%E5%8E%BF%E5%8F%91%E7%94%9F4.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时46分 ~ 15时42分]"
+          "time_info": "[15时41分 ~ 16时31分]"
+        },
+        {
+          "title": "广东阳江市阳西县4.0级地震",
+          "url": "https://www.douyin.com/hot/2406815",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 16时31分]"
         },
         {
           "title": "英国前王子安德鲁因涉及爱泼斯坦案被捕，如何看待此事？还有哪些涉案「大人物」可能被实质影响？",
@@ -142,26 +165,15 @@
           "time_info": "[09时08分 ~ 12时06分]"
         },
         {
-          "title": "广东阳江市阳西县发生4.0级地震",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E9%98%B3%E6%B1%9F%E5%B8%82%E9%98%B3%E8%A5%BF%E5%8E%BF%E5%8F%91%E7%94%9F4.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
+          "title": "广东阳江4级地震 深圳等多地有震感",
+          "url": "https://www.toutiao.com/trending/7608834439107317275/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
-        },
-        {
-          "title": "广东阳江市阳西县4.0级地震",
-          "url": "https://www.douyin.com/hot/2406815",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "国际雪联主席评苏翊鸣冬奥再夺冠：对中国滑雪发展意义重大",
@@ -184,6 +196,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "金泰亨指责闵熙珍泄露聊天记录",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E6%8C%87%E8%B4%A3%E9%97%B5%E7%86%99%E7%8F%8D%E6%B3%84%E9%9C%B2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "宁夏地震",
@@ -263,13 +286,35 @@
           "time_info": "09时09分"
         },
         {
+          "title": "日本一寺院发生火灾致5人死亡",
+          "url": "https://flash.jin10.com/detail/20260220155623262800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "船运调查机构ITS：马来西亚2月1日至20日棕榈油出口下降8.9%，出口量预计为863,358公吨。",
+          "url": "https://flash.jin10.com/detail/20260220155446688800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "香港天文台：地震网络侦测到市民报告的本地有感地震。",
           "url": "https://flash.jin10.com/detail/20260220144526827800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -280,7 +325,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
