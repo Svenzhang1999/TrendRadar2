@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T18:17:00.943396+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-02-21T19:15:27.427820+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 18时17分]"
-        },
-        {
-          "title": "12人遇难!熊孩子放炮闯祸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350829&amp;topic_name=12%E4%BA%BA%E9%81%87%E9%9A%BE%21%E7%86%8A%E5%AD%A9%E5%AD%90%E6%94%BE%E7%82%AE%E9%97%AF%E7%A5%B8",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 18时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 19时15分]"
         },
         {
           "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管",
@@ -42,6 +29,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 11时58分]"
+        },
+        {
+          "title": "12人遇难!熊孩子放炮闯祸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350829&amp;topic_name=12%E4%BA%BA%E9%81%87%E9%9A%BE%21%E7%86%8A%E5%AD%A9%E5%AD%90%E6%94%BE%E7%82%AE%E9%97%AF%E7%A5%B8",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 19时15分]"
         },
         {
           "title": "德国地学研究中心GFZ：巴布亚新几内亚地区发生5.93级地震。",
@@ -68,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 18时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 19时15分]"
         },
         {
           "title": "美国贸易代表办公室：将按加快的时间表开展301调查。",
@@ -107,11 +108,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时30分 ~ 18时17分]"
+          "appearance_count": 9,
+          "time_info": "[14时30分 ~ 19时15分]"
         },
         {
           "title": "姚晨丢掉妈妈过期药品被骂了3天",
