@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T15:26:16.888894+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-02-21T16:20:18.837403+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "载8名中国游客车辆因冰面破裂沉湖，其中1人逃生7人遇难",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 16时20分]"
+        },
+        {
+          "title": "德国地学研究中心GFZ：巴布亚新几内亚地区发生5.93级地震。",
+          "url": "https://flash.jin10.com/detail/20260221142621638800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时20分]"
         },
         {
           "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管",
@@ -31,15 +43,15 @@
           "time_info": "[09时07分 ~ 11时58分]"
         },
         {
-          "title": "德国地学研究中心GFZ：巴布亚新几内亚地区发生5.93级地震。",
-          "url": "https://flash.jin10.com/detail/20260221142621638800",
-          "source": "金十数据",
+          "title": "12人遇难!熊孩子放炮闯祸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350829&amp;topic_name=12%E4%BA%BA%E9%81%87%E9%9A%BE%21%E7%86%8A%E5%AD%A9%E5%AD%90%E6%94%BE%E7%82%AE%E9%97%AF%E7%A5%B8",
+          "source": "贴吧",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "16时20分"
         },
         {
           "title": "美国贸易代表办公室：将按加快的时间表开展301调查。",
@@ -81,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 16时20分]"
         },
         {
           "title": "姚晨丢掉妈妈过期药品被骂了3天",
@@ -91,11 +103,12 @@
           "ranks": [
             12,
             16,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 16时20分]"
         },
         {
           "title": "日本流感疫情持续高位 七成地区达“警报”级别",
@@ -105,11 +118,23 @@
             9,
             11,
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 16时20分]"
+        },
+        {
+          "title": "姚晨丢掉妈妈过期药品被骂了3天",
+          "url": "https://www.toutiao.com/trending/7608362150536577033/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时30分 ~ 16时20分]"
         },
         {
           "title": "曝那艺娜偷税漏税",
@@ -138,27 +163,17 @@
           "time_info": "[11时58分 ~ 15时26分]"
         },
         {
-          "title": "姚晨丢掉妈妈过期药品被骂了3天",
-          "url": "https://www.toutiao.com/trending/7608362150536577033/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时30分 ~ 15时26分]"
-        },
-        {
           "title": "俄远东一架直升机坠毁 3人遇难",
           "url": "https://flash.jin10.com/detail/20260221125330337800",
           "source": "金十数据",
           "ranks": [
             7,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时20分]"
         },
         {
           "title": "这种致癌物在春节很常见",
@@ -217,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "上海财神庙一炉子被烧起火",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B4%A2%E7%A5%9E%E5%BA%99%E4%B8%80%E7%82%89%E5%AD%90%E8%A2%AB%E7%83%A7%E8%B5%B7%E7%81%AB%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "中国游客汽车在俄落水7人遇难",
