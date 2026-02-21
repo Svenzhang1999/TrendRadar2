@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T19:15:27.427820+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-02-21T20:25:59.983946+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "载8名中国游客车辆因冰面破裂沉湖，其中1人逃生7人遇难",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 20时25分]"
         },
         {
           "title": "国务院安委办通报两起烟花爆竹爆燃事故，部署全链条安全监管",
@@ -38,11 +38,12 @@
             1,
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时25分]"
         },
         {
           "title": "德国地学研究中心GFZ：巴布亚新几内亚地区发生5.93级地震。",
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 20时25分]"
         },
         {
           "title": "美国贸易代表办公室：将按加快的时间表开展301调查。",
@@ -230,6 +231,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 11时58分]"
+        },
+        {
+          "title": "上海财神庙辟谣香炉起火",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%B4%A2%E7%A5%9E%E5%BA%99%E8%BE%9F%E8%B0%A3%E9%A6%99%E7%82%89%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "这种瓜子有毒还致癌 吃到立马吐出来",
