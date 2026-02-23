@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-23T15:05:20.008715+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-02-23T16:37:57.140429+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "菲律宾南部海域6名渔民失联",
+          "url": "https://flash.jin10.com/detail/20260223155436598800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
         {
           "title": "中国地震台网正式测定：2月23日13时11分，在福克斯群岛（北纬52.50度，西经170.00度）发生6.1级地震，震源深度20公里。",
           "url": "https://wallstreetcn.com/livenews/3057367",
@@ -25,11 +36,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 16时37分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -37,11 +49,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 16时37分]"
         },
         {
           "title": "JH过期糖盘点",
@@ -52,8 +65,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 16时37分]"
         },
         {
           "title": "牧神记秦牧灭门难陀宗",
@@ -63,11 +76,12 @@
             13,
             22,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 16时37分]"
         },
         {
           "title": "保鲜膜裹食物加热会致癌系谣言",
@@ -77,8 +91,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 15时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 16时37分]"
         },
         {
           "title": "尼泊尔巴士坠河致18死 一中国人失联",
@@ -93,6 +107,17 @@
           "time_info": "[12时13分 ~ 15时05分]"
         },
         {
+          "title": "新疆尉犁5.1级地震",
+          "url": "https://www.douyin.com/hot/2409322",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 16时37分]"
+        },
+        {
           "title": "印尼突发7.0级地震",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E7%AA%81%E5%8F%917.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -103,6 +128,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 12时14分]"
+        },
+        {
+          "title": "尼泊尔巴士坠河已致18死，1名中国公民失联",
+          "url": "https://news.ifeng.com/c/8qyZNz1Vt0R",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 16时37分]"
         },
         {
           "title": "XG制作人SIMON被捕",
@@ -117,34 +153,12 @@
           "time_info": "[12时13分 ~ 14时00分]"
         },
         {
-          "title": "新疆尉犁5.1级地震",
-          "url": "https://www.douyin.com/hot/2409322",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 15时05分]"
-        },
-        {
           "title": "美国地质勘探局：阿拉斯加尼科尔斯基地区发生6.3级地震。",
           "url": "https://flash.jin10.com/detail/20260223131929044800",
           "source": "金十数据",
           "ranks": [
             8,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 15时05分]"
-        },
-        {
-          "title": "尼泊尔巴士坠河已致18死，1名中国公民失联",
-          "url": "https://news.ifeng.com/c/8qyZNz1Vt0R",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -193,7 +207,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -207,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "问界M9起火声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E8%B5%B7%E7%81%AB%E5%A3%B0%E6%98%8E%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "德国地球科学研究中心（GFZ）：Borneo发生7.03级地震。",
@@ -240,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "青2陈品瑄自曝曾被性骚扰",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%922%E9%99%88%E5%93%81%E7%91%84%E8%87%AA%E6%9B%9D%E6%9B%BE%E8%A2%AB%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     }
