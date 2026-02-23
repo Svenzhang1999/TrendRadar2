@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-23T14:00:58.162357+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-02-23T15:05:20.008715+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中国地震台网正式测定：2月23日13时11分，在福克斯群岛（北纬52.50度，西经170.00度）发生6.1级地震，震源深度20公里。",
           "url": "https://wallstreetcn.com/livenews/3057367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时05分]"
         },
         {
           "title": "洗脚闹矛盾,男子跳桥失联",
@@ -27,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 14时00分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 15时05分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -39,8 +40,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 14时00分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 15时05分]"
         },
         {
           "title": "JH过期糖盘点",
@@ -51,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 14时00分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 15时05分]"
         },
         {
           "title": "牧神记秦牧灭门难陀宗",
@@ -61,11 +62,35 @@
           "ranks": [
             13,
             22,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 15时05分]"
+        },
+        {
+          "title": "保鲜膜裹食物加热会致癌系谣言",
+          "url": "https://www.toutiao.com/trending/7609613496015470630/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时05分]"
+        },
+        {
+          "title": "尼泊尔巴士坠河致18死 一中国人失联",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B7%B4%E5%A3%AB%E5%9D%A0%E6%B2%B3%E8%87%B418%E6%AD%BB+%E4%B8%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            24,
             25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时11分 ~ 14时00分]"
+          "time_info": "[12时13分 ~ 15时05分]"
         },
         {
           "title": "印尼突发7.0级地震",
@@ -80,17 +105,6 @@
           "time_info": "[09时11分 ~ 12时14分]"
         },
         {
-          "title": "保鲜膜裹食物加热会致癌系谣言",
-          "url": "https://www.toutiao.com/trending/7609613496015470630/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时00分]"
-        },
-        {
           "title": "XG制作人SIMON被捕",
           "url": "https://s.weibo.com/weibo?q=XG%E5%88%B6%E4%BD%9C%E4%BA%BASIMON%E8%A2%AB%E6%8D%95&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -103,37 +117,27 @@
           "time_info": "[12时13分 ~ 14时00分]"
         },
         {
-          "title": "尼泊尔巴士坠河致18死 一中国人失联",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B7%B4%E5%A3%AB%E5%9D%A0%E6%B2%B3%E8%87%B418%E6%AD%BB+%E4%B8%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时00分]"
-        },
-        {
-          "title": "美国地质勘探局：阿拉斯加尼科尔斯基地区发生6.3级地震。",
-          "url": "https://flash.jin10.com/detail/20260223131929044800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
           "title": "新疆尉犁5.1级地震",
           "url": "https://www.douyin.com/hot/2409322",
           "source": "抖音",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时05分]"
+        },
+        {
+          "title": "美国地质勘探局：阿拉斯加尼科尔斯基地区发生6.3级地震。",
+          "url": "https://flash.jin10.com/detail/20260223131929044800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时05分]"
         },
         {
           "title": "尼泊尔巴士坠河已致18死，1名中国公民失联",
@@ -142,42 +146,56 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时05分]"
         },
         {
           "title": "新疆巴音郭楞州发生5.1级地震",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E5%B7%B4%E9%9F%B3%E9%83%AD%E6%A5%9E%E5%B7%9E%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时05分]"
         },
         {
           "title": "中国地震台网正式测定：02月23日12时12分在新疆巴音郭楞州尉犁县（北纬40.88度，东经84.17度）发生5.1级地震，震源深度15千米。",
           "url": "https://wallstreetcn.com/livenews/3057354",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时05分]"
         },
         {
           "title": "新疆巴音郭楞州尉犁县附近发生5.3级左右地震。",
           "url": "https://wallstreetcn.com/livenews/3057351",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时05分]"
+        },
+        {
+          "title": "问界通报广东惠州车辆起火事件：非车辆自身原因导致",
+          "url": "https://wallstreetcn.com/livenews/3057369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "15时05分"
         },
         {
           "title": "父亲遇3岁儿子坠楼下意识伸手接",
@@ -208,7 +226,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
