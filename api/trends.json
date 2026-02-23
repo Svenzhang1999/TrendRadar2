@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-23T17:43:46.811391+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-02-23T18:40:57.650281+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "市场消息：欧盟因美国总统特朗普的关税风险拟冻结对美贸易协议的批准。",
+          "url": "https://flash.jin10.com/detail/20260223182731191800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
         {
           "title": "菲律宾南部海域6名渔民失联",
           "url": "https://flash.jin10.com/detail/20260223155436598800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "美国国防部长海格塞斯将于周二上午会见Anthropic首席执行官。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3057435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "中国地震台网正式测定：2月23日13时11分，在福克斯群岛（北纬52.50度，西经170.00度）发生6.1级地震，震源深度20公里。",
@@ -37,11 +59,12 @@
           "ranks": [
             6,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 17时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 18时40分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -50,11 +73,23 @@
           "ranks": [
             8,
             14,
-            13
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 18时40分]"
+        },
+        {
+          "title": "保鲜膜裹食物加热会致癌系谣言",
+          "url": "https://www.toutiao.com/trending/7609613496015470630/",
+          "source": "今日头条",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时11分 ~ 17时43分]"
+          "time_info": "[12时13分 ~ 18时40分]"
         },
         {
           "title": "JH过期糖盘点",
@@ -85,27 +120,17 @@
           "time_info": "[09时11分 ~ 17时43分]"
         },
         {
-          "title": "保鲜膜裹食物加热会致癌系谣言",
-          "url": "https://www.toutiao.com/trending/7609613496015470630/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 17时43分]"
-        },
-        {
           "title": "新疆尉犁5.1级地震",
           "url": "https://www.douyin.com/hot/2409322",
           "source": "抖音",
           "ranks": [
             8,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时00分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时00分 ~ 18时40分]"
         },
         {
           "title": "尼泊尔巴士坠河致18死 一中国人失联",
@@ -203,6 +228,29 @@
           "time_info": "[14时00分 ~ 15时05分]"
         },
         {
+          "title": "山东蓬莱“宰客”酒楼招牌被强拆",
+          "url": "https://www.toutiao.com/trending/7609902350228029494/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时40分]"
+        },
+        {
+          "title": "新疆巴音郭楞州尉犁县发生5.1级地震，乌鲁木齐等地震感明显",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645170",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时40分]"
+        },
+        {
           "title": "问界通报广东惠州车辆起火事件：非车辆自身原因导致",
           "url": "https://wallstreetcn.com/livenews/3057369",
           "source": "华尔街见闻-快讯",
@@ -220,7 +268,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -234,28 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        },
-        {
-          "title": "山东蓬莱“宰客”酒楼招牌被强拆",
-          "url": "https://www.toutiao.com/trending/7609902350228029494/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "新疆巴音郭楞州尉犁县发生5.1级地震，乌鲁木齐等地震感明显",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645170",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "问界M9起火声明",
@@ -275,9 +301,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "货车起火 众人误以为爆炸紧急躲避",
+          "url": "https://www.toutiao.com/trending/7609628500248526884/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "德国地球科学研究中心（GFZ）：Borneo发生7.03级地震。",
