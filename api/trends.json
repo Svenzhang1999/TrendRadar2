@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T16:37:57.140429+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-02-23T17:43:46.811391+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "菲律宾南部海域6名渔民失联",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 17时43分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -53,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 17时43分]"
         },
         {
           "title": "JH过期糖盘点",
@@ -62,11 +62,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 17时43分]"
         },
         {
           "title": "牧神记秦牧灭门难陀宗",
@@ -80,8 +81,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 17时43分]"
         },
         {
           "title": "保鲜膜裹食物加热会致癌系谣言",
@@ -91,8 +92,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 17时43分]"
+        },
+        {
+          "title": "新疆尉犁5.1级地震",
+          "url": "https://www.douyin.com/hot/2409322",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时00分 ~ 17时43分]"
         },
         {
           "title": "尼泊尔巴士坠河致18死 一中国人失联",
@@ -105,17 +118,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时13分 ~ 15时05分]"
-        },
-        {
-          "title": "新疆尉犁5.1级地震",
-          "url": "https://www.douyin.com/hot/2409322",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时00分 ~ 16时37分]"
         },
         {
           "title": "印尼突发7.0级地震",
@@ -212,6 +214,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.toutiao.com/trending/7608861809327947795/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "父亲遇3岁儿子坠楼下意识伸手接",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E9%81%873%E5%B2%81%E5%84%BF%E5%AD%90%E5%9D%A0%E6%A5%BC%E4%B8%8B%E6%84%8F%E8%AF%86%E4%BC%B8%E6%89%8B%E6%8E%A5%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -223,15 +236,48 @@
           "time_info": "09时11分"
         },
         {
+          "title": "山东蓬莱“宰客”酒楼招牌被强拆",
+          "url": "https://www.toutiao.com/trending/7609902350228029494/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "新疆巴音郭楞州尉犁县发生5.1级地震，乌鲁木齐等地震感明显",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645170",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "问界M9起火声明",
           "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E8%B5%B7%E7%81%AB%E5%A3%B0%E6%98%8E%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "美29岁女教师与未成年发生关系被捕",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E29%E5%B2%81%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8E%E6%9C%AA%E6%88%90%E5%B9%B4%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E8%A2%AB%E6%8D%95%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "德国地球科学研究中心（GFZ）：Borneo发生7.03级地震。",
@@ -273,7 +319,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
