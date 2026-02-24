@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T17:42:36.982573+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-02-24T18:39:34.722243+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "中国裁军大使：美国指责中方开展核爆炸试验毫无事实依据",
@@ -19,38 +19,17 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
-          "title": "女生徒步失联被找到：用牛粪保温",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0%EF%BC%9A%E7%94%A8%E7%89%9B%E7%B2%AA%E4%BF%9D%E6%B8%A9",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时42分]"
-        },
-        {
           "title": "男子误喝过期牛奶暴瘦53斤",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E8%BF%87%E6%9C%9F%E7%89%9B%E5%A5%B6%E6%9A%B4%E7%98%A653%E6%96%A4%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时42分]"
-        },
-        {
-          "title": "菲律宾央行行长：将展望新任美联储主席上任后的情况，以寻找美国经济和政策的线索。",
-          "url": "https://flash.jin10.com/detail/20260224171745213800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时39分]"
         },
         {
           "title": "女生失联后用牛粪保温在牛棚被找到",
@@ -65,6 +44,30 @@
           "time_info": "[14时14分 ~ 16时35分]"
         },
         {
+          "title": "女生徒步失联被找到：用牛粪保温",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0%EF%BC%9A%E7%94%A8%E7%89%9B%E7%B2%AA%E4%BF%9D%E6%B8%A9",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时39分]"
+        },
+        {
+          "title": "菲律宾央行行长：将展望新任美联储主席上任后的情况，以寻找美国经济和政策的线索。",
+          "url": "https://flash.jin10.com/detail/20260224171745213800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时39分]"
+        },
+        {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
           "source": "澎湃新闻",
@@ -72,11 +75,12 @@
             11,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时30分 ~ 18时39分]"
         },
         {
           "title": "大年初五一男童在虎跳峡坠崖遇难，相关工作人员称事发地不在景区内，是附近的未开放区域，如何看待此事？",
@@ -86,8 +90,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时30分 ~ 18时39分]"
         },
         {
           "title": "洗脚闹矛盾,男子跳桥失联",
@@ -102,8 +106,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时30分 ~ 18时39分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -114,11 +118,12 @@
             24,
             26,
             27,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时30分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时30分 ~ 18时39分]"
         },
         {
           "title": "女生西藏徒步失联获救：用牛粪保温",
@@ -248,15 +253,48 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "英国方面表示，包括奈飞(NFLX.O)在内的流媒体平台将受英国通信管理局的广播监管约束。",
+          "url": "https://flash.jin10.com/detail/20260224180157776800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "上期所发布关于对部分客户采取限制开仓监管措施的公告",
+          "url": "https://flash.jin10.com/detail/20260224175149261800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "男子误喝过期牛奶暴瘦53斤",
           "url": "https://www.toutiao.com/trending/7610334431509938222/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "小米法务部：起诉自媒体“AutoReport汽车产经”侵权一审判决，被告向小米公开道歉并赔偿500万元",
+          "url": "https://wallstreetcn.com/livenews/3058048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "俄立案调查莫斯科一火车站爆炸事件",
@@ -312,6 +350,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "女生雪山徒步失联在牛棚被找到，乡政府：身体无大碍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32648884",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "老人家中突发火灾 30多万现金被烧",
+          "url": "https://www.toutiao.com/trending/7610300152729026579/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     }
