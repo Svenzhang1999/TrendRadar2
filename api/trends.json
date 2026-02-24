@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-24T15:44:50.125210+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-02-24T16:35:41.701276+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "女生失联后用牛粪保温在牛棚被找到",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%B1%E8%81%94%E5%90%8E%E7%94%A8%E7%89%9B%E7%B2%AA%E4%BF%9D%E6%B8%A9%E5%9C%A8%E7%89%9B%E6%A3%9A%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 15时44分]"
-        },
         {
           "title": "中国裁军大使：美国指责中方开展核爆炸试验毫无事实依据",
           "url": "https://news.ifeng.com/c/8qzp41Gxxgx",
@@ -30,6 +19,40 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "女生徒步失联被找到：用牛粪保温",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0%EF%BC%9A%E7%94%A8%E7%89%9B%E7%B2%AA%E4%BF%9D%E6%B8%A9",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "男子误喝过期牛奶暴瘦53斤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E8%BF%87%E6%9C%9F%E7%89%9B%E5%A5%B6%E6%9A%B4%E7%98%A653%E6%96%A4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "女生失联后用牛粪保温在牛棚被找到",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%B1%E8%81%94%E5%90%8E%E7%94%A8%E7%89%9B%E7%B2%AA%E4%BF%9D%E6%B8%A9%E5%9C%A8%E7%89%9B%E6%A3%9A%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 16时35分]"
+        },
+        {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
           "source": "澎湃新闻",
@@ -39,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 16时35分]"
         },
         {
           "title": "大年初五一男童在虎跳峡坠崖遇难，相关工作人员称事发地不在景区内，是附近的未开放区域，如何看待此事？",
@@ -50,8 +73,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 16时35分]"
         },
         {
           "title": "洗脚闹矛盾,男子跳桥失联",
@@ -61,11 +84,12 @@
             18,
             22,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 16时35分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -74,11 +98,12 @@
           "ranks": [
             20,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 16时35分]"
         },
         {
           "title": "美媒：爱泼斯坦被发现“自杀”前一天，已出现死亡声明草稿",
@@ -98,11 +123,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            25
+            25,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 16时35分]"
         },
         {
           "title": "中方回应美指责中国开展核爆炸试验",
@@ -218,6 +244,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "印尼巴布亚省一地发生5.7级地震",
+          "url": "https://flash.jin10.com/detail/20260224155822461800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "路透调查：韩国央行基准利率预计至2026年维持在2.50%（与1月调查相同），34位经济学家预计将于2月26日将基准利率维持在2.50%。",
           "url": "https://flash.jin10.com/detail/20260224084338182800",
           "source": "金十数据",
@@ -235,7 +272,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
