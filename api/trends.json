@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T14:48:32.821117+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-02-24T15:44:50.125210+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "女生失联后用牛粪保温在牛棚被找到",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 15时44分]"
         },
         {
           "title": "中国裁军大使：美国指责中方开展核爆炸试验毫无事实依据",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 15时44分]"
         },
         {
           "title": "大年初五一男童在虎跳峡坠崖遇难，相关工作人员称事发地不在景区内，是附近的未开放区域，如何看待此事？",
@@ -50,8 +50,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 15时44分]"
         },
         {
           "title": "洗脚闹矛盾,男子跳桥失联",
@@ -60,11 +60,12 @@
           "ranks": [
             18,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 15时44分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -72,11 +73,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 15时44分]"
         },
         {
           "title": "美媒：爱泼斯坦被发现“自杀”前一天，已出现死亡声明草稿",
@@ -87,19 +89,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 15时44分]"
         },
         {
           "title": "女生西藏徒步失联获救：用牛粪保温",
           "url": "https://www.toutiao.com/trending/7610263022246641706/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 15时44分]"
         },
         {
           "title": "中方回应美指责中国开展核爆炸试验",
@@ -224,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "泰国央行行长：预计将于下月出台关于现金取款和存款的监管规则。",
+          "url": "https://flash.jin10.com/detail/20260224151807200800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "台湾宜兰县发生4.7级地震 震源深度8千米",
