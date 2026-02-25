@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T16:46:31.589086+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-02-25T17:43:43.406070+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "春节档满意度调查出炉，《飞驰人生3》《镖人》领先",
@@ -29,11 +29,12 @@
             6,
             12,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 17时43分]"
         },
         {
           "title": "云南德宏州盈江县4.6级地震",
@@ -96,8 +97,32 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时51分 ~ 17时43分]"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时51分 ~ 16时46分]"
+          "time_info": "[15时45分 ~ 17时43分]"
+        },
+        {
+          "title": "平顶山“遭当街殴打15岁女孩”母亲发声，打人夫妻目前已被批捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649349",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 17时43分]"
         },
         {
           "title": "23岁女港警警署内身亡 疑开枪自杀",
@@ -132,18 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时46分]"
         },
         {
           "title": "15岁女孩被当街殴打 打人夫妻被批捕",
@@ -202,16 +215,15 @@
           "time_info": "[13时55分 ~ 14时51分]"
         },
         {
-          "title": "平顶山“遭当街殴打15岁女孩”母亲发声，打人夫妻目前已被批捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649349",
-          "source": "澎湃新闻",
+          "title": "一家四口爬山祈福 妻子失联遇难",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%88%AC%E5%B1%B1%E7%A5%88%E7%A6%8F+%E5%A6%BB%E5%AD%90%E5%A4%B1%E8%81%94%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时46分]"
+          "time_info": "[16时46分 ~ 17时43分]"
         },
         {
           "title": "撞破妻子出轨,丈夫报警告性侵",
@@ -234,6 +246,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "上期所：对部分客户采取限制开仓监管措施",
+          "url": "https://flash.jin10.com/detail/20260225170454889800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "监管部门拟开展证券期货业2026年网络安全联合应急演练",
@@ -289,17 +312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        },
-        {
-          "title": "一家四口爬山祈福 妻子失联遇难",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%88%AC%E5%B1%B1%E7%A5%88%E7%A6%8F+%E5%A6%BB%E5%AD%90%E5%A4%B1%E8%81%94%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
         },
         {
           "title": "美国推进太阳能产品反补贴调查，对印度、印尼和老挝设定高额初裁关税",
