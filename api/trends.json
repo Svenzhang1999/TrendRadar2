@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:51:54.489540+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-02-25T15:45:56.755699+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "春节档满意度调查出炉，《飞驰人生3》《镖人》领先",
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             14,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时45分]"
         },
         {
           "title": "女生雪山徒步失联在牛棚被找到，乡政府：身体无大碍",
@@ -33,6 +34,19 @@
           "time_info": "[09时15分 ~ 13时55分]"
         },
         {
+          "title": "河南当街殴打15岁女孩夫妻被批捕",
+          "url": "https://www.toutiao.com/trending/7610573154028621375/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时45分]"
+        },
+        {
           "title": "俄公布莫斯科火车站爆炸案视频",
           "url": "https://news.ifeng.com/c/8r187AAkb3s",
           "source": "凤凰网",
@@ -45,29 +59,18 @@
           "time_info": "[09时15分 ~ 13时55分]"
         },
         {
-          "title": "河南当街殴打15岁女孩夫妻被批捕",
-          "url": "https://www.toutiao.com/trending/7610573154028621375/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时51分]"
-        },
-        {
           "title": "挪威前首相自杀未遂",
           "url": "https://www.baidu.com/s?wd=%E6%8C%AA%E5%A8%81%E5%89%8D%E9%A6%96%E7%9B%B8%E8%87%AA%E6%9D%80%E6%9C%AA%E9%81%82",
           "source": "百度热搜",
           "ranks": [
             15,
             9,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时45分]"
         },
         {
           "title": "云南德宏州盈江县4.6级地震",
@@ -76,11 +79,12 @@
           "ranks": [
             12,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时45分]"
         },
         {
           "title": "23岁女港警警署内身亡 疑开枪自杀",
@@ -103,6 +107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "23岁香港女警在警署内身亡，警方怀疑系用配枪自杀",
+          "url": "https://news.ifeng.com/c/8r1zEdJ8J3J",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时45分]"
         },
         {
           "title": "15岁女孩被当街殴打 打人夫妻被批捕",
@@ -172,15 +187,26 @@
           "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "23岁香港女警在警署内身亡，警方怀疑系用配枪自杀",
-          "url": "https://news.ifeng.com/c/8r1zEdJ8J3J",
-          "source": "凤凰网",
+          "title": "美方指责中国曾进行核爆炸试验，外交部：捕风捉影、根本站不住脚",
+          "url": "https://wallstreetcn.com/livenews/3058697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "15时45分"
         },
         {
           "title": "监管部门拟开展证券期货业2026年网络安全联合应急演练",
@@ -194,6 +220,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "“立委”资格遭质疑，陆配李贞秀抗议民进党搞霸凌",
+          "url": "https://news.ifeng.com/c/8r240KO6lXw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "受大雾影响，海口新海港和铁路南港停运。",
           "url": "https://flash.jin10.com/detail/20260225075852305800",
           "source": "金十数据",
@@ -205,15 +242,37 @@
           "time_info": "09时16分"
         },
         {
+          "title": "德国对外贸易协会主席：德总理访华是持续合作的信号",
+          "url": "https://wallstreetcn.com/livenews/3058688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "英监管机构对美社交新闻网站开出1447万英镑罚单",
           "url": "https://wallstreetcn.com/livenews/3058638",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "平顶山“遭当街殴打15岁女孩”母亲发声，打人夫妻目前已被批捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649349",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "陈茂波：香港政府预留40亿港元用于大埔火灾受影响人士长远居住安排。",
