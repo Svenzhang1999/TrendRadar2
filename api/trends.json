@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-26T09:09:03.095792+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-26T12:07:43.190080+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "不设主席台，邀市民为先进颁奖，细节背后是实干争先的湖州",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655369",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 12时07分]"
+        },
         {
           "title": "美方称将继续推进对华301调查，中方回应",
           "url": "https://news.ifeng.com/c/8r2HbiuOBzz",
@@ -30,48 +41,40 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "不设主席台，邀市民为先进颁奖，细节背后是实干争先的湖州",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655369",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
           "title": "基金会主席竟是爱泼斯坦的常客！普利兹克建筑奖被迫推迟公布",
           "url": "https://m.thepaper.cn/newsDetail_forward_32653585",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 12时07分]"
         },
         {
           "title": "平顶山“遭当街殴打15岁女孩”母亲发声，打人夫妻目前已被批捕",
           "url": "https://m.thepaper.cn/newsDetail_forward_32649349",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 12时07分]"
         },
         {
           "title": "男子后备箱挂鸡鹅遇追尾全死了",
           "url": "https://www.toutiao.com/trending/7610775443927859209/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 09时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 12时07分]"
         },
         {
           "title": "女生西藏徒步时失联，用牛粪保温在牛棚被找到，为啥牛粪能帮助维持体温？这种情况还能做哪些保护措施？",
@@ -107,13 +110,57 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
+          "title": "磕一口周杰伦田馥甄过期糖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A3%95%E4%B8%80%E5%8F%A3%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%94%B0%E9%A6%A5%E7%94%84%E8%BF%87%E6%9C%9F%E7%B3%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "男子在顺风车上排便后“失联”，平台回应",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPTo",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "逼近监管红线 印度银行加速抄底国债",
+          "url": "https://flash.jin10.com/detail/20260226113105548800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "男子坐顺风车排泄后失联",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9D%90%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%8E%92%E6%B3%84%E5%90%8E%E5%A4%B1%E8%81%94%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "鲍曼呼吁松绑银行监管 以应对非传统机构竞争",
           "url": "https://flash.jin10.com/detail/20260226075136729800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         }
