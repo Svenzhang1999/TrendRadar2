@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T16:35:38.859304+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-02-26T17:39:16.124090+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "不设主席台，邀市民为先进颁奖，细节背后是实干争先的湖州",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时08分 ~ 17时39分]"
         },
         {
           "title": "基金会主席竟是爱泼斯坦的常客！普利兹克建筑奖被迫推迟公布",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时08分 ~ 17时39分]"
         },
         {
           "title": "美方称将继续推进对华301调查，中方回应",
@@ -74,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 17时39分]"
         },
         {
           "title": "男子后备箱挂鸡鹅遇追尾全死了",
@@ -86,11 +86,12 @@
             16,
             17,
             18,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时08分 ~ 17时39分]"
         },
         {
           "title": "男子在顺风车上排便后“失联”，平台回应",
@@ -100,19 +101,47 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 17时39分]"
         },
         {
           "title": "私下教解放军开战斗机，美前飞行员被捕",
           "url": "https://news.ifeng.com/c/8r3XIYmEpOH",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 17时39分]"
+        },
+        {
+          "title": "无人机超高“黑飞”50余次、最高2700米影响民航飞行安全，男子被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658513",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时46分 ~ 17时39分]"
+        },
+        {
+          "title": "坐顺风车排泄后失联男子被封号",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%8E%92%E6%B3%84%E5%90%8E%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时44分 ~ 17时39分]"
         },
         {
           "title": "男子地铁猥亵女子称像年轻时的妻子",
@@ -122,19 +151,6 @@
             27,
             13,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时46分 ~ 16时35分]"
-        },
-        {
-          "title": "无人机超高“黑飞”50余次、最高2700米影响民航飞行安全，男子被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658513",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -153,16 +169,26 @@
           "time_info": "[09时08分 ~ 12时07分]"
         },
         {
-          "title": "坐顺风车排泄后失联男子被封号",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%8E%92%E6%B3%84%E5%90%8E%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "男子网吧包间打游戏遭陌生女子猥亵",
+          "url": "https://www.toutiao.com/trending/7609940843651186724/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时44分 ~ 16时35分]"
+          "time_info": "[16时35分 ~ 17时39分]"
+        },
+        {
+          "title": "中方回应美称将继续推进对华301调查",
+          "url": "https://www.toutiao.com/trending/7610738325896593462/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "女生西藏徒步时失联，用牛粪保温在牛棚被找到，为啥牛粪能帮助维持体温？这种情况还能做哪些保护措施？",
@@ -209,15 +235,15 @@
           "time_info": "15时45分"
         },
         {
-          "title": "男子网吧包间打游戏遭陌生女子猥亵",
-          "url": "https://www.toutiao.com/trending/7609940843651186724/",
-          "source": "今日头条",
+          "title": "欧盟法院顾问表示，欧盟反垄断监管机构有权向Meta公司索取信息。",
+          "url": "https://flash.jin10.com/detail/20260226171358833800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "17时39分"
         },
         {
           "title": "原神愚人众执行官里女士算是旅行者间接杀死的，为何仆人木偶少女对此毫无表示？",
@@ -275,13 +301,24 @@
           "time_info": "13时51分"
         },
         {
+          "title": "香港交易所首席执行官：除人工智能因素外，还有许多理由相信交易活动势头将继续。",
+          "url": "https://flash.jin10.com/detail/20260226170223719800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "市场消息：今天美国参议院就银行监管举行听证会。",
           "url": "https://flash.jin10.com/detail/20260226160553062800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -292,7 +329,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
