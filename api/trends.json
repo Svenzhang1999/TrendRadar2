@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T14:47:08.507525+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-02-26T15:45:03.086771+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "不设主席台，邀市民为先进颁奖，细节背后是实干争先的湖州",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 15时45分]"
         },
         {
           "title": "美方称将继续推进对华301调查，中方回应",
@@ -51,8 +51,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 15时45分]"
+        },
+        {
+          "title": "印度监管机构放宽主动型股票基金投资范围 黄金白银成新宠",
+          "url": "https://flash.jin10.com/detail/20260226152906756800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "磕一口周杰伦田馥甄过期糖",
@@ -63,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时45分]"
         },
         {
           "title": "男子后备箱挂鸡鹅遇追尾全死了",
@@ -77,8 +88,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时47分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 15时45分]"
         },
         {
           "title": "男子在顺风车上排便后“失联”，平台回应",
@@ -88,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时45分]"
         },
         {
           "title": "私下教解放军开战斗机，美前飞行员被捕",
@@ -99,8 +110,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 15时45分]"
+        },
+        {
+          "title": "男子地铁猥亵女子称像年轻时的妻子",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%83%8F%E5%B9%B4%E8%BD%BB%E6%97%B6%E7%9A%84%E5%A6%BB%E5%AD%90%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 15时45分]"
+        },
+        {
+          "title": "无人机超高“黑飞”50余次、最高2700米影响民航飞行安全，男子被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658513",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 15时45分]"
         },
         {
           "title": "平顶山“遭当街殴打15岁女孩”母亲发声，打人夫妻目前已被批捕",
@@ -126,15 +161,15 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "无人机超高“黑飞”50余次、最高2700米影响民航飞行安全，男子被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658513",
-          "source": "澎湃新闻",
+          "title": "坐顺风车排泄后失联男子被封号",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%A1%BA%E9%A3%8E%E8%BD%A6%E6%8E%92%E6%B3%84%E5%90%8E%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时46分 ~ 14时47分]"
+          "time_info": "[15时44分 ~ 15时45分]"
         },
         {
           "title": "一家4口上山妻子死亡失联时神情恐惧",
@@ -159,15 +194,15 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
-          "title": "男子地铁猥亵女子称像年轻时的妻子",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%83%8F%E5%B9%B4%E8%BD%BB%E6%97%B6%E7%9A%84%E5%A6%BB%E5%AD%90%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "印度市场监管机构允许该国规模达3840亿美元的主动管理型股票基金将更多资金投资于黄金和白银。",
+          "url": "https://flash.jin10.com/detail/20260226152215261800",
+          "source": "金十数据",
           "ranks": [
-            27
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 14时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "原神愚人众执行官里女士算是旅行者间接杀死的，为何仆人木偶少女对此毫无表示？",
