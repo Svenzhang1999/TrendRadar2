@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T14:40:39.934465+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-02-27T15:40:17.311256+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
@@ -16,31 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时40分]"
-        },
-        {
-          "title": "宰客不成,民宿老板罚破产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351058&amp;topic_name=%E5%AE%B0%E5%AE%A2%E4%B8%8D%E6%88%90%2C%E6%B0%91%E5%AE%BF%E8%80%81%E6%9D%BF%E7%BD%9A%E7%A0%B4%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 15时40分]"
         },
         {
           "title": "美将调查撤销中国永久正常贸易地位的影响",
           "url": "https://news.ifeng.com/c/8r5CH2Cf2dE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 15时40分]"
         },
         {
           "title": "涉爱泼斯坦案，欧盟调查英国前驻美大使",
@@ -49,7 +38,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -65,16 +54,30 @@
           "time_info": "09时08分"
         },
         {
+          "title": "宰客不成,民宿老板罚破产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351058&amp;topic_name=%E5%AE%B0%E5%AE%A2%E4%B8%8D%E6%88%90%2C%E6%B0%91%E5%AE%BF%E8%80%81%E6%9D%BF%E7%BD%9A%E7%A0%B4%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 15时40分]"
+        },
+        {
           "title": "山西卫健委已严肃约谈市急救中心",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%8D%AB%E5%81%A5%E5%A7%94%E5%B7%B2%E4%B8%A5%E8%82%83%E7%BA%A6%E8%B0%88%E5%B8%82%E6%80%A5%E6%95%91%E4%B8%AD%E5%BF%83%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
             2,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 15时40分]"
         },
         {
           "title": "美联储理事米兰：重申2026年需降息100个基点，警告过度监管扭曲信贷结构",
@@ -82,11 +85,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 15时40分]"
         },
         {
           "title": "2月27日投资避雷针：18天14板人气股遭遇停牌核查",
@@ -97,8 +101,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 15时40分]"
+        },
+        {
+          "title": "带狗回家「外挂式运输」引争议，这种方式是否涉嫌虐待宠物？若引发交通事故车主要承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2009686097475625151",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 15时40分]"
         },
         {
           "title": "无人机超高“黑飞”50余次、最高2700米影响民航飞行安全，男子被刑拘",
@@ -125,18 +141,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时08分 ~ 13时45分]"
-        },
-        {
-          "title": "带狗回家「外挂式运输」引争议，这种方式是否涉嫌虐待宠物？若引发交通事故车主要承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2009686097475625151",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 14时40分]"
         },
         {
           "title": "江南造船“9·4”事故调查报告公布",
