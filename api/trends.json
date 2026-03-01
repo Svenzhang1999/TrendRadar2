@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T13:45:14.664815+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-03-01T14:34:41.771581+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "吉尔吉斯斯坦政坛地震释放何信号",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时34分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -30,13 +30,24 @@
           "time_info": "12时14分"
         },
         {
+          "title": "迪拜接连传出爆炸声 导弹降落城区",
+          "url": "https://flash.jin10.com/detail/20260301142827675800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "市场消息：以色列海法传出爆炸声，烟雾升腾。",
           "url": "https://flash.jin10.com/detail/20260301130454214800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -50,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时34分]"
         },
         {
           "title": "哈梅内伊的女儿女婿等遇难",
@@ -86,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时34分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -99,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时34分]"
         },
         {
           "title": "补贴3w?老米员工返岗猝死",
@@ -112,8 +123,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 14时34分]"
         },
         {
           "title": "安徽涡阳发生地震系谣言",
@@ -123,8 +134,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 13时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 14时34分]"
         },
         {
           "title": "伊朗首都德黑兰市中心发生爆炸，以色列宣布袭击伊朗，现场局势如何？哪些信息值得关注？",
@@ -138,6 +149,31 @@
           "time_info": "[12时13分 ~ 13时45分]"
         },
         {
+          "title": "德黑兰东北部传出爆炸声 防空系统已启动",
+          "url": "https://wallstreetcn.com/livenews/3061050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时34分]"
+        },
+        {
+          "title": "迪拜帆船酒店在袭击中起火",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E6%8B%9C%E5%B8%86%E8%88%B9%E9%85%92%E5%BA%97%E5%9C%A8%E8%A2%AD%E5%87%BB%E4%B8%AD%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时34分]"
+        },
+        {
           "title": "伊朗首都德黑兰市中心发生爆炸",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
           "source": "bilibili 热搜",
@@ -148,29 +184,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时17分 ~ 12时14分]"
-        },
-        {
-          "title": "德黑兰东北部传出爆炸声 防空系统已启动",
-          "url": "https://wallstreetcn.com/livenews/3061050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时45分]"
-        },
-        {
-          "title": "迪拜帆船酒店在袭击中起火",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E6%8B%9C%E5%B8%86%E8%88%B9%E9%85%92%E5%BA%97%E5%9C%A8%E8%A2%AD%E5%87%BB%E4%B8%AD%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
           "title": "阿富汗首都喀布尔传出爆炸声",
@@ -218,13 +231,24 @@
           "time_info": "12时14分"
         },
         {
+          "title": "斐济群岛以南海域发生6.2级地震",
+          "url": "https://flash.jin10.com/detail/20260301141220294800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "印度马哈拉施特拉邦爆炸造成至少15人死亡",
           "url": "https://flash.jin10.com/detail/20260301124440969800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -235,9 +259,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "德国地学研究中心：斐济群岛地区发生6.15级地震。",
+          "url": "https://flash.jin10.com/detail/20260301135120413800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "伊朗国家媒体：德黑兰发生爆炸。",
@@ -257,7 +292,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
