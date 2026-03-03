@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-03T15:37:11.155440+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-03-03T16:31:35.547260+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "美以伊战争最新动态｜伊朗女子小学遇难学生葬礼",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
         {
           "title": "美以伊战争最新动态｜美驻沙特使馆遇袭起火(图)",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -25,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -89,6 +100,19 @@
           "time_info": "[09时12分 ~ 13时42分]"
         },
         {
+          "title": "广西钦州一辆洒水车无视路人直接喷，所属企业：主管会约谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684873",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 16时31分]"
+        },
+        {
           "title": "重庆江津火灾致十多人伤亡系谣言",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%B1%9F%E6%B4%A5%E7%81%AB%E7%81%BE%E8%87%B4%E5%8D%81%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
@@ -96,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 15时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 16时31分]"
         },
         {
           "title": "美国驻沙特大使馆发生爆炸后起火",
@@ -126,18 +150,6 @@
           "time_info": "[09时12分 ~ 15时37分]"
         },
         {
-          "title": "广西钦州一辆洒水车无视路人直接喷，所属企业：主管会约谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684873",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 15时37分]"
-        },
-        {
           "title": "外交部：对在伊朗德黑兰遇难的一名中国公民表示哀悼",
           "url": "https://m.thepaper.cn/newsDetail_forward_32683834",
           "source": "澎湃新闻",
@@ -149,6 +161,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时42分 ~ 15时37分]"
+        },
+        {
+          "title": "贵州省政协原党组成员、副主席唐德智严重违纪违法被“双开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684267",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 16时31分]"
         },
         {
           "title": "美国驻沙特大使馆发生爆炸后起火",
@@ -175,15 +199,15 @@
           "time_info": "[12时05分 ~ 14时38分]"
         },
         {
-          "title": "贵州省政协原党组成员、副主席唐德智严重违纪违法被“双开”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684267",
-          "source": "澎湃新闻",
+          "title": "伊朗首都德黑兰传出巨大爆炸声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E4%BC%A0%E5%87%BA%E5%B7%A8%E5%A4%A7%E7%88%86%E7%82%B8%E5%A3%B0",
+          "source": "百度热搜",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "知情人士：美驻沙特使馆传出爆炸声并起火",
@@ -214,7 +238,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -302,7 +326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
