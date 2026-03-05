@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T19:27:15.821170+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-03-05T20:37:12.292980+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "吕红兵委员建言微短剧监管：不能因“短”而降低监管标准",
@@ -123,11 +123,12 @@
           "ranks": [
             13,
             6,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时41分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[13时41分 ~ 20时37分]"
         },
         {
           "title": "博闻丨跨越18年的接力，失联28年的聋哑阿姨元宵节与家人相认",
@@ -253,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "香港监管机构推出GenA.I.沙盒++以促进金融服务领域的人工智能创新",
+          "url": "https://wallstreetcn.com/livenews/3064454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国油轮在波斯湾北部触礁沉没。",
