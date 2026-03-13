@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:42:17.515038+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-03-13T14:39:33.001580+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国贸易代表：将对16个贸易伙伴发起301调查",
@@ -19,6 +19,28 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
+          "title": "阿曼苏哈尔港出于谨慎考虑暂停运营。",
+          "url": "https://wallstreetcn.com/livenews/3069432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "市场消息：船运代理表示，阿曼苏哈尔港出于谨慎考虑暂停运营。",
+          "url": "https://flash.jin10.com/detail/20260313143010263800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "香港证监会、廉政公署：2家券商涉嫌受贿超400万、助对冲基金获利3.15亿，8人被捕",
           "url": "https://m.thepaper.cn/newsDetail_forward_32753914",
           "source": "澎湃新闻",
@@ -27,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时39分]"
         },
         {
           "title": "参与对伊朗行动的美军最大航母“福特”号发生火灾，军方称起火与战事无关",
@@ -37,11 +59,12 @@
           "ranks": [
             9,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时39分]"
         },
         {
           "title": "护狗忘顾儿患病娃独居猝死",
@@ -53,8 +76,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时39分]"
         },
         {
           "title": "因祸得福!号主借维权圈粉15W",
@@ -65,8 +88,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时39分]"
         },
         {
           "title": "马桶堵了后，美福特号航母洗衣房又起火了",
@@ -74,11 +97,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时39分]"
         },
         {
           "title": "毛主席纪念堂将暂停开放",
@@ -89,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时39分]"
         },
         {
           "title": "柬国务部长答凤凰：有望4月底彻底瓦解诈骗活动",
@@ -100,8 +124,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时39分]"
         },
         {
           "title": "石油王国火力全开！沙特据称“正在天价抢订可用油轮”",
@@ -137,6 +161,17 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
+          "title": "女子把过期牛奶给狗喝致其死亡",
+          "url": "https://www.toutiao.com/trending/7616252859310932004/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时39分]"
+        },
+        {
           "title": "美“福特”号航母主洗衣房发生火灾",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E2%80%9C%E7%A6%8F%E7%89%B9%E2%80%9D%E5%8F%B7%E8%88%AA%E6%AF%8D%E4%B8%BB%E6%B4%97%E8%A1%A3%E6%88%BF%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE",
           "source": "百度热搜",
@@ -146,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "商务部回应美国发起301调查",
+          "url": "https://www.douyin.com/hot/2429241",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "欧洲地中海地震中心：土耳其中部地区发生5.8级地震。",
@@ -176,9 +222,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "商务部：美方更无权通过301调查，对贸易伙伴是否存在“产能过剩”进行单方面认定，并采取单边限制措施",
+          "url": "https://wallstreetcn.com/livenews/3069406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "澳洲遇难2名中国人深夜自驾赶工作",
@@ -198,20 +255,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
         {
-          "title": "女子把过期牛奶给狗喝致其死亡",
-          "url": "https://www.toutiao.com/trending/7616252859310932004/",
-          "source": "今日头条",
+          "title": "ABB首席执行官、前壳牌首席执行官表示，中东能源危机可能需要数月时间才能恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260313140036760800",
+          "source": "金十数据",
           "ranks": [
-            24
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "14时39分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国于周四又执行了一次军事撤离任务，将约19名受伤军人送往德国。",
@@ -231,7 +288,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
