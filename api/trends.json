@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T13:39:23.753554+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-03-14T14:34:32.212435+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "证监会火速落实两会精神，透露哪些监管新方向？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 14时34分]"
         },
         {
           "title": "冻干草莓测出 20 多种农药，却因国标没有其限量标准无法立案，暴露出哪些问题？长期吃会有哪些危害？",
@@ -28,19 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时39分]"
-        },
-        {
-          "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
-          "url": "https://wallstreetcn.com/livenews/3070090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 14时34分]"
         },
         {
           "title": "马杜罗彻夜高喊我是总统正被虐待",
@@ -49,9 +38,54 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时34分]"
+        },
+        {
+          "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
+          "url": "https://wallstreetcn.com/livenews/3070090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时34分]"
+        },
+        {
+          "title": "阿姆斯特丹市长：这起爆炸是一起针对犹太社区的定向袭击。",
+          "url": "https://flash.jin10.com/detail/20260314141126451800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "14时34分"
+        },
+        {
+          "title": "阿姆斯特丹市长：阿姆斯特丹一所犹太学校发生爆炸并受损。",
+          "url": "https://flash.jin10.com/detail/20260314141114083800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "痴汉骚扰女主播,私密照辣眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351811&amp;topic_name=%E7%97%B4%E6%B1%89%E9%AA%9A%E6%89%B0%E5%A5%B3%E4%B8%BB%E6%92%AD%2C%E7%A7%81%E5%AF%86%E7%85%A7%E8%BE%A3%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "迪拜媒体办公室：此前拦截导弹时产生的碎片击中市中心一栋建筑外墙，状况已得到控制，无火灾或人员伤亡报告。",
@@ -69,35 +103,12 @@
           "url": "https://flash.jin10.com/detail/20260314131715365800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "传出超15次爆炸声 消息人士证实伊朗哈尔克岛遭美军空袭",
-          "url": "https://wallstreetcn.com/livenews/3070080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
-        },
-        {
-          "title": "云南就冻干草莓问题成立调查组",
-          "url": "https://www.toutiao.com/trending/7616796889149702150/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
+          "time_info": "[13时39分 ~ 14时34分]"
         },
         {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
@@ -109,8 +120,34 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 14时34分]"
+        },
+        {
+          "title": "传出超15次爆炸声 消息人士证实伊朗哈尔克岛遭美军空袭",
+          "url": "https://wallstreetcn.com/livenews/3070080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时39分]"
+          "time_info": "[12时02分 ~ 14时34分]"
+        },
+        {
+          "title": "云南就冻干草莓问题成立调查组",
+          "url": "https://www.toutiao.com/trending/7616796889149702150/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
         },
         {
           "title": "澎湃回声｜广西平南回应“消”字号产品涉嫌非法添加：成立联合调查组全面调查核实",
@@ -121,8 +158,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 14时34分]"
         },
         {
           "title": "伊朗首都传出巨大爆炸声升起滚滚浓烟",
@@ -130,11 +167,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 14时34分]"
         },
         {
           "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
@@ -144,8 +182,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 14时34分]"
         },
         {
           "title": "调查称拉不出屎正在成为中学生的集体秘密，这是为什么？你上学时有过这种经历吗？",
@@ -156,8 +194,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
         },
         {
           "title": "女子交十万元相亲，高端婚恋机构承诺资源都是「A8 以上」，结果对象多为无房甚至负债，婚介骗局如何维权？",
@@ -168,8 +206,44 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时34分]"
+        },
+        {
+          "title": "日本最大电力公司JERA全球首席执行官卡尼：如果中东冲突持续下去，我们可能需要与政府合作，考虑采取号召节约用电、重启闲置煤电站等措施。",
+          "url": "https://flash.jin10.com/detail/20260314131359513800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
+          "time_info": "[13时39分 ~ 14时34分]"
+        },
+        {
+          "title": "日本最大电力公司JERA全球首席执行官卡尼：团队正在与现有长期供应商商讨额外的液化天然气采购事宜。",
+          "url": "https://flash.jin10.com/detail/20260314131234181800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时34分]"
+        },
+        {
+          "title": "日本最大电力公司JERA全球首席执行官卡尼：尽管中东局势紧张，但液化天然气供应不会立即出现短缺。",
+          "url": "https://flash.jin10.com/detail/20260314130659038800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时34分]"
         },
         {
           "title": "发现这样的邻居立刻投诉",
@@ -182,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 12时02分]"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时34分]"
         },
         {
           "title": "中国男子肯尼亚走私2千多只蚁后被捕",
@@ -220,6 +306,17 @@
           "time_info": "[12时02分 ~ 13时39分]"
         },
         {
+          "title": "315调查眼镜到底有多暴利",
+          "url": "https://s.weibo.com/weibo?q=%23315%E8%B0%83%E6%9F%A5%E7%9C%BC%E9%95%9C%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%9A%B4%E5%88%A9%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "市场消息：英国石油获准启动自“深水地平线”钻井平台发生爆炸悲剧以来的首个墨西哥湾项目。",
           "url": "https://flash.jin10.com/detail/20260314105726230800",
           "source": "金十数据",
@@ -229,39 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
-        },
-        {
-          "title": "日本最大电力公司JERA全球首席执行官卡尼：如果中东冲突持续下去，我们可能需要与政府合作，考虑采取号召节约用电、重启闲置煤电站等措施。",
-          "url": "https://flash.jin10.com/detail/20260314131359513800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "日本最大电力公司JERA全球首席执行官卡尼：团队正在与现有长期供应商商讨额外的液化天然气采购事宜。",
-          "url": "https://flash.jin10.com/detail/20260314131234181800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "日本最大电力公司JERA全球首席执行官卡尼：尽管中东局势紧张，但液化天然气供应不会立即出现短缺。",
-          "url": "https://flash.jin10.com/detail/20260314130659038800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
         },
         {
           "title": "男子维权被12315工作人员嘲讽",
@@ -286,15 +350,15 @@
           "time_info": "09时08分"
         },
         {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
+          "title": "女子错转23万给老赖无法追回",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%94%99%E8%BD%AC23%E4%B8%87%E7%BB%99%E8%80%81%E8%B5%96%E6%97%A0%E6%B3%95%E8%BF%BD%E5%9B%9E%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时39分"
+          "time_info": "14时34分"
         },
         {
           "title": "黎巴嫩国家通讯社：黎巴嫩卫生部消息称，以色列空袭黎巴嫩南部一处医疗中心，至少12名医务人员遇难。",
