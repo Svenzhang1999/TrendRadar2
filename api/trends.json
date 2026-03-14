@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T18:18:58.448486+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-03-14T19:17:11.689754+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 18时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 19时17分]"
         },
         {
           "title": "痴汉骚扰女主播,私密照辣眼",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 19时17分]"
         },
         {
           "title": "冻干草莓测出 20 多种农药，却因国标没有其限量标准无法立案，暴露出哪些问题？长期吃会有哪些危害？",
@@ -79,8 +79,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 18时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 19时17分]"
+        },
+        {
+          "title": "315调查眼镜到底有多暴利",
+          "url": "https://s.weibo.com/weibo?q=%23315%E8%B0%83%E6%9F%A5%E7%9C%BC%E9%95%9C%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%9A%B4%E5%88%A9%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 19时17分]"
+        },
+        {
+          "title": "调查称拉不出屎正在成为中学生的集体秘密，这是为什么？你上学时有过这种经历吗？",
+          "url": "https://www.zhihu.com/question/2015892867273420813",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            7,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 19时17分]"
         },
         {
           "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
@@ -97,45 +125,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时39分 ~ 18时18分]"
-        },
-        {
-          "title": "调查称拉不出屎正在成为中学生的集体秘密，这是为什么？你上学时有过这种经历吗？",
-          "url": "https://www.zhihu.com/question/2015892867273420813",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 18时18分]"
-        },
-        {
-          "title": "荷兰阿姆斯特丹一所犹太学校发生爆炸",
-          "url": "https://flash.jin10.com/detail/20260314164533068800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
-        },
-        {
-          "title": "315调查眼镜到底有多暴利",
-          "url": "https://s.weibo.com/weibo?q=%23315%E8%B0%83%E6%9F%A5%E7%9C%BC%E9%95%9C%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%9A%B4%E5%88%A9%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 18时18分]"
         },
         {
           "title": "阿姆斯特丹市长：阿姆斯特丹一所犹太学校发生爆炸并受损。",
@@ -188,6 +177,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时23分 ~ 18时18分]"
+        },
+        {
+          "title": "荷兰阿姆斯特丹一所犹太学校发生爆炸",
+          "url": "https://flash.jin10.com/detail/20260314164533068800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "日本最大电力公司JERA全球首席执行官卡尼：刚刚与韩国燃气公司签署的液化天然气货物互换谅解备忘录，将有助于双方的能源供应稳定。",
@@ -256,8 +258,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 19时17分]"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时39分 ~ 19时17分]"
         },
         {
           "title": "伊朗首都传出巨大爆炸声升起滚滚浓烟",
@@ -275,18 +292,19 @@
           "time_info": "[09时08分 ~ 17时23分]"
         },
         {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
+          "title": "中国总领馆证实2名中国公民在澳遇难",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%80%BB%E9%A2%86%E9%A6%86%E8%AF%81%E5%AE%9E2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%BE%B3%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            17,
-            11,
-            9
+            29,
+            23,
+            20,
+            9,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时39分 ~ 18时18分]"
+          "time_info": "[15时29分 ~ 19时17分]"
         },
         {
           "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
@@ -298,6 +316,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时08分 ~ 16时23分]"
+        },
+        {
+          "title": "云南回应冻干草莓产业链问题：成立调查组开展实地核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32765797",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时17分]"
         },
         {
           "title": "澎湃回声｜广西平南回应“消”字号产品涉嫌非法添加：成立联合调查组全面调查核实",
@@ -312,18 +343,15 @@
           "time_info": "[09时08分 ~ 14时34分]"
         },
         {
-          "title": "中国总领馆证实2名中国公民在澳遇难",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%80%BB%E9%A2%86%E9%A6%86%E8%AF%81%E5%AE%9E2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%BE%B3%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
+          "title": "黄海部分海域执行军事任务",
+          "url": "https://www.douyin.com/hot/2430452",
+          "source": "抖音",
           "ranks": [
-            29,
-            23,
-            20,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时29分 ~ 18时18分]"
+          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "日本最大电力公司JERA全球首席执行官卡尼：如果中东冲突持续下去，我们可能需要与政府合作，考虑采取号召节约用电、重启闲置煤电站等措施。",
@@ -352,6 +380,18 @@
           "time_info": "[13时39分 ~ 15时29分]"
         },
         {
+          "title": "315｜一机构以“高薪保底”工作诱导贷款培训，多名被骗学生报警后获立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761697",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时17分]"
+        },
+        {
           "title": "日本最大电力公司JERA全球首席执行官卡尼：尽管中东局势紧张，但液化天然气供应不会立即出现短缺。",
           "url": "https://flash.jin10.com/detail/20260314130659038800",
           "source": "金十数据",
@@ -378,27 +418,28 @@
           "time_info": "[16时23分 ~ 18时18分]"
         },
         {
-          "title": "云南回应冻干草莓产业链问题：成立调查组开展实地核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32765797",
-          "source": "澎湃新闻",
+          "title": "官方通报12345投诉被泄露个人信息",
+          "url": "https://www.toutiao.com/trending/7616668212000407606/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            18
+            27,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时23分 ~ 18时18分]"
+          "time_info": "[15时29分 ~ 19时17分]"
         },
         {
-          "title": "黄海部分海域执行军事任务",
-          "url": "https://www.douyin.com/hot/2430452",
-          "source": "抖音",
+          "title": "阿联酋富查伊拉港媒体办公室：无人机被拦截过程中坠落碎片引发火灾，暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260314171439027800",
+          "source": "金十数据",
           "ranks": [
-            7
+            10,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
+          "time_info": "[18时18分 ~ 19时17分]"
         },
         {
           "title": "发现这样的邻居立刻投诉",
@@ -495,28 +536,6 @@
           "time_info": "12时02分"
         },
         {
-          "title": "阿联酋富查伊拉港媒体办公室：无人机被拦截过程中坠落碎片引发火灾，暂无人员伤亡报告。",
-          "url": "https://flash.jin10.com/detail/20260314171439027800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "315｜一机构以“高薪保底”工作诱导贷款培训，多名被骗学生报警后获立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761697",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "男子维权被12315工作人员嘲讽",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BB%B4%E6%9D%83%E8%A2%AB12315%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%98%B2%E8%AE%BD%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -592,17 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "官方通报12345投诉被泄露个人信息",
-          "url": "https://www.toutiao.com/trending/7616668212000407606/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         },
         {
           "title": "三全水饺再曝“吃出异物”",
