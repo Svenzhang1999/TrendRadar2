@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T12:32:15.369001+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-03-16T14:14:55.660849+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "【早报】“3·15”晚会起底“漂白的鸡爪”等行业乱象；贵州茅台董秘接受调查",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时14分]"
         },
         {
           "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
@@ -53,39 +53,6 @@
           "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "湘雅医院失联学生确认坠江身亡",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%A4%B1%E8%81%94%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AE%A4%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "湘雅医院失联学生确认坠江身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%A4%B1%E8%81%94%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AE%A4%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "成都查封315曝光涉事企业",
-          "url": "https://www.toutiao.com/trending/7617492337876664363/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
           "title": "315影子调查｜私域直播围猎老年群体（下）：精巧的“茧房”谁来破",
           "url": "https://m.thepaper.cn/newsDetail_forward_32754804",
           "source": "澎湃新闻",
@@ -95,6 +62,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "缅甸巩发党主席当选人民院新任议长",
+          "url": "https://wallstreetcn.com/livenews/3070627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "阿联酋航空：预计今日迪拜当地时间10:00后将执行有限的航班计划。",
+          "url": "https://flash.jin10.com/detail/20260316134532205800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫将访华",
@@ -116,8 +105,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时14分]"
+        },
+        {
+          "title": "市场监管总局彻查315晚会曝光的相关违法行为，全力维护消费者合法权益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32773599",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时14分]"
         },
         {
           "title": "个贷息费乱象迎严监管！金融监管总局、央行两部门发文：息费全面透明化 对机构、借款人有何实质影响？",
@@ -132,16 +133,40 @@
           "time_info": "[09时19分 ~ 12时32分]"
         },
         {
-          "title": "市场监管总局彻查315晚会曝光的相关违法行为，全力维护消费者合法权益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32773599",
-          "source": "澎湃新闻",
+          "title": "湘雅医院失联学生确认坠江身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%A4%B1%E8%81%94%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AE%A4%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            4
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "湘雅医院失联学生确认坠江身亡",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%A4%B1%E8%81%94%E5%AD%A6%E7%94%9F%E7%A1%AE%E8%AE%A4%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "成都查封315曝光涉事企业",
+          "url": "https://www.toutiao.com/trending/7617492337876664363/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
         },
         {
           "title": "央视点名马督工,造谣被刑拘",
@@ -152,8 +177,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时14分]"
         },
         {
           "title": "315车展乱象:车企阻拦维权人",
@@ -164,8 +189,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时14分]"
         },
         {
           "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名，这种行为的套路危害会有多大？",
@@ -173,11 +198,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时14分]"
         },
         {
           "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
@@ -187,19 +213,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "中南大学和湖南卫健委成立联合调查组",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%92%8C%E6%B9%96%E5%8D%97%E5%8D%AB%E5%81%A5%E5%A7%94%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
         },
         {
           "title": "湘雅医院失联学生确认坠江身亡",
@@ -209,41 +224,68 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
         },
         {
-          "title": "315曝光AI大模型遭投毒操控",
-          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
+          "title": "中南大学和湖南卫健委成立联合调查组",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%92%8C%E6%B9%96%E5%8D%97%E5%8D%AB%E5%81%A5%E5%A7%94%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
-          "title": "湘雅医院失联学生确认坠江身亡",
-          "url": "https://www.douyin.com/hot/2432069",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
         },
         {
           "title": "全球铝业大地震！世界最大单体铝冶炼厂减产 印度铝业巨头宣布不可抗力",
           "url": "https://www.cls.cn/detail/2313773",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "315曝光AI大模型遭投毒操控",
+          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 14时14分]"
+        },
+        {
+          "title": "湘雅医院失联学生确认坠江身亡",
+          "url": "https://www.douyin.com/hot/2432069",
+          "source": "抖音",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "中南大学湘雅医院一研究生坠江身亡，联合调查组已介入调查，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2016808147860285194",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
         },
         {
           "title": "博主发布“甘肃参战”谣言被约谈",
@@ -253,8 +295,42 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "315影子调查｜起底花钱就能办证书的“救援队”：发展下线还能拿提成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760809",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "中南大学湘雅医院一失联研究生坠江离世，官方成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775450",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时14分]"
         },
         {
           "title": "315 曝光漂白鸡爪企业买了数千桶过氧化氢，暴露了生产与销售两端哪些监管漏洞？按规定应该怎么管？",
@@ -279,50 +355,6 @@
           "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "315影子调查｜起底花钱就能办证书的“救援队”：发展下线还能拿提成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760809",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "中南大学湘雅医院一研究生坠江身亡，联合调查组已介入调查，具体怎么回事？",
-          "url": "https://www.zhihu.com/question/2016808147860285194",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "中南大学湘雅医院一失联研究生坠江离世，官方成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775450",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
           "title": "四川眉山调查漂白鸡爪双氧水",
           "url": "https://www.toutiao.com/trending/7617457947082113030/",
           "source": "今日头条",
@@ -345,6 +377,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "花几百万给 AI「投毒」霸榜，算不算不正当竞争？告 GEO 服务商，还是告 AI 平台？证据怎么留？",
+          "url": "https://www.zhihu.com/question/2016654866450178383",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "多氟多：经公司核查，控股子公司亿丰电子未与媒体报道的四川省蜀福香食品有限责任公司、重庆市曾巧食品有限公司等建立任何形式的业务合作、品牌授权或产品生产关系，其生产、销售行为与公司及控股子公司无任何关联",
           "url": "https://wallstreetcn.com/livenews/3070454",
           "source": "华尔街见闻-快讯",
@@ -362,7 +405,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -373,7 +416,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
