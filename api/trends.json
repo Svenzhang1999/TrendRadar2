@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T19:40:13.108520+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-03-16T20:46:26.301081+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "【早报】“3·15”晚会起底“漂白的鸡爪”等行业乱象；贵州茅台董秘接受调查",
@@ -20,6 +20,20 @@
           "time_info": "[09时19分 ~ 14时14分]"
         },
         {
+          "title": "市场监管总局彻查315晚会曝光的相关违法行为，全力维护消费者合法权益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32773599",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 20时46分]"
+        },
+        {
           "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
           "url": "https://wallstreetcn.com/articles/3767540",
           "source": "华尔街见闻",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时19分 ~ 12时32分]"
-        },
-        {
-          "title": "市场监管总局彻查315晚会曝光的相关违法行为，全力维护消费者合法权益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32773599",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时40分]"
         },
         {
           "title": "漂白鸡爪涉事公司被冻结720万股权",
@@ -94,7 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -108,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "联合调查组调查湘雅医院学生坠江身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E8%B0%83%E6%9F%A5%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "阿联酋航空：预计今日迪拜当地时间10:00后将执行有限的航班计划。",
@@ -206,6 +218,37 @@
           "time_info": "[12时31分 ~ 19时40分]"
         },
         {
+          "title": "315影子调查｜起底花钱就能办证书的“救援队”：发展下线还能拿提成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760809",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 20时46分]"
+        },
+        {
+          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 20时46分]"
+        },
+        {
           "title": "成都查封315曝光涉事企业",
           "url": "https://www.toutiao.com/trending/7617492337876664363/",
           "source": "今日头条",
@@ -216,6 +259,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "毒书皮致癌物超标140余倍",
+          "url": "https://www.toutiao.com/trending/7616713189364416518/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 20时46分]"
+        },
+        {
+          "title": "315 曝光眼镜镜片天价溢价，眼镜行业为什么那么暴利?",
+          "url": "https://www.zhihu.com/question/2016166211768066199",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 20时46分]"
         },
         {
           "title": "当地时间3月16日下午，泰国国会主席宣布将于3月19日举行总理选举。 (央视新闻)",
@@ -258,35 +326,6 @@
           "time_info": "[12时31分 ~ 16时03分]"
         },
         {
-          "title": "315影子调查｜起底花钱就能办证书的“救援队”：发展下线还能拿提成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760809",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时31分 ~ 19时40分]"
-        },
-        {
-          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时31分 ~ 19时40分]"
-        },
-        {
           "title": "央视点名马督工,造谣被刑拘",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351826&amp;topic_name=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8D%E9%A9%AC%E7%9D%A3%E5%B7%A5%2C%E9%80%A0%E8%B0%A3%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "贴吧",
@@ -296,11 +335,12 @@
             21,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 20时46分]"
         },
         {
           "title": "315车展乱象:车企阻拦维权人",
@@ -312,11 +352,26 @@
             22,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 20时46分]"
+        },
+        {
+          "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016789382670075625",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时02分 ~ 20时46分]"
         },
         {
           "title": "博主发布“甘肃参战”谣言被约谈",
@@ -328,6 +383,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时31分 ~ 18时45分]"
+        },
+        {
+          "title": "四川一民警抓捕命案逃犯时壮烈牺牲，两名犯罪嫌疑人畏罪自杀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32773468",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时02分 ~ 20时46分]"
         },
         {
           "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名，这种行为的套路危害会有多大？",
@@ -344,30 +413,29 @@
           "time_info": "[09时19分 ~ 16时03分]"
         },
         {
-          "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016789382670075625",
-          "source": "知乎",
+          "title": "全球首例机器人“被捕”事件出现",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E8%A2%AB%E6%8D%95%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%87%BA%E7%8E%B0",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 19时40分]"
-        },
-        {
-          "title": "四川一民警抓捕命案逃犯时壮烈牺牲，两名犯罪嫌疑人畏罪自杀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32773468",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
+            25,
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 20时46分]"
+        },
+        {
+          "title": "教体局通报女孩遭殴打不予立案原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AE%B4%E6%89%93%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 20时46分]"
         },
         {
           "title": "湘雅医院失联学生确认坠江身亡",
@@ -408,18 +476,6 @@
           "time_info": "[12时31分 ~ 16时03分]"
         },
         {
-          "title": "315 曝光眼镜镜片天价溢价，眼镜行业为什么那么暴利?",
-          "url": "https://www.zhihu.com/question/2016166211768066199",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 19时40分]"
-        },
-        {
           "title": "中南大学湘雅医院一失联研究生坠江离世，官方成立联合调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_32775450",
           "source": "澎湃新闻",
@@ -433,29 +489,6 @@
           "time_info": "[12时31分 ~ 16时03分]"
         },
         {
-          "title": "全球首例机器人“被捕”事件出现",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E8%A2%AB%E6%8D%95%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%87%BA%E7%8E%B0",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 19时40分]"
-        },
-        {
-          "title": "教体局通报女孩遭殴打不予立案原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AE%B4%E6%89%93%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 19时40分]"
-        },
-        {
           "title": "中南大学和湖南卫健委成立联合调查组",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%92%8C%E6%B9%96%E5%8D%97%E5%8D%AB%E5%81%A5%E5%A7%94%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -466,6 +499,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时31分 ~ 14时14分]"
+        },
+        {
+          "title": "伊朗首都德黑兰北部发生爆炸",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%8C%97%E9%83%A8%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 20时46分]"
         },
         {
           "title": "坠江研究生曾因试图跳楼被送精神病科",
@@ -499,28 +544,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
-          "title": "毒书皮致癌物超标140余倍",
-          "url": "https://www.toutiao.com/trending/7616713189364416518/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        },
-        {
-          "title": "伊朗首都德黑兰北部发生爆炸",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%8C%97%E9%83%A8%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "四川眉山调查漂白鸡爪双氧水",
@@ -567,6 +590,17 @@
           "time_info": "17时55分"
         },
         {
+          "title": "ST柯利达：因公司及公司董事长顾益明先生涉嫌信息披露违法违规，中国证监会决定对公司和顾益明先生立案。",
+          "url": "https://wallstreetcn.com/livenews/3070921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "迪拜媒体办公室：民防部门仍在全力控制机场火灾，暂无人员受伤报告。",
           "url": "https://flash.jin10.com/detail/20260316084604257800",
           "source": "金十数据",
@@ -600,6 +634,17 @@
           "time_info": "16时03分"
         },
         {
+          "title": "315晚会曝光AI大模型被“投毒”，给AI洗脑已成产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32773464",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "花几百万给 AI「投毒」霸榜，算不算不正当竞争？告 GEO 服务商，还是告 AI 平台？证据怎么留？",
           "url": "https://www.zhihu.com/question/2016654866450178383",
           "source": "知乎",
@@ -617,9 +662,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "贵州茅台财务总监蒋焰被查，为何茅台三任董事长接连落马后，仍有高管涉案？",
+          "url": "https://www.zhihu.com/question/2016104055919904592",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "路透调查：15位经济学家中有14位表示，瑞士央行应加大外汇干预力度，以遏制瑞郎兑欧元进一步走强。",
