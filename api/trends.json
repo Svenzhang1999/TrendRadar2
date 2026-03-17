@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-17T18:41:00.238122+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-03-17T19:37:51.019332+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "波斯湾油气生产端首次遇袭！阿联酋大型天然气田起火 暂停作业",
           "url": "https://www.cls.cn/detail/2315361",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 19时37分]"
         },
         {
           "title": "卡塔尔内政部：一处工业区因导弹拦截产生的碎片引发火灾，暂无人员伤亡报告。",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 19时37分]"
         },
         {
           "title": "315影子调查｜谁在承受“灰色”租赁车之痛",
@@ -65,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时08分 ~ 18时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时08分 ~ 19时37分]"
         },
         {
           "title": "湖北省委原书记蒋超良被公诉",
@@ -145,8 +146,35 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 18时41分]"
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 19时37分]"
+        },
+        {
+          "title": "欠物业费大约 8000 左右，收到立案庭调解员电话，该怎么办？",
+          "url": "https://www.zhihu.com/question/660596100",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时48分 ~ 19时37分]"
+        },
+        {
+          "title": "315影子调查｜美容者之死：“脸部美容”9日后身亡，系肉毒素中毒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32772410",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 19时37分]"
         },
         {
           "title": "3月17日投资避雷针：两公司涉嫌信披违法违规被证监会立案调查",
@@ -160,20 +188,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时08分 ~ 18时41分]"
-        },
-        {
-          "title": "欠物业费大约 8000 左右，收到立案庭调解员电话，该怎么办？",
-          "url": "https://www.zhihu.com/question/660596100",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 18时41分]"
         },
         {
           "title": "蒋超良被公诉",
@@ -190,17 +204,29 @@
           "time_info": "[12时08分 ~ 16时40分]"
         },
         {
-          "title": "315影子调查｜美容者之死：“脸部美容”9日后身亡，系肉毒素中毒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32772410",
-          "source": "澎湃新闻",
+          "title": "汕头致12死火灾系使用蚊香不慎引发",
+          "url": "https://www.toutiao.com/trending/7618048628082819082/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11,
-            8
+            29,
+            23,
+            26,
+            28
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时39分 ~ 18时41分]"
+          "time_info": "[15时48分 ~ 19时37分]"
+        },
+        {
+          "title": "美军最大航母火灾被曝持续超30小时",
+          "url": "https://www.toutiao.com/trending/7618068665981009963/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 19时37分]"
         },
         {
           "title": "美国驻伊拉克大使馆遭袭起火",
@@ -217,28 +243,39 @@
           "time_info": "[13时53分 ~ 16时40分]"
         },
         {
-          "title": "汕头致12死火灾系使用蚊香不慎引发",
-          "url": "https://www.toutiao.com/trending/7618048628082819082/",
-          "source": "今日头条",
+          "title": "黑龙江政协原副主席李海涛被判无期",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%9D%8E%E6%B5%B7%E6%B6%9B%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F",
+          "source": "百度热搜",
           "ranks": [
-            29,
-            23,
-            26
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时48分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时37分]"
         },
         {
-          "title": "美军最大航母火灾被曝持续超30小时",
-          "url": "https://www.toutiao.com/trending/7618068665981009963/",
+          "title": "江苏三名厅官接连落马",
+          "url": "https://www.toutiao.com/trending/7617769957033639978/",
           "source": "今日头条",
           "ranks": [
-            7
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时37分]"
+        },
+        {
+          "title": "曝刘晓庆别墅因违法建设遭投诉",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%88%98%E6%99%93%E5%BA%86%E5%88%AB%E5%A2%85%E5%9B%A0%E8%BF%9D%E6%B3%95%E5%BB%BA%E8%AE%BE%E9%81%AD%E6%8A%95%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时37分]"
         },
         {
           "title": "一个34岁研究生上岸后的猝死",
@@ -250,39 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "黑龙江政协原副主席李海涛被判无期",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%9D%8E%E6%B5%B7%E6%B6%9B%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
-        },
-        {
-          "title": "曝刘晓庆别墅因违法建设遭投诉",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%88%98%E6%99%93%E5%BA%86%E5%88%AB%E5%A2%85%E5%9B%A0%E8%BF%9D%E6%B3%95%E5%BB%BA%E8%AE%BE%E9%81%AD%E6%8A%95%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
-        },
-        {
-          "title": "江苏三名厅官接连落马",
-          "url": "https://www.toutiao.com/trending/7617769957033639978/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "美国驻伊拉克大使馆遭袭起火",
@@ -346,7 +350,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -379,7 +383,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -404,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        },
+        {
+          "title": "美银调查：投资者情绪悲观，但程度较四月份的关税冲击时有所减轻",
+          "url": "https://flash.jin10.com/detail/20260317191037544800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "澳洲联储主席Bullock：今天的利率决定并未提及未来的政策路径，未来的利率路径是不确定的。",
@@ -434,7 +449,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -544,7 +559,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -679,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "欧洲理事会主席：欧盟应做好与俄恢复对话的准备",
+          "url": "https://wallstreetcn.com/livenews/3071611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "澳洲联储主席布洛克：不确定金融状况的收紧程度。",
