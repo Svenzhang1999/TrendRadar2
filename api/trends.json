@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:37:20.623501+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-03-18T17:43:23.504244+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "哈梅内伊“托孤之臣”遇难，以色列把这事做绝了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 17时43分]"
         },
         {
           "title": "315影子调查｜美容者之死：“脸部美容”9日后身亡，系肉毒素中毒",
@@ -66,20 +66,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时37分]"
-        },
-        {
-          "title": "女子投保两年半后确诊患癌遭拒赔",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E4%BF%9D%E4%B8%A4%E5%B9%B4%E5%8D%8A%E5%90%8E%E7%A1%AE%E8%AF%8A%E6%82%A3%E7%99%8C%E9%81%AD%E6%8B%92%E8%B5%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时43分]"
         },
         {
           "title": "女子投保两年半后确诊患癌遭拒赔",
@@ -94,6 +82,34 @@
           "time_info": "[12时14分 ~ 13时57分]"
         },
         {
+          "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786116",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时43分]"
+        },
+        {
+          "title": "女子投保两年半后确诊患癌遭拒赔",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E4%BF%9D%E4%B8%A4%E5%B9%B4%E5%8D%8A%E5%90%8E%E7%A1%AE%E8%AF%8A%E6%82%A3%E7%99%8C%E9%81%AD%E6%8B%92%E8%B5%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 17时43分]"
+        },
+        {
           "title": "伊朗总统证实拉里贾尼已遇难",
           "url": "https://www.douyin.com/hot/2434350",
           "source": "抖音",
@@ -103,11 +119,12 @@
             18,
             15,
             17,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时43分]"
         },
         {
           "title": "伊朗证实拉里贾尼遇难 其子一同身亡",
@@ -115,11 +132,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时43分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -127,11 +145,23 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            12
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时43分]"
+        },
+        {
+          "title": "伊朗总统证实拉里贾尼已遇难，这意味着什么？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2017504813336720406",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时37分]"
+          "time_info": "[12时14分 ~ 17时43分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -149,41 +179,17 @@
           "time_info": "[09时15分 ~ 16时37分]"
         },
         {
-          "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786116",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时37分]"
-        },
-        {
-          "title": "伊朗总统证实拉里贾尼已遇难，这意味着什么？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2017504813336720406",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时37分]"
-        },
-        {
           "title": "3月18日投资避雷针：4连板人气股提示风险 如股价进一步上涨可能申请停牌核查",
           "url": "https://www.cls.cn/detail/2316206",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 17时43分]"
         },
         {
           "title": "315影子调查｜妙三多猫咪疫苗网售乱象：防伪造假，来源成谜",
@@ -193,11 +199,12 @@
             18,
             16,
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 17时43分]"
         },
         {
           "title": "游客在壶口瀑布外拍视频被投诉侵权",
@@ -249,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 12时14分]"
+        },
+        {
+          "title": "全球多国出现麻疹疫情反弹",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E9%BA%BB%E7%96%B9%E7%96%AB%E6%83%85%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时43分]"
         },
         {
           "title": "伊朗对一名间谍执行死刑",
@@ -324,9 +343,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "独家 | 警惕赠卡陷阱！特药卡、CAR‑T卡非保险产品，又一地金融监管局出手叫停",
+          "url": "https://www.cls.cn/detail/2316589",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "三星电子联合首席执行官Jun：已对股东回报政策进行了深入审查，将长期致力于提升股东价值。 将董事会成员人数从9人减至8人。 芯片业务首席技术官Song Jai-hyuk辞去董事会职务。",
@@ -373,6 +403,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "一艘拖船在罗马尼亚东部港口沉没",
+          "url": "https://wallstreetcn.com/livenews/3072282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "美军拟大规模仿制伊朗自杀式无人机",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%8B%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BB%BF%E5%88%B6%E4%BC%8A%E6%9C%97%E8%87%AA%E6%9D%80%E5%BC%8F%E6%97%A0%E4%BA%BA%E6%9C%BA%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -395,15 +436,15 @@
           "time_info": "12时14分"
         },
         {
-          "title": "全球多国出现麻疹疫情反弹",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E9%BA%BB%E7%96%B9%E7%96%AB%E6%83%85%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
+          "title": "习近平会见土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫",
+          "url": "https://flash.jin10.com/detail/20260318171956590800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时43分"
         },
         {
           "title": "韩国金融监管机构：将制定禁止母公司与子公司“双重上市”的具体方案。",
@@ -448,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "壶口瀑布外喊话被景区投诉侵了谁的权",
+          "url": "https://www.toutiao.com/trending/7618497192650608191/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "美媒：美军拟大规模仿制伊朗自杀式无人机",
