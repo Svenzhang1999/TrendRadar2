@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T15:46:15.758465+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-03-18T16:37:20.623501+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "哈梅内伊“托孤之臣”遇难，以色列把这事做绝了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时37分]"
         },
         {
           "title": "315影子调查｜美容者之死：“脸部美容”9日后身亡，系肉毒素中毒",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时37分]"
         },
         {
           "title": "媒体：雷思维落马与分管国企领域相关",
@@ -62,11 +62,24 @@
             2,
             4,
             5,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时37分]"
+        },
+        {
+          "title": "女子投保两年半后确诊患癌遭拒赔",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E4%BF%9D%E4%B8%A4%E5%B9%B4%E5%8D%8A%E5%90%8E%E7%A1%AE%E8%AF%8A%E6%82%A3%E7%99%8C%E9%81%AD%E6%8B%92%E8%B5%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 16时37分]"
         },
         {
           "title": "女子投保两年半后确诊患癌遭拒赔",
@@ -89,22 +102,24 @@
             19,
             18,
             15,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时37分]"
         },
         {
           "title": "伊朗证实拉里贾尼遇难 其子一同身亡",
           "url": "https://www.toutiao.com/trending/7618144836088188479/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时37分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -115,8 +130,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时37分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -126,11 +141,12 @@
             6,
             7,
             11,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时37分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
@@ -143,8 +159,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时37分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难，这意味着什么？会带来哪些影响？",
@@ -154,8 +170,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 16时37分]"
         },
         {
           "title": "3月18日投资避雷针：4连板人气股提示风险 如股价进一步上涨可能申请停牌核查",
@@ -166,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 16时37分]"
         },
         {
           "title": "315影子调查｜妙三多猫咪疫苗网售乱象：防伪造假，来源成谜",
@@ -176,11 +192,12 @@
           "ranks": [
             18,
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 16时37分]"
         },
         {
           "title": "游客在壶口瀑布外拍视频被投诉侵权",
@@ -257,24 +274,13 @@
           "time_info": "[12时14分 ~ 13时57分]"
         },
         {
-          "title": "女子投保两年半后确诊患癌遭拒赔",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E4%BF%9D%E4%B8%A4%E5%B9%B4%E5%8D%8A%E5%90%8E%E7%A1%AE%E8%AF%8A%E6%82%A3%E7%99%8C%E9%81%AD%E6%8B%92%E8%B5%94",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时46分]"
-        },
-        {
           "title": "国防部：菲方自编自导自演闹剧动摇不了中方依法维权的坚定决心。（央视）",
           "url": "https://wallstreetcn.com/livenews/3072228",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -307,9 +313,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "裕信银行首席执行官：我们正就数字欧元与欧洲央行进行大量互动。",
+          "url": "https://flash.jin10.com/detail/20260318161835544800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "三星电子联合首席执行官Jun：已对股东回报政策进行了深入审查，将长期致力于提升股东价值。 将董事会成员人数从9人减至8人。 芯片业务首席技术官Song Jai-hyuk辞去董事会职务。",
@@ -378,6 +395,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "全球多国出现麻疹疫情反弹",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E9%BA%BB%E7%96%B9%E7%96%AB%E6%83%85%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "韩国金融监管机构：将制定禁止母公司与子公司“双重上市”的具体方案。",
           "url": "https://flash.jin10.com/detail/20260318132558641800",
           "source": "金十数据",
@@ -428,7 +456,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
