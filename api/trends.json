@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:38:47.218884+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-03-18T20:45:25.337002+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "哈梅内伊“托孤之臣”遇难，以色列把这事做绝了",
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -58,9 +58,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "欧洲央行银行监管委员会主席布赫：地缘政治不确定性未能充分反映在基于市场的金融压力指标中，增加了突然重新定价的风险。",
+          "url": "https://flash.jin10.com/detail/20260318203115689800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
@@ -104,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 20时45分]"
         },
         {
           "title": "女子投保两年半后确诊患癌遭拒赔",
@@ -130,11 +141,12 @@
             15,
             17,
             30,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时15分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 20时45分]"
         },
         {
           "title": "女子投保两年半后确诊患癌遭拒赔",
@@ -148,23 +160,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 19时38分]"
-        },
-        {
-          "title": "伊朗证实拉里贾尼遇难 其子一同身亡",
-          "url": "https://www.toutiao.com/trending/7618144836088188479/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            26,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[14时54分 ~ 20时45分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -178,8 +175,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 20时45分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难，这意味着什么？会带来哪些影响？",
@@ -189,8 +186,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时14分 ~ 20时45分]"
         },
         {
           "title": "315影子调查｜妙三多猫咪疫苗网售乱象：防伪造假，来源成谜",
@@ -206,8 +203,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时14分 ~ 20时45分]"
+        },
+        {
+          "title": "伊朗证实拉里贾尼遇难 其子一同身亡",
+          "url": "https://www.toutiao.com/trending/7618144836088188479/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9,
+            26,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 19时38分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -238,6 +250,33 @@
           "time_info": "[12时14分 ~ 17时43分]"
         },
         {
+          "title": "全球多国出现麻疹疫情反弹",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E9%BA%BB%E7%96%B9%E7%96%AB%E6%83%85%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            24,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 20时45分]"
+        },
+        {
+          "title": "独家 | 警惕赠卡陷阱！特药卡、CAR‑T卡非保险产品，又一地金融监管局出手叫停",
+          "url": "https://www.cls.cn/detail/2316589",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 20时45分]"
+        },
+        {
           "title": "游客在壶口瀑布外拍视频被投诉侵权",
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%A3%B6%E5%8F%A3%E7%80%91%E5%B8%83%E5%A4%96%E6%8B%8D%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%95%E8%AF%89%E4%BE%B5%E6%9D%83",
           "source": "百度热搜",
@@ -250,33 +289,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 15时46分]"
-        },
-        {
-          "title": "全球多国出现麻疹疫情反弹",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%A4%9A%E5%9B%BD%E5%87%BA%E7%8E%B0%E9%BA%BB%E7%96%B9%E7%96%AB%E6%83%85%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            24,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 19时38分]"
-        },
-        {
-          "title": "独家 | 警惕赠卡陷阱！特药卡、CAR‑T卡非保险产品，又一地金融监管局出手叫停",
-          "url": "https://www.cls.cn/detail/2316589",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 19时38分]"
         },
         {
           "title": "“黑飞”无人机至8000米高空被刑拘",
@@ -302,6 +314,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时15分 ~ 13时57分]"
+        },
+        {
+          "title": "姐姐姐夫突然失联 弟弟心急报警破门",
+          "url": "https://www.toutiao.com/trending/7618138283113480218/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时45分]"
         },
         {
           "title": "美航母将因火灾临时靠港维修",
@@ -371,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
-        },
-        {
-          "title": "姐姐姐夫突然失联 弟弟心急报警破门",
-          "url": "https://www.toutiao.com/trending/7618138283113480218/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "当地官员表示，俄罗斯克拉斯诺达尔边疆区一油库火灾已被扑灭。",
@@ -566,9 +579,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "美国证交会主席阿特金斯：严格的程序对私募股权估值很重要。",
+          "url": "https://flash.jin10.com/detail/20260318202558629800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "有目击者表示，贝鲁特巴舒拉街区遭以色列空袭，传出巨大爆炸声。",
@@ -602,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔什么时候降息？",
+          "url": "https://wallstreetcn.com/livenews/3072430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "美媒：美军拟大规模仿制伊朗自杀式无人机",
