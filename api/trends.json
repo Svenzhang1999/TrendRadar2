@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-03-20T16:32:02.554555+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-03-20T17:32:15.038682+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 32,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "释永信被提起公诉",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "释永信被公诉",
+          "url": "https://www.douyin.com/hot/2437593",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "四川绵竹3.4级地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E7%AB%B93.4%E7%BA%A7%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
         {
           "title": "女子网红店等位 3200 多号等到崩溃，黄牛囤号、倒卖频发遭消费者集体投诉，门店对此该负责任吗？",
           "url": "https://www.zhihu.com/question/2017890651220436716",
@@ -25,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -41,6 +74,21 @@
           "time_info": "15时40分"
         },
         {
+          "title": "“网推律所”乱象调查：“8000元接案后1000元转手”，39招话术收割信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32790700",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 17时32分]"
+        },
+        {
           "title": "澎湃回声｜瑞丽约谈违规珠宝直播主体，要求清理“卖惨”及虚构剧情内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32794389",
           "source": "澎湃新闻",
@@ -53,20 +101,6 @@
           "time_info": "[09时10分 ~ 12时05分]"
         },
         {
-          "title": "“网推律所”乱象调查：“8000元接案后1000元转手”，39招话术收割信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32790700",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 16时32分]"
-        },
-        {
           "title": "德云色大嗓门,邻居投诉叫来FBI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352104&amp;topic_name=%E5%BE%B7%E4%BA%91%E8%89%B2%E5%A4%A7%E5%97%93%E9%97%A8%2C%E9%82%BB%E5%B1%85%E6%8A%95%E8%AF%89%E5%8F%AB%E6%9D%A5FBI",
           "source": "贴吧",
@@ -77,8 +111,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 17时32分]"
+        },
+        {
+          "title": "315影子调查｜用一个月就花屏，实探低价大屏电视机厂家",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32762734",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 17时32分]"
         },
         {
           "title": "女子将6岁儿子丢酒店失联半个月",
@@ -106,17 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时44分 ~ 15时40分]"
-        },
-        {
-          "title": "315影子调查｜用一个月就花屏，实探低价大屏电视机厂家",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32762734",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 16时32分]"
         },
         {
           "title": "澎湃“3·15”特别报道周重磅报道获积极回应：多地介入调查，各平台核查清理",
@@ -155,6 +190,39 @@
           "time_info": "[09时10分 ~ 12时05分]"
         },
         {
+          "title": "释永信被公诉",
+          "url": "https://www.toutiao.com/trending/7619260667715158079/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "释永信被公诉",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E5%85%AC%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "释永信被提起公诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
           "title": "拼豆爆炸起火炸伤小孩手部",
           "url": "https://www.toutiao.com/trending/7618555465064808491/",
           "source": "今日头条",
@@ -188,6 +256,17 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "郑州一中医馆被查封",
+          "url": "https://www.toutiao.com/trending/7618873307563540489/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
           "title": "被路虎别停8次男子个人信息疑泄露",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B7%AF%E8%99%8E%E5%88%AB%E5%81%9C8%E6%AC%A1%E7%94%B7%E5%AD%90%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E7%96%91%E6%B3%84%E9%9C%B2%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -208,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "今年已有4名正部级官员落马",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%894%E5%90%8D%E6%AD%A3%E9%83%A8%E7%BA%A7%E5%AE%98%E5%91%98%E8%90%BD%E9%A9%AC%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "美国女教师用蛋糕引诱性侵学生",
@@ -276,6 +366,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "河南新乡市人民检察院依法对释永信提起公诉",
+          "url": "https://wallstreetcn.com/livenews/3073977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "据美国地质调查局地震信息网消息，南极洲南设德兰群岛格林尼治时间3月20日0时22分（北京时间3月20日8时22分）发生7.0级地震，震源深度17.2公里。",
           "url": "https://flash.jin10.com/detail/20260320084245327800",
           "source": "金十数据",
@@ -285,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "司法部、中国人民银行、金融监管总局、中国证监会、国家外汇局就《中华人民共和国金融法（草案）》公开征求意见。",
+          "url": "https://flash.jin10.com/detail/20260320170244828800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "市场监管总局增加部分非简易案件的经营者集中委托审查",
@@ -315,9 +427,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "受贿1.27亿余元，山西省政协原党组书记、主席吴存荣一审被判无期。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3073967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "韩国工厂火灾已致14人失联 李在明要求全力救援",
@@ -359,7 +482,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -370,7 +493,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
