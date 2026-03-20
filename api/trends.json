@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T09:11:02.952053+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-20T12:05:37.932078+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "女子网红店等位 3200 多号等到崩溃，黄牛囤号、倒卖频发遭消费者集体投诉，门店对此该负责任吗？",
@@ -19,15 +19,52 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "澎湃回声｜瑞丽约谈违规珠宝直播主体，要求清理“卖惨”及虚构剧情内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32794389",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时05分]"
+        },
+        {
           "title": "德云色大嗓门,邻居投诉叫来FBI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352104&amp;topic_name=%E5%BE%B7%E4%BA%91%E8%89%B2%E5%A4%A7%E5%97%93%E9%97%A8%2C%E9%82%BB%E5%B1%85%E6%8A%95%E8%AF%89%E5%8F%AB%E6%9D%A5FBI",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时05分]"
+        },
+        {
+          "title": "澎湃“3·15”特别报道周重磅报道获积极回应：多地介入调查，各平台核查清理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32794628",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时05分]"
+        },
+        {
+          "title": "内蒙古党委书记赶赴车间爆炸现场",
+          "url": "https://www.toutiao.com/trending/7618927510553628186/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 12时05分]"
         },
         {
           "title": "拼豆爆炸起火炸伤小孩手部",
@@ -52,28 +89,6 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
-          "title": "澎湃回声｜瑞丽约谈违规珠宝直播主体，要求清理“卖惨”及虚构剧情内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32794389",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "澎湃“3·15”特别报道周重磅报道获积极回应：多地介入调查，各平台核查清理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32794628",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
           "title": "3岁男童独自进电梯后坠楼身亡",
           "url": "https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E7%AB%A5%E7%8B%AC%E8%87%AA%E8%BF%9B%E7%94%B5%E6%A2%AF%E5%90%8E%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
@@ -90,17 +105,6 @@
           "source": "今日头条",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "内蒙古党委书记赶赴车间爆炸现场",
-          "url": "https://www.toutiao.com/trending/7618927510553628186/",
-          "source": "今日头条",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -140,13 +144,24 @@
           "time_info": "[09时10分 ~ 09时11分]"
         },
         {
+          "title": "“网推律所”乱象调查：“8000元接案后1000元转手”，39招话术收割信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32790700",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "白宫默许、司法部撑腰：对鲍威尔的调查将继续！",
           "url": "https://flash.jin10.com/detail/20260320084517223800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -157,7 +172,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -168,7 +183,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -179,9 +194,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "女子将6岁儿子丢酒店失联半个月",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%866%E5%B2%81%E5%84%BF%E5%AD%90%E4%B8%A2%E9%85%92%E5%BA%97%E5%A4%B1%E8%81%94%E5%8D%8A%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     }
