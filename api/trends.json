@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T17:23:33.859261+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-03-22T18:18:36.002213+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "重大实验室爆炸,操作不当出人命",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 18时18分]"
         },
         {
           "title": "985学生送外卖遭村民殴打",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时18分]"
         },
         {
           "title": "美以伊战争丨巴林爆炸中爱国者导弹或由美方操作",
@@ -36,9 +36,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时18分]"
         },
         {
           "title": "重庆大学一实验室发生爆炸，致1死3伤",
@@ -84,23 +84,12 @@
             10,
             9,
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 17时23分]"
-        },
-        {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[13时45分 ~ 18时18分]"
         },
         {
           "title": "西安警方通报非法营运车辆司机与乘客发生冲突，司机被刑拘",
@@ -111,8 +100,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 18时18分]"
+        },
+        {
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时14分 ~ 18时18分]"
         },
         {
           "title": "派出所教导员办公室猥亵15岁女生，一审被判2年9个月",
@@ -122,8 +123,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[13时45分 ~ 18时18分]"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 18时18分]"
         },
         {
           "title": "热播剧《逐玉》片源遭大规模泄露",
@@ -151,15 +163,18 @@
           "time_info": "[12时10分 ~ 14时39分]"
         },
         {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
+          "title": "律师谈《逐玉》泄露：赔偿可达千万",
+          "url": "https://www.toutiao.com/trending/7619692921180831786/",
+          "source": "今日头条",
           "ranks": [
-            8
+            13,
+            15,
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时18分]"
         },
         {
           "title": "中国贸促会副会长刘健男会见丹麦诺和诺德公司全球执行副总裁林意明",
@@ -190,6 +205,19 @@
           "time_info": "[09时14分 ~ 14时39分]"
         },
         {
+          "title": "梅姨真实照片或在判决后公布",
+          "url": "https://www.toutiao.com/trending/7619956612681207323/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时18分]"
+        },
+        {
           "title": "获奖漫画家竟是性侵未成年惯犯！整个日本动漫圈怒了",
           "url": "https://news.ifeng.com/c/8rfecwFYPNe",
           "source": "凤凰网",
@@ -200,32 +228,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 12时11分]"
-        },
-        {
-          "title": "律师谈《逐玉》泄露：赔偿可达千万",
-          "url": "https://www.toutiao.com/trending/7619692921180831786/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 17时23分]"
-        },
-        {
-          "title": "梅姨真实照片或在判决后公布",
-          "url": "https://www.toutiao.com/trending/7619956612681207323/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 17时23分]"
         },
         {
           "title": "中国地震台网正式测定：03月22日14时15分在汤加群岛（南纬15.25度，西经172.75度）发生6.2级地震，震源深度10千米。",
@@ -374,6 +376,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "女生遭民警猥亵父亲刚开始以为是胡说",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%81%AD%E6%B0%91%E8%AD%A6%E7%8C%A5%E4%BA%B5%E7%88%B6%E4%BA%B2%E5%88%9A%E5%BC%80%E5%A7%8B%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%83%A1%E8%AF%B4%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "热播剧《逐玉》被曝全集资源泄露",
           "url": "https://www.toutiao.com/trending/7618650869760278578/",
           "source": "今日头条",
@@ -424,7 +437,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
