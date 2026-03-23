@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-23T16:44:40.209868+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-03-23T17:54:49.986571+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "民警派出所内猥亵女孩一审被判两年九个月，女孩父亲申请抗诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32811077",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时54分]"
+        },
         {
           "title": "三安光电：公司实际控制人林秀成被留置、立案调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32810856",
@@ -15,19 +29,6 @@
             4,
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时44分]"
-        },
-        {
-          "title": "民警派出所内猥亵女孩一审被判两年九个月，女孩父亲申请抗诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32811077",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -49,11 +50,12 @@
           "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 16时44分]"
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 17时54分]"
         },
         {
           "title": "逼宫戏码适得其反？特朗普施压下，鲍威尔或成“影子美联储主席”",
@@ -62,7 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -98,11 +100,12 @@
             7,
             8,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时54分]"
         },
         {
           "title": "央视财经调查：有商户用工业酒精麻醉活鱼，市场管理人员视而不见",
@@ -113,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时54分]"
         },
         {
           "title": "重大实验室爆炸,操作不当出人命",
@@ -125,11 +128,12 @@
             11,
             12,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时15分 ~ 16时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 17时54分]"
         },
         {
           "title": "《逐玉》正版平台仅更新至 30 集，40 集未播片源却大规模泄露，可能是哪些环节出现问题？影响有多大？",
@@ -151,11 +155,36 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 17时54分]"
+        },
+        {
+          "title": "突发公告！百亿富豪被立案调查",
+          "url": "https://news.ifeng.com/c/8riyPL3TXX1",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 17时54分]"
+        },
+        {
+          "title": "进口头孢西力欣被炒出 1500 元左右高价，此前每盒仅售 30 元，这款抗生素原研老药为何涨成天价？",
+          "url": "https://www.zhihu.com/question/2017907922689099217",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时18分 ~ 16时44分]"
+          "time_info": "[14时04分 ~ 17时54分]"
         },
         {
           "title": "《逐玉》全集泄露损失不可估量",
@@ -171,29 +200,6 @@
           "time_info": "[09时15分 ~ 14时04分]"
         },
         {
-          "title": "突发公告！百亿富豪被立案调查",
-          "url": "https://news.ifeng.com/c/8riyPL3TXX1",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 16时44分]"
-        },
-        {
-          "title": "进口头孢西力欣被炒出 1500 元左右高价，此前每盒仅售 30 元，这款抗生素原研老药为何涨成天价？",
-          "url": "https://www.zhihu.com/question/2017907922689099217",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 16时44分]"
-        },
-        {
           "title": "央视曝光商贩运输活鱼时加麻药，重庆市场监管局通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_32812204",
           "source": "澎湃新闻",
@@ -203,8 +209,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 16时44分]"
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 17时54分]"
         },
         {
           "title": "伊朗首都德黑兰再次发生巨大爆炸",
@@ -218,6 +224,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时18分 ~ 15时56分]"
+        },
+        {
+          "title": "马上评｜无良商家给活鱼上“麻药”，监管不能“麻木”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813940",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 17时54分]"
         },
         {
           "title": "山西省原省长金湘军被公诉",
@@ -254,18 +272,6 @@
           "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "马上评｜无良商家给活鱼上“麻药”，监管不能“麻木”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813940",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时44分]"
-        },
-        {
           "title": "山西省原省长金湘军被公诉",
           "url": "https://www.toutiao.com/trending/7620265399560441380/",
           "source": "今日头条",
@@ -295,7 +301,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -306,7 +312,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -339,9 +345,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "遭民警猥亵女孩手臂全是口子",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%B0%91%E8%AD%A6%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%A9%E6%89%8B%E8%87%82%E5%85%A8%E6%98%AF%E5%8F%A3%E5%AD%90%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "据华尔街日报：美国参议员Adam Schiff和John Curtis寻求禁止受商品期货交易委员会（CFTC）监管的实体（包括Kalshi和Polymarket）提供体育博彩业务。",
+          "url": "https://flash.jin10.com/detail/20260323173909094800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "北京三部门约谈12家平台企业 通报“内卷式”竞争第一批问题",
+          "url": "https://www.cls.cn/detail/2321460",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "日本石油协会主席：目前并无以伊朗原油作为替代品的计划。",
@@ -416,7 +455,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -427,9 +466,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "李鸿忠会见中俄友好、和平与发展委员会俄方主席季托夫",
+          "url": "https://flash.jin10.com/detail/20260323173113174800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "民警猥亵女生后曾上门吵闹",
