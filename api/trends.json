@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T19:38:49.639991+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-03-24T20:46:03.474479+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -39,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "市场监管总局召开2026年价格监督检查和反不正当竞争工作座谈会",
-          "url": "https://wallstreetcn.com/livenews/3075942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "金融监管总局副局长周亮被查",
@@ -94,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
-        },
-        {
-          "title": "2025年各级市场监管部门查处反不正当竞争案件1.27万件",
-          "url": "https://wallstreetcn.com/livenews/3075939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "“活鱼麻醉”涉事商户被立案调查",
@@ -158,6 +136,30 @@
           "time_info": "[12时09分 ~ 14时53分]"
         },
         {
+          "title": "市场监管总局召开2026年价格监督检查和反不正当竞争工作座谈会",
+          "url": "https://wallstreetcn.com/livenews/3075942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时46分]"
+        },
+        {
+          "title": "2025年各级市场监管部门查处反不正当竞争案件1.27万件",
+          "url": "https://wallstreetcn.com/livenews/3075939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时46分]"
+        },
+        {
           "title": "马上评｜无良商家给活鱼上“麻药”，监管不能“麻木”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32813940",
           "source": "澎湃新闻",
@@ -201,17 +203,6 @@
           "time_info": "[15时48分 ~ 18时41分]"
         },
         {
-          "title": "学校辟谣“学生遭欺凌被逼跳楼”",
-          "url": "https://www.toutiao.com/trending/7620420826517487626/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 19时38分]"
-        },
-        {
           "title": "美国芝加哥联储主席Goolsbee：可能会出现需要加息的情况",
           "url": "https://wallstreetcn.com/articles/3768179",
           "source": "华尔街见闻",
@@ -221,7 +212,18 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 20时46分]"
+        },
+        {
+          "title": "学校辟谣“学生遭欺凌被逼跳楼”",
+          "url": "https://www.toutiao.com/trending/7620420826517487626/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
           "time_info": "[09时08分 ~ 19时38分]"
         },
         {
@@ -234,11 +236,26 @@
             10,
             13,
             12,
-            9
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 20时46分]"
+        },
+        {
+          "title": "能源市场“祸不单行”！美国最大炼油厂之一突发爆炸",
+          "url": "https://www.cls.cn/detail/2322656",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时53分 ~ 19时38分]"
+          "time_info": "[16时40分 ~ 20时46分]"
         },
         {
           "title": "山东临沂“活鱼麻醉”涉事市场及商户被立案调查",
@@ -252,6 +269,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时08分 ~ 15时48分]"
+        },
+        {
+          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 20时46分]"
         },
         {
           "title": "“面筋哥”女儿自曝遭继父长期性骚扰",
@@ -280,20 +311,6 @@
           "time_info": "[09时08分 ~ 15时48分]"
         },
         {
-          "title": "能源市场“祸不单行”！美国最大炼油厂之一突发爆炸",
-          "url": "https://www.cls.cn/detail/2322656",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时38分]"
-        },
-        {
           "title": "美国得州一炼油厂爆炸黑烟冲天",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E4%B8%80%E7%82%BC%E6%B2%B9%E5%8E%82%E7%88%86%E7%82%B8%E9%BB%91%E7%83%9F%E5%86%B2%E5%A4%A9",
           "source": "百度热搜",
@@ -306,6 +323,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 15时48分]"
+        },
+        {
+          "title": "美国最大炼油厂之一爆炸起火，日均产能39.5万桶，油价明显反弹！",
+          "url": "https://wallstreetcn.com/articles/3768241",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 20时46分]"
         },
         {
           "title": "重大实验室爆炸,操作不当出人命",
@@ -360,19 +389,6 @@
           "time_info": "[13时54分 ~ 15时48分]"
         },
         {
-          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时38分]"
-        },
-        {
           "title": "女子投诉男子列车门口吸烟被发口罩",
           "url": "https://www.toutiao.com/trending/7619524619434868778/",
           "source": "今日头条",
@@ -395,17 +411,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 14时53分]"
-        },
-        {
-          "title": "美国最大炼油厂之一爆炸起火，日均产能39.5万桶，油价明显反弹！",
-          "url": "https://wallstreetcn.com/articles/3768241",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时38分]"
         },
         {
           "title": "面筋哥女儿自曝遭继父持续4年性骚扰",
@@ -448,7 +453,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -481,7 +486,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -514,7 +519,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -525,7 +530,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -558,7 +563,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -613,7 +618,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
