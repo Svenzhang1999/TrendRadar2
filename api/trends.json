@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T17:45:26.806017+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-03-24T18:41:32.940123+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国一炼油厂爆炸 黑烟滚滚冲上高空",
@@ -74,6 +74,17 @@
           "time_info": "15时48分"
         },
         {
+          "title": "中国人民银行行长潘功胜会见新加坡星展集团首席执行官陈淑珊",
+          "url": "https://wallstreetcn.com/livenews/3075891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "“活鱼麻醉”涉事商户被立案调查",
           "url": "https://www.toutiao.com/trending/7620357122077098025/",
           "source": "今日头条",
@@ -83,19 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "美国得州一炼油厂发生爆炸",
-          "url": "https://www.douyin.com/hot/2441363",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 17时45分]"
         },
         {
           "title": "携程、京东、抖音等十二家企业被约谈，集中通报平台「内卷式」竞争问题，哪些信息值得关注？",
@@ -109,6 +107,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时08分 ~ 14时53分]"
+        },
+        {
+          "title": "美国得州一炼油厂发生爆炸",
+          "url": "https://www.douyin.com/hot/2441363",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 18时41分]"
         },
         {
           "title": "美国得州炼油厂发生爆炸",
@@ -137,19 +149,6 @@
           "time_info": "[09时08分 ~ 13时54分]"
         },
         {
-          "title": "美国一炼油厂爆炸 黑烟滚滚",
-          "url": "https://www.toutiao.com/trending/7620617856392232996/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时45分]"
-        },
-        {
           "title": "韩3名工人被困高空众目睽睽中遇难",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A93%E5%90%8D%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%9B%B0%E9%AB%98%E7%A9%BA%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E4%B8%AD%E9%81%87%E9%9A%BE",
           "source": "百度热搜",
@@ -158,11 +157,26 @@
             5,
             9,
             8,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 17时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 18时41分]"
+        },
+        {
+          "title": "美国一炼油厂爆炸 黑烟滚滚",
+          "url": "https://www.toutiao.com/trending/7620617856392232996/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时41分]"
         },
         {
           "title": "学校辟谣“学生遭欺凌被逼跳楼”",
@@ -172,8 +186,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 17时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 18时41分]"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：可能会出现需要加息的情况",
+          "url": "https://wallstreetcn.com/articles/3768179",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 18时41分]"
         },
         {
           "title": "山东临沂“活鱼麻醉”涉事市场及商户被立案调查",
@@ -189,16 +216,19 @@
           "time_info": "[09时08分 ~ 15时48分]"
         },
         {
-          "title": "美国芝加哥联储主席Goolsbee：可能会出现需要加息的情况",
-          "url": "https://wallstreetcn.com/articles/3768179",
-          "source": "华尔街见闻",
+          "title": "网传先锋赛惨遭 G2 横扫的 GEN 战队，返韩后将立即面临假赛专项核查，这场比赛 GEN 的表现真的有问题吗？",
+          "url": "https://www.zhihu.com/question/2019497766355691299",
+          "source": "知乎",
           "ranks": [
+            7,
+            8,
             10,
-            9
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时08分 ~ 17时45分]"
+          "time_info": "[14时53分 ~ 18时41分]"
         },
         {
           "title": "985学生送外卖遭村民殴打",
@@ -215,20 +245,6 @@
           "time_info": "[09时08分 ~ 15时48分]"
         },
         {
-          "title": "网传先锋赛惨遭 G2 横扫的 GEN 战队，返韩后将立即面临假赛专项核查，这场比赛 GEN 的表现真的有问题吗？",
-          "url": "https://www.zhihu.com/question/2019497766355691299",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 17时45分]"
-        },
-        {
           "title": "美国得州一炼油厂爆炸黑烟冲天",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E4%B8%80%E7%82%BC%E6%B2%B9%E5%8E%82%E7%88%86%E7%82%B8%E9%BB%91%E7%83%9F%E5%86%B2%E5%A4%A9",
           "source": "百度热搜",
@@ -241,6 +257,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 15时48分]"
+        },
+        {
+          "title": "“面筋哥”女儿自曝遭继父长期性骚扰",
+          "url": "https://www.toutiao.com/trending/7619956639248072755/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时41分]"
         },
         {
           "title": "重大实验室爆炸,操作不当出人命",
@@ -269,6 +297,19 @@
           "time_info": "[15时48分 ~ 17时45分]"
         },
         {
+          "title": "能源市场“祸不单行”！美国最大炼油厂之一突发爆炸",
+          "url": "https://www.cls.cn/detail/2322656",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时41分]"
+        },
+        {
           "title": "女子乘高铁投诉男子吸烟却被发口罩",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%98%E9%AB%98%E9%93%81%E6%8A%95%E8%AF%89%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%8D%B4%E8%A2%AB%E5%8F%91%E5%8F%A3%E7%BD%A9%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -280,17 +321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时53分 ~ 16时40分]"
-        },
-        {
-          "title": "“面筋哥”女儿自曝遭继父长期性骚扰",
-          "url": "https://www.toutiao.com/trending/7619956639248072755/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时45分]"
         },
         {
           "title": "14岁少年遭虐待离世伤痕遍布全身",
@@ -330,16 +360,28 @@
           "time_info": "[13时54分 ~ 14时53分]"
         },
         {
-          "title": "能源市场“祸不单行”！美国最大炼油厂之一突发爆炸",
-          "url": "https://www.cls.cn/detail/2322656",
-          "source": "财联社热门",
+          "title": "面筋哥女儿自曝遭继父持续4年性骚扰",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%A2%E7%AD%8B%E5%93%A5%E5%A5%B3%E5%84%BF%E8%87%AA%E6%9B%9D%E9%81%AD%E7%BB%A7%E7%88%B6%E6%8C%81%E7%BB%AD4%E5%B9%B4%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            9
+            14,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 18时41分]"
+        },
+        {
+          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时41分]"
         },
         {
           "title": "美国得州一炼油厂发生爆炸",
@@ -364,6 +406,28 @@
           "time_info": "16时40分"
         },
         {
+          "title": "美国最大炼油厂之一爆炸起火，日均产能39.5万桶，油价明显反弹！",
+          "url": "https://wallstreetcn.com/articles/3768241",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见新加坡星展集团首席执行官陈淑珊",
+          "url": "https://flash.jin10.com/detail/20260324183133768800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "新西兰联储主席布雷曼将于十分钟后发表讲话。",
           "url": "https://flash.jin10.com/detail/20260324085000000800",
           "source": "金十数据",
@@ -373,17 +437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "面筋哥女儿自曝遭继父持续4年性骚扰",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%A2%E7%AD%8B%E5%93%A5%E5%A5%B3%E5%84%BF%E8%87%AA%E6%9B%9D%E9%81%AD%E7%BB%A7%E7%88%B6%E6%8C%81%E7%BB%AD4%E5%B9%B4%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "国家市场监督管理总局副局长束为会见美国科恩集团首席执行官罗伯特·泰尔及有关美企负责人",
@@ -397,15 +450,15 @@
           "time_info": "12时09分"
         },
         {
-          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
-          "source": "澎湃新闻",
+          "title": "台北市长选举支持度调查蒋万安领先",
+          "url": "https://www.toutiao.com/trending/7619967113597141033/",
+          "source": "今日头条",
           "ranks": [
-            18
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
+          "time_info": "18时41分"
         },
         {
           "title": "四川人大常委会原副主任宋朝华被公诉",
@@ -417,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "小学被投诉频繁更换任课老师",
+          "url": "https://www.toutiao.com/trending/7620603687216578602/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "租客住4年留下满屋垃圾失联",
