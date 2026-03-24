@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T12:09:16.947130+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-03-24T13:54:20.013596+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "携程、京东、抖音等十二家企业被约谈，集中通报平台「内卷式」竞争问题，哪些信息值得关注？",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时54分]"
+        },
+        {
+          "title": "美国得州炼油厂发生爆炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E7%82%BC%E6%B2%B9%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时09分]"
+          "time_info": "[12时09分 ~ 13时54分]"
         },
         {
           "title": "美国得州一炼油厂发生爆炸",
@@ -26,9 +38,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "美国一炼油厂爆炸 黑烟滚滚冲上高空",
+          "url": "https://www.toutiao.com/trending/7620617856392232996/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "消息人士：在发生爆炸和火灾后，瓦莱罗能源公司正在关闭其位于得克萨斯州亚瑟港的炼油厂生产。",
@@ -37,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -64,15 +87,16 @@
           "time_info": "09时08分"
         },
         {
-          "title": "美国得州炼油厂发生爆炸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E7%82%BC%E6%B2%B9%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "美国得州一炼油厂发生爆炸",
+          "url": "https://www.douyin.com/hot/2441363",
+          "source": "抖音",
           "ranks": [
+            6,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时54分]"
         },
         {
           "title": "马上评｜无良商家给活鱼上“麻药”，监管不能“麻木”",
@@ -80,11 +104,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时54分]"
         },
         {
           "title": "山东临沂“活鱼麻醉”涉事市场及商户被立案调查",
@@ -92,11 +117,59 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时54分]"
+        },
+        {
+          "title": "学校辟谣“学生遭欺凌被逼跳楼”",
+          "url": "https://www.toutiao.com/trending/7620420826517487626/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时54分]"
+        },
+        {
+          "title": "985学生送外卖遭村民殴打",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352163&amp;topic_name=985%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E9%81%AD%E6%9D%91%E6%B0%91%E6%AE%B4%E6%89%93",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时54分]"
+        },
+        {
+          "title": "重大实验室爆炸,操作不当出人命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352159&amp;topic_name=%E9%87%8D%E5%A4%A7%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%2C%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%87%BA%E4%BA%BA%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时54分]"
+        },
+        {
+          "title": "美国得州一炼油厂爆炸黑烟冲天",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E4%B8%80%E7%82%BC%E6%B2%B9%E5%8E%82%E7%88%86%E7%82%B8%E9%BB%91%E7%83%9F%E5%86%B2%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时09分]"
+          "time_info": "[12时09分 ~ 13时54分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee：可能会出现需要加息的情况",
@@ -110,52 +183,6 @@
           "time_info": "[09时08分 ~ 12时09分]"
         },
         {
-          "title": "学校辟谣“学生遭欺凌被逼跳楼”",
-          "url": "https://www.toutiao.com/trending/7620420826517487626/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时09分]"
-        },
-        {
-          "title": "985学生送外卖遭村民殴打",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352163&amp;topic_name=985%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E9%81%AD%E6%9D%91%E6%B0%91%E6%AE%B4%E6%89%93",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时09分]"
-        },
-        {
-          "title": "重大实验室爆炸,操作不当出人命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352159&amp;topic_name=%E9%87%8D%E5%A4%A7%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%2C%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%87%BA%E4%BA%BA%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时09分]"
-        },
-        {
-          "title": "美国得州一炼油厂发生爆炸",
-          "url": "https://www.douyin.com/hot/2441363",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "美国得州一炼油厂发生爆炸",
           "url": "https://wallstreetcn.com/livenews/3075518",
           "source": "华尔街见闻-快讯",
@@ -167,15 +194,26 @@
           "time_info": "09时08分"
         },
         {
-          "title": "美国得州一炼油厂爆炸黑烟冲天",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E4%B8%80%E7%82%BC%E6%B2%B9%E5%8E%82%E7%88%86%E7%82%B8%E9%BB%91%E7%83%9F%E5%86%B2%E5%A4%A9",
-          "source": "百度热搜",
+          "title": "汤加群岛发生7.6级地震",
+          "url": "https://wallstreetcn.com/livenews/3075671",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "13时54分"
+        },
+        {
+          "title": "女子投诉男子列车门口吸烟被发口罩",
+          "url": "https://www.toutiao.com/trending/7619524619434868778/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "新西兰联储主席布雷曼将于十分钟后发表讲话。",
@@ -189,13 +227,24 @@
           "time_info": "09时08分"
         },
         {
+          "title": "14岁少年遭虐待离世伤痕遍布全身",
+          "url": "https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E9%81%AD%E8%99%90%E5%BE%85%E7%A6%BB%E4%B8%96%E4%BC%A4%E7%97%95%E9%81%8D%E5%B8%83%E5%85%A8%E8%BA%AB%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "国家市场监督管理总局副局长束为会见美国科恩集团首席执行官罗伯特·泰尔及有关美企负责人",
           "url": "https://flash.jin10.com/detail/20260324112846486800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -206,9 +255,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "韩3名工人被困高空众目睽睽中遇难",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A93%E5%90%8D%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%9B%B0%E9%AB%98%E7%A9%BA%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E4%B8%AD%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "租客住4年留下满屋垃圾失联",
@@ -217,7 +277,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
