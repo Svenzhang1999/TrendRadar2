@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T09:19:28.453808+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-26T12:25:33.740132+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 32,
       "titles": [
         {
           "title": "关于心源性猝死，你需要知道的6件事",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 12时25分]"
         },
         {
           "title": "如何避免跑步中出现心源性猝死？先问问自己适不适合跑步",
@@ -26,19 +26,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 12时25分]"
         },
         {
-          "title": "心源性猝死急救方式科普",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E6%80%A5%E6%95%91%E6%96%B9%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
+          "title": "菲律宾能源监管机构表示，实施调整后的定价机制是合理的，因为历史价格未能反映当前市场状况。",
+          "url": "https://flash.jin10.com/detail/20260326121039647800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "12时25分"
+        },
+        {
+          "title": "菲律宾能源监管机构表示，根据拟议方案，燃煤电厂或将按固定费率获得补偿，天然气电厂按合同价格结算，可再生能源则享有优先调度权。",
+          "url": "https://flash.jin10.com/detail/20260326120920966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "菲律宾能源监管机构表示，在暂停期间将实施经调整的管制定价机制；该机制计划于2026年4月1日前完成定案。",
+          "url": "https://flash.jin10.com/detail/20260326120545390800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "男子陪家人看病被医生发现猝死先兆",
@@ -56,11 +78,60 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32819117",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 12时25分]"
+        },
+        {
+          "title": "心源性猝死急救方式科普",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E6%80%A5%E6%95%91%E6%96%B9%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 12时25分]"
+        },
+        {
+          "title": "死缓！谭瑞松贪污、受贿、内幕交易、泄露内幕信息案一审宣判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828567",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 12时25分]"
+        },
+        {
+          "title": "熬夜不是猝死的第一杀手",
+          "url": "https://www.baidu.com/s?wd=%E7%86%AC%E5%A4%9C%E4%B8%8D%E6%98%AF%E7%8C%9D%E6%AD%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%80%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 12时25分]"
+        },
+        {
+          "title": "跑者该如何警惕心源性猝死",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%91%E8%80%85%E8%AF%A5%E5%A6%82%E4%BD%95%E8%AD%A6%E6%83%95%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 12时25分]"
         },
         {
           "title": "加完油才发现是“中园石化”，涉事加油站已被立案调查",
@@ -96,15 +167,26 @@
           "time_info": "09时19分"
         },
         {
-          "title": "死缓！谭瑞松贪污、受贿、内幕交易、泄露内幕信息案一审宣判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828567",
-          "source": "澎湃新闻",
+          "title": "专家称心源性猝死突发时速效救心丸可能无法有效急救猝死，为什么？",
+          "url": "https://www.zhihu.com/question/2020068258414293760",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "菲律宾能源监管机构表示，在暂停期间，电力系统将按照能源部发布的特别运行指引进行运作。",
+          "url": "https://flash.jin10.com/detail/20260326120356713800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "12时25分"
         },
         {
           "title": "心源性猝死院外抢救99%失败",
@@ -118,15 +200,15 @@
           "time_info": "09时19分"
         },
         {
-          "title": "熬夜不是猝死的第一杀手",
-          "url": "https://www.baidu.com/s?wd=%E7%86%AC%E5%A4%9C%E4%B8%8D%E6%98%AF%E7%8C%9D%E6%AD%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%80%E6%89%8B",
-          "source": "百度热搜",
+          "title": "菲律宾能源监管机构表示，此次暂停是政府为应对中东冲突引发的能源供应风险和价格波动而采取的紧急措施。",
+          "url": "https://flash.jin10.com/detail/20260326120300831800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "12时25分"
         },
         {
           "title": "中国商务部副部长鄢东会见泰国天丝集团首席执行官许馨雄",
@@ -140,6 +222,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "你的意外险可能不保猝死",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%84%8F%E5%A4%96%E9%99%A9%E5%8F%AF%E8%83%BD%E4%B8%8D%E4%BF%9D%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "2025 年有调查显示，95 、 00 后越来越多人开始拒绝加班，但 80 、 90 后还有不少人在熬，你还会熬吗？",
           "url": "https://www.zhihu.com/question/2019165528103600779",
           "source": "知乎",
@@ -151,6 +244,28 @@
           "time_info": "09时19分"
         },
         {
+          "title": "市场消息：菲律宾能源监管委员会下令暂停全国所有电网的批发电力现货市场运营。",
+          "url": "https://flash.jin10.com/detail/20260326120153545800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "山姆紧急下架！监管部门：已立案",
+          "url": "https://news.ifeng.com/c/8rniIOXe6NE",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "某教师坚持跑步还猝死的事情，是否说明「生命在于运动」这个观念是错误的？",
           "url": "https://www.zhihu.com/question/2020192595012233132",
           "source": "知乎",
@@ -160,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "心源性猝死院外抢救99%失败",
+          "url": "https://www.baidu.com/s?wd=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E9%99%A2%E5%A4%96%E6%8A%A2%E6%95%9199%25%E5%A4%B1%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "西安一黑车司机宰客失败驾车冲撞游客后逃离，这种行为如何定性？遇到黑车宰客、威胁时，普通人该怎么应对？",
@@ -184,15 +310,26 @@
           "time_info": "09时19分"
         },
         {
-          "title": "跑者该如何警惕心源性猝死",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B7%91%E8%80%85%E8%AF%A5%E5%A6%82%E4%BD%95%E8%AD%A6%E6%83%95%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB",
-          "source": "bilibili 热搜",
+          "title": "男孩遭继母虐待 求生母不要再婚",
+          "url": "https://www.toutiao.com/trending/7621067581617635371/",
+          "source": "今日头条",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "12时25分"
+        },
+        {
+          "title": "心源性猝死能否获赔",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E8%83%BD%E5%90%A6%E8%8E%B7%E8%B5%94%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "医生回应婴儿喝蜂蜜水中毒",
