@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T15:54:38.965596+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-27T16:40:41.297092+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "国家市场监管总局转载媒体评论「外卖大战该结束了」，美团、阿里、京东股价大涨，释放了什么信号？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 15时54分]"
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 16时40分]"
         },
         {
           "title": "货拉拉司机运走10箱茅台后失联",
@@ -32,15 +32,27 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
+          "title": "中方回应中国博士后遭美方盘问后自杀",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E5%90%8E%E9%81%AD%E7%BE%8E%E6%96%B9%E7%9B%98%E9%97%AE%E5%90%8E%E8%87%AA%E6%9D%80",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "贵州女厅长昨天被免职今天落马",
           "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E5%A5%B3%E5%8E%85%E9%95%BF%E6%98%A8%E5%A4%A9%E8%A2%AB%E5%85%8D%E8%81%8C%E4%BB%8A%E5%A4%A9%E8%90%BD%E9%A9%AC",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 15时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 16时40分]"
         },
         {
           "title": "普通人避免猝死的6个建议",
@@ -48,11 +60,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 16时40分]"
         },
         {
           "title": "贵州女厅长昨天被免职今天落马",
@@ -60,11 +73,35 @@
           "source": "今日头条",
           "ranks": [
             2,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 16时40分]"
+        },
+        {
+          "title": "一中国博士后遭美方盘问后自杀身亡",
+          "url": "https://www.toutiao.com/trending/7621835188808453668/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时40分]"
+        },
+        {
+          "title": "中国证监会原发行审核委员会主任委员郭旭东涉嫌职务犯罪被移送检察机关审查起诉",
+          "url": "https://wallstreetcn.com/livenews/3078020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时40分]"
         },
         {
           "title": "“湖南两名外卖小哥跳桥自杀”不实",
@@ -87,6 +124,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "女儿险遭性侵 巴西母亲怒杀男子获释",
+          "url": "https://www.toutiao.com/trending/7621476768461373494/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时40分]"
+        },
+        {
+          "title": "一图看懂｜为何伊朗说美国想打通霍尔木兹海峡是“自杀式行动”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32836697",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时40分]"
         },
         {
           "title": "洞庭湖边失联女子遗体已打捞上岸",
@@ -133,26 +194,37 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "一中国博士后遭美方盘问后自杀身亡",
-          "url": "https://www.toutiao.com/trending/7621835188808453668/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "中国证监会原发行审核委员会主任委员郭旭东涉嫌职务犯罪被移送检察机关审查起诉",
-          "url": "https://wallstreetcn.com/livenews/3078020",
-          "source": "华尔街见闻-快讯",
+          "title": "中国博士后遭美方约谈盘问后自杀",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8D%9A%E5%A3%AB%E5%90%8E%E9%81%AD%E7%BE%8E%E6%96%B9%E7%BA%A6%E8%B0%88%E7%9B%98%E9%97%AE%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "16时40分"
+        },
+        {
+          "title": "商务部：对美国发起贸易壁垒调查",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%8F%91%E8%B5%B7%E8%B4%B8%E6%98%93%E5%A3%81%E5%9E%92%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "商务部新闻发言人就对美启动两项贸易壁垒调查答记者问",
+          "url": "https://wallstreetcn.com/livenews/3078042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "国际资本市场协会首席执行官布莱恩·佩斯科：中东资本对中国市场展现出更浓厚的兴趣",
@@ -166,13 +238,24 @@
           "time_info": "12时26分"
         },
         {
+          "title": "商务部对美国破坏全球产供链、阻碍绿色产品贸易相关做法和措施发起贸易壁垒调查",
+          "url": "https://wallstreetcn.com/livenews/3078040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "中国博士后遭美方执法人员盘问后自杀，外交部回应",
           "url": "https://flash.jin10.com/detail/20260327153259332800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -188,26 +271,15 @@
           "time_info": "14时07分"
         },
         {
-          "title": "女儿险遭性侵 巴西母亲怒杀男子获释",
-          "url": "https://www.toutiao.com/trending/7621476768461373494/",
-          "source": "今日头条",
+          "title": "摩企禁止驾龄一年内新手买大排量摩托引投诉，如何看待此规定？",
+          "url": "https://www.zhihu.com/question/2020234696731174654",
+          "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "一图看懂｜为何伊朗说美国想打通霍尔木兹海峡是“自杀式行动”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32836697",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "16时40分"
         }
       ]
     }
