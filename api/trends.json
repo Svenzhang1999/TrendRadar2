@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T18:23:02.729650+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-03-28T19:20:35.948818+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "太原通报“学校职工举报自己违规调动、吃空饷”：成立调查组",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时12分 ~ 19时20分]"
         },
         {
           "title": "游客给妻子拍照因设备太专业被驱赶，景区回应系禁止商业拍摄，如何看待此事？此类规定怎样能执行得更合情理？",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时12分 ~ 19时20分]"
         },
         {
           "title": "中国博士后在遭美方约谈盘问后自杀，外交部：敦促美方彻查此案，停止炮制冤假错案",
@@ -57,19 +57,6 @@
           "time_info": "[12时10分 ~ 16时28分]"
         },
         {
-          "title": "留美学者蹊跷自杀,中方要说法",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352449&amp;topic_name=%E7%95%99%E7%BE%8E%E5%AD%A6%E8%80%85%E8%B9%8A%E8%B7%B7%E8%87%AA%E6%9D%80%2C%E4%B8%AD%E6%96%B9%E8%A6%81%E8%AF%B4%E6%B3%95",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 18时23分]"
-        },
-        {
           "title": "广东省政协党组成员、副主席郭永航被查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32843386",
           "source": "澎湃新闻",
@@ -83,15 +70,26 @@
           "time_info": "[09时12分 ~ 18时23分]"
         },
         {
-          "title": "马士基：据了解，该事件涉及无人机活动，同时还报告了爆炸。",
-          "url": "https://flash.jin10.com/detail/20260328174937400800",
+          "title": "航行警告：渤海海峡黄海北部执行军事任务",
+          "url": "https://flash.jin10.com/detail/20260328184604833800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "19时20分"
+        },
+        {
+          "title": "国务院食安办、市场监管总局约谈相关地方市级人民政府负责人 督办“3・15”晚会曝光问题整改",
+          "url": "https://wallstreetcn.com/livenews/3078574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "阿布扎比媒体表示，将提供有关阿布扎比哈利法经济区附近火灾的最新消息。",
@@ -116,6 +114,20 @@
           "time_info": "12时10分"
         },
         {
+          "title": "留美学者蹊跷自杀,中方要说法",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352449&amp;topic_name=%E7%95%99%E7%BE%8E%E5%AD%A6%E8%80%85%E8%B9%8A%E8%B7%B7%E8%87%AA%E6%9D%80%2C%E4%B8%AD%E6%96%B9%E8%A6%81%E8%AF%B4%E6%B3%95",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时20分]"
+        },
+        {
           "title": "中国「无人飞枪」首次亮相，火力配置如何？能执行哪些特殊任务？能改变未来战场格局吗？",
           "url": "https://www.zhihu.com/question/2020587663019746992",
           "source": "知乎",
@@ -128,6 +140,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时12分 ~ 18时23分]"
+        },
+        {
+          "title": "马士基：据了解，该事件涉及无人机活动，同时还报告了爆炸。",
+          "url": "https://flash.jin10.com/detail/20260328174937400800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "高尔夫球星“老虎”伍兹被捕",
@@ -161,11 +185,12 @@
             10,
             12,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时20分]"
         },
         {
           "title": "高尔夫球星“老虎”伍兹被捕",
@@ -259,6 +284,30 @@
           "time_info": "[09时12分 ~ 13时50分]"
         },
         {
+          "title": "41岁单亲妈妈“涉黑”被羁押821天无罪释放，警方以骗贷为由再立案，检察院回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849132",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时20分]"
+        },
+        {
+          "title": "广东省委：坚决拥护党中央对郭永航进行审查调查的决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32844530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时20分]"
+        },
+        {
           "title": "喜临门紧急冻结9亿元账户",
           "url": "https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%B8%B4%E9%97%A8%E7%B4%A7%E6%80%A5%E5%86%BB%E7%BB%939%E4%BA%BF%E5%85%83%E8%B4%A6%E6%88%B7%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -307,26 +356,16 @@
           "time_info": "[09时12分 ~ 12时10分]"
         },
         {
-          "title": "41岁单亲妈妈“涉黑”被羁押821天无罪释放，警方以骗贷为由再立案，检察院回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849132",
-          "source": "澎湃新闻",
+          "title": "伊拉克国防部：无人机坠落在伊拉克马季努恩（MAJNOON ）油田，未发生爆炸，无物质损失或人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260328171339261800",
+          "source": "金十数据",
           "ranks": [
-            17
+            15,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
-        },
-        {
-          "title": "广东省委：坚决拥护党中央对郭永航进行审查调查的决定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32844530",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "市场消息：阿曼萨拉拉港暂停运营。",
@@ -353,6 +392,17 @@
           "time_info": "[09时12分 ~ 15时38分]"
         },
         {
+          "title": "【马来西亚说伊朗允许马滞留油轮通行霍尔木兹海峡】马来西亚外交部长穆罕默德28日说，伊朗政府已允许数艘滞留在霍尔木兹海峡的马来西亚油轮通行。穆罕默德当天对媒体说，鉴于当前中东地区紧张局势，尽管相关油轮已获准通过霍尔木兹海峡，但仍需等待适当的“通行窗口”。穆罕默德说，马方此前已多次与伊朗方面沟通。在马来西亚总理安瓦尔与伊朗总统佩泽希齐扬通话后，伊方作出积极回应，同意相关船只通行。安瓦尔日前与佩泽希齐扬通话，对伊朗遇难者表示深切哀悼，同时谴责任何针对平民的打击行为。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3078569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "中方对美发起两项贸易壁垒调查",
           "url": "https://www.douyin.com/hot/2445780",
           "source": "抖音",
@@ -364,15 +414,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "伊拉克国防部：无人机坠落在伊拉克马季努恩（MAJNOON ）油田，未发生爆炸，无物质损失或人员伤亡报告。",
-          "url": "https://flash.jin10.com/detail/20260328171339261800",
-          "source": "金十数据",
+          "title": "专家辟谣鱼腥草致癌传言",
+          "url": "https://www.douyin.com/hot/2447005",
+          "source": "抖音",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "19时20分"
         },
         {
           "title": "干冰放冰箱为何会发生爆炸",
