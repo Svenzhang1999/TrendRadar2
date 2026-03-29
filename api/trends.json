@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:28:28.959756+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-03-29T18:23:23.443409+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 18时23分]"
         },
         {
           "title": "官方通报女子被羁押后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时07分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时07分 ~ 18时23分]"
         },
         {
           "title": "美以伊战争丨以色列多人因反战被捕",
@@ -92,11 +92,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 18时23分]"
         },
         {
           "title": "太原火灾已致3死23伤",
@@ -166,11 +167,12 @@
             3,
             9,
             12,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 18时23分]"
         },
         {
           "title": "副部级高官落马 多名前下属被查",
@@ -195,11 +197,12 @@
             18,
             19,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 18时23分]"
         },
         {
           "title": "女子被羁押821天后不予起诉申请国家赔偿被叫停，当地成立联合调查组",
@@ -209,11 +212,12 @@
             16,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 18时23分]"
         },
         {
           "title": "副部级高官落马 多名前下属被查",
@@ -230,6 +234,20 @@
           "time_info": "[12时29分 ~ 17时28分]"
         },
         {
+          "title": "黑龙江海林一楼房坍塌9人被困",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%B5%B7%E6%9E%97%E4%B8%80%E6%A5%BC%E6%88%BF%E5%9D%8D%E5%A1%8C9%E4%BA%BA%E8%A2%AB%E5%9B%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 18时23分]"
+        },
+        {
           "title": "仰望迭代割韭菜,车主抱团维权",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352445&amp;topic_name=%E4%BB%B0%E6%9C%9B%E8%BF%AD%E4%BB%A3%E5%89%B2%E9%9F%AD%E8%8F%9C%2C%E8%BD%A6%E4%B8%BB%E6%8A%B1%E5%9B%A2%E7%BB%B4%E6%9D%83",
           "source": "贴吧",
@@ -241,19 +259,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 15时46分]"
-        },
-        {
-          "title": "黑龙江海林一楼房坍塌9人被困",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%B5%B7%E6%9E%97%E4%B8%80%E6%A5%BC%E6%88%BF%E5%9D%8D%E5%A1%8C9%E4%BA%BA%E8%A2%AB%E5%9B%B0",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 17时28分]"
         },
         {
           "title": "伊朗军队谴责针对伊拉克库尔德斯坦地区主席官邸的无人机袭击。",
