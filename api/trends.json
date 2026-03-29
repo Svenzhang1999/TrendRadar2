@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-29T19:21:03.772219+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-03-29T20:33:03.623612+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "官方通报女子被羁押后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
+          "url": "https://www.zhihu.com/question/2021515727467803576",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时07分 ~ 20时33分]"
+        },
         {
           "title": "国务院食安办、市场监管总局约谈315晚会曝光问题地方政府负责人",
           "url": "https://m.thepaper.cn/newsDetail_forward_32851798",
@@ -19,18 +32,6 @@
           "time_info": "[09时22分 ~ 18时23分]"
         },
         {
-          "title": "官方通报女子被羁押后无罪释放，申请国赔 13 天被叫停，当地成立联合调查组，最该查清什么？带来哪些深思？",
-          "url": "https://www.zhihu.com/question/2021515727467803576",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时07分 ~ 19时21分]"
-        },
-        {
           "title": "美以伊战争丨以色列多人因反战被捕",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "据半岛电视台：伊朗南部城市设拉子报告四起爆炸事件。",
+          "url": "https://flash.jin10.com/detail/20260329201904043800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "两艘失联援助船只安全抵达古巴",
@@ -96,8 +108,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 20时33分]"
         },
         {
           "title": "太原火灾已致3死23伤",
@@ -189,23 +201,6 @@
           "time_info": "[12时29分 ~ 16时30分]"
         },
         {
-          "title": "留美学者蹊跷自杀,中方要说法",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352449&amp;topic_name=%E7%95%99%E7%BE%8E%E5%AD%A6%E8%80%85%E8%B9%8A%E8%B7%B7%E8%87%AA%E6%9D%80%2C%E4%B8%AD%E6%96%B9%E8%A6%81%E8%AF%B4%E6%B3%95",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            18,
-            19,
-            20,
-            22,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时22分 ~ 19时21分]"
-        },
-        {
           "title": "女子被羁押821天后不予起诉申请国家赔偿被叫停，当地成立联合调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_32856029",
           "source": "澎湃新闻",
@@ -218,8 +213,26 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 20时33分]"
+        },
+        {
+          "title": "留美学者蹊跷自杀,中方要说法",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352449&amp;topic_name=%E7%95%99%E7%BE%8E%E5%AD%A6%E8%80%85%E8%B9%8A%E8%B7%B7%E8%87%AA%E6%9D%80%2C%E4%B8%AD%E6%96%B9%E8%A6%81%E8%AF%B4%E6%B3%95",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            18,
+            19,
+            20,
+            22,
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 20时33分]"
         },
         {
           "title": "黑龙江海林一楼房坍塌9人被困",
@@ -229,11 +242,12 @@
             24,
             23,
             22,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时46分 ~ 19时21分]"
+          "appearance_count": 9,
+          "time_info": "[15时46分 ~ 20时33分]"
         },
         {
           "title": "副部级高官落马 多名前下属被查",
@@ -286,6 +300,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 12时29分]"
+        },
+        {
+          "title": "应急管理局回应海林歌厅坍塌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%80%A5%E7%AE%A1%E7%90%86%E5%B1%80%E5%9B%9E%E5%BA%94%E6%B5%B7%E6%9E%97%E6%AD%8C%E5%8E%85%E5%9D%8D%E5%A1%8C%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 20时33分]"
+        },
+        {
+          "title": "广东出现高铁接触网挂异物故障，部分列车晚点",
+          "url": "https://news.ifeng.com/c/8rtTDcC64r4",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 20时33分]"
         },
         {
           "title": "专家辟谣鱼腥草致癌传言",
