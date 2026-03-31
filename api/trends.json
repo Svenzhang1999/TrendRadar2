@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T19:41:43.603763+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-03-31T20:53:23.313791+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 55,
+      "match_count": 62,
       "titles": [
         {
           "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "美国贸易代表格里尔：（谈20%关税）无法预测301调查结果。",
+          "url": "https://flash.jin10.com/detail/20260331204224631800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "央视调查烧秸秆屡禁不止",
@@ -102,6 +113,24 @@
           "time_info": "[12时28分 ~ 14时11分]"
         },
         {
+          "title": "Milkway自证:泄露BP是假的",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352513&amp;topic_name=Milkway%E8%87%AA%E8%AF%81%3A%E6%B3%84%E9%9C%B2BP%E6%98%AF%E5%81%87%E7%9A%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            12,
+            14,
+            17,
+            22,
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 20时53分]"
+        },
+        {
           "title": "美客机从巴西起飞后发动机爆炸",
           "url": "https://www.toutiao.com/trending/7622952841149628425/",
           "source": "今日头条",
@@ -117,21 +146,19 @@
           "time_info": "[09时20分 ~ 19时41分]"
         },
         {
-          "title": "Milkway自证:泄露BP是假的",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352513&amp;topic_name=Milkway%E8%87%AA%E8%AF%81%3A%E6%B3%84%E9%9C%B2BP%E6%98%AF%E5%81%87%E7%9A%84",
-          "source": "贴吧",
+          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
+            15,
             12,
-            14,
-            17,
-            22,
-            23,
-            26
+            10,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时20分 ~ 19时41分]"
+          "time_info": "[12时28分 ~ 20时53分]"
         },
         {
           "title": "丝芭实名举报,小鞠偷税漏税",
@@ -143,25 +170,12 @@
             11,
             16,
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 19时41分]"
-        },
-        {
-          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 20时53分]"
         },
         {
           "title": "鞠婧祎被实名举报偷税漏税，有哪些信息值得关注？对鞠婧祎的影响有多大？",
@@ -173,8 +187,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 20时53分]"
         },
         {
           "title": "中国学者遭美方盘问后自杀，中领馆回应",
@@ -184,8 +198,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 20时53分]"
         },
         {
           "title": "美联储主席在哈佛讲了什么",
@@ -194,11 +208,12 @@
           "ranks": [
             24,
             28,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 20时53分]"
         },
         {
           "title": "独立音乐人谈自己维权之路",
@@ -210,8 +225,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 20时53分]"
         },
         {
           "title": "《跳楼机》原唱深夜发文称忍不下了",
@@ -251,6 +266,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 12时28分]"
+        },
+        {
+          "title": "跳楼机数月吸金4000万原唱收入为0",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E6%95%B0%E6%9C%88%E5%90%B8%E9%87%914000%E4%B8%87%E5%8E%9F%E5%94%B1%E6%94%B6%E5%85%A5%E4%B8%BA0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 20时53分]"
         },
         {
           "title": "28岁在意失联川大博士遗体已找到",
@@ -347,6 +374,17 @@
           "time_info": "14时11分"
         },
         {
+          "title": "路透调查：预计2026年美国原油平均价格为每桶76.78美元，而2月的预测为60.38美元；布伦特原油2026年平均价格预计为每桶82.85美元，而2月份的预测为63.85美元。",
+          "url": "https://flash.jin10.com/detail/20260331204105331800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "中国证监会主席吴清会见澳门金融管理局行政管理委员会主席黄善文",
           "url": "https://wallstreetcn.com/livenews/3080049",
           "source": "华尔街见闻-快讯",
@@ -358,15 +396,15 @@
           "time_info": "17时55分"
         },
         {
-          "title": "跳楼机数月吸金4000万原唱收入为0",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E6%95%B0%E6%9C%88%E5%90%B8%E9%87%914000%E4%B8%87%E5%8E%9F%E5%94%B1%E6%94%B6%E5%85%A5%E4%B8%BA0%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
+          "url": "https://www.zhihu.com/question/2022397421683040410",
+          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "20时53分"
         },
         {
           "title": "重庆一隧道爆炸致4人死亡",
@@ -402,13 +440,35 @@
           "time_info": "09时20分"
         },
         {
+          "title": "美军参谋长联席会议主席丹·凯恩：我们将继续打击伊朗的防御工业基础设施。",
+          "url": "https://flash.jin10.com/detail/20260331203925611800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "巴菲特：股票估值仍然缺乏吸引力。 苹果仍然是伯克希尔哈撒韦最大的单一投资。 仍参与伯克希尔哈撒韦公司的投资决策，但不会做出任何首席执行官格雷格·阿贝尔认为错误的投资。 伯克希尔哈撒韦本周购买了170亿美元的国库券。 如果市场出现大幅下跌，伯克希尔将动用现金进行投资。 预计伯克希尔在苹果公司的投资上获利超过1000亿美元。 我开始减持苹果股票的时间过早。 我不知道股市会如何发展，也不相信其他人能预测得出。",
+          "url": "https://wallstreetcn.com/livenews/3080159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "微软(MSFT.O)：已与英国反垄断监管机构进行建设性合作，就云计算市场的相关调整达成一致。",
           "url": "https://flash.jin10.com/detail/20260331190656395800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -463,7 +523,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -474,9 +534,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "美军参谋长联席会议主席丹·凯恩：美军驻扎就在外面，伊朗应考虑外交途径。",
+          "url": "https://flash.jin10.com/detail/20260331203730655800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "英国竞争与市场管理局（CMA）：CMA将针对微软的商业软件生态系统启动一项市场调查（SMS调查），将于5月开始征求意见。 将继续与微软、亚马逊保持积极接触，以确保双方采取进一步实质性措施，促进云客户的自主选择。 认为亚马逊云服务（AWS）和微软必须在云领域继续与CMA主动接触，这一点至关重要。 在与微软许可实践相关的担忧方面未发现进展，这些许可实践正在削弱云市场的竞争。",
@@ -485,7 +556,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -499,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "阿联酋迪拜传出爆炸声",
@@ -529,7 +611,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
