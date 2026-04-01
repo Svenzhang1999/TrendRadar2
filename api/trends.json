@@ -1,740 +1,209 @@
 {
-  "generated_at": "2026-03-31T20:53:23.313791+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-04-01T09:27:27.200515+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 62,
+      "match_count": 18,
       "titles": [
         {
-          "title": "中共中央和习近平总书记欢迎并邀请中国国民党主席郑丽文率团来访",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860443",
+          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
           "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "09时27分"
         },
         {
-          "title": "阿联酋迪拜传出爆炸声",
-          "url": "https://flash.jin10.com/detail/20260331153410560800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "吴清主席会见澳门金融管理局行政管理委员会主席黄善文",
-          "url": "https://flash.jin10.com/detail/20260331173300677800",
+          "title": "欧洲地中海地震中心：日本本州东部地区发生5级地震。",
+          "url": "https://flash.jin10.com/detail/20260401091541402800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "09时27分"
         },
         {
-          "title": "父母搬砖供出的博士在意遇难",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%90%AC%E7%A0%96%E4%BE%9B%E5%87%BA%E7%9A%84%E5%8D%9A%E5%A3%AB%E5%9C%A8%E6%84%8F%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
+          "url": "https://www.zhihu.com/question/2022394365436248248",
+          "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "09时27分"
         },
         {
-          "title": "美国贸易代表格里尔：（谈20%关税）无法预测301调查结果。",
-          "url": "https://flash.jin10.com/detail/20260331204224631800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "央视调查烧秸秆屡禁不止",
-          "url": "https://www.toutiao.com/trending/7622614582146449435/",
-          "source": "今日头条",
+          "title": "俄罗斯一架运输机坠毁 29人遇难",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E6%9E%B6%E8%BF%90%E8%BE%93%E6%9C%BA%E5%9D%A0%E6%AF%81+29%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "媒体称电饭煲保温超 4 小时将繁殖细菌，甚至产生致癌物，是真的吗？我们日常使用电饭煲时还要注意什么？",
-          "url": "https://www.zhihu.com/question/2021897595077837439",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            4,
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 17时55分]"
-        },
-        {
-          "title": "央视调查烧秸秆屡禁不止",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E7%83%A7%E7%A7%B8%E7%A7%86%E5%B1%A1%E7%A6%81%E4%B8%8D%E6%AD%A2",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时28分]"
-        },
-        {
-          "title": "在意遇难博士床上四件套用了7年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%84%8F%E9%81%87%E9%9A%BE%E5%8D%9A%E5%A3%AB%E5%BA%8A%E4%B8%8A%E5%9B%9B%E4%BB%B6%E5%A5%97%E7%94%A8%E4%BA%867%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时11分]"
-        },
-        {
-          "title": "Milkway自证:泄露BP是假的",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352513&amp;topic_name=Milkway%E8%87%AA%E8%AF%81%3A%E6%B3%84%E9%9C%B2BP%E6%98%AF%E5%81%87%E7%9A%84",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            12,
-            14,
-            17,
-            22,
-            23,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 20时53分]"
-        },
-        {
-          "title": "美客机从巴西起飞后发动机爆炸",
-          "url": "https://www.toutiao.com/trending/7622952841149628425/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7,
-            6,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 19时41分]"
+          "time_info": "09时27分"
         },
         {
           "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            12,
-            10,
-            7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
-          "title": "丝芭实名举报,小鞠偷税漏税",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352571&amp;topic_name=%E4%B8%9D%E8%8A%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%2C%E5%B0%8F%E9%9E%A0%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            11,
-            16,
-            17,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 20时53分]"
-        },
-        {
-          "title": "鞠婧祎被实名举报偷税漏税，有哪些信息值得关注？对鞠婧祎的影响有多大？",
-          "url": "https://www.zhihu.com/question/2022252700604134491",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 20时53分]"
-        },
-        {
-          "title": "中国学者遭美方盘问后自杀，中领馆回应",
-          "url": "https://news.ifeng.com/c/8rwH1tjBu0m",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 20时53分]"
-        },
-        {
-          "title": "美联储主席在哈佛讲了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9C%A8%E5%93%88%E4%BD%9B%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            28,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 20时53分]"
-        },
-        {
-          "title": "独立音乐人谈自己维权之路",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8B%AC%E7%AB%8B%E9%9F%B3%E4%B9%90%E4%BA%BA%E8%B0%88%E8%87%AA%E5%B7%B1%E7%BB%B4%E6%9D%83%E4%B9%8B%E8%B7%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 20时53分]"
-        },
-        {
-          "title": "《跳楼机》原唱深夜发文称忍不下了",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%B7%B3%E6%A5%BC%E6%9C%BA%E3%80%8B%E5%8E%9F%E5%94%B1%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87%E7%A7%B0%E5%BF%8D%E4%B8%8D%E4%B8%8B%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 16时02分]"
-        },
-        {
-          "title": "跳楼机原唱实在是忍不下去了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%8E%9F%E5%94%B1%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%BF%8D%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 14时11分]"
-        },
-        {
-          "title": "重庆一隧道爆炸致4死9伤",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E9%9A%A7%E9%81%93%E7%88%86%E7%82%B8%E8%87%B44%E6%AD%BB9%E4%BC%A4%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时28分]"
-        },
-        {
-          "title": "跳楼机数月吸金4000万原唱收入为0",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E6%95%B0%E6%9C%88%E5%90%B8%E9%87%914000%E4%B8%87%E5%8E%9F%E5%94%B1%E6%94%B6%E5%85%A5%E4%B8%BA0%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 20时53分]"
-        },
-        {
-          "title": "28岁在意失联川大博士遗体已找到",
-          "url": "https://www.baidu.com/s?wd=28%E5%B2%81%E5%9C%A8%E6%84%8F%E5%A4%B1%E8%81%94%E5%B7%9D%E5%A4%A7%E5%8D%9A%E5%A3%AB%E9%81%97%E4%BD%93%E5%B7%B2%E6%89%BE%E5%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时11分]"
-        },
-        {
-          "title": "瓦努阿图群岛7.3级地震",
-          "url": "https://www.douyin.com/hot/2449079",
-          "source": "抖音",
-          "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时28分]"
-        },
-        {
-          "title": "何洁曾说她们公司就靠跳楼机活着",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%81%E6%9B%BE%E8%AF%B4%E5%A5%B9%E4%BB%AC%E5%85%AC%E5%8F%B8%E5%B0%B1%E9%9D%A0%E8%B7%B3%E6%A5%BC%E6%9C%BA%E6%B4%BB%E7%9D%80%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时28分]"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 12时28分]"
-        },
-        {
-          "title": "何洁曾说她们公司就靠《跳楼机》活着",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E6%B4%81%E6%9B%BE%E8%AF%B4%E5%A5%B9%E4%BB%AC%E5%85%AC%E5%8F%B8%E5%B0%B1%E9%9D%A0%E3%80%8A%E8%B7%B3%E6%A5%BC%E6%9C%BA%E3%80%8B%E6%B4%BB%E7%9D%80",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时11分]"
-        },
-        {
-          "title": "中国学者遭美盘问后自杀 中领馆发声",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E9%81%AD%E7%BE%8E%E7%9B%98%E9%97%AE%E5%90%8E%E8%87%AA%E6%9D%80+%E4%B8%AD%E9%A2%86%E9%A6%86%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 16时02分]"
-        },
-        {
-          "title": "重庆一隧道爆炸致4死9伤",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E4%B8%80%E9%9A%A7%E9%81%93%E7%88%86%E7%82%B8%E8%87%B44%E6%AD%BB9%E4%BC%A4",
-          "source": "bilibili 热搜",
+          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
+          "url": "https://wallstreetcn.com/articles/3768915",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "09时27分"
         },
         {
-          "title": "美媒：因机场托运行李中藏有爆炸性弹药，一美海军陆战队员被警方拘留",
-          "url": "https://flash.jin10.com/detail/20260331140654894800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "路透调查：预计2026年美国原油平均价格为每桶76.78美元，而2月的预测为60.38美元；布伦特原油2026年平均价格预计为每桶82.85美元，而2月份的预测为63.85美元。",
-          "url": "https://flash.jin10.com/detail/20260331204105331800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "中国证监会主席吴清会见澳门金融管理局行政管理委员会主席黄善文",
-          "url": "https://wallstreetcn.com/livenews/3080049",
+          "title": "日本关东地区发生5级地震，东京震感明显。",
+          "url": "https://wallstreetcn.com/livenews/3080498",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "09时27分"
+        },
+        {
+          "title": "俄罗斯一架运输机坠毁 29人遇难",
+          "url": "https://www.toutiao.com/trending/7623520075143823414/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "中领馆：发现疑似失联留学生遗体",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%EF%BC%9A%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%A4%B1%E8%81%94%E7%95%99%E5%AD%A6%E7%94%9F%E9%81%97%E4%BD%93",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
           "url": "https://www.zhihu.com/question/2022397421683040410",
           "source": "知乎",
           "ranks": [
-            7
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "09时27分"
         },
         {
-          "title": "重庆一隧道爆炸致4人死亡",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E9%9A%A7%E9%81%93%E7%88%86%E7%82%B8%E8%87%B44%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "网贷最强监管落地，要求公开统一年化息费、设定 24% 利率上限、整治乱象，将带来哪些利好？",
+          "url": "https://www.zhihu.com/question/2021872228699042724",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "09时27分"
         },
         {
-          "title": "央视调查烧秸秆屡禁不止",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E7%83%A7%E7%A7%B8%E7%A7%86%E5%B1%A1%E7%A6%81%E4%B8%8D%E6%AD%A2%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "市场监管总局发布2025年“小微企业质量认证提升行动”工作情况的通报",
-          "url": "https://flash.jin10.com/detail/20260331090459915800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "美军参谋长联席会议主席丹·凯恩：我们将继续打击伊朗的防御工业基础设施。",
-          "url": "https://flash.jin10.com/detail/20260331203925611800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "巴菲特：股票估值仍然缺乏吸引力。 苹果仍然是伯克希尔哈撒韦最大的单一投资。 仍参与伯克希尔哈撒韦公司的投资决策，但不会做出任何首席执行官格雷格·阿贝尔认为错误的投资。 伯克希尔哈撒韦本周购买了170亿美元的国库券。 如果市场出现大幅下跌，伯克希尔将动用现金进行投资。 预计伯克希尔在苹果公司的投资上获利超过1000亿美元。 我开始减持苹果股票的时间过早。 我不知道股市会如何发展，也不相信其他人能预测得出。",
-          "url": "https://wallstreetcn.com/livenews/3080159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "微软(MSFT.O)：已与英国反垄断监管机构进行建设性合作，就云计算市场的相关调整达成一致。",
-          "url": "https://flash.jin10.com/detail/20260331190656395800",
+          "title": "据日本放送协会NHK：日本枥木县地震震度达5级。",
+          "url": "https://flash.jin10.com/detail/20260401091033836800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "09时27分"
         },
         {
-          "title": "鞠婧祎否认偷税漏税 指控丝芭诽谤",
-          "url": "https://www.baidu.com/s?wd=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%90%A6%E8%AE%A4%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E+%E6%8C%87%E6%8E%A7%E4%B8%9D%E8%8A%AD%E8%AF%BD%E8%B0%A4",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "何洁曾说她们公司就靠《跳楼机》活着",
-          "url": "https://www.toutiao.com/trending/7623214525625499674/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
-          "title": "男孩看望离异母亲遭其同居男友殴打",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E7%9C%8B%E6%9C%9B%E7%A6%BB%E5%BC%82%E6%AF%8D%E4%BA%B2%E9%81%AD%E5%85%B6%E5%90%8C%E5%B1%85%E7%94%B7%E5%8F%8B%E6%AE%B4%E6%89%93",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "英国对华挖掘机发起反吸收调查",
-          "url": "https://wallstreetcn.com/livenews/3079803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "丝芭传媒否认举报鞠婧祎偷税漏税",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E5%90%A6%E8%AE%A4%E4%B8%BE%E6%8A%A5%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
-          "source": "百度热搜",
+          "title": "美联储主席在哈佛讲了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9C%A8%E5%93%88%E4%BD%9B%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "09时27分"
         },
         {
-          "title": "据英国金融时报：英国竞争监管机构计划对微软(MSFT.O)的软件业务部门展开调查，以确保这家Windows操作系统开发商不会阻碍在人工智能热潮中涌现的新兴竞争对手的发展。",
-          "url": "https://flash.jin10.com/detail/20260331190344564800",
+          "title": "日本发生地震，东京有震感。",
+          "url": "https://flash.jin10.com/detail/20260401090817604800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "09时27分"
         },
         {
-          "title": "美军参谋长联席会议主席丹·凯恩：美军驻扎就在外面，伊朗应考虑外交途径。",
-          "url": "https://flash.jin10.com/detail/20260331203730655800",
+          "title": "日本政府发布紧急地震预警。",
+          "url": "https://flash.jin10.com/detail/20260401090727185800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "英国竞争与市场管理局（CMA）：CMA将针对微软的商业软件生态系统启动一项市场调查（SMS调查），将于5月开始征求意见。 将继续与微软、亚马逊保持积极接触，以确保双方采取进一步实质性措施，促进云客户的自主选择。 认为亚马逊云服务（AWS）和微软必须在云领域继续与CMA主动接触，这一点至关重要。 在与微软许可实践相关的担忧方面未发现进展，这些许可实践正在削弱云市场的竞争。",
-          "url": "https://wallstreetcn.com/livenews/3080118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "09时27分"
         },
         {
-          "title": "重庆一隧道发生爆炸事故致4死",
-          "url": "https://www.douyin.com/hot/2449476",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "阿联酋迪拜传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3079955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "男子按摩后猝死 家属索赔150万",
-          "url": "https://www.toutiao.com/trending/7622525011208880134/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "市场消息：当地市长称，俄罗斯“鞑靼斯坦共和国”的Nizhnekamskneftechim石油化工厂发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260331185958303800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "监管部门密集发文剑指“内卷式”竞争，规范新能源车行业秩序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862487",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "市场监管总局、民政部发布新规规范殡葬领域明码标价",
-          "url": "https://flash.jin10.com/detail/20260331120111562800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "严正敦促美方彻查中国学者自杀案件",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%AD%A3%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E5%BD%BB%E6%9F%A5%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%87%AA%E6%9D%80%E6%A1%88%E4%BB%B6%23&t=31&band_rank=20&Refer=top",
+          "title": "俄罗斯运输机坠毁29人遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%90%E8%BE%93%E6%9C%BA%E5%9D%A0%E6%AF%8129%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "09时27分"
         },
         {
-          "title": "中国学者遭美盘问后自杀 中领馆发声",
-          "url": "https://www.toutiao.com/trending/7623264246672785471/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "鞠婧祎被丝芭实名举报涉嫌偷税漏税",
-          "url": "https://www.baidu.com/s?wd=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%A2%AB%E4%B8%9D%E8%8A%AD%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%B6%89%E5%AB%8C%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E",
+          "title": "军事机密泄露竟是因为运动手表",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E6%B3%84%E9%9C%B2%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E5%8A%A8%E6%89%8B%E8%A1%A8",
           "source": "百度热搜",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "09时27分"
         },
         {
-          "title": "据伊拉克国家通讯社：无人机在伊拉克西库尔纳1号油田的一片空旷地带坠毁，未发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260331152240838800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "重庆一隧道发生爆炸事故致4死9伤",
-          "url": "https://www.toutiao.com/trending/7623211957360791086/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "28岁在意失联川大博士遗体已找到",
-          "url": "https://www.toutiao.com/trending/7623205458349834250/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "美一颗“星链”卫星失联 太空碎片监测中",
-          "url": "https://wallstreetcn.com/livenews/3079777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "市场监管总局全面启动网络食品安全合规提质行动",
-          "url": "https://wallstreetcn.com/livenews/3080016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "据耶路撒冷邮报：伊朗集束炸弹的多个碎片在以色列中部多个地点落下，导致九人受伤，多辆汽车起火。",
-          "url": "https://flash.jin10.com/detail/20260331151657202800",
-          "source": "金十数据",
+          "title": "Milkway自证:泄露BP是假的",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352513&amp;topic_name=Milkway%E8%87%AA%E8%AF%81%3A%E6%B3%84%E9%9C%B2BP%E6%98%AF%E5%81%87%E7%9A%84",
+          "source": "贴吧",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "09时27分"
         }
       ]
     }
