@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:44:06.315477+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-04-01T20:54:40.710879+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "如何看待教育部发布通知，明确学校自主经营食堂不以营利为目的，并严格执行陪餐制度？能保障学生用餐安全吗？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 19时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 20时54分]"
         },
         {
           "title": "考编女生预订考点周边十多间酒店房间，加价转卖被警方立案，如何看待「考生变黄牛」现象？这种现象能根治吗？",
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 19时44分]"
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 20时54分]"
         },
         {
           "title": "国行eshop停运,玩家泪目",
@@ -40,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 19时44分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 20时54分]"
         },
         {
           "title": "武汉多辆萝卜快跑出故障，引发严重交通拥堵和追尾事故，具体情况如何？暴露出哪些问题？",
@@ -105,7 +106,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -138,7 +139,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -173,20 +174,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 19时44分]"
-        },
-        {
-          "title": "一中国公民涉及超7亿房产在英被冻结",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 20时54分]"
         },
         {
           "title": "英国冻结一中国人涉及7.38亿元房产",
@@ -197,8 +186,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 19时44分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 20时54分]"
         },
         {
           "title": "跳楼机原唱宣战唱片巨头",
@@ -209,11 +198,25 @@
             5,
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 19时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 20时54分]"
+        },
+        {
+          "title": "一中国公民涉及超7亿房产在英被冻结",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时59分 ~ 20时54分]"
         },
         {
           "title": "俄罗斯一架运输机坠毁 29人遇难",
@@ -248,11 +251,12 @@
           "ranks": [
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时40分 ~ 19时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时40分 ~ 20时54分]"
         },
         {
           "title": "美联储主席在哈佛讲了什么",
@@ -264,11 +268,12 @@
             26,
             18,
             22,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 20时54分]"
         },
         {
           "title": "ClaudeCode源码泄露",
@@ -277,11 +282,12 @@
           "ranks": [
             8,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时09分 ~ 19时44分]"
+          "appearance_count": 8,
+          "time_info": "[16时09分 ~ 20时54分]"
         },
         {
           "title": "警方已约谈太原暴走团负责人",
@@ -386,7 +392,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -424,13 +430,24 @@
           "time_info": "09时27分"
         },
         {
+          "title": "从泄露源码扒出Claude隐藏彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "能特科技：因涉嫌信息披露违法违规被中国证监会立案",
           "url": "https://flash.jin10.com/detail/20260401192359550800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -562,7 +579,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
