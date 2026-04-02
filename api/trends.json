@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T19:39:19.048149+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-04-02T20:47:33.914441+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "美以伊战争丨伊朗指控美国：新型导弹致21名运动员遇难",
@@ -25,9 +25,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时47分]"
+        },
+        {
+          "title": "三部门约谈涉优思益营销平台",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%B6%89%E4%BC%98%E6%80%9D%E7%9B%8A%E8%90%A5%E9%94%80%E5%B9%B3%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "20时47分"
+        },
+        {
+          "title": "三部门约谈抖音淘天小红书",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E6%B7%98%E5%A4%A9%E5%B0%8F%E7%BA%A2%E4%B9%A6%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "优思益营销策划公司被立案调查",
@@ -47,6 +69,20 @@
           "time_info": "[12时20分 ~ 18时43分]"
         },
         {
+          "title": "刑满释放后仍继续犯罪，人贩子王某文拐卖十余名儿童已被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877520",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时06分 ~ 20时47分]"
+        },
+        {
           "title": "美国执行载人绕月任务火箭发射升空",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA",
           "source": "百度热搜",
@@ -59,18 +95,16 @@
           "time_info": "[09时17分 ~ 12时21分]"
         },
         {
-          "title": "刑满释放后仍继续犯罪，人贩子王某文拐卖十余名儿童已被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877520",
-          "source": "澎湃新闻",
+          "title": "三部门约谈抖音、淘天、小红书",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E3%80%81%E6%B7%98%E5%A4%A9%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            9,
-            8,
-            5
+            13,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时06分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时47分]"
         },
         {
           "title": "英国央行调查：预计未来12个月物价涨幅升至3.7%，此前预计为3.4%。 预计3月份CPI增速从3%升至3.5%。",
@@ -110,6 +144,19 @@
           "time_info": "[12时20分 ~ 16时55分]"
         },
         {
+          "title": "周鸿祎谈Claude Code源码泄露",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88Claude%20Code%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时47分]"
+        },
+        {
           "title": "美国执行载人绕月任务火箭发射升空",
           "url": "https://www.toutiao.com/trending/7623332124256829494/",
           "source": "今日头条",
@@ -134,11 +181,12 @@
             20,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 20时47分]"
         },
         {
           "title": "印尼马鲁古海峡发生7.4级地震",
@@ -189,11 +237,12 @@
             23,
             27,
             26,
-            28
+            28,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时17分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 20时47分]"
         },
         {
           "title": "4月2日投资避雷针：两公司因信息披露违法违规被证监会立案",
@@ -258,18 +307,6 @@
           "time_info": "[09时17分 ~ 14时06分]"
         },
         {
-          "title": "周鸿祎谈Claude Code源码泄露",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B0%88Claude%20Code%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时39分]"
-        },
-        {
           "title": "人贩子拐卖十余名儿童已被执行死刑",
           "url": "https://www.toutiao.com/trending/7623057556513996843/",
           "source": "今日头条",
@@ -329,6 +366,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时42分 ~ 19时39分]"
+        },
+        {
+          "title": "泰国女星近乎昏迷时遭救护员性侵",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%98%9F%E8%BF%91%E4%B9%8E%E6%98%8F%E8%BF%B7%E6%97%B6%E9%81%AD%E6%95%91%E6%8A%A4%E5%91%98%E6%80%A7%E4%BE%B5%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时47分]"
         },
         {
           "title": "奇瑞00后女员工实名举报高管性骚扰",
@@ -404,7 +453,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -530,15 +579,15 @@
           "time_info": "09时17分"
         },
         {
-          "title": "三部门约谈抖音、淘天、小红书",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E3%80%81%E6%B7%98%E5%A4%A9%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6",
-          "source": "百度热搜",
+          "title": "伊朗民众哭别坦格西里等遇难官兵",
+          "url": "https://www.toutiao.com/trending/7624086544908271662/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "20时47分"
         },
         {
           "title": "印尼金融服务监管机构：出台新政策，要求披露持股超过10%的投资者实际受益人信息。",
@@ -558,18 +607,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "泰国女星近乎昏迷时遭救护员性侵",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%98%9F%E8%BF%91%E4%B9%8E%E6%98%8F%E8%BF%B7%E6%97%B6%E9%81%AD%E6%95%91%E6%8A%A4%E5%91%98%E6%80%A7%E4%BE%B5%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -594,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "院士葛均波谈猝死“年轻化”：40岁至55岁是心脏的“易损期”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32879888",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "山西一煤业公司发生冒顶事故4人遇难",
@@ -657,7 +706,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -671,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "英国金融行为监管局（FCA）：FCA和英国央行邀请市场参与者表达加入新工作组的兴趣。新工作组将为FCA制定长期统一交易及交易后报告要求的方案提供参考。",
+          "url": "https://flash.jin10.com/detail/20260402201128185800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "印尼马鲁古海峡发生7.4级地震",
