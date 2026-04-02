@@ -1,34 +1,23 @@
 {
-  "generated_at": "2026-04-02T12:21:13.619913+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-04-02T14:06:21.138518+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "优思益营销策划公司被立案调查",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E8%90%A5%E9%94%80%E7%AD%96%E5%88%92%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
-        },
-        {
-          "title": "美国执行载人绕月任务火箭发射升空",
-          "url": "https://www.toutiao.com/trending/7623332124256829494/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            15
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
+          "time_info": "[12时20分 ~ 14时06分]"
         },
         {
           "title": "美国执行载人绕月任务火箭发射升空",
@@ -43,6 +32,31 @@
           "time_info": "[09时17分 ~ 12时21分]"
         },
         {
+          "title": "中国国民党主席再度访陆“台独”破防",
+          "url": "https://www.toutiao.com/trending/7622910939541258303/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时06分]"
+        },
+        {
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://www.toutiao.com/trending/7623332124256829494/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时06分]"
+        },
+        {
           "title": "国行eshop停运,玩家泪目",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352651&amp;topic_name=%E5%9B%BD%E8%A1%8Ceshop%E5%81%9C%E8%BF%90%2C%E7%8E%A9%E5%AE%B6%E6%B3%AA%E7%9B%AE",
           "source": "贴吧",
@@ -51,19 +65,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时06分]"
         },
         {
           "title": "印尼马鲁古海峡发生7.4级地震",
           "url": "https://news.ifeng.com/c/8rzHMEgiVKp",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时06分]"
         },
         {
           "title": "NASA 阿尔忒弥斯二号火箭发射升空，执行载人绕月飞行任务，此次任务还有哪些看点和意义？",
@@ -73,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时06分]"
         },
         {
           "title": "李荣浩教科书级维权",
@@ -85,8 +100,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时06分]"
         },
         {
           "title": "跳楼机原唱宣战唱片巨头",
@@ -97,8 +112,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时06分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -109,8 +124,32 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 14时06分]"
+        },
+        {
+          "title": "人贩子拐卖十余名儿童已被执行死刑",
+          "url": "https://www.toutiao.com/trending/7623057556513996843/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时17分 ~ 12时21分]"
+          "time_info": "[12时20分 ~ 14时06分]"
+        },
+        {
+          "title": "4月2日投资避雷针：两公司因信息披露违法违规被证监会立案",
+          "url": "https://www.cls.cn/detail/2332778",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时06分]"
         },
         {
           "title": "ClaudeCode源码泄露",
@@ -126,36 +165,27 @@
         },
         {
           "title": "人贩子拐卖十余名儿童已被执行死刑",
-          "url": "https://www.toutiao.com/trending/7623057556513996843/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
-        },
-        {
-          "title": "4月2日投资避雷针：两公司因信息披露违法违规被证监会立案",
-          "url": "https://www.cls.cn/detail/2332778",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
-        },
-        {
-          "title": "人贩子拐卖十余名儿童已被执行死刑",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E5%8D%81%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时06分]"
+        },
+        {
+          "title": "奇瑞00后女员工实名举报高管性骚扰",
+          "url": "https://www.toutiao.com/trending/7623594666915004458/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
+          "time_info": "[09时17分 ~ 14时06分]"
         },
         {
           "title": "3台旧手机能换1台iPhone？实地调查",
@@ -180,15 +210,15 @@
           "time_info": "[12时20分 ~ 12时21分]"
         },
         {
-          "title": "中国国民党主席再度访陆“台独”破防",
-          "url": "https://www.toutiao.com/trending/7622910939541258303/",
-          "source": "今日头条",
+          "title": "美国绕月火箭宇航员一度与地面失联",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BB%95%E6%9C%88%E7%81%AB%E7%AE%AD%E5%AE%87%E8%88%AA%E5%91%98%E4%B8%80%E5%BA%A6%E4%B8%8E%E5%9C%B0%E9%9D%A2%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
           "ranks": [
-            29
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
@@ -219,9 +249,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "刑满释放后仍继续犯罪，人贩子王某文拐卖十余名儿童已被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877520",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "国家烟草专卖局发文，拟修改部分电子烟监管政策文件",
@@ -241,9 +282,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "“张雪机车”夺冠车型限制新手购买被投诉处罚？重庆市市监部门：符合规定未处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871257",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "女子住酒店起火用毛巾逃生被扣钱",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E8%B5%B7%E7%81%AB%E7%94%A8%E6%AF%9B%E5%B7%BE%E9%80%83%E7%94%9F%E8%A2%AB%E6%89%A3%E9%92%B1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "山西一煤业公司发生冒顶事故4人遇难",
@@ -274,20 +337,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "奇瑞00后女员工实名举报高管性骚扰",
-          "url": "https://www.toutiao.com/trending/7623594666915004458/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "12时21分"
         },
         {
           "title": "印尼马鲁古海峡发生7.4级地震",
@@ -318,7 +370,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
