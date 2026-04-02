@@ -1,686 +1,209 @@
 {
-  "generated_at": "2026-04-01T20:54:40.710879+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-04-02T09:17:46.590886+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 58,
+      "match_count": 18,
       "titles": [
         {
-          "title": "如何看待教育部发布通知，明确学校自主经营食堂不以营利为目的，并严格执行陪餐制度？能保障学生用餐安全吗？",
-          "url": "https://www.zhihu.com/question/2022246464714227999",
-          "source": "知乎",
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://www.toutiao.com/trending/7623332124256829494/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 20时54分]"
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
-          "title": "考编女生预订考点周边十多间酒店房间，加价转卖被警方立案，如何看待「考生变黄牛」现象？这种现象能根治吗？",
-          "url": "https://www.zhihu.com/question/2021956677616895320",
-          "source": "知乎",
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            2,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时59分 ~ 20时54分]"
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "国行eshop停运,玩家泪目",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352651&amp;topic_name=%E5%9B%BD%E8%A1%8Ceshop%E5%81%9C%E8%BF%90%2C%E7%8E%A9%E5%AE%B6%E6%B3%AA%E7%9B%AE",
           "source": "贴吧",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 20时54分]"
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
-          "title": "武汉多辆萝卜快跑出故障，引发严重交通拥堵和追尾事故，具体情况如何？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2022587372588589275",
+          "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
+          "url": "https://www.cls.cn/detail/2332482",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "医保基金监管新规开始施行",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%BB%E4%BF%9D%E5%9F%BA%E9%87%91%E7%9B%91%E7%AE%A1%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "印尼马鲁古海峡发生7.4级地震",
+          "url": "https://news.ifeng.com/c/8rzHMEgiVKp",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "NASA 阿尔忒弥斯二号火箭发射升空，执行载人绕月飞行任务，此次任务还有哪些看点和意义？",
+          "url": "https://www.zhihu.com/question/2021139795628302423",
           "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "税务部门回应鞠婧祎涉税事项：经认真核查，未发现举报所反映的涉税问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867788",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "09时17分"
         },
         {
-          "title": "欧洲地中海地震中心：日本本州东部地区发生5级地震。",
-          "url": "https://flash.jin10.com/detail/20260401091541402800",
-          "source": "金十数据",
+          "title": "国家烟草专卖局发文，拟修改部分电子烟监管政策文件",
+          "url": "https://wallstreetcn.com/livenews/3081190",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "据以色列媒体报道称，因伊朗导弹袭击，以色列特拉维夫传出几声爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260401134908046800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
-          "url": "https://www.zhihu.com/question/2022394365436248248",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "中国人民银行 科技部 金融监管总局 中国证监会联合召开科技金融工作交流推进会。",
-          "url": "https://flash.jin10.com/detail/20260401193031598800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "印尼2月贸易顺差12.8亿美元（路透调查预估为15.5亿美元）。",
-          "url": "https://flash.jin10.com/detail/20260401122009544800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "中国粮用上中国种！农业研究进入数据爆炸时代",
-          "url": "https://flash.jin10.com/detail/20260401183352167800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "欧洲地中海地震中心：秘鲁北部地区发生6.2级地震。",
-          "url": "https://flash.jin10.com/detail/20260401192809736800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "以色列国防军：周二夜间，在以色列空军于黎巴嫩南部的作战行动中，一枚地对空导弹射向一架以色列国防军无人机。无人机被击中并坠落。不存在任何信息泄露的风险，事件正在审查中。",
-          "url": "https://flash.jin10.com/detail/20260401121906226800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
-          "url": "https://wallstreetcn.com/articles/3768915",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 20时54分]"
-        },
-        {
-          "title": "英国冻结一中国人涉及7.38亿元房产",
-          "url": "https://www.toutiao.com/trending/7623653683580207131/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 20时54分]"
-        },
-        {
-          "title": "跳楼机原唱宣战唱片巨头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352628&amp;topic_name=%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%8E%9F%E5%94%B1%E5%AE%A3%E6%88%98%E5%94%B1%E7%89%87%E5%B7%A8%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            5,
-            7,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 20时54分]"
-        },
-        {
-          "title": "一中国公民涉及超7亿房产在英被冻结",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时59分 ~ 20时54分]"
-        },
-        {
-          "title": "俄罗斯一架运输机坠毁 29人遇难",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E6%9E%B6%E8%BF%90%E8%BE%93%E6%9C%BA%E5%9D%A0%E6%AF%81+29%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时40分]"
-        },
-        {
-          "title": "军事机密泄露竟是因为运动手表",
-          "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E6%B3%84%E9%9C%B2%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E5%8A%A8%E6%89%8B%E8%A1%A8",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            2,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时27分 ~ 17时59分]"
+          "time_info": "09时17分"
         },
         {
           "title": "李荣浩教科书级维权",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%95%99%E7%A7%91%E4%B9%A6%E7%BA%A7%E7%BB%B4%E6%9D%83",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 20时54分]"
-        },
-        {
-          "title": "美联储主席在哈佛讲了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9C%A8%E5%93%88%E4%BD%9B%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            21,
-            26,
-            18,
-            22,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 20时54分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时09分 ~ 20时54分]"
-        },
-        {
-          "title": "警方已约谈太原暴走团负责人",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%BA%A6%E8%B0%88%E5%A4%AA%E5%8E%9F%E6%9A%B4%E8%B5%B0%E5%9B%A2%E8%B4%9F%E8%B4%A3%E4%BA%BA%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19,
-            15,
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 16时10分]"
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
-          "title": "王子邱胜翊涉嫌逃兵役被捕",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E9%82%B1%E8%83%9C%E7%BF%8A%E6%B6%89%E5%AB%8C%E9%80%83%E5%85%B5%E5%BD%B9%E8%A2%AB%E6%8D%95%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "跳楼机原唱宣战唱片巨头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352628&amp;topic_name=%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%8E%9F%E5%94%B1%E5%AE%A3%E6%88%98%E5%94%B1%E7%89%87%E5%B7%A8%E5%A4%B4",
+          "source": "贴吧",
           "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 19时44分]"
-        },
-        {
-          "title": "一中国人涉及超7亿房产在英被冻结",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 18时54分]"
-        },
-        {
-          "title": "中领馆：发现疑似失联留学生遗体",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%EF%BC%9A%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%A4%B1%E8%81%94%E7%95%99%E5%AD%A6%E7%94%9F%E9%81%97%E4%BD%93",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时40分]"
-        },
-        {
-          "title": "LCK核查Ruler",
-          "url": "https://search.bilibili.com/all?keyword=LCK%E6%A0%B8%E6%9F%A5ruler",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
-        },
-        {
-          "title": "喜临门：因公司涉嫌信息披露违法违规，中国证监会决定对公司立案。",
-          "url": "https://wallstreetcn.com/livenews/3080843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时44分]"
-        },
-        {
-          "title": "哈啰单车被约谈",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%95%B0%E5%8D%95%E8%BD%A6%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
-        },
-        {
-          "title": "水木年华维权",
-          "url": "https://s.weibo.com/weibo?q=%E6%B0%B4%E6%9C%A8%E5%B9%B4%E5%8D%8E%E7%BB%B4%E6%9D%83&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时21分]"
-        },
-        {
-          "title": "能特科技：因涉嫌信息披露违法违规被中国证监会立案",
-          "url": "https://wallstreetcn.com/livenews/3080876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "日本关东地区发生5级地震，东京震感明显。",
-          "url": "https://wallstreetcn.com/livenews/3080498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "国家金融监管总局局长李云泽会见澳门金管局行政管理委员会主席黄善文",
-          "url": "https://wallstreetcn.com/livenews/3080803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "俄罗斯一架运输机坠毁 29人遇难",
-          "url": "https://www.toutiao.com/trending/7623520075143823414/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "09时17分"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "能特科技：因涉嫌信息披露违法违规被中国证监会立案",
-          "url": "https://flash.jin10.com/detail/20260401192359550800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "官方通报鞠婧祎被举报偷税漏税，称未发现所反映的涉税问题，举报人将承担哪些责任？系列风波是否会就此结束？",
-          "url": "https://www.zhihu.com/question/2022397421683040410",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "网贷最强监管落地，要求公开统一年化息费、设定 24% 利率上限、整治乱象，将带来哪些利好？",
-          "url": "https://www.zhihu.com/question/2021872228699042724",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "据日本放送协会NHK：日本枥木县地震震度达5级。",
-          "url": "https://flash.jin10.com/detail/20260401091033836800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "英国海上贸易行动办公室：一枚弹药引发火灾，火势已扑灭。",
-          "url": "https://flash.jin10.com/detail/20260401120615324800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "日本发生地震，东京有震感。",
-          "url": "https://flash.jin10.com/detail/20260401090817604800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "英国海上贸易行动办公室：关于卡塔尔拉斯拉凡以北17海里处发生的事件，一艘船舶遭两枚弹药击中，其中一枚未爆炸。",
-          "url": "https://flash.jin10.com/detail/20260401120607433800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "光华科技：中国证监会决定对公司董事、高级管理人员蔡雯女士因涉嫌内幕交易予以立案。本次立案调查系对蔡雯女士的个人调查，与公司的日常经营管理和业务活动无关，且不涉及本公司股票交易。",
-          "url": "https://wallstreetcn.com/livenews/3080832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "日本政府发布紧急地震预警。",
-          "url": "https://flash.jin10.com/detail/20260401090727185800",
-          "source": "金十数据",
-          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "09时17分"
         },
         {
-          "title": "喜临门：因涉嫌信息披露违法违规被立案",
-          "url": "https://flash.jin10.com/detail/20260401182429758800",
-          "source": "金十数据",
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "09时17分"
         },
         {
-          "title": "国务院食安办、市场监管总局、海关总署部署核查跨境电商进口“优思益”保健品违规营销行为",
-          "url": "https://wallstreetcn.com/livenews/3080827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "俄罗斯运输机坠毁29人遇难",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%90%E8%BE%93%E6%9C%BA%E5%9D%A0%E6%AF%8129%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "瑞士政府驳斥了美国关于制造业部门存在产能过剩和过度生产的指控。瑞士联邦委员会称已决定采取必要措施，在相关调查背景下阐明瑞士的立场。",
-          "url": "https://flash.jin10.com/detail/20260401191252251800",
-          "source": "金十数据",
+          "title": "山西一煤业公司发生冒顶事故4人遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E7%85%A4%E4%B8%9A%E5%85%AC%E5%8F%B8%E5%8F%91%E7%94%9F%E5%86%92%E9%A1%B6%E4%BA%8B%E6%95%854%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时44分"
+          "time_info": "09时17分"
         },
         {
-          "title": "中学党委书记涉嫌性侵15岁女生",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B515%E5%B2%81%E5%A5%B3%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "日本发生地震 东京震感明显",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87+%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
+          "title": "奇瑞00后女员工实名举报高管性骚扰",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%87%E7%91%9E00%E5%90%8E%E5%A5%B3%E5%91%98%E5%B7%A5%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E9%AB%98%E7%AE%A1%E6%80%A7%E9%AA%9A%E6%89%B0",
           "source": "百度热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "09时17分"
         },
         {
-          "title": "加拿大油气勘探开发公司沙马兰石油：伊拉克Sarang油田的一处储存设施今日早些时候发生爆炸，运营处于暂停状态，同时作为预防措施，Atrush的生产也仍处于关停状态。",
-          "url": "https://flash.jin10.com/detail/20260401181743644800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "李云泽会见澳门金管局行政管理委员会主席黄善文",
-          "url": "https://flash.jin10.com/detail/20260401173606619800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "上期能源对部分客户采取限制开仓监管措施",
-          "url": "https://flash.jin10.com/detail/20260401173537007800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "达索公司首席执行官：留给公司2-3周的时间与空客达成协议，以找到一个平衡点，使FCAS项目能够继续进行。",
-          "url": "https://flash.jin10.com/detail/20260401154019063800",
-          "source": "金十数据",
+          "title": "奇瑞00后女员工实名举报高管性骚扰",
+          "url": "https://www.toutiao.com/trending/7623594666915004458/",
+          "source": "今日头条",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时10分"
+          "time_info": "09时17分"
         },
         {
-          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
-          "url": "https://wallstreetcn.com/livenews/3080773",
-          "source": "华尔街见闻-快讯",
+          "title": "印尼马鲁古海峡发生7.4级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E9%A9%AC%E9%B2%81%E5%8F%A4%E6%B5%B7%E5%B3%A1%E5%8F%91%E7%94%9F7.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "伊朗首都德黑兰发生爆炸",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "阿联酋部长、阿布扎比国家石油公司首席执行官AL Jaber称：世界各国必须携手保护能源流动。",
-          "url": "https://wallstreetcn.com/livenews/3080771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "Milkway自证:泄露BP是假的",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352513&amp;topic_name=Milkway%E8%87%AA%E8%AF%81%3A%E6%B3%84%E9%9C%B2BP%E6%98%AF%E5%81%87%E7%9A%84",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "09时17分"
         }
       ]
     }
