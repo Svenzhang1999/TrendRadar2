@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T14:07:06.099348+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-04-03T15:56:46.558586+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 25,
+      "match_count": 35,
       "titles": [
         {
           "title": "炸街扰民,暴走团被约谈",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时56分]"
         },
         {
           "title": "刑满释放后仍继续犯罪，人贩子王某文拐卖十余名儿童已被执行死刑",
@@ -41,13 +41,35 @@
           "time_info": "09时19分"
         },
         {
+          "title": "“老虎”伍兹被捕画面曝光",
+          "url": "https://www.toutiao.com/trending/7624197393256579078/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "事关数字虚拟人信息服务 国家网信办公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3082059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "伊朗官员：伊方与阿曼拟联合监管霍尔木兹海峡通行船舶",
           "url": "https://wallstreetcn.com/livenews/3081983",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -57,11 +79,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时56分]"
         },
         {
           "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
@@ -69,11 +92,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时56分]"
         },
         {
           "title": "“老虎”伍兹被捕画面曝光",
@@ -100,6 +124,20 @@
           "time_info": "[09时19分 ~ 12时21分]"
         },
         {
+          "title": "调查｜为什么雨天会打滑的盲道被铺在路上？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32880835",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时56分]"
+        },
+        {
           "title": "密友出车祸被捕，特朗普紧急出面护短",
           "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
           "source": "凤凰网",
@@ -107,21 +145,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时07分]"
-        },
-        {
-          "title": "调查｜为什么雨天会打滑的盲道被铺在路上？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32880835",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时56分]"
         },
         {
           "title": "国务院食安办等三部门就“优思益”问题约谈3家平台企业",
@@ -129,11 +154,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 14时07分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 15时56分]"
         },
         {
           "title": "4月3日投资避雷针：这家上市公司董事长失联 股价已连续两日跌停",
@@ -143,8 +169,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时56分]"
         },
         {
           "title": "意大利足协主席引咎辞职",
@@ -154,8 +180,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时56分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -170,13 +196,35 @@
           "time_info": "[09时19分 ~ 12时21分]"
         },
         {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：俄罗斯应放弃对乌克兰可能加入欧盟的容忍态度。",
+          "url": "https://flash.jin10.com/detail/20260403154431237800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白",
+          "url": "https://wallstreetcn.com/livenews/3082057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "科威特国家石油公司一炼油厂遭袭起火",
           "url": "https://wallstreetcn.com/livenews/3081981",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -214,15 +262,37 @@
           "time_info": "09时19分"
         },
         {
+          "title": "网信办就《数字虚拟人信息服务管理办法（征求意见稿）》公开征求意见",
+          "url": "https://flash.jin10.com/detail/20260403153257343800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "科威特Al Ahmadi炼油厂遭到无人机袭击，多处设施起火。（科威特通讯社）",
           "url": "https://wallstreetcn.com/livenews/3081968",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "西藏发展董事长罗希失联",
+          "url": "https://wallstreetcn.com/livenews/3082038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "三部门约谈抖音、淘天、小红书",
@@ -247,6 +317,17 @@
           "time_info": "09时19分"
         },
         {
+          "title": "宝妈投诉蛋糕店未果反助店家爆单",
+          "url": "https://www.toutiao.com/trending/7623750173346086958/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "老虎伍兹被捕现场",
           "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E8%99%8E%E4%BC%8D%E5%85%B9%E8%A2%AB%E6%8D%95%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -256,6 +337,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "“老虎”伍兹被捕前称刚与总统通话",
+          "url": "https://www.toutiao.com/trending/7624401645522193946/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "伊朗南部阿巴丹和阿萨耶卢传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260403152405093800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "天价反导系统拦得住导弹吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BB%B7%E5%8F%8D%E5%AF%BC%E7%B3%BB%E7%BB%9F%E6%8B%A6%E5%BE%97%E4%BD%8F%E5%AF%BC%E5%BC%B9%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "老虎伍兹被捕画面曝光",
@@ -286,7 +400,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         }
