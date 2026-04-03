@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T18:34:50.602739+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-04-03T19:31:47.543851+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 50,
+      "match_count": 60,
       "titles": [
         {
           "title": "院士葛均波谈猝死“年轻化”：40岁至55岁是心脏的“易损期”",
@@ -54,18 +54,15 @@
           "time_info": "14时07分"
         },
         {
-          "title": "“老虎”伍兹被捕画面曝光",
-          "url": "https://www.toutiao.com/trending/7624197393256579078/",
-          "source": "今日头条",
+          "title": "市场监管总局通报44批次食品抽检不合格情况",
+          "url": "https://wallstreetcn.com/livenews/3082170",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            2,
-            5,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 18时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
@@ -79,6 +76,36 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时19分 ~ 16时42分]"
+        },
+        {
+          "title": "“老虎”伍兹被捕画面曝光",
+          "url": "https://www.toutiao.com/trending/7624197393256579078/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            5,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 19时31分]"
+        },
+        {
+          "title": "调查｜为什么雨天会打滑的盲道被铺在路上？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32880835",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 19时31分]"
         },
         {
           "title": "“老虎”伍兹被捕画面曝光",
@@ -100,26 +127,12 @@
             4,
             8,
             9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 18时34分]"
-        },
-        {
-          "title": "调查｜为什么雨天会打滑的盲道被铺在路上？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32880835",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            9,
-            6,
-            4
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时19分 ~ 18时34分]"
+          "time_info": "[12时21分 ~ 19时31分]"
         },
         {
           "title": "国务院食安办、市场监管总局、海关总署就「优思益」问题约谈抖音、淘天、小红书，暴露了平台的哪些问题？",
@@ -158,23 +171,23 @@
           "time_info": "[17时44分 ~ 18时34分]"
         },
         {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 18时34分]"
-        },
-        {
           "title": "国务院食安办等三部门就“优思益”问题约谈3家平台企业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32882464",
           "source": "澎湃新闻",
           "ranks": [
             10,
             11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 19时31分]"
+        },
+        {
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
@@ -189,8 +202,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 18时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 19时31分]"
         },
         {
           "title": "4月3日投资避雷针：这家上市公司董事长失联 股价已连续两日跌停",
@@ -209,11 +222,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E8%B0%A6%E5%85%B3%E8%81%94%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%89%A7%E8%A1%8C1431%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 19时31分]"
         },
         {
           "title": "美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白",
@@ -226,6 +240,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时56分 ~ 16时42分]"
+        },
+        {
+          "title": "中央政治局委员、中央农村工作领导小组副组长马兴瑞接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3082141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "金融监管总局：推动构建与未来产业全生命周期融资需求相适应的金融服务体系",
@@ -263,17 +289,6 @@
           "time_info": "15时56分"
         },
         {
-          "title": "中央政治局委员、中央农村工作领导小组副组长马兴瑞接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3082141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
           "title": "上交所：对天通股份及有关责任人予以监管警示",
           "url": "https://flash.jin10.com/detail/20260403172224411800",
           "source": "金十数据",
@@ -296,6 +311,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "*ST观典：收到中国证券监督管理委员会《立案告知书》，因公司涉嫌信息披露违法违规等，中国证监会决定对公司立案。",
+          "url": "https://wallstreetcn.com/livenews/3082166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "广电网络：收到陕西证监局行政监管措施决定书",
           "url": "https://flash.jin10.com/detail/20260403172105172800",
           "source": "金十数据",
@@ -305,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "华谊兄弟34个银行账号被冻结",
+          "url": "https://www.toutiao.com/trending/7623747040418463770/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "阿布扎比：拦截碎片落入哈布山天然气设施。 哈布山天然气设施因起火暂停作业。",
@@ -324,9 +361,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "市场监管总局通报44批次食品抽检不合格情况",
+          "url": "https://flash.jin10.com/detail/20260403190152197800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "以色列将重启美以伊战事初期停运的该国最大天然气田",
@@ -373,6 +421,28 @@
           "time_info": "09时19分"
         },
         {
+          "title": "美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白",
+          "url": "https://www.cls.cn/detail/2334699",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "市场监管总局召开外卖平台企业行政指导会：要求三大外卖平台尽快开展自查整改",
+          "url": "https://wallstreetcn.com/livenews/3082157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "网信办就《数字虚拟人信息服务管理办法（征求意见稿）》公开征求意见",
           "url": "https://flash.jin10.com/detail/20260403153257343800",
           "source": "金十数据",
@@ -406,6 +476,28 @@
           "time_info": "17时44分"
         },
         {
+          "title": "上海临港：收到上海证监局行政监管措施决定书",
+          "url": "https://flash.jin10.com/detail/20260403185629477800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "上海：加强网络订餐线上线下一体化监管",
+          "url": "https://flash.jin10.com/detail/20260403185149736800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "科威特Al Ahmadi炼油厂遭到无人机袭击，多处设施起火。（科威特通讯社）",
           "url": "https://wallstreetcn.com/livenews/3081968",
           "source": "华尔街见闻-快讯",
@@ -426,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        },
+        {
+          "title": "四川省民政厅原厅长益西达瓦被双开",
+          "url": "https://www.toutiao.com/trending/7624447722472439814/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "菲林格尔：收到上海证监局行政监管措施决定书",
@@ -459,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "*ST观典：因涉嫌信息披露违法违规被立案",
+          "url": "https://flash.jin10.com/detail/20260403184855893800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "金融监管总局：推动构建与未来产业全生命周期融资需求相适应的金融服务体系",
