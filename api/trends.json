@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T12:08:20.946022+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-04-04T13:50:23.579491+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "马兴瑞涉嫌严重违纪违法正接受中央纪委国家监委纪律审查和监察调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时50分]"
         },
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时50分]"
         },
         {
           "title": "优思益声明称「已无力进行相关售后及客诉服务，整体处于崩溃边缘」，消费者该怎样维权？此次事件有何警示？",
@@ -37,9 +37,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时50分]"
         },
         {
           "title": "华谊兄弟超 5600 万债务逾期，多个银行账号、王氏兄弟持股全被冻结，该公司经营出现了哪些问题？",
@@ -48,9 +48,42 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时50分]"
+        },
+        {
+          "title": "据安全消息人士透露，伊拉克巴士拉西部一处属于外国石油公司的仓储设施遭无人机袭击后发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260404130630660800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "13时50分"
+        },
+        {
+          "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
+          "url": "https://flash.jin10.com/detail/20260404125453767800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "马兴瑞落马：曾被称为“航天少帅”",
+          "url": "https://www.toutiao.com/trending/7624526977366999066/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "因涉嫌信披违法违规，*ST观典、电科数字被证监会立案",
@@ -58,11 +91,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时50分]"
         },
         {
           "title": "新规即将施行，市场监管总局要求三大外卖平台尽快自查整改",
@@ -70,11 +104,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时50分]"
         },
         {
           "title": "猫中毒五周年纪念翻唱",
@@ -82,23 +117,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时50分]"
         },
         {
-          "title": "“老虎”伍兹被捕画面曝光",
-          "url": "https://www.toutiao.com/trending/7624197393256579078/",
-          "source": "今日头条",
+          "title": "西安一水电工讨薪未果发视频维权被诉名誉侵权，一审开庭未宣判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32883634",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
+            13,
+            12,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时50分]"
         },
         {
           "title": "辟谣周榜｜外卖小哥跳桥自杀系谣言",
@@ -108,16 +145,29 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时50分]"
         },
         {
-          "title": "西安一水电工讨薪未果发视频维权被诉名誉侵权，一审开庭未宣判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32883634",
-          "source": "澎湃新闻",
+          "title": "炸街扰民,暴走团被约谈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352721&amp;topic_name=%E7%82%B8%E8%A1%97%E6%89%B0%E6%B0%91%2C%E6%9A%B4%E8%B5%B0%E5%9B%A2%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "贴吧",
           "ranks": [
-            13,
-            12
+            15,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时50分]"
+        },
+        {
+          "title": "“老虎”伍兹被捕画面曝光",
+          "url": "https://www.toutiao.com/trending/7624197393256579078/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -136,18 +186,6 @@
           "time_info": "[09时13分 ~ 12时08分]"
         },
         {
-          "title": "炸街扰民,暴走团被约谈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352721&amp;topic_name=%E7%82%B8%E8%A1%97%E6%89%B0%E6%B0%91%2C%E6%9A%B4%E8%B5%B0%E5%9B%A2%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时08分]"
-        },
-        {
           "title": "美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白",
           "url": "https://www.cls.cn/detail/2334699",
           "source": "财联社热门",
@@ -157,6 +195,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "菲律宾首都一处住宅区起火",
+          "url": "https://flash.jin10.com/detail/20260404101248655800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时50分]"
         },
         {
           "title": "孟村杀妻案金昊已被执行死刑",
@@ -170,15 +220,74 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
-          "title": "菲律宾首都一处住宅区起火",
-          "url": "https://flash.jin10.com/detail/20260404101248655800",
+          "title": "迪拜当局表示，已妥善处置一起因（导弹）碎片坠落到迪拜码头区一栋建筑外立面而引发的事故。迪拜码头区域未报告火灾或人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260404095220336800",
           "source": "金十数据",
           "ranks": [
-            11
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时50分]"
+        },
+        {
+          "title": "据伊朗媒体：伊朗中部的伊斯法罕听到了爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260404094016663800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时50分]"
+        },
+        {
+          "title": "云南昭通一25岁女子参加丧礼被砸死，遗体已停放半年多，另有5人遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32894654",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时50分]"
+        },
+        {
+          "title": "19岁少女柬埔寨失联事件迎反转",
+          "url": "https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%B0%91%E5%A5%B3%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%B1%E8%81%94%E4%BA%8B%E4%BB%B6%E8%BF%8E%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时50分]"
+        },
+        {
+          "title": "伊朗德黑兰接连传出多次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3082384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗首都德黑兰多次传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260404122550026800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "市场消息：伊朗导弹袭击后，以色列特拉维夫多处地点发生火灾。",
@@ -203,17 +312,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "迪拜当局表示，已妥善处置一起因（导弹）碎片坠落到迪拜码头区一栋建筑外立面而引发的事故。迪拜码头区域未报告火灾或人员伤亡。",
-          "url": "https://flash.jin10.com/detail/20260404095220336800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "以色列南部工业园遭伊朗导弹袭击起火",
           "url": "https://wallstreetcn.com/livenews/3082348",
           "source": "华尔街见闻-快讯",
@@ -236,17 +334,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "据伊朗媒体：伊朗中部的伊斯法罕听到了爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260404094016663800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "据叙利亚国家电视台：叙利亚大马士革及其周边地区传来爆炸声，爆炸原因尚不明。",
           "url": "https://flash.jin10.com/detail/20260404064531875800",
           "source": "金十数据",
@@ -256,28 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "云南昭通一25岁女子参加丧礼被砸死，遗体已停放半年多，另有5人遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32894654",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "19岁少女柬埔寨失联事件迎反转",
-          "url": "https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%B0%91%E5%A5%B3%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%B1%E8%81%94%E4%BA%8B%E4%BB%B6%E8%BF%8E%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "美国地质调查局（USGS）：印尼Bitung东侧125公里处发生5.1级地震。",
