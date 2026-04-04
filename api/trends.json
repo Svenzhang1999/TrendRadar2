@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T17:29:19.616864+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-04-04T18:24:10.103138+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 17时29分]"
-        },
-        {
-          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
-          "url": "https://www.cls.cn/detail/2335221",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 18时24分]"
         },
         {
           "title": "优思益声明称「已无力进行相关售后及客诉服务，整体处于崩溃边缘」，消费者该怎样维权？此次事件有何警示？",
@@ -39,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 18时24分]"
         },
         {
           "title": "华谊兄弟超 5600 万债务逾期，多个银行账号、王氏兄弟持股全被冻结，该公司经营出现了哪些问题？",
@@ -51,19 +39,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 18时24分]"
         },
         {
-          "title": "中国人民银行行长潘功胜会见标准银行集团首席执行官西姆•沙巴拉拉",
-          "url": "https://wallstreetcn.com/livenews/3082413",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2335221",
+          "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 18时24分]"
         },
         {
           "title": "马兴瑞落马：曾被称为“航天少帅”",
@@ -75,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时50分 ~ 18时24分]"
         },
         {
           "title": "因涉嫌信披违法违规，*ST观典、电科数字被证监会立案",
@@ -88,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 18时24分]"
         },
         {
           "title": "新规即将施行，市场监管总局要求三大外卖平台尽快自查整改",
@@ -101,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 18时24分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗西南部胡齐斯坦省马赫沙赫尔（Mahshahr）石化特别经济区传出多起爆炸声。",
@@ -141,16 +130,16 @@
           "time_info": "[16时31分 ~ 17时29分]"
         },
         {
-          "title": "伊朗西南地区石化枢纽传出连续爆炸",
-          "url": "https://wallstreetcn.com/livenews/3082403",
+          "title": "中国人民银行行长潘功胜会见标准银行集团首席执行官西姆•沙巴拉拉",
+          "url": "https://wallstreetcn.com/livenews/3082413",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时29分]"
+          "time_info": "[17时29分 ~ 18时24分]"
         },
         {
           "title": "猫中毒五周年纪念翻唱",
@@ -166,8 +155,22 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 18时24分]"
+        },
+        {
+          "title": "云南昭通一25岁女子参加丧礼被砸死，遗体已停放半年多，另有5人遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32894654",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时13分 ~ 17时29分]"
+          "time_info": "[12时08分 ~ 18时24分]"
         },
         {
           "title": "炸街扰民,暴走团被约谈",
@@ -177,11 +180,12 @@
             15,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 18时24分]"
         },
         {
           "title": "据安全消息人士透露，伊拉克巴士拉西部一处属于外国石油公司的仓储设施遭无人机袭击后发生火灾。",
@@ -197,6 +201,19 @@
           "time_info": "[13时50分 ~ 15时42分]"
         },
         {
+          "title": "伊朗西南地区石化枢纽传出连续爆炸",
+          "url": "https://wallstreetcn.com/livenews/3082403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时24分]"
+        },
+        {
           "title": "辟谣周榜｜外卖小哥跳桥自杀系谣言",
           "url": "https://www.toutiao.com/trending/7624489003987779627/",
           "source": "今日头条",
@@ -208,18 +225,17 @@
           "time_info": "[09时13分 ~ 16时31分]"
         },
         {
-          "title": "云南昭通一25岁女子参加丧礼被砸死，遗体已停放半年多，另有5人遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32894654",
-          "source": "澎湃新闻",
+          "title": "失联19岁少女露面 称自愿前往柬埔寨",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%9419%E5%B2%81%E5%B0%91%E5%A5%B3%E9%9C%B2%E9%9D%A2+%E7%A7%B0%E8%87%AA%E6%84%BF%E5%89%8D%E5%BE%80%E6%9F%AC%E5%9F%94%E5%AF%A8",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            15,
-            12,
-            13
+            18,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 18时24分]"
         },
         {
           "title": "伊朗德黑兰接连传出多次爆炸声",
@@ -273,18 +289,6 @@
           "time_info": "[09时13分 ~ 12时08分]"
         },
         {
-          "title": "失联19岁少女露面 称自愿前往柬埔寨",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%B1%E8%81%9419%E5%B2%81%E5%B0%91%E5%A5%B3%E9%9C%B2%E9%9D%A2+%E7%A7%B0%E8%87%AA%E6%84%BF%E5%89%8D%E5%BE%80%E6%9F%AC%E5%9F%94%E5%AF%A8",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时29分]"
-        },
-        {
           "title": "中国地震台网自动测定：04月04日15时52分在云南楚雄州大姚县附近（北纬25.67度，东经101.55度）发生3.4级左右地震，最终结果以正式速报为准。",
           "url": "https://flash.jin10.com/detail/20260404155502792800",
           "source": "金十数据",
@@ -295,6 +299,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 17时29分]"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见标准银行集团首席执行官",
+          "url": "https://flash.jin10.com/detail/20260404163424160800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时24分]"
         },
         {
           "title": "伊朗首都德黑兰多次传出爆炸声",
@@ -379,17 +395,6 @@
           "time_info": "[12时08分 ~ 13时50分]"
         },
         {
-          "title": "中国人民银行行长潘功胜会见标准银行集团首席执行官",
-          "url": "https://flash.jin10.com/detail/20260404163424160800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "市场消息：伊朗导弹袭击后，以色列特拉维夫多处地点发生火灾。",
           "url": "https://flash.jin10.com/detail/20260404072408016800",
           "source": "金十数据",
@@ -440,7 +445,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
