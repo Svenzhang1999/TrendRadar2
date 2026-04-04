@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-04-03T20:39:51.654343+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-04-04T09:14:08.960107+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 64,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "院士葛均波谈猝死“年轻化”：40岁至55岁是心脏的“易损期”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32879888",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 17时44分]"
-        },
-        {
-          "title": "刑满释放后仍继续犯罪，人贩子王某文拐卖十余名儿童已被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877520",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
         {
           "title": "马兴瑞涉嫌严重违纪违法正接受中央纪委国家监委纪律审查和监察调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32894245",
@@ -38,306 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "伊朗指控美国使用新型导弹，致21名运动员遇难",
-          "url": "https://news.ifeng.com/c/8s072hDEVK2",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
-          "title": "伊朗官员：伊方与阿曼拟联合监管霍尔木兹海峡通行船舶",
-          "url": "https://wallstreetcn.com/livenews/3081983",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2335221",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
-          "url": "https://www.cls.cn/detail/2334040",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时42分]"
-        },
-        {
-          "title": "“老虎”伍兹被捕画面曝光",
-          "url": "https://www.toutiao.com/trending/7624197393256579078/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            5,
-            8,
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 20时39分]"
-        },
-        {
-          "title": "调查｜为什么雨天会打滑的盲道被铺在路上？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32880835",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 20时39分]"
-        },
-        {
-          "title": "炸街扰民,暴走团被约谈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352721&amp;topic_name=%E7%82%B8%E8%A1%97%E6%89%B0%E6%B0%91%2C%E6%9A%B4%E8%B5%B0%E5%9B%A2%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            8,
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 20时39分]"
-        },
-        {
-          "title": "“老虎”伍兹被捕画面曝光",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%80%81%E8%99%8E%E2%80%9D%E4%BC%8D%E5%85%B9%E8%A2%AB%E6%8D%95%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时07分]"
-        },
-        {
-          "title": "国务院食安办、市场监管总局、海关总署就「优思益」问题约谈抖音、淘天、小红书，暴露了平台的哪些问题？",
-          "url": "https://www.zhihu.com/question/2023116335731807576",
-          "source": "知乎",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时19分 ~ 12时21分]"
-        },
-        {
-          "title": "事关数字虚拟人信息服务 国家网信办公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3082059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时42分]"
-        },
-        {
-          "title": "阿联酋天然气设施因起火暂停运营",
-          "url": "https://wallstreetcn.com/livenews/3082124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时34分]"
-        },
-        {
-          "title": "市场监管总局通报44批次食品抽检不合格情况",
-          "url": "https://wallstreetcn.com/livenews/3082170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时39分]"
-        },
-        {
-          "title": "国务院食安办等三部门就“优思益”问题约谈3家平台企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32882464",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时19分 ~ 19时31分]"
-        },
-        {
-          "title": "意大利足协主席引咎辞职",
-          "url": "https://news.ifeng.com/c/8s14MIDan6P",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 20时39分]"
-        },
-        {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 18时34分]"
-        },
-        {
-          "title": "4月3日投资避雷针：这家上市公司董事长失联 股价已连续两日跌停",
-          "url": "https://www.cls.cn/detail/2334123",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 16时42分]"
-        },
-        {
-          "title": "于谦关联公司被执行1431万",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E8%B0%A6%E5%85%B3%E8%81%94%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%89%A7%E8%A1%8C1431%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 20时39分]"
-        },
-        {
-          "title": "美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白",
-          "url": "https://wallstreetcn.com/livenews/3082057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时42分]"
-        },
-        {
-          "title": "中央政治局委员、中央农村工作领导小组副组长马兴瑞接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3082141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时31分]"
-        },
-        {
-          "title": "*ST观典：收到中国证券监督管理委员会《立案告知书》，因公司涉嫌信息披露违法违规等，中国证监会决定对公司立案。",
-          "url": "https://wallstreetcn.com/livenews/3082166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时39分]"
-        },
-        {
-          "title": "美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白",
-          "url": "https://www.cls.cn/detail/2334699",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时39分]"
-        },
-        {
-          "title": "金融监管总局：推动构建与未来产业全生命周期融资需求相适应的金融服务体系",
-          "url": "https://wallstreetcn.com/livenews/3082110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时34分]"
-        },
-        {
-          "title": "市场监管总局召开外卖平台企业行政指导会：要求三大外卖平台尽快开展自查整改",
-          "url": "https://wallstreetcn.com/livenews/3082157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时39分]"
-        },
-        {
-          "title": "从泄露源码扒出Claude隐藏彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 12时21分]"
-        },
-        {
-          "title": "宝妈投诉蛋糕店未果反助店家爆单",
-          "url": "https://www.toutiao.com/trending/7623750173346086958/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 20时39分]"
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "猫中毒五周年纪念翻唱",
@@ -346,405 +36,174 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：俄罗斯应放弃对乌克兰可能加入欧盟的容忍态度。",
-          "url": "https://flash.jin10.com/detail/20260403154431237800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "上交所：对天通股份及有关责任人予以监管警示",
-          "url": "https://flash.jin10.com/detail/20260403172224411800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "科威特国家石油公司一炼油厂遭袭起火",
-          "url": "https://wallstreetcn.com/livenews/3081981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "广电网络：收到陕西证监局行政监管措施决定书",
-          "url": "https://flash.jin10.com/detail/20260403172105172800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "华谊兄弟34个银行账号被冻结",
-          "url": "https://www.toutiao.com/trending/7623747040418463770/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "阿布扎比：拦截碎片落入哈布山天然气设施。 哈布山天然气设施因起火暂停作业。",
-          "url": "https://wallstreetcn.com/livenews/3082081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "电科数字：因涉嫌信息披露违法违规 被证监会立案",
-          "url": "https://flash.jin10.com/detail/20260403180827783800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "市场监管总局通报44批次食品抽检不合格情况",
-          "url": "https://flash.jin10.com/detail/20260403190152197800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "以色列将重启美以伊战事初期停运的该国最大天然气田",
-          "url": "https://wallstreetcn.com/livenews/3081868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "因涉嫌信披违法违规，*ST观典、电科数字被证监会立案",
           "url": "https://www.cls.cn/detail/2334952",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "阿布扎比媒体办公室：鉴于（哈布尚天然气设施）此次事件引发的火灾，相关主管部门正在采取应对措施，各设施的运营已暂停，暂无人员受伤报告。",
-          "url": "https://flash.jin10.com/detail/20260403162228573800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
-          "title": "杭州市场监管部门对“优思益”幕后推手立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32878014",
+          "title": "新规即将施行，市场监管总局要求三大外卖平台尽快自查整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32894328",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
-          "title": "三部门约谈涉优思益营销平台",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%B6%89%E4%BC%98%E6%80%9D%E7%9B%8A%E8%90%A5%E9%94%80%E5%B9%B3%E5%8F%B0",
-          "source": "bilibili 热搜",
+          "title": "美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白",
+          "url": "https://www.cls.cn/detail/2334699",
+          "source": "财联社热门",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
-          "title": "网信办就《数字虚拟人信息服务管理办法（征求意见稿）》公开征求意见",
-          "url": "https://flash.jin10.com/detail/20260403153257343800",
-          "source": "金十数据",
+          "title": "辟谣周榜｜外卖小哥跳桥自杀系谣言",
+          "url": "https://www.toutiao.com/trending/7624489003987779627/",
+          "source": "今日头条",
           "ranks": [
-            14
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "仙鹤股份：实控人之一王明龙因涉嫌短线交易被立案",
-          "url": "https://flash.jin10.com/detail/20260403171019449800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "乌克兰外长：近五百架无人机和巡航导弹袭击了乌克兰，至少一人遇难，其他人受伤。残酷的攻击就是俄罗斯对乌克兰复活节停火提议的回应。俄罗斯拒绝外交和和平努力，他们必须得到强烈反击。",
-          "url": "https://flash.jin10.com/detail/20260403171018022800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "上海临港：收到上海证监局行政监管措施决定书",
-          "url": "https://flash.jin10.com/detail/20260403185629477800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "上海：加强网络订餐线上线下一体化监管",
-          "url": "https://flash.jin10.com/detail/20260403185149736800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "西安一水电工讨薪未果发视频维权被诉名誉侵权，一审开庭未宣判",
           "url": "https://m.thepaper.cn/newsDetail_forward_32883634",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "美国教师为性侵学生与其母亲交往",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%95%99%E5%B8%88%E4%B8%BA%E6%80%A7%E4%BE%B5%E5%AD%A6%E7%94%9F%E4%B8%8E%E5%85%B6%E6%AF%8D%E4%BA%B2%E4%BA%A4%E5%BE%80%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "孟村杀妻案金昊已被执行死刑",
+          "url": "https://www.douyin.com/hot/2454493",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "炸街扰民,暴走团被约谈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352721&amp;topic_name=%E7%82%B8%E8%A1%97%E6%89%B0%E6%B0%91%2C%E6%9A%B4%E8%B5%B0%E5%9B%A2%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "“老虎”伍兹被捕画面曝光",
+          "url": "https://www.toutiao.com/trending/7624197393256579078/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "市场消息：伊朗导弹袭击后，以色列特拉维夫多处地点发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260404072408016800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时39分"
+          "time_info": "09时14分"
         },
         {
-          "title": "科威特Al Ahmadi炼油厂遭到无人机袭击，多处设施起火。（科威特通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3081968",
+          "title": "监管机构重组，美国寻求精简离岸资源管理",
+          "url": "https://wallstreetcn.com/livenews/3082349",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "09时14分"
         },
         {
-          "title": "西藏发展董事长罗希失联",
-          "url": "https://wallstreetcn.com/livenews/3082038",
+          "title": "以色列南部工业园遭伊朗导弹袭击起火",
+          "url": "https://wallstreetcn.com/livenews/3082348",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "09时14分"
         },
         {
-          "title": "四川省民政厅原厅长益西达瓦被双开",
-          "url": "https://www.toutiao.com/trending/7624447722472439814/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "菲林格尔：收到上海证监局行政监管措施决定书",
-          "url": "https://flash.jin10.com/detail/20260403170259385800",
+          "title": "据叙利亚国家电视台：大马士革及其周边地区接连响起的爆炸声，系以色列防空系统拦截伊朗导弹所致。",
+          "url": "https://flash.jin10.com/detail/20260404070053518800",
           "source": "金十数据",
           "ranks": [
-            19
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "09时14分"
         },
         {
-          "title": "市场监管总局发布《食品安全抽样检验核查处置管理办法（征求意见稿）》",
-          "url": "https://wallstreetcn.com/livenews/3082100",
-          "source": "华尔街见闻-快讯",
+          "title": "据叙利亚国家电视台：叙利亚大马士革及其周边地区传来爆炸声，爆炸原因尚不明。",
+          "url": "https://flash.jin10.com/detail/20260404064531875800",
+          "source": "金十数据",
           "ranks": [
-            21
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "09时14分"
         },
         {
-          "title": "三部门约谈抖音、淘天、小红书",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E3%80%81%E6%B7%98%E5%A4%A9%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6",
-          "source": "百度热搜",
+          "title": "美国地质调查局（USGS）：印尼Bitung东侧125公里处发生5.1级地震。",
+          "url": "https://wallstreetcn.com/livenews/3082337",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "*ST观典：因涉嫌信息披露违法违规被立案",
-          "url": "https://flash.jin10.com/detail/20260403184855893800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "金融监管总局：推动构建与未来产业全生命周期融资需求相适应的金融服务体系",
-          "url": "https://flash.jin10.com/detail/20260403170154104800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "网信办就《小型个人信息处理者个人信息保护简化措施规定（征求意见稿）》公开征求意见",
-          "url": "https://flash.jin10.com/detail/20260403160322759800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "宝妈投诉蛋糕店未果反助店家爆单",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%8A%95%E8%AF%89%E8%9B%8B%E7%B3%95%E5%BA%97%E6%9C%AA%E6%9E%9C%E5%8F%8D%E5%8A%A9%E5%BA%97%E5%AE%B6%E7%88%86%E5%8D%95%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "老虎伍兹被捕现场",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E8%99%8E%E4%BC%8D%E5%85%B9%E8%A2%AB%E6%8D%95%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "“老虎”伍兹被捕前称刚与总统通话",
-          "url": "https://www.toutiao.com/trending/7624401645522193946/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "伊朗南部阿巴丹和阿萨耶卢传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260403152405093800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "天价反导系统拦得住导弹吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BB%B7%E5%8F%8D%E5%AF%BC%E7%B3%BB%E7%BB%9F%E6%8B%A6%E5%BE%97%E4%BD%8F%E5%AF%BC%E5%BC%B9%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "老虎伍兹被捕画面曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E8%99%8E%E4%BC%8D%E5%85%B9%E8%A2%AB%E6%8D%95%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "据大西洋月刊：消息人士称，美国联邦调查局（FBI）局长帕特尔、陆军部长德里斯科尔、劳工部长查韦斯-德雷默或即将离开美国总统特朗普的政府。",
-          "url": "https://flash.jin10.com/detail/20260403081424335800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "据俄罗斯铁路公司3日消息，一辆开往莫斯科的客运列车的7节车厢当天在乌里扬诺夫斯克州脱轨。",
-          "url": "https://flash.jin10.com/detail/20260403124950935800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "09时14分"
         }
       ]
     }
