@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T18:24:00.003594+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-04-05T19:22:25.232590+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 19时22分]"
         },
         {
           "title": "伊媒：美军试图炸死在伊朗失联飞行员",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时22分]"
         },
         {
           "title": "苹果密码泄露在哪查看",
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时22分]"
         },
         {
           "title": "美以伊战争丨美军第2名失联飞行员获救，特朗普发声",
@@ -78,17 +78,6 @@
           "time_info": "[14时09分 ~ 14时10分]"
         },
         {
-          "title": "法籍毒贩陈森被执行死刑 中使馆回应",
-          "url": "https://www.toutiao.com/trending/7625068829604937737/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时23分]"
-        },
-        {
           "title": "美以伊战争丨美官员：第2名失联飞行员已获救",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -100,6 +89,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "据俄方任命的官员表示，一艘装载小麦的干散货船在亚速海沉没，一人死亡，多人失踪。",
+          "url": "https://flash.jin10.com/detail/20260405190745239800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "消息人士：美军试图炸死在伊朗失联飞行员",
           "url": "https://flash.jin10.com/detail/20260405082643443800",
           "source": "金十数据",
@@ -109,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "法籍毒贩陈森被执行死刑 中使馆回应",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E7%B1%8D%E6%AF%92%E8%B4%A9%E9%99%88%E6%A3%AE%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "科威特石油公司总部遭伊朗无人机空袭起火",
@@ -139,23 +128,24 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时22分]"
         },
         {
-          "title": "匈牙利总理：匈塞天然气设施附近发现爆炸物",
-          "url": "https://wallstreetcn.com/livenews/3082598",
-          "source": "华尔街见闻-快讯",
+          "title": "法籍毒贩陈森被执行死刑 中使馆回应",
+          "url": "https://www.toutiao.com/trending/7625068829604937737/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            6
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "伊拉克巴士拉省一外国所有的石油设施遭袭起火",
@@ -206,18 +196,6 @@
           "time_info": "[16时33分 ~ 17时31分]"
         },
         {
-          "title": "匈牙利总理：匈塞天然气设施附近发现爆炸物",
-          "url": "https://flash.jin10.com/detail/20260405170857323800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时23分]"
-        },
-        {
           "title": "伊朗媒体：美军试图炸死在伊朗失联飞行员",
           "url": "https://wallstreetcn.com/livenews/3082507",
           "source": "华尔街见闻-快讯",
@@ -228,6 +206,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时23分 ~ 12时29分]"
+        },
+        {
+          "title": "法籍毒贩陈森被执行死刑 中使馆回应",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E7%B1%8D%E6%AF%92%E8%B4%A9%E9%99%88%E6%A3%AE%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91+%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时22分]"
         },
         {
           "title": "巴林海湾石化工业公司称伊朗无人机袭击后装置起火已得到控制",
@@ -270,6 +260,18 @@
           "time_info": "[09时22分 ~ 17时31分]"
         },
         {
+          "title": "朔州发生3.6级地震系谣言",
+          "url": "https://www.douyin.com/hot/2454843",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 19时22分]"
+        },
+        {
           "title": "玩家起诉维权,专治撤饰奸商",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352799&amp;topic_name=%E7%8E%A9%E5%AE%B6%E8%B5%B7%E8%AF%89%E7%BB%B4%E6%9D%83%2C%E4%B8%93%E6%B2%BB%E6%92%A4%E9%A5%B0%E5%A5%B8%E5%95%86",
           "source": "贴吧",
@@ -277,11 +279,12 @@
             6,
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 19时22分]"
         },
         {
           "title": "炸街扰民,暴走团被约谈",
@@ -296,6 +299,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时22分 ~ 17时31分]"
+        },
+        {
+          "title": "匈牙利总理：匈塞天然气设施附近发现爆炸物",
+          "url": "https://wallstreetcn.com/livenews/3082598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "据巴林国家通讯社：巴林海湾石化工业公司表示，火灾已得到控制，相关团队正对事故造成的损失进行评估。",
@@ -324,16 +340,17 @@
           "time_info": "[15时50分 ~ 17时31分]"
         },
         {
-          "title": "朔州发生3.6级地震系谣言",
-          "url": "https://www.douyin.com/hot/2454843",
-          "source": "抖音",
+          "title": "匈牙利总理：匈塞天然气设施附近发现爆炸物",
+          "url": "https://flash.jin10.com/detail/20260405170857323800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9
+            3,
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "一名伊朗籍男子在日本被殴打致死",
@@ -344,8 +361,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时09分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[14时09分 ~ 19时22分]"
         },
         {
           "title": "美军搜救失联飞行员行动发生交火，致4死1伤",
@@ -372,6 +389,19 @@
           "time_info": "[12时29分 ~ 16时33分]"
         },
         {
+          "title": "曝美炸毁两架执行救援任务故障运输机",
+          "url": "https://www.toutiao.com/trending/7625155677094399526/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时49分 ~ 19时22分]"
+        },
+        {
           "title": "新疆生产建设兵团党委常委会：坚决拥护党中央对马兴瑞审查调查的决定",
           "url": "https://m.thepaper.cn/newsDetail_forward_32904201",
           "source": "澎湃新闻",
@@ -385,18 +415,6 @@
           "time_info": "[09时22分 ~ 16时33分]"
         },
         {
-          "title": "曝美炸毁两架执行救援任务故障运输机",
-          "url": "https://www.toutiao.com/trending/7625155677094399526/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时49分 ~ 18时23分]"
-        },
-        {
           "title": "消息人士：美军试图炸死在伊朗失联飞行员",
           "url": "https://m.thepaper.cn/newsDetail_forward_32907060",
           "source": "澎湃新闻",
@@ -405,8 +423,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时49分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[15时49分 ~ 19时22分]"
         },
         {
           "title": "伊媒：美军试图炸死在伊朗失联飞行员",
@@ -461,6 +479,30 @@
           "time_info": "[15时50分 ~ 18时23分]"
         },
         {
+          "title": "伊朗籍男子被殴打致死 目击者发声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB+%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时22分]"
+        },
+        {
+          "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907660",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时22分]"
+        },
+        {
           "title": "伊媒：美军试图炸死在伊朗失联飞行员",
           "url": "https://www.toutiao.com/trending/7625060791909092900/",
           "source": "今日头条",
@@ -494,18 +536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时50分 ~ 16时33分]"
-        },
-        {
-          "title": "伊朗籍男子被殴打致死 目击者发声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB+%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时23分]"
         },
         {
           "title": "阿布扎比鲁韦斯大型石化设施遇袭停运",
@@ -554,16 +584,16 @@
           "time_info": "[15时49分 ~ 15时50分]"
         },
         {
-          "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907660",
-          "source": "澎湃新闻",
+          "title": "午休健身时猝死算工伤吗 法院判了",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%88%E4%BC%91%E5%81%A5%E8%BA%AB%E6%97%B6%E7%8C%9D%E6%AD%BB%E7%AE%97%E5%B7%A5%E4%BC%A4%E5%90%97+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19
+            22,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时23分]"
+          "time_info": "[18时23分 ~ 19时22分]"
         },
         {
           "title": "巴林内政部：伊朗袭击后，民防部门正在采取措施控制一处设施的火灾。",
@@ -578,6 +608,17 @@
           "time_info": "[12时29分 ~ 14时10分]"
         },
         {
+          "title": "科威特石油公司：国家石油及石化工业公司工厂发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3082606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
           "url": "https://flash.jin10.com/detail/20260405062637079800",
           "source": "金十数据",
@@ -587,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "科威特石油公司声明：确认生产装置遭到伊朗无人机袭击，导致部分设施起火。未报告人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260405182935283800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "伊朗媒体：苏莱曼尼女儿否认他的亲属在美被捕",
@@ -631,17 +683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
-        },
-        {
-          "title": "午休健身时猝死算工伤吗 法院判了",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%88%E4%BC%91%E5%81%A5%E8%BA%AB%E6%97%B6%E7%8C%9D%E6%AD%BB%E7%AE%97%E5%B7%A5%E4%BC%A4%E5%90%97+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "中国地震台网正式测定：04月05日10时39分在新疆吐鲁番市高昌区（北纬43.34度，东经88.94度）发生3.6级地震，震源深度36千米。",
@@ -721,6 +762,17 @@
           "time_info": "15时50分"
         },
         {
+          "title": "毛新宇绕毛主席铜像一周",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%96%B0%E5%AE%87%E7%BB%95%E6%AF%9B%E4%B8%BB%E5%B8%AD%E9%93%9C%E5%83%8F%E4%B8%80%E5%91%A8%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "伊朗称打击地区美方目标 科威特及阿联酋传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3082486",
           "source": "华尔街见闻-快讯",
@@ -730,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "北大地震学副教授讲炒股成全网热门课",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88%E8%AE%B2%E7%82%92%E8%82%A1%E6%88%90%E5%85%A8%E7%BD%91%E7%83%AD%E9%97%A8%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     }
