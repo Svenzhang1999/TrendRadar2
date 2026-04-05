@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T12:29:16.342240+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-04-05T14:10:07.726538+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时10分]"
         },
         {
           "title": "伊媒：美军试图炸死在伊朗失联飞行员",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时10分]"
         },
         {
           "title": "新疆：坚决拥护党中央对马兴瑞进行审查调查的决定",
@@ -35,11 +35,34 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时10分]"
+        },
+        {
+          "title": "美以伊战争丨美军第2名失联飞行员获救，特朗普发声",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "伊朗籍男子在日本被殴打致死",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
         },
         {
           "title": "美以伊战争丨美官员：第2名失联飞行员已获救",
@@ -48,9 +71,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "美媒称美军炸毁两架执行救援任务的故障运输机",
+          "url": "https://flash.jin10.com/detail/20260405132938659800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "美媒称美军炸毁两架执行救援任务的故障运输机",
+          "url": "https://wallstreetcn.com/livenews/3082554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "消息人士：美军试图炸死在伊朗失联飞行员",
@@ -107,8 +152,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时10分]"
         },
         {
           "title": "苏莱曼尼的亲属在美被捕",
@@ -119,8 +164,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时10分]"
         },
         {
           "title": "伊媒：美军试图炸死在伊朗失联飞行员",
@@ -128,22 +173,24 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时10分]"
         },
         {
           "title": "新疆生产建设兵团党委常委会：坚决拥护党中央对马兴瑞审查调查的决定",
           "url": "https://m.thepaper.cn/newsDetail_forward_32904201",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时10分]"
         },
         {
           "title": "炸街扰民,暴走团被约谈",
@@ -154,8 +201,30 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时10分]"
+        },
+        {
+          "title": "朔州发生3.6级地震系谣言",
+          "url": "https://www.douyin.com/hot/2454843",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时29分]"
+          "time_info": "[12时29分 ~ 14时10分]"
+        },
+        {
+          "title": "伊朗籍男子在日本被殴打致死",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 14时10分]"
         },
         {
           "title": "伊媒：美军试图炸死在伊朗失联飞行员",
@@ -169,6 +238,51 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
+          "title": "美军搜救失联飞行员行动发生交火，致4死1伤",
+          "url": "https://news.ifeng.com/c/8s4dulnkg3G",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "巴林内政部：民防部门已扑灭一处设施发生的火灾，该火灾系伊朗袭击所致。",
+          "url": "https://flash.jin10.com/detail/20260405114353461800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 14时10分]"
+        },
+        {
+          "title": "客户投诉后银行员工登门要求“谈谈”",
+          "url": "https://www.toutiao.com/trending/7623989674906058806/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "一名伊朗籍男子在日本被殴打致死",
+          "url": "https://www.toutiao.com/trending/7625104501129707526/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
           "title": "律师解读金昊被执行死刑",
           "url": "https://www.douyin.com/hot/2455139",
           "source": "抖音",
@@ -180,15 +294,16 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "朔州发生3.6级地震系谣言",
-          "url": "https://www.douyin.com/hot/2454843",
-          "source": "抖音",
+          "title": "巴林内政部：伊朗袭击后，民防部门正在采取措施控制一处设施的火灾。",
+          "url": "https://flash.jin10.com/detail/20260405105430427800",
+          "source": "金十数据",
           "ranks": [
-            8
+            20,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 14时10分]"
         },
         {
           "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
@@ -200,17 +315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "巴林内政部：民防部门已扑灭一处设施发生的火灾，该火灾系伊朗袭击所致。",
-          "url": "https://flash.jin10.com/detail/20260405114353461800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
         },
         {
           "title": "伊朗媒体：苏莱曼尼女儿否认他的亲属在美被捕",
@@ -235,35 +339,13 @@
           "time_info": "09时23分"
         },
         {
-          "title": "伊朗籍男子在日本被殴打致死",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%AE%B4%E6%89%93%E8%87%B4%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
           "title": "多部短剧AI角色“撞脸”易烊千玺，工作室声明：已委请律师开展维权工作",
           "url": "https://wallstreetcn.com/livenews/3082517",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "巴林内政部：伊朗袭击后，民防部门正在采取措施控制一处设施的火灾。",
-          "url": "https://flash.jin10.com/detail/20260405105430427800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -274,7 +356,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -285,7 +367,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -296,7 +378,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -318,7 +400,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
