@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-06T14:25:31.896997+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-04-06T16:18:09.547774+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "地震学副教授讲炒股引热议：十多年前已是北大第一大通选课，去年获教学优秀奖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32908567",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 16时18分]"
         },
         {
           "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
@@ -47,7 +48,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -74,24 +75,37 @@
           "time_info": "12时36分"
         },
         {
+          "title": "郭艾伦被曝遭熟人诈骗近千万，嫌疑人以「投资入股」为名诱导其转账，公安机关已正式立案，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2024243189742139189",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 16时18分]"
+        },
+        {
+          "title": "安徽6岁女童家门口失联超5天",
+          "url": "https://www.toutiao.com/trending/7624932375981801508/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时18分]"
+        },
+        {
           "title": "美以袭击伊朗德黑兰省致6名儿童遇难",
           "url": "https://wallstreetcn.com/livenews/3082733",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时25分]"
-        },
-        {
-          "title": "郭艾伦被曝遭熟人诈骗近千万，嫌疑人以「投资入股」为名诱导其转账，公安机关已正式立案，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2024243189742139189",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -116,11 +130,12 @@
           "ranks": [
             14,
             2,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 16时18分]"
         },
         {
           "title": "陕西汉中勉县发生3.9级地震",
@@ -141,11 +156,25 @@
           "source": "贴吧",
           "ranks": [
             17,
-            18
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 16时18分]"
+        },
+        {
+          "title": "胖东来再回应“鸡蛋检出角黄素”：检测结果全合格，将依法维权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911313",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时22分 ~ 14时25分]"
+          "time_info": "[12时36分 ~ 16时18分]"
         },
         {
           "title": "郭艾伦遭熟人诈骗千万元",
@@ -159,6 +188,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 14时25分]"
+        },
+        {
+          "title": "陈青敏当选越南国会主席",
+          "url": "https://news.ifeng.com/c/8s6GQfpTavt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时18分]"
         },
         {
           "title": "日媒：一伊朗籍男子在日本被殴打致死，警方展开调查",
@@ -218,18 +258,6 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "胖东来再回应“鸡蛋检出角黄素”：检测结果全合格，将依法维权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911313",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时25分]"
-        },
-        {
           "title": "曝郭艾伦及家人遭诈骗近千万元",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%83%AD%E8%89%BE%E4%BC%A6%E5%8F%8A%E5%AE%B6%E4%BA%BA%E9%81%AD%E8%AF%88%E9%AA%97%E8%BF%91%E5%8D%83%E4%B8%87%E5%85%83",
           "source": "百度热搜",
@@ -285,17 +313,6 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "安徽6岁女童家门口失联超5天",
-          "url": "https://www.toutiao.com/trending/7624932375981801508/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
           "title": "市场消息：特拉维夫传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260406084104692800",
           "source": "金十数据",
@@ -318,15 +335,15 @@
           "time_info": "12时36分"
         },
         {
-          "title": "陈青敏当选越南国会主席",
-          "url": "https://news.ifeng.com/c/8s6GQfpTavt",
-          "source": "凤凰网",
+          "title": "亚航长程票价最高上涨40% 首席执行官称因伊朗冲突所致",
+          "url": "https://wallstreetcn.com/livenews/3082756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "16时18分"
         },
         {
           "title": "当地时间6日凌晨2时39分，伊朗首都德黑兰传出爆炸声。（央视）",
@@ -357,7 +374,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
