@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T16:07:18.278232+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-04-08T17:59:34.390198+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "富华国际集团荣誉主席陈丽华逝世，享年85岁",
@@ -41,6 +41,17 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
+          "title": "伊朗战争丨伊朗拉万炼油厂发生爆炸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "市场监管总局拟对禁用“生鲜灯”公开征求意见",
           "url": "https://flash.jin10.com/detail/20260408120315852800",
           "source": "金十数据",
@@ -50,6 +61,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "三安光电：三安电子和三安集团所持公司总股本的29.47%均被冻结",
+          "url": "https://wallstreetcn.com/livenews/3084231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "伊朗拉万炼油厂发生爆炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%89%E4%B8%87%E7%82%BC%E6%B2%B9%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "女方猝死遗产继承权亲儿子仅占八分之一",
@@ -62,6 +95,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时16分 ~ 16时07分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
+          "url": "https://www.cls.cn/detail/2337516",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 17时59分]"
         },
         {
           "title": "伊朗哈尔克岛再遭袭 传出多次爆炸声",
@@ -86,18 +132,6 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
-          "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
-          "url": "https://www.cls.cn/detail/2337516",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 16时07分]"
-        },
-        {
           "title": "富华国际集团荣誉主席陈丽华逝世",
           "url": "https://m.thepaper.cn/newsDetail_forward_32915449",
           "source": "澎湃新闻",
@@ -120,6 +154,29 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
+          "title": "男子求爱女邻居被拒纠缠骚扰4年",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B1%82%E7%88%B1%E5%A5%B3%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8B%92%E7%BA%A0%E7%BC%A0%E9%AA%9A%E6%89%B04%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 17时59分]"
+        },
+        {
+          "title": "全红婵等运动员遭受网暴，体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025193360156112248",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 17时59分]"
+        },
+        {
           "title": "黄一鸣被限高 被执行55万",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%B8%80%E9%B8%A3%E8%A2%AB%E9%99%90%E9%AB%98+%E8%A2%AB%E6%89%A7%E8%A1%8C55%E4%B8%87",
           "source": "百度热搜",
@@ -129,6 +186,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 09时22分]"
+        },
+        {
+          "title": "阿联酋天然气设施因拦截导弹碎片坠落起火",
+          "url": "https://wallstreetcn.com/livenews/3084220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "里海发生5.5级地震 震源深度10千米",
+          "url": "https://wallstreetcn.com/livenews/3084219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "全红婵涉嫌遭受网暴，国家体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
@@ -142,15 +221,26 @@
           "time_info": "14时16分"
         },
         {
-          "title": "全红婵等运动员遭受网暴，体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025193360156112248",
-          "source": "知乎",
+          "title": "三安光电：副董事长兼总经理林科闯被留置、立案调查",
+          "url": "https://flash.jin10.com/detail/20260408174146891800",
+          "source": "金十数据",
           "ranks": [
-            17
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "17时59分"
+        },
+        {
+          "title": "全红婵涉嫌遭受网暴：所在训练中心已报警，相关部门开展核查处置工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32924218",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "新西兰联储主席Breman：中性官方现金利率是一个区间，中点为3%。",
@@ -162,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "高压锅气孔堵塞爆炸 附近两人未受伤",
+          "url": "https://www.toutiao.com/trending/7626188333990920198/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "美联储副主席杰斐逊：伊朗战争将推高通胀，但利率“定位恰当”",
@@ -219,6 +320,28 @@
           "time_info": "12时28分"
         },
         {
+          "title": "据伊朗媒体MEHR报道，周三早晨伊朗锡里岛发生多起爆炸，爆炸原因尚不明。",
+          "url": "https://wallstreetcn.com/livenews/3084197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "伊朗一炼油厂发生爆炸",
+          "url": "https://www.toutiao.com/trending/7626306225507929650/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "路透调查：预计2026年韩国央行基准利率为2.50%，与2月调查结果相同。所有31位经济学家均表示，韩国央行将于4月10日将基准利率维持在2.50%。",
           "url": "https://flash.jin10.com/detail/20260408083550974800",
           "source": "金十数据",
@@ -228,17 +351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "男子求爱女邻居被拒纠缠骚扰4年",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%B1%82%E7%88%B1%E5%A5%B3%E9%82%BB%E5%B1%85%E8%A2%AB%E6%8B%92%E7%BA%A0%E7%BC%A0%E9%AA%9A%E6%89%B04%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
         }
       ]
     }
