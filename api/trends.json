@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T09:12:35.147190+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-09T12:25:19.499688+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 12,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时25分]"
         },
         {
           "title": "全红婵遭受网暴：所在训练中心已报警，相关部门开展核查处置工作",
@@ -30,15 +30,108 @@
           "time_info": "09时12分"
         },
         {
+          "title": "据英国金融时报：欧盟委员会执行副主席东布罗夫斯基斯表示，欧盟委员会正准备下调今年的经济增长预期。",
+          "url": "https://flash.jin10.com/detail/20260409120314907800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "黄河特大桥垮塌致 13 死调查报告公布，系施工方违规用劣质螺栓，层层监管为何失灵？责任人会面临什么处罚？",
+          "url": "https://www.zhihu.com/question/2025292599771100645",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "越南国家主席苏林将访华",
+          "url": "https://www.toutiao.com/trending/7625997264951951398/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "云南一医院太平间招聘要求大专能搬尸体，录用需经笔试面试，这种门槛有必要吗？为什么一则招聘令网友吵翻了？",
           "url": "https://www.zhihu.com/question/2025243216312623351",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时25分]"
+        },
+        {
+          "title": "马上评｜洲际酒店的霸王条款该收场了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926112",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时25分]"
+        },
+        {
+          "title": "男子备婚期被分手坠楼身亡",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%87%E5%A9%9A%E6%9C%9F%E8%A2%AB%E5%88%86%E6%89%8B%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时25分]"
+        },
+        {
+          "title": "河北三男子营救落水女子四人均遇难",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%89%E7%94%B7%E5%AD%90%E8%90%A5%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%E5%9B%9B%E4%BA%BA%E5%9D%87%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时25分]"
+        },
+        {
+          "title": "多方回应三男子救落水女子四人均遇难",
+          "url": "https://www.toutiao.com/trending/7625831070889574406/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 12时25分]"
+        },
+        {
+          "title": "中国贸促会副会长李兴乾会见葡中工商会主席安东尼奥·诺罗尼亚",
+          "url": "https://wallstreetcn.com/livenews/3084750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "12时25分"
         },
         {
           "title": "全红婵等运动员遭受网暴，体育总局已与广东省体育局联合核查，全红婵所在训练中心已报警，哪些信息值得关注？",
@@ -74,6 +167,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "男子求复合遭女友拒绝次日坠楼身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B1%82%E5%A4%8D%E5%90%88%E9%81%AD%E5%A5%B3%E5%8F%8B%E6%8B%92%E7%BB%9D%E6%AC%A1%E6%97%A5%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "新西兰联储主席Berman：通胀上行风险加大。 预计新西兰经济增长将略有放缓。 正在寻找核心通胀可能上升的任何迹象。 预计企业短期内将更加谨慎。 我们目前预计经济不会出现负增长。 我们的任务是让通胀率回到2%区间的中点。 之前的降息举措仍在为经济提供少许刺激。 如果中东冲突得到迅速解决，认为今年将看到更强劲的经济增长。",
           "url": "https://wallstreetcn.com/livenews/3084652",
           "source": "华尔街见闻-快讯",
@@ -85,26 +189,37 @@
           "time_info": "09时12分"
         },
         {
-          "title": "马上评｜洲际酒店的霸王条款该收场了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926112",
-          "source": "澎湃新闻",
+          "title": "贾平凹女儿论文被指抄袭 校方调查",
+          "url": "https://www.toutiao.com/trending/7625671839926255670/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "12时25分"
         },
         {
-          "title": "河北三男子营救落水女子四人均遇难",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E4%B8%89%E7%94%B7%E5%AD%90%E8%90%A5%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%E5%9B%9B%E4%BA%BA%E5%9D%87%E9%81%87%E9%9A%BE",
+          "title": "贾平凹女儿贾浅浅被指涉嫌论文抄袭，西北大学称已启动调查程序，如查实抄袭，贾浅浅会面临怎样的处罚？",
+          "url": "https://www.zhihu.com/question/2025502306385273721",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "安徽省政协原副主席姚玉舟被查",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E7%9C%81%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%A7%9A%E7%8E%89%E8%88%9F%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
           "ranks": [
-            21
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "12时25分"
         },
         {
           "title": "美国前陆军雇员被控向记者泄露机密军事信息",
@@ -118,26 +233,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "男子备婚期被分手坠楼身亡",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A4%87%E5%A9%9A%E6%9C%9F%E8%A2%AB%E5%88%86%E6%89%8B%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "河北三男子营救落水女子四人均遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%89%E7%94%B7%E5%AD%90%E8%90%A5%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%E5%9B%9B%E4%BA%BA%E5%9D%87%E9%81%87%E9%9A%BE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "多方回应三男子救落水女子四人均遇难",
-          "url": "https://www.toutiao.com/trending/7625831070889574406/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "12时25分"
         }
       ]
     }
