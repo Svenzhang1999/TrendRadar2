@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T12:39:10.773017+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-04-10T14:27:15.265149+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "习近平会见中国国民党主席郑丽文",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时27分]"
         },
         {
           "title": "卸任安徽省政协副主席3年后，姚玉舟被查",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "今天起明确禁止“大数据杀熟”",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E8%B5%B7%E6%98%8E%E7%A1%AE%E7%A6%81%E6%AD%A2%E2%80%9C%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "“拼豆”玩具漏电致贵阳一女童身亡，调查发现有的竟外接220伏市电",
@@ -57,11 +68,46 @@
           "url": "https://www.cls.cn/detail/2340047",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时27分]"
+        },
+        {
+          "title": "“济南步行街火灾”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E6%AD%A5%E8%A1%8C%E8%A1%97%E7%81%AB%E7%81%BE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时27分]"
+        },
+        {
+          "title": "济南步行街火灾系谣言",
+          "url": "https://www.toutiao.com/trending/7626293450213081114/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时27分]"
+        },
+        {
+          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时27分]"
         },
         {
           "title": "院长猥亵女员工后称分寸感没把握好",
@@ -75,37 +121,15 @@
           "time_info": "[12时38分 ~ 12时39分]"
         },
         {
-          "title": "“济南步行街火灾”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E6%AD%A5%E8%A1%8C%E8%A1%97%E7%81%AB%E7%81%BE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
+          "title": "港股海底捞(06862.HK)午后拉升涨近4%，消息面上，海底捞午间公告，控股股东、执行董事、董事会主席兼首席执行官张勇拟增持不少于1亿港元公司股份。",
+          "url": "https://flash.jin10.com/detail/20260410141110029800",
+          "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "济南步行街火灾系谣言",
-          "url": "https://www.toutiao.com/trending/7626293450213081114/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "西北大学：对教师贾某某涉嫌学术论文抄袭等问题启动调查",
