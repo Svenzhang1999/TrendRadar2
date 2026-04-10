@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-10T09:38:16.693959+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-10T12:39:10.773017+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "习近平会见中国国民党主席郑丽文",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
         {
           "title": "卸任安徽省政协副主席3年后，姚玉舟被查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32932229",
@@ -34,11 +45,67 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32933898",
           "source": "澎湃新闻",
           "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时39分]"
+        },
+        {
+          "title": "习近平总书记会见中国国民党主席郑丽文",
+          "url": "https://www.cls.cn/detail/2340047",
+          "source": "财联社热门",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "院长猥亵女员工后称分寸感没把握好",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E9%95%BF%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%91%98%E5%B7%A5%E5%90%8E%E7%A7%B0%E5%88%86%E5%AF%B8%E6%84%9F%E6%B2%A1%E6%8A%8A%E6%8F%A1%E5%A5%BD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "“济南步行街火灾”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%8E%E5%8D%97%E6%AD%A5%E8%A1%8C%E8%A1%97%E7%81%AB%E7%81%BE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "济南步行街火灾系谣言",
+          "url": "https://www.toutiao.com/trending/7626293450213081114/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "澎湃回声｜浙江慈溪市监局立案调查“荣事达冰柜”网店涉嫌虚假宣传行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934188",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
         },
         {
           "title": "西北大学：对教师贾某某涉嫌学术论文抄袭等问题启动调查",
