@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T18:25:04.486217+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-04-11T19:22:53.911184+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "携程、去哪儿、飞猪、美团等7家涉火车票销售第三方平台被约谈",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 18时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 19时22分]"
         },
         {
           "title": "习近平总书记会见中国国民党主席郑丽文",
@@ -64,6 +64,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "伊朗西南部发生4.6级地震",
+          "url": "https://wallstreetcn.com/livenews/3086213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "四川地震",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -75,28 +86,45 @@
           "time_info": "13时54分"
         },
         {
+          "title": "某蓄电池企业被指让员工体检前吃排铅药来篡改血铅数据、规避职业病责任，可能面临哪些处罚？员工该如何维权？",
+          "url": "https://www.zhihu.com/question/2025990448301306688",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 19时22分]"
+        },
+        {
+          "title": "新规落地:大数据杀熟被禁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353059&amp;topic_name=%E6%96%B0%E8%A7%84%E8%90%BD%E5%9C%B0%3A%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%E8%A2%AB%E7%A6%81",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            19,
+            21,
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 19时22分]"
+        },
+        {
           "title": "美据称同意解冻伊朗在海外被冻结资产",
           "url": "https://wallstreetcn.com/livenews/3086192",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时25分]"
-        },
-        {
-          "title": "据路透社：伊朗高级消息人士表示，美国已同意解除对“存于卡塔尔及其他外国银行”的伊朗冻结资产的封存。",
-          "url": "https://flash.jin10.com/detail/20260411170812104800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时22分]"
         },
         {
           "title": "北京市体育局与中国足协成立联合调查组，严肃调查中青赛严重虚假比赛事件",
@@ -123,6 +151,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时43分 ~ 17时32分]"
+        },
+        {
+          "title": "据路透社：伊朗高级消息人士表示，美国已同意解除对“存于卡塔尔及其他外国银行”的伊朗冻结资产的封存。",
+          "url": "https://flash.jin10.com/detail/20260411170812104800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时22分]"
         },
         {
           "title": "市场消息：当地政府表示，无人机残骸夜间坠落在俄罗斯克拉斯诺达尔边疆区一处油库区域内导致区域起火，火势已扑灭。",
@@ -182,34 +223,6 @@
           "time_info": "[13时54分 ~ 17时32分]"
         },
         {
-          "title": "某蓄电池企业被指让员工体检前吃排铅药来篡改血铅数据、规避职业病责任，可能面临哪些处罚？员工该如何维权？",
-          "url": "https://www.zhihu.com/question/2025990448301306688",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 18时25分]"
-        },
-        {
-          "title": "新规落地:大数据杀熟被禁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353059&amp;topic_name=%E6%96%B0%E8%A7%84%E8%90%BD%E5%9C%B0%3A%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%E8%A2%AB%E7%A6%81",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            19,
-            21,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 18时25分]"
-        },
-        {
           "title": "美国警方发现海滩藏超11具尸体",
           "url": "https://www.toutiao.com/trending/7627107912880619562/",
           "source": "今日头条",
@@ -228,11 +241,24 @@
           "source": "微博",
           "ranks": [
             6,
-            17
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 19时22分]"
+        },
+        {
+          "title": "美方否认同意解冻伊朗被冻结资产",
+          "url": "https://www.toutiao.com/trending/7627043833205018166/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时32分 ~ 18时25分]"
+          "time_info": "[18时24分 ~ 19时22分]"
         },
         {
           "title": "伊朗代表团飞机带有遇难儿童照片",
@@ -253,33 +279,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时25分]"
-        },
-        {
-          "title": "美方否认同意解冻伊朗被冻结资产",
-          "url": "https://www.toutiao.com/trending/7627043833205018166/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时22分]"
         },
         {
           "title": "美据称同意解冻伊朗在海外被冻结资产",
           "url": "https://flash.jin10.com/detail/20260411171431445800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时22分]"
         },
         {
           "title": "美国航空航天局：四名执行“阿耳忒弥斯2号”任务的宇航员安全出舱。",
