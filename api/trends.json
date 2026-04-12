@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T18:30:40.579570+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-04-12T19:27:17.876526+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             6,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时26分 ~ 18时30分]"
+          "appearance_count": 11,
+          "time_info": "[09时26分 ~ 19时27分]"
         },
         {
           "title": "海底捞回应「员工因投诉被强制自费买礼物」，称将依法赔偿，如何看待此事？暴露出海底捞内部管理哪些问题？",
@@ -48,6 +49,19 @@
           "time_info": "[16时41分 ~ 18时30分]"
         },
         {
+          "title": "法官被曝猥亵案件当事人 警方立案",
+          "url": "https://www.toutiao.com/trending/7627756785646501907/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时58分 ~ 19时27分]"
+        },
+        {
           "title": "25岁男子猥亵20余名女性获刑8个月",
           "url": "https://www.toutiao.com/trending/7627382889730752548/",
           "source": "今日头条",
@@ -60,17 +74,16 @@
           "time_info": "[15时58分 ~ 18时30分]"
         },
         {
-          "title": "法官被曝猥亵案件当事人 警方立案",
-          "url": "https://www.toutiao.com/trending/7627756785646501907/",
-          "source": "今日头条",
+          "title": "美伊谈判破裂的三大症结：霍尔木兹、浓缩铀和百亿冻结资金",
+          "url": "https://wallstreetcn.com/articles/3769767",
+          "source": "华尔街见闻",
           "ranks": [
-            23,
-            14,
-            15
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 18时30分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时27分]"
         },
         {
           "title": "打假博主带人“打假”因退赔标准内讧，线索系某监管领导提供？后者否认",
@@ -86,17 +99,6 @@
           "time_info": "[09时26分 ~ 14时19分]"
         },
         {
-          "title": "美伊谈判破裂的三大症结：霍尔木兹、浓缩铀和百亿冻结资金",
-          "url": "https://wallstreetcn.com/articles/3769767",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时30分]"
-        },
-        {
           "title": "航行警告 渤海海峡黄海北部执行军事任务",
           "url": "https://flash.jin10.com/detail/20260412154431456800",
           "source": "金十数据",
@@ -110,6 +112,17 @@
           "time_info": "[16时42分 ~ 18时30分]"
         },
         {
+          "title": "美国加州州长热门人选涉嫌性侵遭调查",
+          "url": "https://news.ifeng.com/c/8sGZdXAQIfk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 19时27分]"
+        },
+        {
           "title": "「赌王」何鸿燊女儿、信德集团执行董事何超蕸去世，终年 60 岁，你对她有哪些印象？",
           "url": "https://www.zhihu.com/question/2026676388720112688",
           "source": "知乎",
@@ -119,17 +132,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时37分 ~ 18时30分]"
-        },
-        {
-          "title": "美国加州州长热门人选涉嫌性侵遭调查",
-          "url": "https://news.ifeng.com/c/8sGZdXAQIfk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "3名伊朗公民在美国被捕",
