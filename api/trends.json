@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T17:27:32.889927+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-04-13T19:09:23.743074+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 28,
+      "match_count": 50,
       "titles": [
         {
           "title": "一日“双开”三虎",
@@ -14,9 +14,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时09分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：霍尔木兹海峡持续关闭造成巨大损害。 对黎巴嫩的袭击可能会破坏进程。 呼吁各方尊重黎巴嫩主权。 战争增加了欧盟化石燃料进口成本220亿欧元。 欧盟能源协调方面可以做得更多、更好。",
+          "url": "https://wallstreetcn.com/livenews/3086908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：将尽快与匈牙利政府合作。",
+          "url": "https://flash.jin10.com/detail/20260413185428210800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "“赌王”何鸿燊女儿、信德集团执行董事何超蕸逝世",
@@ -64,11 +86,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 19时09分]"
         },
         {
           "title": "霸凌成风!吧友吐槽火影刁民",
@@ -78,11 +101,12 @@
             3,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 19时09分]"
         },
         {
           "title": "道士教弟子针灸，被认定非法行医累计收到 10 万罚单，这是怎么回事？算不算「小过重罚」？",
@@ -130,11 +154,25 @@
           "ranks": [
             8,
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 19时09分]"
+        },
+        {
+          "title": "湖南省人大常委会原党组书记乌兰被双开：结交政治骗子，接受高档服装",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958115",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 19时09分]"
         },
         {
           "title": "专家辟谣空调不洗致癌",
@@ -160,16 +198,16 @@
           "time_info": "[12时50分 ~ 15时09分]"
         },
         {
-          "title": "湖南省人大常委会原党组书记乌兰被双开：结交政治骗子，接受高档服装",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958115",
+          "title": "不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958948",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            11
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 17时27分]"
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时09分]"
         },
         {
           "title": "美国加州州长热门人选涉嫌性侵遭调查",
@@ -238,6 +276,28 @@
           "time_info": "[12时50分 ~ 12时51分]"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：欧盟委员会将在夏季前公布电气化战略。",
+          "url": "https://flash.jin10.com/detail/20260413185119087800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：将于5月提出降低能源税的提案。",
+          "url": "https://flash.jin10.com/detail/20260413184850526800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "教育部与金融监管总局联合召开国家卓越金融人才培养基地共建工作启动会",
           "url": "https://wallstreetcn.com/livenews/3086716",
           "source": "华尔街见闻-快讯",
@@ -255,20 +315,64 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
         {
-          "title": "不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958948",
-          "source": "澎湃新闻",
+          "title": "欧盟委员会主席冯德莱恩：我们为过度依赖化石燃料付出了沉重代价。",
+          "url": "https://flash.jin10.com/detail/20260413184837393800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：委员会将“很快”就更新后的碳排放交易体系基准值与成员国进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260413184755463800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：我们也需要采取更多结构性措施来降低能源价格。",
+          "url": "https://flash.jin10.com/detail/20260413184712013800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：任何伊朗协议都必须解决核问题和霍尔木兹海峡问题。",
+          "url": "https://flash.jin10.com/detail/20260413184650648800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：官员们正在讨论缓解能源价格波动的措施。",
+          "url": "https://flash.jin10.com/detail/20260413184637121800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "英国五家自来水公司花费3240万英镑向竞争监管机构提出上诉，结果这些自来水公司得以进一步提高客户的水费。",
@@ -282,6 +386,72 @@
           "time_info": "12时51分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：欧盟委员会将于4月22日公布能源价格措施提案。",
+          "url": "https://flash.jin10.com/detail/20260413184625002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧盟委员会力争本月出台政府补贴临时框架。",
+          "url": "https://flash.jin10.com/detail/20260413184608108800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：缓解能源价格的措施应针对弱势群体，及时且具有临时性。",
+          "url": "https://flash.jin10.com/detail/20260413184551982800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "张继科合作公司成被执行人",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%90%88%E4%BD%9C%E5%85%AC%E5%8F%B8%E6%88%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：本周就更灵活的政府补贴规则展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260413184527688800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧盟能源协调方面可以做得更多、更好。",
+          "url": "https://flash.jin10.com/detail/20260413184430020800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "国家烟草专卖局原党组成员、副局长韩占武严重违纪违法被“双开”。（人民日报）",
           "url": "https://wallstreetcn.com/livenews/3086627",
           "source": "华尔街见闻-快讯",
@@ -291,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：紧急措施不应影响单一市场。",
+          "url": "https://flash.jin10.com/detail/20260413184342349800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "工信部：开展锂电池、光伏组件、民用爆炸物品、无线电发射设备等重点产品质量检查",
@@ -304,6 +485,39 @@
           "time_info": "12时51分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：我们正研究协调各成员国的天然气储存活动。",
+          "url": "https://flash.jin10.com/detail/20260413184321998800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：能源价格问题亟需成员国之间开展强有力的协调。",
+          "url": "https://flash.jin10.com/detail/20260413184233574800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：自伊朗战争爆发以来，欧盟的化石燃料账单已增加220亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260413184122521800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "平台应提供打赏限额功能、不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
           "url": "https://wallstreetcn.com/livenews/3086694",
           "source": "华尔街见闻-快讯",
@@ -315,13 +529,24 @@
           "time_info": "15时09分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：呼吁各方尊重黎巴嫩主权。",
+          "url": "https://flash.jin10.com/detail/20260413184107114800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "东莞男子森林公园徒步误食野草中毒",
           "url": "https://www.toutiao.com/trending/7627908482339553334/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -335,6 +560,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：黎巴嫩燃起熊熊烈火，中东就不可能实现稳定。",
+          "url": "https://flash.jin10.com/detail/20260413184024019800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：对黎巴嫩的打击威胁到进程的顺利进行。",
+          "url": "https://flash.jin10.com/detail/20260413184014671800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     }
