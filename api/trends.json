@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T12:51:13.162614+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-04-13T15:09:15.529848+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "女副部乌兰被“双开”：结交政治骗子",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时09分]"
         },
         {
           "title": "“赌王”何鸿燊女儿、信德集团执行董事何超蕸逝世",
@@ -24,23 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时51分]"
-        },
-        {
-          "title": "霸凌成风!吧友吐槽火影刁民",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353110&amp;topic_name=%E9%9C%B8%E5%87%8C%E6%88%90%E9%A3%8E%21%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E7%81%AB%E5%BD%B1%E5%88%81%E6%B0%91",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时09分]"
         },
         {
           "title": "山西吕梁被曝猥亵案件当事人的法官已停职，当地纪检监察部门介入",
@@ -48,23 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时51分]"
-        },
-        {
-          "title": "美伊谈判破裂的三大症结：霍尔木兹、浓缩铀和百亿冻结资金",
-          "url": "https://wallstreetcn.com/articles/3769767",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时09分]"
         },
         {
           "title": "“劝返途中被控抢方向盘案”老人刑满释放续：浙江省检已受理申诉并立案复查",
@@ -72,11 +50,38 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时09分]"
+        },
+        {
+          "title": "霸凌成风!吧友吐槽火影刁民",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353110&amp;topic_name=%E9%9C%B8%E5%87%8C%E6%88%90%E9%A3%8E%21%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E7%81%AB%E5%BD%B1%E5%88%81%E6%B0%91",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时09分]"
+        },
+        {
+          "title": "美伊谈判破裂的三大症结：霍尔木兹、浓缩铀和百亿冻结资金",
+          "url": "https://wallstreetcn.com/articles/3769767",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时09分]"
         },
         {
           "title": "山西吕梁市中院一法官被曝光猥亵案件当事人，目前警方已立案",
@@ -84,11 +89,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时09分]"
         },
         {
           "title": "道士教弟子针灸，被认定非法行医累计收到 10 万罚单，这是怎么回事？算不算「小过重罚」？",
@@ -96,22 +102,24 @@
           "source": "知乎",
           "ranks": [
             14,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时09分]"
         },
         {
           "title": "山西一法官被曝猥亵案件当事人，目前警方已立案、法官被停职，其面临怎样的惩罚？知法犯法会判得更重吗？",
           "url": "https://www.zhihu.com/question/2026753750954521696",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时09分]"
         },
         {
           "title": "专家辟谣空调不洗致癌",
@@ -121,8 +129,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时09分]"
+        },
+        {
+          "title": "乌兰被双开",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%B0%E8%A2%AB%E5%8F%8C%E5%BC%80%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时09分]"
         },
         {
           "title": "美国加州州长热门人选涉嫌性侵遭调查",
@@ -147,22 +167,22 @@
           "time_info": "[09时28分 ~ 09时29分]"
         },
         {
+          "title": "湖南省人大常委会原党组书记乌兰被双开：结交政治骗子，接受高档服装",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958115",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
           "title": "一日双开三虎乌兰江敦涛韩占武",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%97%A5%E5%8F%8C%E5%BC%80%E4%B8%89%E8%99%8E%E4%B9%8C%E5%85%B0%E6%B1%9F%E6%95%A6%E6%B6%9B%E9%9F%A9%E5%8D%A0%E6%AD%A6%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
-          "title": "乌兰被双开",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%B0%E8%A2%AB%E5%8F%8C%E5%BC%80%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -202,13 +222,24 @@
           "time_info": "[12时50分 ~ 12时51分]"
         },
         {
+          "title": "教育部与金融监管总局联合召开国家卓越金融人才培养基地共建工作启动会",
+          "url": "https://wallstreetcn.com/livenews/3086716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "英国五家自来水公司花费3240万英镑向竞争监管机构提出上诉，结果这些自来水公司得以进一步提高客户的水费。",
           "url": "https://flash.jin10.com/detail/20260413121337280800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -219,7 +250,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -230,9 +261,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "平台应提供打赏限额功能、不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
+          "url": "https://wallstreetcn.com/livenews/3086694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "中信证券：市场成交的高活跃度以及投行衍生品领域的监管放松是年内证券行业业绩改善的核心主线",
