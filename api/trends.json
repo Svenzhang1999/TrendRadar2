@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T18:08:29.210836+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-04-15T19:49:08.012325+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "影子调查｜21万元注射干细胞，是谁把临床试验做成了生意？",
@@ -15,21 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 18时08分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时08分]"
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 19时49分]"
         },
         {
           "title": "上万美军执行封锁港口任务，美伊未来两天或重返谈判桌",
@@ -55,6 +42,28 @@
           "time_info": "16时22分"
         },
         {
+          "title": "苏丹一金矿坍塌致5人死亡 仍有25人被困",
+          "url": "https://flash.jin10.com/detail/20260415193348146800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "苏丹一金矿坍塌致5人死亡 仍有25人被困",
+          "url": "https://wallstreetcn.com/livenews/3088481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
           "url": "https://wallstreetcn.com/livenews/3088325",
           "source": "华尔街见闻-快讯",
@@ -64,6 +73,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 19时49分]"
         },
         {
           "title": "李成钢会见美国福特汽车公司全球执行副总裁兼首席政务官柯立",
@@ -107,8 +130,34 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 18时08分]"
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 19时49分]"
+        },
+        {
+          "title": "监测机构称伊朗出发的两艘船通过霍尔木兹，美军称上万人员执行伊港口“封锁令”，首日六船折返",
+          "url": "https://wallstreetcn.com/articles/3769955",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 19时49分]"
+        },
+        {
+          "title": "马上评｜班主任猥亵女学生后竟转岗后勤，不合法规！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32970823",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 19时49分]"
         },
         {
           "title": "gen粉举报逃税,faker被传唤调查",
@@ -126,29 +175,17 @@
           "time_info": "[09时23分 ~ 18时08分]"
         },
         {
-          "title": "马上评｜班主任猥亵女学生后竟转岗后勤，不合法规！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32970823",
-          "source": "澎湃新闻",
+          "title": "南京一卫生院用杆秤称重，秤砣滑落砸到新生儿，当地卫健委已介入调查，这一操作合规吗？为啥还会用老式杆秤？",
+          "url": "https://www.zhihu.com/question/2027450584798603164",
+          "source": "知乎",
           "ranks": [
+            14,
             11,
-            10,
-            9,
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时08分]"
-        },
-        {
-          "title": "监测机构称伊朗出发的两艘船通过霍尔木兹，美军称上万人员执行伊港口“封锁令”，首日六船折返",
-          "url": "https://wallstreetcn.com/articles/3769955",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时08分]"
+          "time_info": "[16时22分 ~ 19时49分]"
         },
         {
           "title": "上万美军人员正在执行封锁进出伊朗港口船只的任务",
@@ -189,16 +226,37 @@
           "time_info": "[14时31分 ~ 18时08分]"
         },
         {
-          "title": "南京一卫生院用杆秤称重，秤砣滑落砸到新生儿，当地卫健委已介入调查，这一操作合规吗？为啥还会用老式杆秤？",
-          "url": "https://www.zhihu.com/question/2027450584798603164",
-          "source": "知乎",
+          "title": "广西壮族自治区主席580元买包后：崇左文旅跟进“安利”，同款已卖断货",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975317",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 18时08分]"
+          "time_info": "[19时48分 ~ 19时49分]"
+        },
+        {
+          "title": "男孩被绳子锁喉案涉案者被刑拘",
+          "url": "https://www.douyin.com/hot/2466731",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 19时49分]"
+        },
+        {
+          "title": "2女子遭高压水枪狂喷官方将调查",
+          "url": "https://www.baidu.com/s?wd=2%E5%A5%B3%E5%AD%90%E9%81%AD%E9%AB%98%E5%8E%8B%E6%B0%B4%E6%9E%AA%E7%8B%82%E5%96%B7%E5%AE%98%E6%96%B9%E5%B0%86%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 19时49分]"
         },
         {
           "title": "Lululemon在美国被调查",
@@ -232,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "美国总统特朗普：Anthropic的威胁并非系统性的。 希望沃什能得到确认成为美联储主席。 不打算放弃对鲍威尔的调查。 如果鲍威尔不按时离职，他将被解雇。",
+          "url": "https://wallstreetcn.com/livenews/3088467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "商务部发布关于发放对美国阻碍绿色产品贸易相关做法和措施贸易壁垒调查问卷和接收公众评论意见的通知。",
@@ -306,7 +375,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -320,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "据黎巴嫩国家新闻社：黎巴嫩南部救援队遭袭，两名医务人员遇难。",
+          "url": "https://flash.jin10.com/detail/20260415191837702800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         }
       ]
     }
