@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T19:52:34.839978+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-04-16T21:04:53.744217+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 39,
+      "match_count": 51,
       "titles": [
         {
           "title": "千万网红博主称在大凉山帮扶被骗：相关部门跟进调查，警方介入",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 21时04分]"
         },
         {
           "title": "武汉原市长周先旺被公诉 受贿额巨大",
@@ -30,6 +30,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 14时28分]"
+        },
+        {
+          "title": "官方调查诊所用1个针头给15人采血",
+          "url": "https://www.toutiao.com/trending/7629295029332410377/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美军参谋长联席会议主席：13艘船只在美海军封锁下掉头，尚未实施登船检查",
+          "url": "https://flash.jin10.com/detail/20260416205629641800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "开云集团首席执行官：YSL计划到2030年将亚洲业务规模扩大一倍。",
@@ -52,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：就业市场总体稳定，但出现了一些疲软迹象。 美联储利率调控机制运行良好。 预计今年关税对通胀的影响将减弱。",
+          "url": "https://wallstreetcn.com/livenews/3089356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "抢劫杀害网红罗大美主犯被执行死刑",
@@ -79,6 +112,19 @@
           "time_info": "[09时29分 ~ 14时28分]"
         },
         {
+          "title": "国家网信办持续整治网上金融信息乱象",
+          "url": "https://www.cls.cn/detail/2346299",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 21时04分]"
+        },
+        {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
           "source": "贴吧",
@@ -88,11 +134,12 @@
             12,
             17,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 21时04分]"
         },
         {
           "title": "内蒙古一研究院1200元办院士证？官方叫停，调查后将依法依规处理",
@@ -104,8 +151,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 21时04分]"
         },
         {
           "title": "受贿数额特别巨大，湖北省政协原副主席周先旺被提起公诉",
@@ -114,11 +161,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 21时04分]"
         },
         {
           "title": "杀害罗大美主犯被执行死刑",
@@ -129,8 +177,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 21时04分]"
+        },
+        {
+          "title": "程序员午休健身时猝死，公司为其申请工伤，人社局称不算，法院判定为工伤，人社局与法院判定的分歧在哪？",
+          "url": "https://www.zhihu.com/question/2024859389681475649",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 21时04分]"
         },
         {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
@@ -146,27 +206,27 @@
           "time_info": "[12时50分 ~ 16时23分]"
         },
         {
-          "title": "程序员午休健身时猝死，公司为其申请工伤，人社局称不算，法院判定为工伤，人社局与法院判定的分歧在哪？",
-          "url": "https://www.zhihu.com/question/2024859389681475649",
-          "source": "知乎",
+          "title": "致38人遇难的阿客机坠毁系遭俄误击",
+          "url": "https://www.baidu.com/s?wd=%E8%87%B438%E4%BA%BA%E9%81%87%E9%9A%BE%E7%9A%84%E9%98%BF%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E7%B3%BB%E9%81%AD%E4%BF%84%E8%AF%AF%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时04分]"
+        },
+        {
+          "title": "造谣“天津突发8.8级地震”者被罚",
+          "url": "https://www.baidu.com/s?wd=%E9%80%A0%E8%B0%A3%E2%80%9C%E5%A4%A9%E6%B4%A5%E7%AA%81%E5%8F%918.8%E7%BA%A7%E5%9C%B0%E9%9C%87%E2%80%9D%E8%80%85%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 19时52分]"
-        },
-        {
-          "title": "国家网信办持续整治网上金融信息乱象",
-          "url": "https://www.cls.cn/detail/2346299",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时52分]"
+          "time_info": "[19时52分 ~ 21时04分]"
         },
         {
           "title": "抢劫杀害网红罗大美主犯被执行死刑",
@@ -193,6 +253,17 @@
           "time_info": "[12时50分 ~ 14时28分]"
         },
         {
+          "title": "美国纽约联储主席威廉姆斯：中东冲突已经推高了通胀。 在面临挑战的情况下，货币政策“处于良好位置”。 战争影响下，经济前景高度不确定。 正在出现供应链中断的迹象。 部分能源冲击已传导至非能源价格。 如果冲突迅速结束，有助于缓解通胀压力。",
+          "url": "https://wallstreetcn.com/livenews/3089355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "9名中国人在斯里兰卡被捕？中方回应",
           "url": "https://www.toutiao.com/trending/7629254204678213163/",
           "source": "今日头条",
@@ -210,9 +281,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "印尼确认失联直升机坠毁",
+          "url": "https://wallstreetcn.com/livenews/3089354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "杀害罗大美主犯余金生被执行死刑",
@@ -226,15 +308,15 @@
           "time_info": "16时23分"
         },
         {
-          "title": "致38人遇难的阿客机坠毁系遭俄误击",
-          "url": "https://www.baidu.com/s?wd=%E8%87%B438%E4%BA%BA%E9%81%87%E9%9A%BE%E7%9A%84%E9%98%BF%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E7%B3%BB%E9%81%AD%E4%BF%84%E8%AF%AF%E5%87%BB",
-          "source": "百度热搜",
+          "title": "美国纽约联储主席威廉姆斯：预计失业率将保持在4.25%-4.5%之间。 预计通胀将在2027年回到2%的目标。 预计今年通胀率将因能源价格达到2.75%-3%。 预计2026年GDP增长为2%-2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3089352",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "21时04分"
         },
         {
           "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访。",
@@ -259,6 +341,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "造谣“天津8.8级地震”者被处罚",
+          "url": "https://www.toutiao.com/trending/7629323879026036234/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "“重庆铜梁地震引发灾情”不实",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E7%81%BE%E6%83%85%E2%80%9D%E4%B8%8D%E5%AE%9E",
           "source": "百度热搜",
@@ -270,26 +363,26 @@
           "time_info": "09时29分"
         },
         {
-          "title": "造谣“天津突发8.8级地震”者被罚",
-          "url": "https://www.baidu.com/s?wd=%E9%80%A0%E8%B0%A3%E2%80%9C%E5%A4%A9%E6%B4%A5%E7%AA%81%E5%8F%918.8%E7%BA%A7%E5%9C%B0%E9%9C%87%E2%80%9D%E8%80%85%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "猥亵15岁女孩的班主任已被刑事拘留",
           "url": "https://www.baidu.com/s?wd=%E7%8C%A5%E4%BA%B515%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9A%84%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B7%B2%E8%A2%AB%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99",
           "source": "百度热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "瑞典央行副行长扬松：我相信高企的能源价格会更渐进地影响通胀，而不是像在2022年看到的那种爆炸性的影响。",
+          "url": "https://flash.jin10.com/detail/20260416205108987800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "英国金融行为监管局（FCA）：推出更清晰、更简化的卖空规则。 已最终确定更简化的英国卖空制度，这将减少企业的报告负担，同时保持监管监督。 FCA将公布显示每家公司净卖空头寸总体规模的汇总数据，而不是披露具体的卖空方身份。 新规明确了FCA将以更适当、更务实的方式监管卖空活动。",
@@ -314,6 +407,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "*ST观典：股票短期内涨幅较大，明起停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3089345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "女子投保两年后患癌遭拒赔 法院判了",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%95%E4%BF%9D%E4%B8%A4%E5%B9%B4%E5%90%8E%E6%82%A3%E7%99%8C%E9%81%AD%E6%8B%92%E8%B5%94+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86",
           "source": "百度热搜",
@@ -334,6 +438,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "同济通报「院长被质疑 Nature 论文数据造假」，已成立调查组，有哪些信息值得关注？若查实将有什么影响？",
+          "url": "https://www.zhihu.com/question/2028179039127433628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32982197",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "据路透调查：对新加坡元的多头押注达到自3月初以来的最高水平。",
@@ -391,6 +517,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "美军参谋长联席会议主席凯恩：美军随时准备恢复行动。 封锁措施适用于所有进出伊朗港口的船只。 执法将在伊朗领海及国际水域进行。 美国将追查任何试图为伊朗提供支持的船只。 这包括运输伊朗石油的“暗船”船只。 在美国封锁下已有13艘船掉头。",
+          "url": "https://wallstreetcn.com/livenews/3089332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "路透调查：62%的经济学家表示，中东冲突将在未来12个月内使日本核心通胀率上升0.2至0.4个百分点。",
           "url": "https://flash.jin10.com/detail/20260416120701587800",
           "source": "金十数据",
@@ -430,7 +567,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
