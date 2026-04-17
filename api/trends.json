@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T14:29:46.501900+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-04-17T16:22:06.209486+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "广西靖西通报一国道多名男子持手电筒拦车：5人被刑拘",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 16时22分]"
         },
         {
           "title": "美国核动力航母又起火，这次是“艾森豪威尔”号",
@@ -27,8 +27,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时22分]"
+        },
+        {
+          "title": "儿子在校遭欺凌，父亲在学校调解室情绪激动猝死，校方有 AED 却无人会用，救命的设备为啥会成为摆设？",
+          "url": "https://www.zhihu.com/question/2027336049249009816",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时29分]"
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "美国中央司令部：美军保持警惕，并执行对试图进入或离开伊朗港口和沿海地区的船只的封锁。",
@@ -47,11 +58,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 16时22分]"
         },
         {
           "title": "宁夏回族自治区党委常委、常务副主席陈春平表示，“十五五”期间宁夏将进一步加强开放通道建设。（新华社）",
@@ -75,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 16时22分]"
         },
         {
           "title": "国家网信办持续整治网上金融信息乱象，“张哥滚雪球”等账号被关",
@@ -88,8 +100,57 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 16时22分]"
+        },
+        {
+          "title": "狼队清清否认性骚扰指控",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353361&amp;topic_name=%E7%8B%BC%E9%98%9F%E6%B8%85%E6%B8%85%E5%90%A6%E8%AE%A4%E6%80%A7%E9%AA%9A%E6%89%B0%E6%8C%87%E6%8E%A7",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时22分]"
+        },
+        {
+          "title": "受贿数额特别巨大，国家中医药管理局原局长于文明被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32991126",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时22分]"
+        },
+        {
+          "title": "“北京宠物犬中毒案”民事部分二审维持原判，“papi”主人：后续将关注案件执行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986186",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时22分]"
+        },
+        {
+          "title": "年轻人的“致癌套餐”你中了几条",
+          "url": "https://www.toutiao.com/trending/7629172901576720393/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时26分 ~ 14时29分]"
+          "time_info": "[09时26分 ~ 16时22分]"
         },
         {
           "title": "曝清清性骚扰",
@@ -105,16 +166,15 @@
           "time_info": "[09时26分 ~ 14时29分]"
         },
         {
-          "title": "狼队清清否认性骚扰指控",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353361&amp;topic_name=%E7%8B%BC%E9%98%9F%E6%B8%85%E6%B8%85%E5%90%A6%E8%AE%A4%E6%80%A7%E9%AA%9A%E6%89%B0%E6%8C%87%E6%8E%A7",
-          "source": "贴吧",
+          "title": "央视调查暗黑动漫正侵蚀青少年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E6%9A%97%E9%BB%91%E5%8A%A8%E6%BC%AB%E6%AD%A3%E4%BE%B5%E8%9A%80%E9%9D%92%E5%B0%91%E5%B9%B4%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时29分]"
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "中国女生在韩遭男子性骚扰被劝和解",
@@ -129,16 +189,15 @@
           "time_info": "[12时41分 ~ 14时29分]"
         },
         {
-          "title": "受贿数额特别巨大，国家中医药管理局原局长于文明被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32991126",
-          "source": "澎湃新闻",
+          "title": "美艾森豪威尔号航母起火 8名船员受伤",
+          "url": "https://www.toutiao.com/trending/7628547724082167871/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时29分]"
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "培训机构称用 AI 赋能学习，家长花两万四后投诉说小孩没进步还染上网瘾，是咋回事？这种智能教育靠谱吗？",
@@ -147,18 +206,6 @@
           "ranks": [
             16,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时29分]"
-        },
-        {
-          "title": "“北京宠物犬中毒案”民事部分二审维持原判，“papi”主人：后续将关注案件执行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32986186",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -175,6 +222,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 14时29分]"
+        },
+        {
+          "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
+          "url": "https://www.zhihu.com/question/2028032486530184431",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "律师谈中国女生在韩遭男子性骚扰",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E9%81%AD%E7%94%B7%E5%AD%90%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "清清否认性骚扰",
@@ -198,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "市场监管总局依法对拼多多、美团、京东、饿了么、抖音、淘宝、天猫等7家电商平台“幽灵外卖”系列案作出行政处罚。",
+          "url": "https://flash.jin10.com/detail/20260417160022700800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "这些人是心源性猝死高危人群",
@@ -239,7 +319,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -288,15 +368,15 @@
           "time_info": "09时26分"
         },
         {
-          "title": "年轻人的“致癌套餐”你中了几条",
-          "url": "https://www.toutiao.com/trending/7629172901576720393/",
-          "source": "今日头条",
+          "title": "刘健男会见卢森堡安赛乐米塔尔集团全球副总裁、中国区首席执行官",
+          "url": "https://flash.jin10.com/detail/20260417154607015800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "16时22分"
         },
         {
           "title": "杀害罗大美主犯被执行死刑",
@@ -316,7 +396,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -338,7 +418,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
