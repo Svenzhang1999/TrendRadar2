@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T14:25:21.842129+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-04-19T16:02:21.073088+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "一村支书被举报违规建1500平米楼房，官方公布调查处理结果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时02分]"
         },
         {
           "title": "行业性纵容！“幽灵外卖”黑产调查：7家电商平台“幽灵店铺”多达67604家",
@@ -48,11 +48,12 @@
           "ranks": [
             6,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时02分]"
         },
         {
           "title": "日本萝莉毕业,V圈地震",
@@ -61,11 +62,12 @@
           "ranks": [
             13,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 16时02分]"
         },
         {
           "title": "猝死前最后几分钟身体发生了什么",
@@ -78,6 +80,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 14时25分]"
+        },
+        {
+          "title": "卸沙现场一具尸体随沙料倾泻而出",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B8%E6%B2%99%E7%8E%B0%E5%9C%BA%E4%B8%80%E5%85%B7%E5%B0%B8%E4%BD%93%E9%9A%8F%E6%B2%99%E6%96%99%E5%80%BE%E6%B3%BB%E8%80%8C%E5%87%BA%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "虞书欣父亲索赔17w败诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%88%B6%E4%BA%B2%E7%B4%A2%E8%B5%9417w%E8%B4%A5%E8%AF%89%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "泰国泼水节疑现“水枪投毒”，当地女子口吐白沫昏迷",
@@ -141,7 +165,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
