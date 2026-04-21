@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T19:54:30.299078+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-04-21T21:01:32.894725+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 48,
+      "match_count": 58,
       "titles": [
         {
           "title": "如何看待北师大学生在图书馆犯困发现 CO₂ 超标，投诉后学校拆除检测仪？这种超标现象常见吗？怎样缓解？",
@@ -17,8 +17,32 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时29分 ~ 21时01分]"
+        },
+        {
+          "title": "日学者：超级地震或致日本国家崩溃",
+          "url": "https://www.toutiao.com/trending/7630755864559960091/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时29分 ~ 19时54分]"
+          "time_info": "[16时27分 ~ 21时01分]"
+        },
+        {
+          "title": "霍尔木兹海峡惊现过路费诈骗，已有船只被骗并遭到炮击",
+          "url": "https://news.ifeng.com/c/8sVRj1lJ3nt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 21时01分]"
         },
         {
           "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
@@ -31,30 +55,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时26分 ~ 16时27分]"
-        },
-        {
-          "title": "日学者：超级地震或致日本国家崩溃",
-          "url": "https://www.toutiao.com/trending/7630755864559960091/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时54分]"
-        },
-        {
-          "title": "霍尔木兹海峡惊现过路费诈骗，已有船只被骗并遭到炮击",
-          "url": "https://news.ifeng.com/c/8sVRj1lJ3nt",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时54分]"
         },
         {
           "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛",
@@ -85,9 +85,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美国总统特朗普：如果新任美联储主席不降息，我将感到失望。",
+          "url": "https://flash.jin10.com/detail/20260421204527480800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "日本地震震级修正为7.7级",
@@ -113,19 +124,6 @@
           "time_info": "[09时26分 ~ 19时54分]"
         },
         {
-          "title": "日本女主播遇7.7级地震一秒变脸",
-          "url": "https://www.toutiao.com/trending/7630863108064542774/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时54分]"
-        },
-        {
           "title": "超级地震或致日本国家崩溃",
           "url": "https://www.baidu.com/s?wd=%E8%B6%85%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E5%B4%A9%E6%BA%83",
           "source": "百度热搜",
@@ -138,6 +136,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时41分 ~ 18时11分]"
+        },
+        {
+          "title": "日本女主播遇7.7级地震一秒变脸",
+          "url": "https://www.toutiao.com/trending/7630863108064542774/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 21时01分]"
         },
         {
           "title": "日本陆自一训练场弹药爆炸已致3死",
@@ -202,19 +214,60 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 19时54分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 21时01分]"
         },
         {
           "title": "日本突发7.4级地震，影响多家半导体公司",
           "url": "https://wallstreetcn.com/articles/3770431",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 21时01分]"
+        },
+        {
+          "title": "维权不手软,00后整顿一切",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353535&amp;topic_name=%E7%BB%B4%E6%9D%83%E4%B8%8D%E6%89%8B%E8%BD%AF%2C00%E5%90%8E%E6%95%B4%E9%A1%BF%E4%B8%80%E5%88%87",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时41分 ~ 19时54分]"
+          "time_info": "[16时27分 ~ 21时01分]"
+        },
+        {
+          "title": "日本自卫队训练场爆炸事故致3死1重伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 21时01分]"
+        },
+        {
+          "title": "日本自卫队训练时发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 21时01分]"
         },
         {
           "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
@@ -227,6 +280,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时26分 ~ 16时27分]"
+        },
+        {
+          "title": "日本陆上自卫队一训练场弹药爆炸，2人死亡1人昏迷",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33016657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 21时01分]"
+        },
+        {
+          "title": "日本地震冲击半导体链",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%86%B2%E5%87%BB%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%93%BE",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 21时01分]"
         },
         {
           "title": "女子遭老板性侵工伤待遇案将开庭",
@@ -268,19 +347,6 @@
           "time_info": "[16时27分 ~ 19时54分]"
         },
         {
-          "title": "维权不手软,00后整顿一切",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353535&amp;topic_name=%E7%BB%B4%E6%9D%83%E4%B8%8D%E6%89%8B%E8%BD%AF%2C00%E5%90%8E%E6%95%B4%E9%A1%BF%E4%B8%80%E5%88%87",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时54分]"
-        },
-        {
           "title": "伊朗最高领袖重申三项基本立场 苹果任命John Ternus为首席执行官 | 环球市场",
           "url": "https://www.cls.cn/detail/2350058",
           "source": "财联社热门",
@@ -305,29 +371,28 @@
           "time_info": "[09时26分 ~ 14时30分]"
         },
         {
-          "title": "日本自卫队训练场爆炸事故致3死1重伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时54分]"
-        },
-        {
-          "title": "日本自卫队训练时发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
+          "title": "高市早苗吹嘘日武器2小时后坦克爆炸",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%B9%E5%98%98%E6%97%A5%E6%AD%A6%E5%99%A82%E5%B0%8F%E6%97%B6%E5%90%8E%E5%9D%A6%E5%85%8B%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
           "ranks": [
             6,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时54分]"
+          "time_info": "[19时54分 ~ 21时01分]"
+        },
+        {
+          "title": "支付加密货币当“过路费”？霍尔木兹惊现诈骗活动 有船只“上钩”并遭袭",
+          "url": "https://www.cls.cn/detail/2350761",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时01分]"
         },
         {
           "title": "日本女主播遇7.7级地震一秒变脸",
@@ -365,6 +430,30 @@
           "time_info": "[12时41分 ~ 14时30分]"
         },
         {
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时01分]"
+        },
+        {
+          "title": "澎湃回声｜临沂回应“一法院干警配偶刚成立公司拍得银行六千万债权”：组成联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33018478",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时01分]"
+        },
+        {
           "title": "国家金融监管总局副局长周亮被免职",
           "url": "https://www.toutiao.com/trending/7631023415738351643/",
           "source": "今日头条",
@@ -375,30 +464,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时41分 ~ 14时30分]"
-        },
-        {
-          "title": "日本地震冲击半导体链",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%86%B2%E5%87%BB%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%93%BE",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时54分]"
-        },
-        {
-          "title": "日本陆上自卫队一训练场弹药爆炸，2人死亡1人昏迷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33016657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时54分]"
         },
         {
           "title": "干警配偶公司拍得六千万债权？官方调查",
@@ -424,6 +489,17 @@
           "time_info": "[18时10分 ~ 18时11分]"
         },
         {
+          "title": "日本自卫队训练场爆炸",
+          "url": "https://www.douyin.com/hot/2473520",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
+        },
+        {
           "title": "日本三陆近海发生5.3级地震",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%89%E9%99%86%E8%BF%91%E6%B5%B7%E5%8F%91%E7%94%9F5.3%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
@@ -435,15 +511,26 @@
           "time_info": "[14时29分 ~ 14时30分]"
         },
         {
-          "title": "高市早苗吹嘘日武器2小时后坦克爆炸",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%B9%E5%98%98%E6%97%A5%E6%AD%A6%E5%99%A82%E5%B0%8F%E6%97%B6%E5%90%8E%E5%9D%A6%E5%85%8B%E7%88%86%E7%82%B8",
-          "source": "百度热搜",
+          "title": "法院回应男童被虐待致死案为何判死缓",
+          "url": "https://www.toutiao.com/trending/7630712560909516843/",
+          "source": "今日头条",
           "ranks": [
-            6
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
+        },
+        {
+          "title": "泰国少女泼水节遭士兵尾随进公厕性侵",
+          "url": "https://www.toutiao.com/trending/7630374803942965299/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时01分]"
         },
         {
           "title": "日本修正地震震级为7.7级，中领馆紧急提醒",
@@ -479,26 +566,48 @@
           "time_info": "09时26分"
         },
         {
-          "title": "支付加密货币当“过路费”？霍尔木兹惊现诈骗活动 有船只“上钩”并遭袭",
-          "url": "https://www.cls.cn/detail/2350761",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：美联储主席提名人沃什对美联储大楼翻修感到不满。",
+          "url": "https://flash.jin10.com/detail/20260421204232112800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "21时01分"
         },
         {
-          "title": "你每天用的AI 可能被“投毒”了",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
+          "title": "美国总统特朗普在采访中被问及美国司法部是否可能终止对美联储主席鲍威尔的调查。",
+          "url": "https://flash.jin10.com/detail/20260421204202798800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "特朗普：我认为美联储大楼翻修完成后可能要花费超过40亿美元。 必须查明美联储大楼翻修成本超支的原因。 （特朗普被问及新任美联储主席是否应该立即降息）如果新任美联储主席不降息，会感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3091848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "特朗普为针对鲍威尔的调查辩护，批评美联储的建设成本。 特朗普暗示鲍威尔在美联储建设成本问题上存在不当行为。",
+          "url": "https://wallstreetcn.com/livenews/3091846",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "21时01分"
         },
         {
           "title": "26岁中国男子在日本失联10天",
@@ -507,9 +616,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美国总统特朗普：（关于美联储调查）我们必须了解建设情况。",
+          "url": "https://flash.jin10.com/detail/20260421204017760800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "国家主席习近平任免驻外大使",
@@ -518,20 +638,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
         {
-          "title": "澎湃回声｜临沂回应“一法院干警配偶刚成立公司拍得银行六千万债权”：组成联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33018478",
-          "source": "澎湃新闻",
+          "title": "国务院副总理何立峰会见美国通用电气医疗集团全球总裁兼首席执行官安杜尼",
+          "url": "https://wallstreetcn.com/livenews/3091838",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "21时01分"
         },
         {
           "title": "日本发生7.7级地震",
@@ -551,7 +671,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -562,7 +682,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
