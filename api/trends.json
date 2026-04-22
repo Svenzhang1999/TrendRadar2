@@ -1,14 +1,11 @@
 {
-  "generated_at": "2026-04-22T14:31:49.791684+08:00",
-  "total_titles_processed": 627,
-  "failed_sources": [
-    "bilibili-hot-search",
-    "jin10"
-  ],
+  "generated_at": "2026-04-22T16:25:10.544412+08:00",
+  "total_titles_processed": 760,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "媒体曝山东临沂法院干警配偶低价拍得六千万债权，官方已展开调查，该事件可能涉及哪些法律问题？",
@@ -18,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时25分]"
         },
         {
           "title": "澎湃回声｜临沂回应“一法院干警配偶刚成立公司拍得银行六千万债权”：组成联合调查组",
@@ -27,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时25分]"
         },
         {
           "title": "马来西亚证券委员会主席：非传统投资者包括来自日本、韩国和澳大利亚的养老金基金。",
@@ -61,11 +59,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时25分]"
         },
         {
           "title": "维权不手软,00后整顿一切",
@@ -74,11 +73,13 @@
           "ranks": [
             10,
             19,
-            20
+            20,
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时25分]"
         },
         {
           "title": "影子调查｜揭秘58同城维修“幽灵订单”：强行生成订单，截胡上门服务",
@@ -86,11 +87,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时25分]"
         },
         {
           "title": "哪吒汽车创始人已成老赖",
@@ -98,11 +100,12 @@
           "source": "微博",
           "ranks": [
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时25分]"
         },
         {
           "title": "空气炸锅做的食物会致癌系谣言",
@@ -112,8 +115,55 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 16时25分]"
+        },
+        {
+          "title": "陈妍希申请强制执行",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 16时25分]"
+        },
+        {
+          "title": "肯德基酱料要收费了，媒体调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020045",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 16时25分]"
+        },
+        {
+          "title": "大客车雨天超速行驶侧翻致5死29人重伤，哈尔滨公布事故调查报告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33018179",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 16时25分]"
+        },
+        {
+          "title": "日本自卫队训练时发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 16时25分]"
         },
         {
           "title": "日本自卫队训练场爆炸事故致3死1重伤",
@@ -128,17 +178,6 @@
           "time_info": "[09时25分 ~ 12时39分]"
         },
         {
-          "title": "陈妍希申请强制执行",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
           "title": "美联储主席提名人沃什：货币政策将独立于政治 不会当总统的提线木偶",
           "url": "https://www.cls.cn/detail/2351341",
           "source": "财联社热门",
@@ -151,26 +190,15 @@
           "time_info": "[09时25分 ~ 12时39分]"
         },
         {
-          "title": "肯德基酱料要收费了，媒体调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020045",
-          "source": "澎湃新闻",
+          "title": "中国贸促会副会长聂文慧会见新加坡金鹰集团执行董事陈昱廷",
+          "url": "https://flash.jin10.com/detail/20260422161003480800",
+          "source": "金十数据",
           "ranks": [
-            17
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "大客车雨天超速行驶侧翻致5死29人重伤，哈尔滨公布事故调查报告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33018179",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "男子遭董事长训斥自杀 家属索赔被拒",
@@ -206,6 +234,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "特朗普媒体科技集团Trump Media 股价在盘前上涨2%；公司任命Kevin Mcgurn为临时首席执行官。",
+          "url": "https://flash.jin10.com/detail/20260422160518295800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "如何看待北师大学生在图书馆犯困发现 CO₂ 超标，投诉后学校拆除检测仪？这种超标现象常见吗？怎样缓解？",
           "url": "https://www.zhihu.com/question/2029587978876445987",
           "source": "知乎",
@@ -226,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
-        },
-        {
-          "title": "日本自卫队训练时发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
         }
       ]
     }
