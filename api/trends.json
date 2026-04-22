@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T09:25:31.979299+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-22T12:39:31.369732+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "媒体曝山东临沂法院干警配偶低价拍得六千万债权，官方已展开调查，该事件可能涉及哪些法律问题？",
@@ -15,19 +15,89 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时39分]"
         },
         {
           "title": "澎湃回声｜临沂回应“一法院干警配偶刚成立公司拍得银行六千万债权”：组成联合调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33018478",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时39分]"
+        },
+        {
+          "title": "哪吒汽车创始人已成老赖",
+          "url": "https://www.baidu.com/s?wd=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "12时39分"
+        },
+        {
+          "title": "马来西亚证券委员会主席：非传统投资者包括来自日本、韩国和澳大利亚的养老金基金。",
+          "url": "https://flash.jin10.com/detail/20260422123413400800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "马来西亚证券委员会主席：计划吸引非传统投资者进入国内资本市场。",
+          "url": "https://flash.jin10.com/detail/20260422123226036800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "日本自卫队训练场爆炸事故致3死1重伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时39分]"
+        },
+        {
+          "title": "维权不手软,00后整顿一切",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353535&amp;topic_name=%E7%BB%B4%E6%9D%83%E4%B8%8D%E6%89%8B%E8%BD%AF%2C00%E5%90%8E%E6%95%B4%E9%A1%BF%E4%B8%80%E5%88%87",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时39分]"
+        },
+        {
+          "title": "美联储主席提名人沃什：货币政策将独立于政治 不会当总统的提线木偶",
+          "url": "https://www.cls.cn/detail/2351341",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时39分]"
         },
         {
           "title": "男子遭董事长训斥自杀 家属索赔被拒",
@@ -35,28 +105,6 @@
           "source": "今日头条",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "维权不手软,00后整顿一切",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353535&amp;topic_name=%E7%BB%B4%E6%9D%83%E4%B8%8D%E6%89%8B%E8%BD%AF%2C00%E5%90%8E%E6%95%B4%E9%A1%BF%E4%B8%80%E5%88%87",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "日本自卫队训练场爆炸事故致3死1重伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,17 +122,6 @@
           "time_info": "09时25分"
         },
         {
-          "title": "美联储主席提名人沃什：货币政策将独立于政治 不会当总统的提线木偶",
-          "url": "https://www.cls.cn/detail/2351341",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
           "title": "中信证券：认为特朗普将撤销对鲍威尔的调查",
           "url": "https://flash.jin10.com/detail/20260422084531470800",
           "source": "金十数据",
@@ -96,6 +133,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "影子调查｜揭秘58同城维修“幽灵订单”：强行生成订单，截胡上门服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33012493",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "如何看待北师大学生在图书馆犯困发现 CO₂ 超标，投诉后学校拆除检测仪？这种超标现象常见吗？怎样缓解？",
           "url": "https://www.zhihu.com/question/2029587978876445987",
           "source": "知乎",
@@ -105,6 +153,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "美国对伊拉克使出“金融断供”：美元运输暂停，安全合作冻结",
+          "url": "https://flash.jin10.com/detail/20260422115238373800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "哪吒汽车创始人已成老赖",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     }
