@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T19:52:55.992445+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-04-22T21:02:29.852490+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "媒体曝山东临沂法院干警配偶低价拍得六千万债权，官方已展开调查，该事件可能涉及哪些法律问题？",
@@ -65,6 +65,29 @@
           "time_info": "12时39分"
         },
         {
+          "title": "霍尔木兹惊现诈骗,印度中招",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353608&amp;topic_name=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%83%8A%E7%8E%B0%E8%AF%88%E9%AA%97%2C%E5%8D%B0%E5%BA%A6%E4%B8%AD%E6%8B%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "县城农村成电商「AB 货」重灾区，商家会依据地址发不同质量的商品，这种模式为什么能长期存在？能怎样维权？",
+          "url": "https://www.zhihu.com/question/2029899659137609960",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时02分]"
+        },
+        {
           "title": "哪吒汽车创始人已成老赖",
           "url": "https://www.baidu.com/s?wd=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96",
           "source": "百度热搜",
@@ -89,11 +112,12 @@
             22,
             23,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时25分 ~ 19时52分]"
+          "appearance_count": 9,
+          "time_info": "[09时25分 ~ 21时02分]"
         },
         {
           "title": "肯德基酱料要收费了，媒体调查",
@@ -106,8 +130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[14时30分 ~ 21时02分]"
         },
         {
           "title": "陈妍希申请强制执行",
@@ -115,11 +139,12 @@
           "source": "微博",
           "ranks": [
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[14时30分 ~ 21时02分]"
         },
         {
           "title": "空气炸锅做的食物会致癌系谣言",
@@ -185,6 +210,18 @@
           "time_info": "[14时30分 ~ 16时25分]"
         },
         {
+          "title": "陈妍希申请强制执行",
+          "url": "https://www.toutiao.com/trending/7631424123268988937/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 21时02分]"
+        },
+        {
           "title": "日本自卫队训练场爆炸事故致3死1重伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
           "source": "澎湃新闻",
@@ -209,15 +246,26 @@
           "time_info": "[09时25分 ~ 12时39分]"
         },
         {
-          "title": "陈妍希申请强制执行",
-          "url": "https://www.toutiao.com/trending/7631424123268988937/",
-          "source": "今日头条",
+          "title": "lululemon质检显示不含致癌物",
+          "url": "https://www.baidu.com/s?wd=lululemon%E8%B4%A8%E6%A3%80%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9",
+          "source": "百度热搜",
           "ranks": [
-            14
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时52分]"
+          "time_info": "[18时11分 ~ 21时02分]"
+        },
+        {
+          "title": "美国地质勘探局：日本宫古东北方向93公里发生5.0级地震。",
+          "url": "https://flash.jin10.com/detail/20260422203511449800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "中国贸促会副会长聂文慧会见新加坡金鹰集团执行董事陈昱廷",
@@ -229,17 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
-        },
-        {
-          "title": "县城农村成电商「AB 货」重灾区，商家会依据地址发不同质量的商品，这种模式为什么能长期存在？能怎样维权？",
-          "url": "https://www.zhihu.com/question/2029899659137609960",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "男子遭董事长训斥自杀 家属索赔被拒",
@@ -262,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "全国首例性侵认定工伤案明日开庭",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E6%80%A7%E4%BE%B5%E8%AE%A4%E5%AE%9A%E5%B7%A5%E4%BC%A4%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "中使馆提醒中国公民近期避免前往日本，在日同胞加强地震灾害应急防范",
@@ -352,6 +400,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "欢瑞世纪：因涉嫌信息披露违法违规，公司被立案",
+          "url": "https://wallstreetcn.com/livenews/3092599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美国对伊拉克使出“金融断供”：美元运输暂停，安全合作冻结",
           "url": "https://flash.jin10.com/detail/20260422115238373800",
           "source": "金十数据",
@@ -369,20 +428,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "lululemon质检显示不含致癌物",
-          "url": "https://www.baidu.com/s?wd=lululemon%E8%B4%A8%E6%A3%80%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "19时52分"
         }
       ]
     }
