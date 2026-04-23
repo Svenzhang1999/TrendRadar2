@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:54:29.498026+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-04-23T21:02:24.385307+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "稀土公司副总向境外泄露7项国家秘密",
@@ -96,6 +96,37 @@
           "time_info": "18时14分"
         },
         {
+          "title": "日漫维权发声遭外网全面围剿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353613&amp;topic_name=%E6%97%A5%E6%BC%AB%E7%BB%B4%E6%9D%83%E5%8F%91%E5%A3%B0%E9%81%AD%E5%A4%96%E7%BD%91%E5%85%A8%E9%9D%A2%E5%9B%B4%E5%89%BF",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时43分 ~ 21时02分]"
+        },
+        {
+          "title": "一季度全国纪检监察机关立案24.5万件，其中立案省部级干部30人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032321",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            11,
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 21时02分]"
+        },
+        {
           "title": "稀土公司副总向境外泄露7项国家秘密",
           "url": "https://www.toutiao.com/trending/7631724075135553070/",
           "source": "今日头条",
@@ -111,34 +142,33 @@
           "time_info": "[09时31分 ~ 18时14分]"
         },
         {
-          "title": "日漫维权发声遭外网全面围剿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353613&amp;topic_name=%E6%97%A5%E6%BC%AB%E7%BB%B4%E6%9D%83%E5%8F%91%E5%A3%B0%E9%81%AD%E5%A4%96%E7%BD%91%E5%85%A8%E9%9D%A2%E5%9B%B4%E5%89%BF",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 19时54分]"
-        },
-        {
-          "title": "一季度全国纪检监察机关立案24.5万件，其中立案省部级干部30人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032321",
+          "title": "稀土公司副总向境外泄露7项国家秘密，国安部披露详情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032318",
           "source": "澎湃新闻",
           "ranks": [
             18,
+            17,
             12,
-            11,
-            7,
-            3
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时31分 ~ 19时54分]"
+          "time_info": "[12时43分 ~ 21时02分]"
+        },
+        {
+          "title": "受贿数额特别巨大，证监会原党委委员王会民被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 21时02分]"
         },
         {
           "title": "媒体：女子脚踹保安被扇事件警方已立案",
@@ -167,22 +197,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 19时54分]"
-        },
-        {
-          "title": "稀土公司副总向境外泄露7项国家秘密，国安部披露详情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032318",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 19时54分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 21时02分]"
         },
         {
           "title": "稀土公司副总向境外泄露7项国家秘密 国家安全部披露详情",
@@ -198,30 +214,41 @@
           "time_info": "[09时31分 ~ 16时29分]"
         },
         {
-          "title": "受贿数额特别巨大，证监会原党委委员王会民被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032535",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 19时54分]"
-        },
-        {
           "title": "“公务员300万立案，民企3万立案”？这是误导",
           "url": "https://m.thepaper.cn/newsDetail_forward_33034238",
           "source": "澎湃新闻",
           "ranks": [
             15,
             16,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 21时02分]"
+        },
+        {
+          "title": "副局长家暴12岁女儿 被刑事立案",
+          "url": "https://www.baidu.com/s?wd=%E5%89%AF%E5%B1%80%E9%95%BF%E5%AE%B6%E6%9A%B412%E5%B2%81%E5%A5%B3%E5%84%BF+%E8%A2%AB%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时02分]"
+        },
+        {
+          "title": "女子遭性侵认定工伤案择期宣判",
+          "url": "https://www.douyin.com/hot/2475845",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时02分]"
         },
         {
           "title": "陈妍希申请强制执行",
@@ -259,6 +286,17 @@
           "time_info": "[09时31分 ~ 12时44分]"
         },
         {
+          "title": "今天，全球市场恐慌了“五分钟”，只因德黑兰传来爆炸声",
+          "url": "https://wallstreetcn.com/articles/3770698",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "一季度2.3万村支书村主任被立案",
           "url": "https://www.toutiao.com/trending/7631729160000536595/",
           "source": "今日头条",
@@ -268,6 +306,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 14时56分]"
+        },
+        {
+          "title": "全国首例性侵认定工伤案择期宣判",
+          "url": "https://www.toutiao.com/trending/7631923537137143346/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "全国首例性侵认定工伤案择期宣判",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E6%80%A7%E4%BE%B5%E8%AE%A4%E5%AE%9A%E5%B7%A5%E4%BC%A4%E6%A1%88%E6%8B%A9%E6%9C%9F%E5%AE%A3%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "女子遭老板性侵工伤待遇案将开庭",
@@ -292,26 +352,16 @@
           "time_info": "[14时55分 ~ 14时56分]"
         },
         {
-          "title": "女子遭性侵认定工伤案择期宣判",
-          "url": "https://www.douyin.com/hot/2475845",
-          "source": "抖音",
+          "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
+          "url": "https://www.zhihu.com/question/2030242148881101121",
+          "source": "知乎",
           "ranks": [
+            11,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时54分]"
-        },
-        {
-          "title": "副局长家暴12岁女儿 被刑事立案",
-          "url": "https://www.baidu.com/s?wd=%E5%89%AF%E5%B1%80%E9%95%BF%E5%AE%B6%E6%9A%B412%E5%B2%81%E5%A5%B3%E5%84%BF+%E8%A2%AB%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时54分]"
+          "time_info": "[19时54分 ~ 21时02分]"
         },
         {
           "title": "直播丨全国首例“职场性侵获精神工伤认定案”再开庭，崔丽丽索赔250余万元",
@@ -324,6 +374,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 18时14分]"
+        },
+        {
+          "title": "新疆吊桥5死24伤事故调查报告公布",
+          "url": "https://www.toutiao.com/trending/7631801626206617636/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "女子脚踹保安后被反手扇耳光：警方已立案，律师称可能属互殴",
@@ -426,17 +487,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
-          "url": "https://www.zhihu.com/question/2030242148881101121",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "韩国籍男子在靖国神社抗议被捕",
           "url": "https://www.toutiao.com/trending/7631723832889495086/",
           "source": "今日头条",
@@ -454,7 +504,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -465,7 +515,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -476,7 +526,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -514,6 +564,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "俄罗斯财政部：将自5月起恢复根据预算规则进行的外汇交易。在确定5月外汇操作规模时，将考虑3月至4月期间延期执行的外汇交易。",
+          "url": "https://flash.jin10.com/detail/20260423203611942800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "三安光电：控股股东所持股份被轮候冻结",
           "url": "https://wallstreetcn.com/livenews/3093194",
           "source": "华尔街见闻-快讯",
@@ -542,7 +603,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
