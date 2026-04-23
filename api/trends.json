@@ -1,436 +1,165 @@
 {
-  "generated_at": "2026-04-22T21:02:29.852490+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-04-23T09:31:36.309427+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 36,
+      "match_count": 14,
       "titles": [
         {
-          "title": "媒体曝山东临沂法院干警配偶低价拍得六千万债权，官方已展开调查，该事件可能涉及哪些法律问题？",
-          "url": "https://www.zhihu.com/question/2029989062296039823",
-          "source": "知乎",
+          "title": "稀土公司副总向境外泄露7项国家秘密",
+          "url": "https://www.baidu.com/s?wd=%E7%A8%80%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%89%AF%E6%80%BB%E5%90%91%E5%A2%83%E5%A4%96%E6%B3%84%E9%9C%B27%E9%A1%B9%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 16时25分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
-          "title": "澎湃回声｜临沂回应“一法院干警配偶刚成立公司拍得银行六千万债权”：组成联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33018478",
-          "source": "澎湃新闻",
+          "title": "四家A股公司同日被立案 均涉信披违法违规|速读公告",
+          "url": "https://www.cls.cn/detail/2352729",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 16时25分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
-          "title": "哪吒汽车两位创始人已成老赖",
-          "url": "https://www.toutiao.com/trending/7630828960271568426/",
+          "title": "日本财务大臣片山皋月：我们确实建议中止对Makino Milling的要约收购，我们审查了可能存在的技术泄露以及与国家安全相关的关键信息。",
+          "url": "https://wallstreetcn.com/livenews/3092941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "稀土公司副总向境外泄露7项国家秘密",
+          "url": "https://www.toutiao.com/trending/7631724075135553070/",
           "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "马来西亚证券委员会主席：非传统投资者包括来自日本、韩国和澳大利亚的养老金基金。",
-          "url": "https://flash.jin10.com/detail/20260422123413400800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "马来西亚证券委员会主席：计划吸引非传统投资者进入国内资本市场。",
-          "url": "https://flash.jin10.com/detail/20260422123226036800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "09时31分"
         },
         {
           "title": "霍尔木兹惊现诈骗,印度中招",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353608&amp;topic_name=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%83%8A%E7%8E%B0%E8%AF%88%E9%AA%97%2C%E5%8D%B0%E5%BA%A6%E4%B8%AD%E6%8B%9B",
           "source": "贴吧",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "09时31分"
         },
         {
-          "title": "县城农村成电商「AB 货」重灾区，商家会依据地址发不同质量的商品，这种模式为什么能长期存在？能怎样维权？",
-          "url": "https://www.zhihu.com/question/2029899659137609960",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 21时02分]"
-        },
-        {
-          "title": "哪吒汽车创始人已成老赖",
-          "url": "https://www.baidu.com/s?wd=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            12,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 18时11分]"
-        },
-        {
-          "title": "维权不手软,00后整顿一切",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353535&amp;topic_name=%E7%BB%B4%E6%9D%83%E4%B8%8D%E6%89%8B%E8%BD%AF%2C00%E5%90%8E%E6%95%B4%E9%A1%BF%E4%B8%80%E5%88%87",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            19,
-            20,
-            22,
-            23,
-            25,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 21时02分]"
-        },
-        {
-          "title": "肯德基酱料要收费了，媒体调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020045",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时30分 ~ 21时02分]"
-        },
-        {
-          "title": "陈妍希申请强制执行",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时30分 ~ 21时02分]"
-        },
-        {
-          "title": "空气炸锅做的食物会致癌系谣言",
-          "url": "https://www.douyin.com/hot/2474900",
-          "source": "抖音",
+          "title": "稀土公司副总向境外泄露7项国家秘密 国家安全部披露详情",
+          "url": "https://www.cls.cn/detail/2352903",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时30分 ~ 18时11分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
-          "title": "影子调查｜揭秘58同城维修“幽灵订单”：强行生成订单，截胡上门服务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33012493",
-          "source": "澎湃新闻",
+          "title": "日本财务大臣片山皋月：我们审查了与国家安全相关的技术和信息可能泄露的情况。",
+          "url": "https://flash.jin10.com/detail/20260423090811381800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            13,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 16时25分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
-          "title": "日本自卫队训练时发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E6%97%B6%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            15,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时30分 ~ 19时52分]"
-        },
-        {
-          "title": "哪吒汽车创始人已成老赖",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 16时25分]"
-        },
-        {
-          "title": "大客车雨天超速行驶侧翻致5死29人重伤，哈尔滨公布事故调查报告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33018179",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时30分 ~ 16时25分]"
-        },
-        {
-          "title": "陈妍希申请强制执行",
-          "url": "https://www.toutiao.com/trending/7631424123268988937/",
+          "title": "韩国籍男子在靖国神社抗议被捕",
+          "url": "https://www.toutiao.com/trending/7631723832889495086/",
           "source": "今日头条",
           "ranks": [
-            14,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
-          "title": "日本自卫队训练场爆炸事故致3死1重伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33017051",
+          "title": "媒体：女子脚踹保安被扇事件警方已立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028042",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时39分]"
-        },
-        {
-          "title": "美联储主席提名人沃什：货币政策将独立于政治 不会当总统的提线木偶",
-          "url": "https://www.cls.cn/detail/2351341",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时39分]"
-        },
-        {
-          "title": "lululemon质检显示不含致癌物",
-          "url": "https://www.baidu.com/s?wd=lululemon%E8%B4%A8%E6%A3%80%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%90%AB%E8%87%B4%E7%99%8C%E7%89%A9",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 21时02分]"
-        },
-        {
-          "title": "美国地质勘探局：日本宫古东北方向93公里发生5.0级地震。",
-          "url": "https://flash.jin10.com/detail/20260422203511449800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "中国贸促会副会长聂文慧会见新加坡金鹰集团执行董事陈昱廷",
-          "url": "https://flash.jin10.com/detail/20260422161003480800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "09时31分"
         },
         {
-          "title": "男子遭董事长训斥自杀 家属索赔被拒",
-          "url": "https://www.toutiao.com/trending/7631105073771741210/",
-          "source": "今日头条",
+          "title": "陈妍希申请强制执行",
+          "url": "https://www.douyin.com/hot/2475115",
+          "source": "抖音",
           "ranks": [
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时31分"
         },
         {
-          "title": "*ST数源：因涉嫌信息披露违法违规，中国证监会决定对公司立案。",
-          "url": "https://wallstreetcn.com/livenews/3092499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "全国首例性侵认定工伤案明日开庭",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E6%80%A7%E4%BE%B5%E8%AE%A4%E5%AE%9A%E5%B7%A5%E4%BC%A4%E6%A1%88%E6%98%8E%E6%97%A5%E5%BC%80%E5%BA%AD%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "中使馆提醒中国公民近期避免前往日本，在日同胞加强地震灾害应急防范",
-          "url": "https://flash.jin10.com/detail/20260422173438771800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "日本陆上自卫队一训练场弹药爆炸，2人死亡1人昏迷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33016657",
+          "title": "一季度全国纪检监察机关立案24.5万件，其中立案省部级干部30人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032321",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "09时31分"
         },
         {
-          "title": "中信证券：认为特朗普将撤销对鲍威尔的调查",
-          "url": "https://flash.jin10.com/detail/20260422084531470800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "女子脚踹保安被扇事件警方已立案",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%B9%E4%BF%9D%E5%AE%89%E8%A2%AB%E6%89%87%E4%BA%8B%E4%BB%B6%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88%23&t=31&band_rank=15&Refer=top",
+          "title": "儿子因父亲逼自己分手失联16年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%9B%A0%E7%88%B6%E4%BA%B2%E9%80%BC%E8%87%AA%E5%B7%B1%E5%88%86%E6%89%8B%E5%A4%B1%E8%81%9416%E5%B9%B4%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "09时31分"
         },
         {
-          "title": "日本10式坦克爆炸说明什么",
-          "url": "https://www.toutiao.com/trending/7631488890263572009/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "特朗普媒体科技集团Trump Media 股价在盘前上涨2%；公司任命Kevin Mcgurn为临时首席执行官。",
-          "url": "https://flash.jin10.com/detail/20260422160518295800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "官方辟谣聘用武大性骚扰事件当事人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%81%98%E7%94%A8%E6%AD%A6%E5%A4%A7%E6%80%A7%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%23&t=31&band_rank=20&Refer=top",
+          "title": "崔丽丽不再穿性侵时衣服出庭",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B8%BD%E4%B8%BD%E4%B8%8D%E5%86%8D%E7%A9%BF%E6%80%A7%E4%BE%B5%E6%97%B6%E8%A1%A3%E6%9C%8D%E5%87%BA%E5%BA%AD%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "09时31分"
         },
         {
-          "title": "如何看待北师大学生在图书馆犯困发现 CO₂ 超标，投诉后学校拆除检测仪？这种超标现象常见吗？怎样缓解？",
-          "url": "https://www.zhihu.com/question/2029587978876445987",
-          "source": "知乎",
+          "title": "丈夫称崔丽丽遭性侵后判若两人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B4%94%E4%B8%BD%E4%B8%BD%E9%81%AD%E6%80%A7%E4%BE%B5%E5%90%8E%E5%88%A4%E8%8B%A5%E4%B8%A4%E4%BA%BA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "欢瑞世纪：因涉嫌信息披露违法违规，公司被立案",
-          "url": "https://wallstreetcn.com/livenews/3092599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国对伊拉克使出“金融断供”：美元运输暂停，安全合作冻结",
-          "url": "https://flash.jin10.com/detail/20260422115238373800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "兰石重装回应：无法透露立案调查与业绩变脸之间是否有关联，不影响年报正常披露",
-          "url": "https://wallstreetcn.com/livenews/3092552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "09时31分"
         }
       ]
     }
