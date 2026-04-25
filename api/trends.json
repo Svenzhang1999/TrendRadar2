@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T17:42:50.124133+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-04-25T18:35:57.304676+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "媒体称两届奥运冠军、中国羽毛球协会主席张军「失联」，具体是怎么回事？",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时35分]"
+        },
+        {
+          "title": "美国驻马里大使馆：据报道，马里卡蒂及巴马科机场附近发生爆炸和枪击事件，美国公民应就地避难。",
+          "url": "https://flash.jin10.com/detail/20260425180319045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "医生将“2粒药打成21粒”，患者一天吃了42粒，当地回应：已立案调查",
@@ -80,19 +91,6 @@
           "time_info": "[12时28分 ~ 17时42分]"
         },
         {
-          "title": "马里首都附近一驻军城镇传出爆炸声和枪声",
-          "url": "https://flash.jin10.com/detail/20260425151725554800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时42分]"
-        },
-        {
           "title": "空调安装工触电致残疑云：供电说调查结论由应急局出，后者称不在监管范围",
           "url": "https://m.thepaper.cn/newsDetail_forward_33046338",
           "source": "澎湃新闻",
@@ -103,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 18时35分]"
         },
         {
           "title": "降息预期升温！美司法部终止调查鲍威尔 沃什接任障碍解除",
@@ -116,8 +114,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 18时35分]"
         },
         {
           "title": "尘友维权惨败,退款诉求全泡汤",
@@ -129,8 +127,22 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 18时35分]"
+        },
+        {
+          "title": "马里首都附近一驻军城镇传出爆炸声和枪声",
+          "url": "https://flash.jin10.com/detail/20260425151725554800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时35分]"
         },
         {
           "title": "美司法部撤销对鲍威尔的刑事调查，为沃什提名铺路，两年期美债收益率跌幅扩大",
@@ -139,11 +151,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 17时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 18时35分]"
         },
         {
           "title": "成都双流一居民区火灾致5死2伤",
@@ -154,11 +167,28 @@
             19,
             17,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 17时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 18时35分]"
+        },
+        {
+          "title": "监管部门向2026年北京车展参展企业列出十大负面行为清单",
+          "url": "https://wallstreetcn.com/livenews/3094334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            18,
+            20,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 18时35分]"
         },
         {
           "title": "成都一小区发生火灾 致5死2伤",
@@ -174,21 +204,6 @@
           "time_info": "[12时28分 ~ 16时02分]"
         },
         {
-          "title": "监管部门向2026年北京车展参展企业列出十大负面行为清单",
-          "url": "https://wallstreetcn.com/livenews/3094334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 17时42分]"
-        },
-        {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
           "url": "https://www.cls.cn/detail/2355166",
           "source": "财联社热门",
@@ -199,6 +214,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时22分 ~ 14时16分]"
+        },
+        {
+          "title": "公募基金首批业绩比较基准调整或于4月底拉开大幕，监管划定三条红线",
+          "url": "https://www.cls.cn/detail/2355675",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时01分 ~ 18时35分]"
         },
         {
           "title": "独家｜棒杰股份董事长举报董秘背后：美年健康计划注入资产为安翰科技，后者曾被监管警示",
@@ -224,18 +251,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时22分 ~ 14时16分]"
-        },
-        {
-          "title": "公募基金首批业绩比较基准调整或于4月底拉开大幕，监管划定三条红线",
-          "url": "https://www.cls.cn/detail/2355675",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时01分 ~ 17时42分]"
         },
         {
           "title": "成都双流一居民区火灾致5死2伤",
@@ -297,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
+          "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
+          "url": "https://wallstreetcn.com/articles/3770881",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时35分]"
         },
         {
           "title": "媒体：羽协主席张军“失联”",
@@ -371,20 +398,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
         {
-          "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
-          "url": "https://wallstreetcn.com/articles/3770881",
-          "source": "华尔街见闻",
+          "title": "原村支书开铲车埋村民，山西代县通报：嫌疑人被刑拘，伤者留院观察",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33053006",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时42分"
+          "time_info": "18时35分"
         },
         {
           "title": "羽协主席张军失联",
@@ -437,7 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
