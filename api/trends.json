@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-28T18:54:07.371365+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-04-28T20:20:32.421249+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "田永明被执行死刑",
-          "url": "https://www.douyin.com/hot/2481919",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
-        },
         {
           "title": "非法收受财物数额特别巨大，国家铁路局原局长费东斌被提起公诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060555",
@@ -39,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "何立峰会见英国怡和控股有限公司执行主席班哲明·凯瑟克",
+          "url": "https://wallstreetcn.com/livenews/3095780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "强奸出狱后又杀人男子被执行死刑",
@@ -65,17 +65,30 @@
           "time_info": "[13时22分 ~ 16时06分]"
         },
         {
+          "title": "田永明被执行死刑",
+          "url": "https://www.douyin.com/hot/2481919",
+          "source": "抖音",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 20时20分]"
+        },
+        {
           "title": "员工一气之下说「不涨工资这活干不了」，三天后被告知已离职，法院判决口头辞职有效，为啥这能构成有效辞职？",
           "url": "https://www.zhihu.com/question/2030685980089434393",
           "source": "知乎",
           "ranks": [
             20,
             3,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 20时20分]"
         },
         {
           "title": "澎湃漫评｜要解决问题而不是“解决投诉人”",
@@ -100,8 +113,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 18时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 20时20分]"
         },
         {
           "title": "4000万粉丝博主白冰在镜头前认错，偷税漏税共计911.18万元",
@@ -109,11 +122,35 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时05分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 20时20分]"
+        },
+        {
+          "title": "甘肃致32死山洪灾害调查评估报告",
+          "url": "https://www.douyin.com/hot/2482276",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 20时20分]"
+        },
+        {
+          "title": "网信办查处剪映等App",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E4%BF%A1%E5%8A%9E%E6%9F%A5%E5%A4%84%E5%89%AA%E6%98%A0%E7%AD%89App",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 20时20分]"
         },
         {
           "title": "吃了一盘没炒熟的四季豆5人集体中毒",
@@ -128,33 +165,23 @@
           "time_info": "[13时22分 ~ 16时06分]"
         },
         {
+          "title": "甘肃榆中山洪灾害调查评估报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33070078",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 20时20分]"
+        },
+        {
           "title": "剪映被约谈",
           "url": "https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%98%A0%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
-        },
-        {
-          "title": "网信办查处剪映等App",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E4%BF%A1%E5%8A%9E%E6%9F%A5%E5%A4%84%E5%89%AA%E6%98%A0%E7%AD%89App",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
-        },
-        {
-          "title": "甘肃致32死山洪灾害调查评估报告",
-          "url": "https://www.douyin.com/hot/2482276",
-          "source": "抖音",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -173,15 +200,15 @@
           "time_info": "[09时54分 ~ 13时22分]"
         },
         {
-          "title": "甘肃榆中山洪灾害调查评估报告公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33070078",
-          "source": "澎湃新闻",
+          "title": "为腾出资金用于国防和科技，欧盟拟推迟偿还疫情时期债务",
+          "url": "https://flash.jin10.com/detail/20260428195818188800",
+          "source": "金十数据",
           "ranks": [
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "锂电添加剂量价齐升 富祥药业一季度净利润同比增长逾26倍|财报解读",
@@ -223,7 +250,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -239,13 +266,24 @@
           "time_info": "09时54分"
         },
         {
+          "title": "杀害女同学14岁男生听到判决面无表情",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A614%E5%B2%81%E7%94%B7%E7%94%9F%E5%90%AC%E5%88%B0%E5%88%A4%E5%86%B3%E9%9D%A2%E6%97%A0%E8%A1%A8%E6%83%85%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "意大利预算监管局：如果政府未能实现资产出售计划，意大利的债务占GDP比率将在2027年超过139%，而不是降至138.6%。",
           "url": "https://flash.jin10.com/detail/20260428182326324800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -259,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "乌克兰首都基辅传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3095750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "官方通报中学教师跳楼轻生事件",
