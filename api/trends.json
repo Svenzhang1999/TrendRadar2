@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-28T16:06:11.621736+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-28T18:54:07.371365+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
-          "title": "强奸出狱后又杀人男子被执行死刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A5%B8%E5%87%BA%E7%8B%B1%E5%90%8E%E5%8F%88%E6%9D%80%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "田永明被执行死刑",
+          "url": "https://www.douyin.com/hot/2481919",
+          "source": "抖音",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[18时53分 ~ 18时54分]"
         },
         {
           "title": "非法收受财物数额特别巨大，国家铁路局原局长费东斌被提起公诉",
@@ -41,6 +41,18 @@
           "time_info": "13时22分"
         },
         {
+          "title": "强奸出狱后又杀人男子被执行死刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A5%B8%E5%87%BA%E7%8B%B1%E5%90%8E%E5%8F%88%E6%9D%80%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 18时54分]"
+        },
+        {
           "title": "田永明被执行死刑",
           "url": "https://www.baidu.com/s?wd=%E7%94%B0%E6%B0%B8%E6%98%8E%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
           "source": "百度热搜",
@@ -62,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 16时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 18时54分]"
         },
         {
           "title": "澎湃漫评｜要解决问题而不是“解决投诉人”",
@@ -72,11 +84,36 @@
           "ranks": [
             11,
             7,
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 18时54分]"
+        },
+        {
+          "title": "男子强奸大嫂又杀人 被执行死刑",
+          "url": "https://www.toutiao.com/trending/7633662779103248420/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 18时54分]"
+        },
+        {
+          "title": "4000万粉丝博主白冰在镜头前认错，偷税漏税共计911.18万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33068480",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时54分 ~ 16时06分]"
+          "time_info": "[16时05分 ~ 18时54分]"
         },
         {
           "title": "吃了一盘没炒熟的四季豆5人集体中毒",
@@ -91,15 +128,37 @@
           "time_info": "[13时22分 ~ 16时06分]"
         },
         {
-          "title": "男子强奸大嫂又杀人 被执行死刑",
-          "url": "https://www.toutiao.com/trending/7633662779103248420/",
-          "source": "今日头条",
+          "title": "剪映被约谈",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%98%A0%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 16时06分]"
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "网信办查处剪映等App",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E4%BF%A1%E5%8A%9E%E6%9F%A5%E5%A4%84%E5%89%AA%E6%98%A0%E7%AD%89App",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "甘肃致32死山洪灾害调查评估报告",
+          "url": "https://www.douyin.com/hot/2482276",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
         },
         {
           "title": "云南姚安县一中学老师坠楼，县教体局：生命体征平稳，已介入调查",
@@ -114,15 +173,15 @@
           "time_info": "[09时54分 ~ 13时22分]"
         },
         {
-          "title": "4000万粉丝博主白冰在镜头前认错，偷税漏税共计911.18万元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33068480",
+          "title": "甘肃榆中山洪灾害调查评估报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33070078",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 16时06分]"
+          "time_info": "[18时53分 ~ 18时54分]"
         },
         {
           "title": "锂电添加剂量价齐升 富祥药业一季度净利润同比增长逾26倍|财报解读",
@@ -158,6 +217,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "西王食品：公司及实控人遭证监会立案调查",
+          "url": "https://wallstreetcn.com/livenews/3095688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "官方通报中学教师坠楼事件",
           "url": "https://www.douyin.com/hot/2481460",
           "source": "抖音",
@@ -169,13 +239,24 @@
           "time_info": "09时54分"
         },
         {
+          "title": "意大利预算监管局：如果政府未能实现资产出售计划，意大利的债务占GDP比率将在2027年超过139%，而不是降至138.6%。",
+          "url": "https://flash.jin10.com/detail/20260428182326324800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "日本央行行长植田和男：发生像20世纪70年代那样的石油冲击的可能性不高。 日本央行仍处于将利率提高至中性水平的过程之中。 在执行政策时需兼顾利率不高于中性水平这一条件。 日本在私人信贷方面的风险敞口并不太大。 不打算用新数据来主导关于物价的讨论。 不认为日本央行在以独特的方式关注价格数据。 仍有部分人士认为，在上调预期后，价格仍存在上涨风险。 预计经济放缓、通胀加速只是暂时现象。 将对债券购买正确做出决策，应与利率分开考虑。 预计物价加速持续的时间将长于经济放缓（持续的时间）。 将以可预测的方式削减债券购买。",
           "url": "https://wallstreetcn.com/livenews/3095536",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -208,7 +289,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         }
