@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-04-29T15:59:55.511835+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-04-29T18:05:19.357820+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 29,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "体检迟到两分钟被取消事业单位入职资格，法院判决人社局机械执法，责令重新处置，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2032152657725481199",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 15时59分]"
-        },
         {
           "title": "纯脑补?网友小作文维权翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353854&amp;topic_name=%E7%BA%AF%E8%84%91%E8%A1%A5%3F%E7%BD%91%E5%8F%8B%E5%B0%8F%E4%BD%9C%E6%96%87%E7%BB%B4%E6%9D%83%E7%BF%BB%E8%BD%A6",
@@ -28,20 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时05分]"
         },
         {
-          "title": "受贿数额特别巨大！蓝天立被公诉",
-          "url": "https://www.toutiao.com/trending/7633995126952329258/",
-          "source": "今日头条",
+          "title": "雅迪、爱玛、台铃、九号等被约谈",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%85%E8%BF%AA%E3%80%81%E7%88%B1%E7%8E%9B%E3%80%81%E5%8F%B0%E9%93%83%E3%80%81%E4%B9%9D%E5%8F%B7%E7%AD%89%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "中央网信办：将发布《人工智能应用伦理安全指引（1.0版）》",
@@ -64,6 +51,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "中国羽毛球协会主席张军被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "体检迟到两分钟被取消事业单位入职资格，法院判决人社局机械执法，责令重新处置，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2032152657725481199",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 18时05分]"
+        },
+        {
+          "title": "受贿数额特别巨大！蓝天立被公诉",
+          "url": "https://www.toutiao.com/trending/7633995126952329258/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时05分]"
         },
         {
           "title": "甘肃榆中山洪灾害调查评估报告公布",
@@ -99,8 +123,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 18时05分]"
         },
         {
           "title": "霸王茶姬回应「顾客喝出水银」事件，称正配合警方及市监局调查，具体是怎么回事？",
@@ -108,11 +132,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时05分]"
         },
         {
           "title": "媒体评生态园变豪华墓：如此庞大的违建，监管为何长期失灵？",
@@ -137,6 +162,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 13时21分]"
+        },
+        {
+          "title": "原来剪刀手拍照会泄露指纹信息",
+          "url": "https://www.douyin.com/hot/2482557",
+          "source": "抖音",
+          "ranks": [
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 18时05分]"
         },
         {
           "title": "两人穿越大理苍山失散报警，警方救人后对其非法入山行为立案",
@@ -172,15 +209,15 @@
           "time_info": "[13时20分 ~ 13时21分]"
         },
         {
-          "title": "原来剪刀手拍照会泄露指纹信息",
-          "url": "https://www.douyin.com/hot/2482557",
-          "source": "抖音",
+          "title": "中国羽毛球协会主席张军被查",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
           "ranks": [
-            30
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "网信办查处剪映等App",
@@ -194,6 +231,39 @@
           "time_info": "09时57分"
         },
         {
+          "title": "国务院：任命刘浩凌为证监会副主席",
+          "url": "https://www.cls.cn/detail/2359509",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "韩正分别会见第80届联合国大会主席贝尔伯克、澳大利亚外长黄英贤",
+          "url": "https://wallstreetcn.com/livenews/3096497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "羽协主席张军被查",
+          "url": "https://www.douyin.com/hot/2483526",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "4000万粉丝博主白冰在镜头前认错，偷税漏税共计911.18万元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33068480",
           "source": "澎湃新闻",
@@ -203,6 +273,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "与火星殖民和太空数据中心挂钩！SpaceX IPO前夕 马斯克天价薪酬方案曝光",
+          "url": "https://www.cls.cn/detail/2359146",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受纪律审查和监察调查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032853610086789195",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "中央网信办开展专项整治清理涉企侵权信息92.7万余条",
@@ -266,7 +358,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -299,9 +391,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "美联储主席交接倒计时：沃什有望准时就职，鲍威尔会留任理事吗？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260429172500909800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "新党主席吴成典：台湾民众要直面统一",
@@ -310,7 +413,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -335,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普会见石油公司高层，讨论伊朗战争的影响，雪佛龙首席执行官也出席了与特朗普的会议。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3096459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         }
       ]
     }
