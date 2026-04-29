@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T13:21:03.400087+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-04-29T15:59:55.511835+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "体检迟到两分钟被取消事业单位入职资格，法院判决人社局机械执法，责令重新处置，如何从法律角度解读？",
@@ -16,30 +16,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时21分]"
-        },
-        {
-          "title": "受贿数额特别巨大！蓝天立被公诉",
-          "url": "https://www.toutiao.com/trending/7633995126952329258/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 15时59分]"
         },
         {
           "title": "纯脑补?网友小作文维权翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353854&amp;topic_name=%E7%BA%AF%E8%84%91%E8%A1%A5%3F%E7%BD%91%E5%8F%8B%E5%B0%8F%E4%BD%9C%E6%96%87%E7%BB%B4%E6%9D%83%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时59分]"
+        },
+        {
+          "title": "受贿数额特别巨大！蓝天立被公诉",
+          "url": "https://www.toutiao.com/trending/7633995126952329258/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时59分]"
         },
         {
           "title": "中央网信办：将发布《人工智能应用伦理安全指引（1.0版）》",
@@ -48,7 +50,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -59,7 +61,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -72,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 15时59分]"
         },
         {
           "title": "日本广岛爆炸事故现场画面",
@@ -93,11 +95,24 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            6
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 15时59分]"
+        },
+        {
+          "title": "霸王茶姬回应「顾客喝出水银」事件，称正配合警方及市监局调查，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2032477693019517178",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时21分]"
+          "time_info": "[13时20分 ~ 15时59分]"
         },
         {
           "title": "媒体评生态园变豪华墓：如此庞大的违建，监管为何长期失灵？",
@@ -122,17 +137,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 13时21分]"
-        },
-        {
-          "title": "霸王茶姬回应「顾客喝出水银」事件，称正配合警方及市监局调查，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2032477693019517178",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
         },
         {
           "title": "两人穿越大理苍山失散报警，警方救人后对其非法入山行为立案",
@@ -207,7 +211,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -229,7 +233,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -256,13 +260,24 @@
           "time_info": "09时57分"
         },
         {
+          "title": "如何看待 WTT 首席执行官史蒂夫丹顿忽然辞职卸任？",
+          "url": "https://www.zhihu.com/question/2032755901388558918",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "据英国金融时报：欧盟正与匈牙利候任总理商讨变通方案，以便在8月截止日期之后，仍能提供部分被冻结的100亿欧元新冠疫情复苏基金。",
           "url": "https://flash.jin10.com/detail/20260429123521501800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -273,9 +288,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：伊朗和平协议必须包括霍尔木兹海峡自由通行。 中东冲突的影响可能会持续多年。",
+          "url": "https://wallstreetcn.com/livenews/3096306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "新党主席吴成典：台湾民众要直面统一",
+          "url": "https://www.toutiao.com/trending/7633948617338830898/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "中央网信办开展专项整治清理涉企侵权信息92.7万余条",
@@ -284,7 +321,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
