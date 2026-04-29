@@ -1,346 +1,143 @@
 {
-  "generated_at": "2026-04-28T20:20:32.421249+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-04-29T09:57:16.918197+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 29,
+      "match_count": 12,
       "titles": [
         {
-          "title": "非法收受财物数额特别巨大，国家铁路局原局长费东斌被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060555",
-          "source": "澎湃新闻",
+          "title": "体检迟到两分钟被取消事业单位入职资格，法院判决人社局机械执法，责令重新处置，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2032152657725481199",
+          "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "官方通报学生水杯被同学投异物",
-          "url": "https://www.toutiao.com/trending/7633651435036741171/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "何立峰会见英国怡和控股有限公司执行主席班哲明·凯瑟克",
-          "url": "https://wallstreetcn.com/livenews/3095780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "强奸出狱后又杀人男子被执行死刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A5%B8%E5%87%BA%E7%8B%B1%E5%90%8E%E5%8F%88%E6%9D%80%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时05分 ~ 18时54分]"
-        },
-        {
-          "title": "田永明被执行死刑",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B0%E6%B0%B8%E6%98%8E%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 16时06分]"
-        },
-        {
-          "title": "田永明被执行死刑",
-          "url": "https://www.douyin.com/hot/2481919",
-          "source": "抖音",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 20时20分]"
-        },
-        {
-          "title": "员工一气之下说「不涨工资这活干不了」，三天后被告知已离职，法院判决口头辞职有效，为啥这能构成有效辞职？",
-          "url": "https://www.zhihu.com/question/2030685980089434393",
-          "source": "知乎",
-          "ranks": [
-            20,
-            3,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 20时20分]"
-        },
-        {
-          "title": "澎湃漫评｜要解决问题而不是“解决投诉人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33061497",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 18时54分]"
-        },
-        {
-          "title": "男子强奸大嫂又杀人 被执行死刑",
-          "url": "https://www.toutiao.com/trending/7633662779103248420/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 20时20分]"
-        },
-        {
-          "title": "4000万粉丝博主白冰在镜头前认错，偷税漏税共计911.18万元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33068480",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时05分 ~ 20时20分]"
-        },
-        {
-          "title": "甘肃致32死山洪灾害调查评估报告",
-          "url": "https://www.douyin.com/hot/2482276",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 20时20分]"
-        },
-        {
-          "title": "网信办查处剪映等App",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E4%BF%A1%E5%8A%9E%E6%9F%A5%E5%A4%84%E5%89%AA%E6%98%A0%E7%AD%89App",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 20时20分]"
-        },
-        {
-          "title": "吃了一盘没炒熟的四季豆5人集体中毒",
-          "url": "https://www.baidu.com/s?wd=%E5%90%83%E4%BA%86%E4%B8%80%E7%9B%98%E6%B2%A1%E7%82%92%E7%86%9F%E7%9A%84%E5%9B%9B%E5%AD%A3%E8%B1%865%E4%BA%BA%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 16时06分]"
+          "time_info": "09时57分"
         },
         {
           "title": "甘肃榆中山洪灾害调查评估报告公布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33070078",
           "source": "澎湃新闻",
           "ranks": [
-            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "网信办查处剪映等App",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E4%BF%A1%E5%8A%9E%E6%9F%A5%E5%A4%84%E5%89%AA%E6%98%A0%E7%AD%89App",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "4000万粉丝博主白冰在镜头前认错，偷税漏税共计911.18万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33068480",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "媒体评生态园变豪华墓：如此庞大的违建，监管为何长期失灵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069344",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "日本广岛爆炸现场视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "官方通报“女子被冒名注册5家公司”：已组成联合调查组开展核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33072323",
+          "source": "澎湃新闻",
+          "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 20时20分]"
-        },
-        {
-          "title": "剪映被约谈",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%98%A0%E8%A2%AB%E7%BA%A6%E8%B0%88%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
-        },
-        {
-          "title": "云南姚安县一中学老师坠楼，县教体局：生命体征平稳，已介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33061173",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 13时22分]"
-        },
-        {
-          "title": "为腾出资金用于国防和科技，欧盟拟推迟偿还疫情时期债务",
-          "url": "https://flash.jin10.com/detail/20260428195818188800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "09时57分"
         },
         {
-          "title": "锂电添加剂量价齐升 富祥药业一季度净利润同比增长逾26倍|财报解读",
-          "url": "https://www.cls.cn/detail/2357147",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "顺德一外卖后厨人员在锅里洗扫把吐口水？停业整顿，立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060288",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "田永明被执行死刑",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B0%E6%B0%B8%E6%98%8E%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "西王食品：公司及实控人遭证监会立案调查",
-          "url": "https://wallstreetcn.com/livenews/3095688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "官方通报中学教师坠楼事件",
-          "url": "https://www.douyin.com/hot/2481460",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "杀害女同学14岁男生听到判决面无表情",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A614%E5%B2%81%E7%94%B7%E7%94%9F%E5%90%AC%E5%88%B0%E5%88%A4%E5%86%B3%E9%9D%A2%E6%97%A0%E8%A1%A8%E6%83%85%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "意大利预算监管局：如果政府未能实现资产出售计划，意大利的债务占GDP比率将在2027年超过139%，而不是降至138.6%。",
-          "url": "https://flash.jin10.com/detail/20260428182326324800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "日本央行行长植田和男：发生像20世纪70年代那样的石油冲击的可能性不高。 日本央行仍处于将利率提高至中性水平的过程之中。 在执行政策时需兼顾利率不高于中性水平这一条件。 日本在私人信贷方面的风险敞口并不太大。 不打算用新数据来主导关于物价的讨论。 不认为日本央行在以独特的方式关注价格数据。 仍有部分人士认为，在上调预期后，价格仍存在上涨风险。 预计经济放缓、通胀加速只是暂时现象。 将对债券购买正确做出决策，应与利率分开考虑。 预计物价加速持续的时间将长于经济放缓（持续的时间）。 将以可预测的方式削减债券购买。",
-          "url": "https://wallstreetcn.com/livenews/3095536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "乌克兰首都基辅传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3095750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "官方通报中学教师跳楼轻生事件",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6",
+          "title": "女子莫名当上5家公司老板 官方核查",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8E%AB%E5%90%8D%E5%BD%93%E4%B8%8A5%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%80%81%E6%9D%BF+%E5%AE%98%E6%96%B9%E6%A0%B8%E6%9F%A5",
           "source": "百度热搜",
           "ranks": [
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "09时57分"
         },
         {
-          "title": "免费上门升级宽带？可能是诈骗新套路",
-          "url": "https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E4%B8%8A%E9%97%A8%E5%8D%87%E7%BA%A7%E5%AE%BD%E5%B8%A6%EF%BC%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E8%AF%88%E9%AA%97%E6%96%B0%E5%A5%97%E8%B7%AF",
+          "title": "新西兰联储主席布雷曼：货币政策委员会继续密切关注中东局势及未来公布的数据。",
+          "url": "https://flash.jin10.com/detail/20260429093549959800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：一季度核心通胀指标在1-3%的目标区间内保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260429093524251800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "日本广岛爆炸事故现场画面",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2",
           "source": "百度热搜",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "09时57分"
         },
         {
-          "title": "第80届联合国大会主席贝尔伯克将访华",
-          "url": "https://wallstreetcn.com/livenews/3095525",
+          "title": "据美国警方28日消息，美国首都华盛顿发生两起枪击事件。警方正赶往现场调查。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3096078",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时06分"
+          "time_info": "09时57分"
         }
       ]
     }
