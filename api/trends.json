@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T19:37:44.258582+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-05-02T20:45:15.129777+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "FIFA开天价,世界杯版权谈崩",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 19时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 20时45分]"
         },
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -38,11 +38,25 @@
             7,
             2,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 20时45分]"
+        },
+        {
+          "title": "日本地震",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时45分]"
         },
         {
           "title": "据日本共同社：日本西部发生5.7级地震，未发布海啸警报。",
@@ -57,36 +71,12 @@
           "time_info": "[18时42分 ~ 19时37分]"
         },
         {
-          "title": "日本本州岛发生5.7级地震 震源深度60公里",
-          "url": "https://wallstreetcn.com/livenews/3098143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
-        },
-        {
           "title": "河南一足疗店发生火灾致6死",
           "url": "https://www.toutiao.com/trending/7635221112919851034/",
           "source": "今日头条",
           "ranks": [
             4,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
-        },
-        {
-          "title": "日本地震",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -115,8 +105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 20时45分]"
         },
         {
           "title": "今起，回扣入刑！医药行业“合规红线”再收紧 穿透式监管直击灰色地带",
@@ -128,8 +118,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 20时45分]"
+        },
+        {
+          "title": "日本本州岛发生5.7级地震 震源深度60公里",
+          "url": "https://wallstreetcn.com/livenews/3098143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时45分]"
         },
         {
           "title": "山西猥亵当事人法官已被免职",
@@ -143,8 +146,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 19时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 20时45分]"
+        },
+        {
+          "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092249",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 20时45分]"
         },
         {
           "title": "古巴国家主席：美对古实施“种族灭绝式封锁”",
@@ -159,19 +176,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时18分 ~ 19时37分]"
-        },
-        {
-          "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092249",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时37分]"
         },
         {
           "title": "阿富汗首都喀布尔发生爆炸",
@@ -286,6 +290,28 @@
           "time_info": "[09时47分 ~ 14时57分]"
         },
         {
+          "title": "周楷恒百分大战手感爆炸",
+          "url": "https://www.douyin.com/hot/2486903",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "雷霆也会像之前的冠军球队一样，薪水爆炸导致球队分崩离析吗？",
+          "url": "https://www.zhihu.com/question/2030691847299938299",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "证监会原主席易会满被双开",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%8F%8C%E5%BC%80",
           "source": "bilibili 热搜",
@@ -354,6 +380,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "据伊朗媒体：伊斯法罕省今天的爆炸声是由于拆除和销毁未爆炸弹药的作业所致。",
+          "url": "https://flash.jin10.com/detail/20260502195703611800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "教师陈某论文数据存疑？南开大学成立调查组启动调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33088922",
           "source": "澎湃新闻",
@@ -363,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "中国地震台网正式测定：05月02日19时34分在新疆阿克苏地区库车市发生4.6级地震，震源深度17千米。",
+          "url": "https://flash.jin10.com/detail/20260502194152169800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "霸王茶姬 男友投毒",
