@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T15:47:31.960493+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-05-03T17:13:46.965535+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "央视被曝拒绝接受 18 亿元世界杯版权费，国际足联为何开天价？若无法转播谁最着急？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 15时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 17时13分]"
         },
         {
           "title": "央视被曝拒绝接受 18 亿元世界杯版权费，国际足联为何开天价，若无法转播谁最着急？",
@@ -30,17 +30,40 @@
           "time_info": "09时50分"
         },
         {
+          "title": "俄称乌克兰袭击普里莫尔斯克港 关键石油枢纽一度起火",
+          "url": "https://flash.jin10.com/detail/20260503164032862800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "动物园老虎瘦成纸片 官方：已调查",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%80%81%E8%99%8E%E7%98%A6%E6%88%90%E7%BA%B8%E7%89%87+%E5%AE%98%E6%96%B9%EF%BC%9A%E5%B7%B2%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "FIFA开天价,世界杯版权谈崩",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353948&amp;topic_name=FIFA%E5%BC%80%E5%A4%A9%E4%BB%B7%2C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%E8%B0%88%E5%B4%A9",
           "source": "贴吧",
           "ranks": [
             4,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 15时47分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 17时13分]"
         },
         {
           "title": "被曝猥亵案件当事人的山西吕梁中院法官已被免职，公安机关正对其进行刑事侦查",
@@ -82,11 +105,23 @@
           "url": "https://flash.jin10.com/detail/20260503140723165800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 17时13分]"
+        },
+        {
+          "title": "加沙地带政府媒体办公室：262名媒体工作者在以军行动中遇难",
+          "url": "https://wallstreetcn.com/livenews/3098257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "17时13分"
         },
         {
           "title": "中国台北主力疑遭袭胸事件已开启调查",
@@ -98,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "湃用场｜五一假期首日，多起“到店无房”等投诉经澎湃介入后得到解决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092484",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "美国芝加哥联储主席Austan Goolsbee：（美联储在上周的会议上按8-4票将政策利率维持在3.5%-3.75%区间）这种存在分歧的决定显示了对货币政策路径提供“前瞻性指引”可能带来的复杂性，在这种情况下，三位支持该会议实际利率决策的官员也提出了异议。 既为鲍威尔能继续提供建议感到高兴，也对沃什的到来感到“兴奋”。 我非常喜欢（鲍威尔）。我很乐意看到他转任理事席位并留在那里。他一直很明智，且富有见地。 自己“很期待看到他（沃什）的到来，以及他将留下怎样的印记”。",
@@ -131,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "男童落水 34岁父亲营救时不幸遇难",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%90%BD%E6%B0%B4+34%E5%B2%81%E7%88%B6%E4%BA%B2%E8%90%A5%E6%95%91%E6%97%B6%E4%B8%8D%E5%B9%B8%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     }
