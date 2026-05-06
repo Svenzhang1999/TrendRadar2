@@ -1,55 +1,141 @@
 {
-  "generated_at": "2026-05-06T09:51:00.104732+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-06T13:20:51.750994+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "长沙市委市政府：对浏阳烟花厂爆炸极为痛心、无比自责",
           "url": "https://m.thepaper.cn/newsDetail_forward_33099084",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
         },
         {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
+          "title": "有的人熬夜时会感到心脏痛或者「咯噔」一下，这是怎么回事？该如何分辨哪些是虚惊一场，哪些是猝死预警信号？",
+          "url": "https://www.zhihu.com/question/2020107521302427563",
+          "source": "知乎",
           "ranks": [
-            8
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
         },
         {
           "title": "湖南浏阳烟花厂爆炸事故已致26人死亡、61人受伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33099002",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
+        },
+        {
+          "title": "日本网红店翻车,食客集体中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
         },
         {
           "title": "浏阳烟花厂爆炸致21死61伤",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354006&amp;topic_name=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B421%E6%AD%BB61%E4%BC%A4",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
+        },
+        {
+          "title": "加沙援助船队成员称被以军扣押后遭殴打和虐待：公然违反国际法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099468",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
+        },
+        {
+          "title": "浏阳烟花厂爆炸事故已致26死",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
+        },
+        {
+          "title": "央视被曝拒绝接受 18 亿元世界杯版权费，国际足联为什么敢开天价？",
+          "url": "https://www.zhihu.com/question/2034951747702093256",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
+        },
+        {
+          "title": "浏阳烟花厂爆炸事故亲历者发声",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
+        },
+        {
+          "title": "国务院将成立浏阳烟花事故调查组",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
+        },
+        {
+          "title": "湖南浏阳烟花厂爆炸事故已致26死，当地烟花爆竹生产企业全面停产整顿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099275",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时20分]"
         },
         {
           "title": "如何看待中山大学杰青康铁邦 Nature 子刊论文被「耿同学讲故事」举报数据造假，校方已启动调查程序？",
@@ -63,88 +149,11 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
-          "title": "加沙援助船队成员称被以军扣押后遭殴打和虐待：公然违反国际法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099468",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "浏阳一烟花厂爆炸致 26 死 61 伤，周边玻璃震碎，这暴露了烟花爆竹行业哪些安全隐患？",
           "url": "https://www.zhihu.com/question/2034755156743562839",
           "source": "知乎",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "浏阳烟花厂爆炸事故已致26死",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "有的人熬夜时会感到心脏痛或者「咯噔」一下，这是怎么回事？该如何分辨哪些是虚惊一场，哪些是猝死预警信号？",
-          "url": "https://www.zhihu.com/question/2020107521302427563",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "央视被曝拒绝接受 18 亿元世界杯版权费，国际足联为什么敢开天价？",
-          "url": "https://www.zhihu.com/question/2034951747702093256",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "国务院将成立浏阳烟花事故调查组",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "湖南浏阳烟花厂爆炸事故已致26死，当地烟花爆竹生产企业全面停产整顿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099275",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "浏阳烟花厂爆炸事故亲历者发声",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -171,6 +180,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "汉坦病毒疫情",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "阿联酋迪拜一在建建筑起火 原因尚不明",
+          "url": "https://wallstreetcn.com/livenews/3099126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "据阿联酋媒体6日报道，迪拜一在建建筑物起火。社交媒体画面显示，现场出现大量浓烟。火灾原因尚不明。",
+          "url": "https://flash.jin10.com/detail/20260506124455703800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "记者探访浏阳烟花厂爆炸事故现场",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "新华社记者直击浏阳爆炸事故现场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E6%B5%8F%E9%98%B3%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "据伊朗SNN通讯社：伊朗地方当局称，格什姆岛的声响系对抗无人机所致，未发生爆炸或造成损失。",
+          "url": "https://flash.jin10.com/detail/20260506121810430800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     }
