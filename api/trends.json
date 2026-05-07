@@ -1,229 +1,44 @@
 {
-  "generated_at": "2026-05-06T20:24:09.866100+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-05-07T09:55:32.554181+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 32,
+      "match_count": 15,
       "titles": [
         {
-          "title": "长沙市委市政府：对浏阳烟花厂爆炸极为痛心、无比自责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099084",
-          "source": "澎湃新闻",
+          "title": "出差去会所等待按摩猝死被认定工伤",
+          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E5%B7%AE%E5%8E%BB%E4%BC%9A%E6%89%80%E7%AD%89%E5%BE%85%E6%8C%89%E6%91%A9%E7%8C%9D%E6%AD%BB%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%B7%A5%E4%BC%A4",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
-        },
-        {
-          "title": "问工资成间谍,小伙被调查",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354045&amp;topic_name=%E9%97%AE%E5%B7%A5%E8%B5%84%E6%88%90%E9%97%B4%E8%B0%8D%2C%E5%B0%8F%E4%BC%99%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时24分]"
-        },
-        {
-          "title": "ST萃华：因公司未按规定披露定期报告，中国证监会决定对公司立案。",
-          "url": "https://wallstreetcn.com/livenews/3099330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "中国强硬拒绝世界杯天价转播费",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%A1%AC%E6%8B%92%E7%BB%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A9%E4%BB%B7%E8%BD%AC%E6%92%AD%E8%B4%B9%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时24分]"
-        },
-        {
-          "title": "有的人熬夜时会感到心脏痛或者「咯噔」一下，这是怎么回事？该如何分辨哪些是虚惊一场，哪些是猝死预警信号？",
-          "url": "https://www.zhihu.com/question/2020107521302427563",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
-        },
-        {
-          "title": "加沙援助船队成员称被以军扣押后遭殴打和虐待：公然违反国际法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099468",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 18时56分]"
-        },
-        {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 20时24分]"
-        },
-        {
-          "title": "浏阳烟花厂爆炸致21死61伤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354006&amp;topic_name=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B421%E6%AD%BB61%E4%BC%A4",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 20时24分]"
-        },
-        {
-          "title": "国务院将成立浏阳烟花事故调查组",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 20时24分]"
-        },
-        {
-          "title": "世界杯FIFA向中国开出天价版权费",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AFFIFA%E5%90%91%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%87%BA%E5%A4%A9%E4%BB%B7%E7%89%88%E6%9D%83%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时24分]"
-        },
-        {
-          "title": "湖南浏阳烟花厂爆炸事故已致26人死亡、61人受伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099002",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "影子调查｜不“标准”的高标准农田",
           "url": "https://m.thepaper.cn/newsDetail_forward_33068218",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时24分]"
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
-          "title": "浏阳烟花厂爆炸事故已完成5轮搜救",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%B7%B2%E5%AE%8C%E6%88%905%E8%BD%AE%E6%90%9C%E6%95%91",
-          "source": "百度热搜",
+          "title": "问工资成间谍,小伙被调查",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354045&amp;topic_name=%E9%97%AE%E5%B7%A5%E8%B5%84%E6%88%90%E9%97%B4%E8%B0%8D%2C%E5%B0%8F%E4%BC%99%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "贴吧",
           "ranks": [
-            9,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时24分]"
-        },
-        {
-          "title": "浏阳烟花厂爆炸事故已致26死",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
-        },
-        {
-          "title": "央视被曝拒绝接受 18 亿元世界杯版权费，国际足联为什么敢开天价？",
-          "url": "https://www.zhihu.com/question/2034951747702093256",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
-        },
-        {
-          "title": "浏阳烟花厂爆炸事故亲历者发声",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
-        },
-        {
-          "title": "湖南浏阳烟花厂爆炸事故已致26死，当地烟花爆竹生产企业全面停产整顿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099275",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
-        },
-        {
-          "title": "影子调查｜高标准农田为何不“标准”?",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33068559",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 20时24分]"
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "国足没进世界杯，为何国际足联要对央视狮子大开口，要天价世界杯转播费？国际足联就不怕得罪中国市场？",
@@ -233,151 +48,129 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 20时24分]"
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
-          "title": "如何看待中山大学杰青康铁邦 Nature 子刊论文被「耿同学讲故事」举报数据造假，校方已启动调查程序？",
-          "url": "https://www.zhihu.com/question/2034990945842807544",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "浏阳一烟花厂爆炸致 26 死 61 伤，周边玻璃震碎，这暴露了烟花爆竹行业哪些安全隐患？",
-          "url": "https://www.zhihu.com/question/2034755156743562839",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "这个世界是属于执行力强的人",
-          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E6%98%AF%E5%B1%9E%E4%BA%8E%E6%89%A7%E8%A1%8C%E5%8A%9B%E5%BC%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=25&Refer=top",
+          "title": "FIFA回应中国区天价世界杯版权",
+          "url": "https://s.weibo.com/weibo?q=%23FIFA%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%A4%A9%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "林依晨前男友因性侵获刑7年半",
-          "url": "https://www.toutiao.com/trending/7636302637264060466/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "汉坦病毒疫情",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "09时55分"
         },
         {
-          "title": "阿联酋迪拜一在建建筑起火 原因尚不明",
-          "url": "https://wallstreetcn.com/livenews/3099126",
-          "source": "华尔街见闻-快讯",
+          "title": "绥化2名失联女孩遗体已送至殡仪馆",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%A5%E5%8C%962%E5%90%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E9%81%97%E4%BD%93%E5%B7%B2%E9%80%81%E8%87%B3%E6%AE%A1%E4%BB%AA%E9%A6%86",
+          "source": "百度热搜",
           "ranks": [
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "09时55分"
         },
         {
-          "title": "警方通报杰我睿涉案人员被刑拘",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%B0%E6%88%91%E7%9D%BF%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "据阿联酋媒体6日报道，迪拜一在建建筑物起火。社交媒体画面显示，现场出现大量浓烟。火灾原因尚不明。",
-          "url": "https://flash.jin10.com/detail/20260506124455703800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "日本神奈川县东部发生4.2级地震。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3099311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "针对浏阳烟花厂爆炸事故，将成立国务院事故调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099654",
+          "title": "影子调查｜高标准农田为何不“标准”?",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33068559",
           "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时56分"
+          "time_info": "09时55分"
         },
         {
-          "title": "记者探访浏阳烟花厂爆炸事故现场",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA",
-          "source": "百度热搜",
+          "title": "澎湃回声｜绵阳涪城通报“一公司涉嫌违法取河水售卖”：调查核实，绝不姑息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102984",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "09时55分"
         },
         {
-          "title": "新华社记者直击浏阳爆炸事故现场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E6%B5%8F%E9%98%B3%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "中国强硬拒绝世界杯天价转播费",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%A1%AC%E6%8B%92%E7%BB%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A9%E4%BB%B7%E8%BD%AC%E6%92%AD%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "一份给妈妈的调查问卷",
+          "url": "https://www.douyin.com/hot/2490640",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "停车接娃竟会泄露家长信息",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%81%9C%E8%BD%A6%E6%8E%A5%E5%A8%83%E7%AB%9F%E4%BC%9A%E6%B3%84%E9%9C%B2%E5%AE%B6%E9%95%BF%E4%BF%A1%E6%81%AF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "09时55分"
         },
         {
-          "title": "据伊朗SNN通讯社：伊朗地方当局称，格什姆岛的声响系对抗无人机所致，未发生爆炸或造成损失。",
-          "url": "https://flash.jin10.com/detail/20260506121810430800",
-          "source": "金十数据",
+          "title": "国务院将成立浏阳烟花事故调查组",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E6%88%90%E7%AB%8B%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "09时55分"
+        },
+        {
+          "title": "停车接个娃 个人信息咋就泄露了",
+          "url": "https://www.baidu.com/s?wd=%E5%81%9C%E8%BD%A6%E6%8E%A5%E4%B8%AA%E5%A8%83+%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%92%8B%E5%B0%B1%E6%B3%84%E9%9C%B2%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "高意公司/相干公司（Coherent Corp.）首席执行官：我们又度过了一个财务表现强劲的季度，营收增长加速，利润率扩大，盈利能力提升，这一切都得益于我们的数据中心和通信业务异常强劲的需求。 随着人工智能（AI）数据中心基础设施的持续扩张，我们正在迅速扩大产能以满足需求。 凭借我们广泛的光子技术产品组合和规模化制造能力，我们相信公司处于独特的优势地位，能够抓住这一长达多年的增长机遇。",
+          "url": "https://wallstreetcn.com/livenews/3099671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "邮轮疫情加剧南极过度旅游担忧",
+          "url": "https://www.toutiao.com/trending/7636175510120218666/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     }
