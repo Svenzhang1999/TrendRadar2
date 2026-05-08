@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-08T14:29:05.626553+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-05-08T16:18:50.840346+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
-        {
-          "title": "531 户小区仅 25 户交物业费致电梯停运，为何会出现此类现象，该如何解决？",
-          "url": "https://www.zhihu.com/question/2034770945701847487",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时29分]"
-        },
         {
           "title": "中国球迷可能看不了今年世界杯？FIFA称谈判还在进行中，天价转播权引争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33105263",
@@ -27,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 16时18分]"
         },
         {
           "title": "浏阳烟花厂爆炸事故已致37人死亡",
@@ -36,52 +24,6 @@
           "source": "百度热搜",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时29分]"
-        },
-        {
-          "title": "浏阳烟花厂爆炸事故已致37死",
-          "url": "https://www.toutiao.com/trending/7636294199018078254/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时29分]"
-        },
-        {
-          "title": "湖南烟花厂爆炸已致37人死亡",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B437%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时29分]"
-        },
-        {
-          "title": "浏阳烟花厂爆炸已致37死",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B437%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时29分]"
-        },
-        {
-          "title": "大地震!LPL三巨头被曝假赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354081&amp;topic_name=%E5%A4%A7%E5%9C%B0%E9%9C%87%21LPL%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%A2%AB%E6%9B%9D%E5%81%87%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -149,7 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -160,9 +102,83 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "贵州省市场监督管理局原局长丁雄军被公诉",
+          "url": "https://wallstreetcn.com/livenews/3100526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "531 户小区仅 25 户交物业费致电梯停运，为何会出现此类现象，该如何解决？",
+          "url": "https://www.zhihu.com/question/2034770945701847487",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 16时18分]"
+        },
+        {
+          "title": "浏阳烟花厂爆炸已致37死",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B437%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时18分]"
+        },
+        {
+          "title": "大地震!LPL三巨头被曝假赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354081&amp;topic_name=%E5%A4%A7%E5%9C%B0%E9%9C%87%21LPL%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%A2%AB%E6%9B%9D%E5%81%87%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时18分]"
+        },
+        {
+          "title": "浏阳烟花厂爆炸事故已致37死",
+          "url": "https://www.toutiao.com/trending/7636294199018078254/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时18分]"
+        },
+        {
+          "title": "湖南烟花厂爆炸已致37人死亡",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B437%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时18分]"
         },
         {
           "title": "皇马启动内部纪律调查",
@@ -201,17 +217,44 @@
           "time_info": "[10时02分 ~ 12时55分]"
         },
         {
+          "title": "最高检挂牌督办湖南浏阳烟花爆炸重大责任事故案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109815",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时18分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：4月新增信贷或同比少增，企业债补位或支撑新增社融同比多增",
+          "url": "https://www.cls.cn/detail/2365818",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时18分]"
+        },
+        {
           "title": "新加坡用鞭刑治理校园霸凌",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%94%A8%E9%9E%AD%E5%88%91%E6%B2%BB%E7%90%86%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C",
           "source": "百度热搜",
           "ranks": [
             18,
             7,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 16时18分]"
         },
         {
           "title": "惩戒校园霸凌，新加坡校园引入鞭刑",
@@ -222,32 +265,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 16时18分]"
+        },
+        {
+          "title": "央视记者调查农田沟里流黑水",
+          "url": "https://www.douyin.com/hot/2491666",
+          "source": "抖音",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时29分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：4月新增信贷或同比少增，企业债补位或支撑新增社融同比多增",
-          "url": "https://www.cls.cn/detail/2365818",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时29分]"
-        },
-        {
-          "title": "最高检挂牌督办湖南浏阳烟花爆炸重大责任事故案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33109815",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时29分]"
+          "time_info": "[12时54分 ~ 16时18分]"
         },
         {
           "title": "浏阳烟花厂爆炸涉案8人传唤到案",
@@ -267,18 +298,6 @@
           "source": "抖音",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时29分]"
-        },
-        {
-          "title": "央视记者调查农田沟里流黑水",
-          "url": "https://www.douyin.com/hot/2491666",
-          "source": "抖音",
-          "ranks": [
-            11,
-            16
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -307,6 +326,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 12时55分]"
+        },
+        {
+          "title": "湖南浏阳烟花厂爆炸事故已致37人死亡1人失联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120981",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时18分]"
         },
         {
           "title": "邮轮暴发汉坦病毒疫情 张文宏发声",
@@ -343,15 +374,16 @@
           "time_info": "[14时28分 ~ 14时29分]"
         },
         {
-          "title": "湖南浏阳烟花厂爆炸事故已致37人死亡1人失联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120981",
-          "source": "澎湃新闻",
+          "title": "泰康人寿38岁全国销冠被刑拘",
+          "url": "https://www.toutiao.com/trending/7636339951210577974/",
+          "source": "今日头条",
           "ranks": [
-            19
+            27,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "time_info": "[10时02分 ~ 16时18分]"
         },
         {
           "title": "东航原董事长刘绍勇被公诉",
@@ -398,6 +430,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "烟花厂爆炸,湖南卫视禁娱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354100&amp;topic_name=%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%2C%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%A6%81%E5%A8%B1",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "日本关西电力：检测到蒸汽泄漏后，已手动停运美滨核电站3号机组。放射性物质对环境无影响，将调查事故原因。",
           "url": "https://flash.jin10.com/detail/20260508123221856800",
           "source": "金十数据",
@@ -442,15 +485,37 @@
           "time_info": "12时55分"
         },
         {
+          "title": "东航原董事长刘绍勇被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120300",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "俄罗斯交通部：由于无人机袭击，俄罗斯南部13个机场暂停运营。",
           "url": "https://flash.jin10.com/detail/20260508140640048800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "浏阳烟花厂爆炸仍有1人失联",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BB%8D%E6%9C%891%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "荷兰六六民主党全国办公室遭爆炸物袭击",
@@ -475,17 +540,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "泰康人寿38岁全国销冠被刑拘",
-          "url": "https://www.toutiao.com/trending/7636339951210577974/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。",
           "url": "https://wallstreetcn.com/livenews/3100278",
           "source": "华尔街见闻-快讯",
@@ -495,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "8家新能源车企远程“锁电”被约谈",
+          "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%BF%9C%E7%A8%8B%E2%80%9C%E9%94%81%E7%94%B5%E2%80%9D%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。",
