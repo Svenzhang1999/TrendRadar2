@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-09T18:46:46.217130+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-05-09T19:41:58.937053+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "怎么看待泰康人寿全国销冠涉嫌诈骗被刑拘，涉案金额超 3 亿？",
+          "url": "https://www.zhihu.com/question/2035705618498065327",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时41分]"
+        },
         {
           "title": "马上评｜驱车1600公里较真“仅退款”，别让维权“亏本”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33122989",
@@ -17,30 +28,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时54分 ~ 17时08分]"
-        },
-        {
-          "title": "怎么看待泰康人寿全国销冠涉嫌诈骗被刑拘，涉案金额超 3 亿？",
-          "url": "https://www.zhihu.com/question/2035705618498065327",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时46分]"
-        },
-        {
-          "title": "4只虾1035元,投诉者删评销号",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354124&amp;topic_name=4%E5%8F%AA%E8%99%BE1035%E5%85%83%2C%E6%8A%95%E8%AF%89%E8%80%85%E5%88%A0%E8%AF%84%E9%94%80%E5%8F%B7",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时46分]"
         },
         {
           "title": "八家新能源车企远程「锁电」被约谈，续航最高缩水 200 公里，此举有哪些实际影响？法律上如何定性车企行为？",
@@ -99,15 +86,29 @@
           "time_info": "13时02分"
         },
         {
-          "title": "以色列国防军：今天早些时候，在以色列北部靠近以色列-黎巴嫩边界发现了一架由真主党恐怖组织发射的爆炸无人机。",
-          "url": "https://flash.jin10.com/detail/20260509181451875800",
-          "source": "金十数据",
+          "title": "中国烧烤店是天价世界杯第一个受害者",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%83%A7%E7%83%A4%E5%BA%97%E6%98%AF%E5%A4%A9%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时41分"
+        },
+        {
+          "title": "4只虾1035元,投诉者删评销号",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354124&amp;topic_name=4%E5%8F%AA%E8%99%BE1035%E5%85%83%2C%E6%8A%95%E8%AF%89%E8%80%85%E5%88%A0%E8%AF%84%E9%94%80%E5%8F%B7",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时41分]"
         },
         {
           "title": "8家新能源车企被约谈",
@@ -119,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "网传四川宜宾人员关联境外邮轮疫情 官方通报：无时空交集",
-          "url": "https://flash.jin10.com/detail/20260509180600243800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "8名中国人在泰国拍短剧被捕",
@@ -145,6 +135,19 @@
           "time_info": "[15时15分 ~ 18时46分]"
         },
         {
+          "title": "比亚迪否认被约谈",
+          "url": "https://www.douyin.com/hot/2493279",
+          "source": "抖音",
+          "ranks": [
+            9,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 19时41分]"
+        },
+        {
           "title": "世卫组织更新邮轮疫情数据",
           "url": "https://www.douyin.com/hot/2492884",
           "source": "抖音",
@@ -157,16 +160,16 @@
           "time_info": "[13时02分 ~ 15时16分]"
         },
         {
-          "title": "比亚迪否认被约谈",
-          "url": "https://www.douyin.com/hot/2493279",
-          "source": "抖音",
+          "title": "以色列国防军：今天早些时候，在以色列北部靠近以色列-黎巴嫩边界发现了一架由真主党恐怖组织发射的爆炸无人机。",
+          "url": "https://flash.jin10.com/detail/20260509181451875800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            1
+            3,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时08分 ~ 18时46分]"
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "市场监管总局启动认证机构提门槛专项行动",
@@ -179,6 +182,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时08分 ~ 18时46分]"
+        },
+        {
+          "title": "网传四川宜宾人员关联境外邮轮疫情 官方通报：无时空交集",
+          "url": "https://flash.jin10.com/detail/20260509180600243800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时41分]"
+        },
+        {
+          "title": "江西省长调研萍乡烟花爆竹安全监管：铁腕开展烟花爆竹“打非治违”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126571",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时41分]"
+        },
+        {
+          "title": "8家车企涉嫌远程锁电被约谈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354119&amp;topic_name=8%E5%AE%B6%E8%BD%A6%E4%BC%81%E6%B6%89%E5%AB%8C%E8%BF%9C%E7%A8%8B%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时41分]"
         },
         {
           "title": "汉坦病毒疫情暴发,可人传人",
@@ -196,34 +241,6 @@
           "time_info": "[09时54分 ~ 18时46分]"
         },
         {
-          "title": "江西省长调研萍乡烟花爆竹安全监管：铁腕开展烟花爆竹“打非治违”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126571",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时46分]"
-        },
-        {
-          "title": "8家车企涉嫌远程锁电被约谈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354119&amp;topic_name=8%E5%AE%B6%E8%BD%A6%E4%BC%81%E6%B6%89%E5%AB%8C%E8%BF%9C%E7%A8%8B%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时46分]"
-        },
-        {
           "title": "汪卓成被好莱坞找去演男主以为是诈骗",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%8D%93%E6%88%90%E8%A2%AB%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%89%BE%E5%8E%BB%E6%BC%94%E7%94%B7%E4%B8%BB%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%AF%88%E9%AA%97%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -235,6 +252,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时15分 ~ 18时46分]"
+        },
+        {
+          "title": "PQQ不能添加到补剂中？新西兰监管部门再回应：未作出正式监管决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122876",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 19时41分]"
         },
         {
           "title": "大地震!LPL三巨头被曝假赛",
@@ -250,6 +280,44 @@
           "time_info": "[09时54分 ~ 15时16分]"
         },
         {
+          "title": "8名中国人在泰国拍短剧被捕",
+          "url": "https://www.toutiao.com/trending/7637779265550913070/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 19时41分]"
+        },
+        {
+          "title": "独家丨谁的智度？被控在美性侵的资本大佬失联，代持协议能否影响控制权争夺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092704",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 19时41分]"
+        },
+        {
+          "title": "“4只皮皮虾1035元”被投诉店主病逝，探访门店：四星信用且标价清晰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33137891",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 19时41分]"
+        },
+        {
           "title": "已婚男子冒充公务员诈骗多名女性 170 万，已被刑事拘留，其将承担哪些法律责任？如何识别和防范类似骗局？",
           "url": "https://www.zhihu.com/question/2036354653927864157",
           "source": "知乎",
@@ -262,28 +330,28 @@
           "time_info": "[15时15分 ~ 17时08分]"
         },
         {
-          "title": "PQQ不能添加到补剂中？新西兰监管部门再回应：未作出正式监管决定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33122876",
+          "title": "视频丨探访浏阳烟花厂爆炸事故现场：工房内火药混堆隐患突出",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33127115",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            20
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时54分 ~ 18时46分]"
+          "time_info": "[09时54分 ~ 19时41分]"
         },
         {
-          "title": "8名中国人在泰国拍短剧被捕",
-          "url": "https://www.toutiao.com/trending/7637779265550913070/",
-          "source": "今日头条",
+          "title": "一印度船只在霍尔木兹海峡附近起火沉没，致1死4伤",
+          "url": "https://wallstreetcn.com/livenews/3101045",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时08分 ~ 18时46分]"
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "比亚迪、特斯拉、小鹏、理想否认被约谈",
@@ -296,6 +364,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时16分 ~ 17时08分]"
+        },
+        {
+          "title": "网传四川宜宾人员关联境外邮轮疫情，官方通报：无时空交集",
+          "url": "https://wallstreetcn.com/livenews/3101044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "小鹏否认被约谈立案",
@@ -346,28 +426,50 @@
           "time_info": "[15时16分 ~ 17时08分]"
         },
         {
-          "title": "独家丨谁的智度？被控在美性侵的资本大佬失联，代持协议能否影响控制权争夺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092704",
-          "source": "澎湃新闻",
+          "title": "据韩联社报道，针对霍尔木兹海峡内一艘受损韩国船只的调查仍在进行中。",
+          "url": "https://wallstreetcn.com/livenews/3101040",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时41分]"
+        },
+        {
+          "title": "网传四川1人关联邮轮疫情 官方通报",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%9B%9B%E5%B7%9D1%E4%BA%BA%E5%85%B3%E8%81%94%E9%82%AE%E8%BD%AE%E7%96%AB%E6%83%85+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时08分 ~ 18时46分]"
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
-          "title": "“4只皮皮虾1035元”被投诉店主病逝，探访门店：四星信用且标价清晰",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33137891",
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
           "source": "澎湃新闻",
           "ranks": [
-            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时41分]"
+        },
+        {
+          "title": "多家车企回应锁电被约谈：系谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%9B%9E%E5%BA%94%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88%EF%BC%9A%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时08分 ~ 18时46分]"
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "浏阳烟花厂墙上挂钟停止在爆炸瞬间",
@@ -381,15 +483,16 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
-          "title": "视频丨探访浏阳烟花厂爆炸事故现场：工房内火药混堆隐患突出",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33127115",
-          "source": "澎湃新闻",
+          "title": "拒绝国际足联天价 告别钱多人傻泡沫",
+          "url": "https://www.toutiao.com/trending/7637742448566865434/",
+          "source": "今日头条",
           "ranks": [
-            20
+            19,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时54分 ~ 18时46分]"
+          "time_info": "[18时46分 ~ 19时41分]"
         },
         {
           "title": "小鹏汽车否认涉嫌违规被立案调查",
@@ -414,17 +517,6 @@
           "time_info": "15时16分"
         },
         {
-          "title": "一印度船只在霍尔木兹海峡附近起火沉没，致1死4伤",
-          "url": "https://wallstreetcn.com/livenews/3101045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
           "title": "据AXIOS记者：据两位知情人士透露，卡塔尔方面正充当美伊之间至少三条秘密沟通渠道之一。这些消息人士称，卡塔尔方面正利用其与参与伊朗对美谈判决策的伊斯兰革命卫队高级将领之间的关系展开沟通。",
           "url": "https://flash.jin10.com/detail/20260509090139792800",
           "source": "金十数据",
@@ -445,17 +537,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
-        },
-        {
-          "title": "网传四川宜宾人员关联境外邮轮疫情，官方通报：无时空交集",
-          "url": "https://wallstreetcn.com/livenews/3101044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "8家车企被约谈",
@@ -497,18 +578,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "据韩联社报道，针对霍尔木兹海峡内一艘受损韩国船只的调查仍在进行中。",
-          "url": "https://wallstreetcn.com/livenews/3101040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -522,17 +592,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "网传四川1人关联邮轮疫情 官方通报",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%9B%9B%E5%B7%9D1%E4%BA%BA%E5%85%B3%E8%81%94%E9%82%AE%E8%BD%AE%E7%96%AB%E6%83%85+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "不是所有业绩叫响的基金都“吸粉儿”，最新调查：资金喜欢去哪？",
@@ -557,28 +616,6 @@
           "time_info": "15时16分"
         },
         {
-          "title": "多家车企回应锁电被约谈：系谣言",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%9B%9E%E5%BA%94%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88%EF%BC%9A%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
           "title": "小鹏否认被约谈立案 称相关信息系通过AI恶意炒作",
           "url": "https://flash.jin10.com/detail/20260509114530626800",
           "source": "金十数据",
@@ -588,17 +625,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "拒绝国际足联天价 告别钱多人傻泡沫",
-          "url": "https://www.toutiao.com/trending/7637742448566865434/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "比亚迪、特斯拉、小鹏、理想等车企否认被约谈",
@@ -621,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "印度船只在霍尔木兹海峡起火沉没",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E8%88%B9%E5%8F%AA%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%B5%B7%E7%81%AB%E6%B2%89%E6%B2%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "受贿数额特别巨大，江西省政协原党组成员、副主席胡幼桃被提起公诉",
