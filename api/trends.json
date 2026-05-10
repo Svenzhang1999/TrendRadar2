@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-05-10T09:53:57.215096+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-10T13:30:04.760263+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时30分]"
+        },
+        {
+          "title": "告到中央!家长投诉二次元害人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354150&amp;topic_name=%E5%91%8A%E5%88%B0%E4%B8%AD%E5%A4%AE%21%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E4%BA%8C%E6%AC%A1%E5%85%83%E5%AE%B3%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
         {
           "title": "4只皮皮虾1035元，官方回应：正在调查司机是否“带客吃回扣”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33143177",
           "source": "澎湃新闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,22 +53,93 @@
           "time_info": "09时53分"
         },
         {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时30分]"
+        },
+        {
+          "title": "8名中国人在泰国拍短剧被捕",
+          "url": "https://www.toutiao.com/trending/7637779265550913070/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时30分]"
+        },
+        {
+          "title": "8家车企涉嫌远程锁电被约谈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354119&amp;topic_name=8%E5%AE%B6%E8%BD%A6%E4%BC%81%E6%B6%89%E5%AB%8C%E8%BF%9C%E7%A8%8B%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时30分]"
+        },
+        {
+          "title": "张文宏最新解读：此次汉坦病毒疫情核心在于传播路径异常 在邮轮上暴发极其罕见",
+          "url": "https://www.cls.cn/detail/2367086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "美军：继续执行对伊朗的海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3101090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 13时30分]"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://wallstreetcn.com/livenews/3101076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 13时30分]"
+        },
+        {
+          "title": "投诉演唱会座椅脏 游客遭文旅拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%AF%89%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E6%A4%85%E8%84%8F+%E6%B8%B8%E5%AE%A2%E9%81%AD%E6%96%87%E6%97%85%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
           "title": "独家丨谁的智度？被控在美性侵的资本大佬失联，代持协议能否影响控制权争夺",
           "url": "https://m.thepaper.cn/newsDetail_forward_33092704",
           "source": "澎湃新闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,15 +157,26 @@
           "time_info": "09时53分"
         },
         {
-          "title": "美军：继续执行对伊朗的海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3101090",
-          "source": "华尔街见闻-快讯",
+          "title": "美国一邮轮暴发诺如病毒疫情 115人出现感染症状",
+          "url": "https://flash.jin10.com/detail/20260510130250727800",
+          "source": "金十数据",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "13时30分"
+        },
+        {
+          "title": "当地高级警官表示，在巴基斯坦巴努发生的汽车炸弹爆炸事件以及与武装分子的夜间交火中，已有12名警察丧生。",
+          "url": "https://flash.jin10.com/detail/20260510122818303800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
         },
         {
           "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
@@ -90,39 +184,6 @@
           "source": "知乎",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "8名中国人在泰国拍短剧被捕",
-          "url": "https://www.toutiao.com/trending/7637779265550913070/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "8家车企涉嫌远程锁电被约谈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354119&amp;topic_name=8%E5%AE%B6%E8%BD%A6%E4%BC%81%E6%B6%89%E5%AB%8C%E8%BF%9C%E7%A8%8B%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -140,6 +201,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "智利中部沿海地区发生5.5级地震",
+          "url": "https://flash.jin10.com/detail/20260510114631278800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
           "title": "据法新社：马里中部发生新的激进分子袭击，至少70人遇难。",
           "url": "https://flash.jin10.com/detail/20260510044103751800",
           "source": "金十数据",
@@ -149,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "中国地震台网正式测定：05月10日11时27分在新疆阿勒泰地区青河县（北纬45.81度，东经90.16度）发生3.2级地震，震源深度18千米。",
+          "url": "https://flash.jin10.com/detail/20260510113440099800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
         },
         {
           "title": "泽连斯基与欧洲理事会主席通话 讨论乌克兰入盟等议题",
@@ -171,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "欧洲地中海地震中心：智利比奥比奥地区发生5.7级地震。",
+          "url": "https://flash.jin10.com/detail/20260510103829560800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
         }
       ]
     }
