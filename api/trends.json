@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:54:53.441997+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-05-10T19:42:40.265523+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 19时42分]"
         },
         {
           "title": "告到中央!家长投诉二次元害人",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 18时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 19时42分]"
         },
         {
           "title": "4只皮皮虾1035元，官方回应：正在调查司机是否“带客吃回扣”",
@@ -54,17 +54,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔发生的爆炸与未爆炸弹药的销毁有关。",
-          "url": "https://flash.jin10.com/detail/20260510174929285800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
           "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
           "source": "澎湃新闻",
@@ -78,16 +67,29 @@
           "time_info": "[09时53分 ~ 15时55分]"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔发生的爆炸与未爆炸弹药的销毁有关。",
+          "url": "https://flash.jin10.com/detail/20260510174929285800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时42分]"
+        },
+        {
           "title": "涉汉坦病毒疫情邮轮“洪迪厄斯”号船上人员开始疏散",
           "url": "https://wallstreetcn.com/livenews/3101125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时42分]"
         },
         {
           "title": "伊媒称在卡塔尔附近海域起火货船悬挂美国国旗",
@@ -95,11 +97,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时42分]"
         },
         {
           "title": "23岁小伙开挖机滚落山崖遇难",
@@ -107,11 +110,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时42分]"
         },
         {
           "title": "一货船在卡塔尔附近海域被击中起火",
@@ -120,11 +124,12 @@
           "ranks": [
             5,
             9,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时42分]"
         },
         {
           "title": "8家车企涉嫌远程锁电被约谈",
@@ -137,8 +142,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 19时42分]"
         },
         {
           "title": "张文宏最新解读：此次汉坦病毒疫情核心在于传播路径异常 在邮轮上暴发极其罕见",
@@ -151,8 +156,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 18时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 19时42分]"
         },
         {
           "title": "美国迈阿密一船只疑似爆炸，至少11人送医",
@@ -162,8 +167,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时42分]"
         },
         {
           "title": "美军：继续执行对伊朗的海上封锁",
@@ -191,6 +196,55 @@
           "time_info": "[09时53分 ~ 13时30分]"
         },
         {
+          "title": "女子遭8年爱人背叛哭到呼吸性碱中毒",
+          "url": "https://www.toutiao.com/trending/7637348423129301011/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 19时42分]"
+        },
+        {
+          "title": "23岁小伙开挖机滚落山崖遇难",
+          "url": "https://www.baidu.com/s?wd=23%E5%B2%81%E5%B0%8F%E4%BC%99%E5%BC%80%E6%8C%96%E6%9C%BA%E6%BB%9A%E8%90%BD%E5%B1%B1%E5%B4%96%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时42分]"
+        },
+        {
+          "title": "卡塔尔国防部：火灾得到控制后，该船继续驶向梅赛义德港。",
+          "url": "https://flash.jin10.com/detail/20260510174227586800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时42分]"
+        },
+        {
+          "title": "卡塔尔国防部：该事件导致船只上发生小规模火灾，未报告人员受伤。",
+          "url": "https://flash.jin10.com/detail/20260510174222385800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时42分]"
+        },
+        {
           "title": "涉汉坦病毒疫情邮轮“洪迪厄斯”号10日抵达西班牙特内里费岛格拉纳迪利亚港水域后，船上人员开始疏散。",
           "url": "https://flash.jin10.com/detail/20260510164202764800",
           "source": "金十数据",
@@ -215,6 +269,18 @@
           "time_info": "[17时22分 ~ 18时54分]"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗东南部城市恰巴哈尔传出巨大爆炸声，暂无进一步细节。",
+          "url": "https://flash.jin10.com/detail/20260510173742187800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时42分]"
+        },
+        {
           "title": "伊媒称在卡塔尔附近海域起火货船悬挂美国国旗",
           "url": "https://flash.jin10.com/detail/20260510161634880800",
           "source": "金十数据",
@@ -227,18 +293,6 @@
           "time_info": "[17时22分 ~ 18时54分]"
         },
         {
-          "title": "女子遭8年爱人背叛哭到呼吸性碱中毒",
-          "url": "https://www.toutiao.com/trending/7637348423129301011/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 18时54分]"
-        },
-        {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
           "url": "https://wallstreetcn.com/livenews/3101076",
           "source": "华尔街见闻-快讯",
@@ -249,6 +303,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 13时30分]"
+        },
+        {
+          "title": "巴基斯坦自杀式袭击致15名警察死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%9D%80%E5%BC%8F%E8%A2%AD%E5%87%BB%E8%87%B415%E5%90%8D%E8%AD%A6%E5%AF%9F%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时42分]"
         },
         {
           "title": "投诉演唱会座椅脏 游客遭文旅拉黑",
@@ -273,26 +339,15 @@
           "time_info": "09时53分"
         },
         {
-          "title": "卡塔尔国防部：火灾得到控制后，该船继续驶向梅赛义德港。",
-          "url": "https://flash.jin10.com/detail/20260510174227586800",
+          "title": "韩称霍尔木兹海峡韩船起火系遭袭",
+          "url": "https://flash.jin10.com/detail/20260510182316512800",
           "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "卡塔尔国防部：该事件导致船只上发生小规模火灾，未报告人员受伤。",
-          "url": "https://flash.jin10.com/detail/20260510174222385800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "19时42分"
         },
         {
           "title": "“4只皮皮虾1035元”被投诉店主病逝，探访门店：四星信用且标价清晰",
@@ -304,17 +359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗东南部城市恰巴哈尔传出巨大爆炸声，暂无进一步细节。",
-          "url": "https://flash.jin10.com/detail/20260510173742187800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "女生被男同学杀害案无期判决已生效",
@@ -337,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
-        },
-        {
-          "title": "23岁小伙开挖机滚落山崖遇难",
-          "url": "https://www.baidu.com/s?wd=23%E5%B2%81%E5%B0%8F%E4%BC%99%E5%BC%80%E6%8C%96%E6%9C%BA%E6%BB%9A%E8%90%BD%E5%B1%B1%E5%B4%96%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "当地高级警官表示，在巴基斯坦巴努发生的汽车炸弹爆炸事件以及与武装分子的夜间交火中，已有12名警察丧生。",
@@ -381,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "官方称正调查「4 只皮皮虾 1035 元」事件中司机是否带客吃回扣，若属实商家和司机会受到怎样的处罚？",
+          "url": "https://www.zhihu.com/question/2036542942957892446",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美国佛罗里达州发生疑似船只爆炸事故 至少15人被送医",
@@ -438,15 +482,15 @@
           "time_info": "09时53分"
         },
         {
-          "title": "巴基斯坦自杀式袭击致15名警察死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%9D%80%E5%BC%8F%E8%A2%AD%E5%87%BB%E8%87%B415%E5%90%8D%E8%AD%A6%E5%AF%9F%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "14岁男生杀女同学案无期判决已生效",
+          "url": "https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E6%9D%80%E5%A5%B3%E5%90%8C%E5%AD%A6%E6%A1%88%E6%97%A0%E6%9C%9F%E5%88%A4%E5%86%B3%E5%B7%B2%E7%94%9F%E6%95%88%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "19时42分"
         },
         {
           "title": "巴基斯坦西北部自杀式爆炸袭击致三名警察死亡",
