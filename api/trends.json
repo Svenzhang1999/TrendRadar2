@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T15:55:51.919061+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-10T17:22:34.828205+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 15时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 17时22分]"
         },
         {
           "title": "告到中央!家长投诉二次元害人",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时22分]"
         },
         {
           "title": "4只皮皮虾1035元，官方回应：正在调查司机是否“带客吃回扣”",
@@ -43,6 +43,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "涉汉坦病毒疫情邮轮“洪迪厄斯”号船上人员开始疏散",
+          "url": "https://wallstreetcn.com/livenews/3101125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "烟花厂爆炸事故是如何发生的",
           "url": "https://search.bilibili.com/all?keyword=%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%98%AF%E5%A6%82%E4%BD%95%E5%8F%91%E7%94%9F%E7%9A%84",
           "source": "bilibili 热搜",
@@ -54,15 +65,26 @@
           "time_info": "09时53分"
         },
         {
-          "title": "一货船在卡塔尔附近海域被击中起火",
-          "url": "https://wallstreetcn.com/livenews/3101111",
+          "title": "伊媒称在卡塔尔附近海域起火货船悬挂美国国旗",
+          "url": "https://wallstreetcn.com/livenews/3101122",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "23岁小伙开挖机滚落山崖遇难",
+          "url": "https://www.toutiao.com/trending/7638147130284720134/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "17时22分"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -78,17 +100,30 @@
           "time_info": "[09时53分 ~ 15时55分]"
         },
         {
+          "title": "一货船在卡塔尔附近海域被击中起火",
+          "url": "https://wallstreetcn.com/livenews/3101111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 17时22分]"
+        },
+        {
           "title": "8家车企涉嫌远程锁电被约谈",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354119&amp;topic_name=8%E5%AE%B6%E8%BD%A6%E4%BC%81%E6%B6%89%E5%AB%8C%E8%BF%9C%E7%A8%8B%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88",
           "source": "贴吧",
           "ranks": [
             20,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 15时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 17时22分]"
         },
         {
           "title": "张文宏最新解读：此次汉坦病毒疫情核心在于传播路径异常 在邮轮上暴发极其罕见",
@@ -96,11 +131,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时22分]"
         },
         {
           "title": "美军：继续执行对伊朗的海上封锁",
@@ -126,6 +162,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时53分 ~ 13时30分]"
+        },
+        {
+          "title": "美国迈阿密一船只疑似爆炸，至少11人送医",
+          "url": "https://news.ifeng.com/c/8t0fKYlLfpF",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 17时22分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -162,6 +209,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "涉汉坦病毒疫情邮轮“洪迪厄斯”号10日抵达西班牙特内里费岛格拉纳迪利亚港水域后，船上人员开始疏散。",
+          "url": "https://flash.jin10.com/detail/20260510164202764800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "“4只皮皮虾1035元”被投诉店主病逝，探访门店：四星信用且标价清晰",
           "url": "https://m.thepaper.cn/newsDetail_forward_33137891",
           "source": "澎湃新闻",
@@ -173,15 +231,26 @@
           "time_info": "09时53分"
         },
         {
-          "title": "美国迈阿密一船只疑似爆炸，至少11人送医",
-          "url": "https://news.ifeng.com/c/8t0fKYlLfpF",
-          "source": "凤凰网",
+          "title": "商务部发布关于2026年度牛肉保障措施执行提示信息",
+          "url": "https://flash.jin10.com/detail/20260510163925983800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "女生被男同学杀害案无期判决已生效",
+          "url": "https://www.toutiao.com/trending/7638148961593475135/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "17时22分"
         },
         {
           "title": "美国一邮轮暴发诺如病毒疫情 115人出现感染症状",
@@ -193,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "伊媒称在卡塔尔附近海域起火货船悬挂美国国旗",
+          "url": "https://flash.jin10.com/detail/20260510161634880800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "当地高级警官表示，在巴基斯坦巴努发生的汽车炸弹爆炸事件以及与武装分子的夜间交火中，已有12名警察丧生。",
@@ -212,7 +292,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -234,7 +314,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
