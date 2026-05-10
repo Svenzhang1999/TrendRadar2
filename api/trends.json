@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T19:42:40.265523+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-05-10T20:54:17.373308+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 20时54分]"
         },
         {
           "title": "告到中央!家长投诉二次元害人",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 20时54分]"
         },
         {
           "title": "4只皮皮虾1035元，官方回应：正在调查司机是否“带客吃回扣”",
@@ -85,11 +85,12 @@
           "ranks": [
             3,
             8,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时54分]"
         },
         {
           "title": "伊媒称在卡塔尔附近海域起火货船悬挂美国国旗",
@@ -98,11 +99,12 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时54分]"
         },
         {
           "title": "23岁小伙开挖机滚落山崖遇难",
@@ -111,11 +113,12 @@
           "ranks": [
             5,
             8,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时54分]"
         },
         {
           "title": "一货船在卡塔尔附近海域被击中起火",
@@ -125,11 +128,26 @@
             5,
             9,
             14,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 20时54分]"
+        },
+        {
+          "title": "张文宏最新解读：此次汉坦病毒疫情核心在于传播路径异常 在邮轮上暴发极其罕见",
+          "url": "https://www.cls.cn/detail/2367086",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 20时54分]"
         },
         {
           "title": "8家车企涉嫌远程锁电被约谈",
@@ -146,20 +164,6 @@
           "time_info": "[09时53分 ~ 19时42分]"
         },
         {
-          "title": "张文宏最新解读：此次汉坦病毒疫情核心在于传播路径异常 在邮轮上暴发极其罕见",
-          "url": "https://www.cls.cn/detail/2367086",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 19时42分]"
-        },
-        {
           "title": "美国迈阿密一船只疑似爆炸，至少11人送医",
           "url": "https://news.ifeng.com/c/8t0fKYlLfpF",
           "source": "凤凰网",
@@ -167,8 +171,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 20时54分]"
+        },
+        {
+          "title": "23岁小伙开挖机滚落山崖遇难",
+          "url": "https://www.baidu.com/s?wd=23%E5%B2%81%E5%B0%8F%E4%BC%99%E5%BC%80%E6%8C%96%E6%9C%BA%E6%BB%9A%E8%90%BD%E5%B1%B1%E5%B4%96%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时54分]"
         },
         {
           "title": "美军：继续执行对伊朗的海上封锁",
@@ -182,6 +199,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时53分 ~ 15时55分]"
+        },
+        {
+          "title": "巴基斯坦自杀式袭击致15名警察死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%9D%80%E5%BC%8F%E8%A2%AD%E5%87%BB%E8%87%B415%E5%90%8D%E8%AD%A6%E5%AF%9F%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时54分]"
         },
         {
           "title": "8名中国人在泰国拍短剧被捕",
@@ -207,18 +237,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时55分 ~ 19时42分]"
-        },
-        {
-          "title": "23岁小伙开挖机滚落山崖遇难",
-          "url": "https://www.baidu.com/s?wd=23%E5%B2%81%E5%B0%8F%E4%BC%99%E5%BC%80%E6%8C%96%E6%9C%BA%E6%BB%9A%E8%90%BD%E5%B1%B1%E5%B4%96%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时42分]"
         },
         {
           "title": "卡塔尔国防部：火灾得到控制后，该船继续驶向梅赛义德港。",
@@ -255,6 +273,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 18时54分]"
+        },
+        {
+          "title": "韩称霍尔木兹海峡韩船起火系遭袭",
+          "url": "https://flash.jin10.com/detail/20260510182316512800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时54分]"
         },
         {
           "title": "商务部发布关于2026年度牛肉保障措施执行提示信息",
@@ -305,18 +335,6 @@
           "time_info": "[09时53分 ~ 13时30分]"
         },
         {
-          "title": "巴基斯坦自杀式袭击致15名警察死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%9D%80%E5%BC%8F%E8%A2%AD%E5%87%BB%E8%87%B415%E5%90%8D%E8%AD%A6%E5%AF%9F%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时42分]"
-        },
-        {
           "title": "投诉演唱会座椅脏 游客遭文旅拉黑",
           "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%AF%89%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E6%A4%85%E8%84%8F+%E6%B8%B8%E5%AE%A2%E9%81%AD%E6%96%87%E6%97%85%E6%8B%89%E9%BB%91",
           "source": "百度热搜",
@@ -337,17 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "韩称霍尔木兹海峡韩船起火系遭袭",
-          "url": "https://flash.jin10.com/detail/20260510182316512800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "“4只皮皮虾1035元”被投诉店主病逝，探访门店：四星信用且标价清晰",
@@ -422,7 +429,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -488,7 +495,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
