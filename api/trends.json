@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-11T10:02:58.920089+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-11T14:28:37.364710+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "告到中央!家长投诉二次元害人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354150&amp;topic_name=%E5%91%8A%E5%88%B0%E4%B8%AD%E5%A4%AE%21%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E4%BA%8C%E6%AC%A1%E5%85%83%E5%AE%B3%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
         {
           "title": "韩方确认其船只在霍尔木兹海峡爆炸，系遭不明飞行物体袭击",
           "url": "https://news.ifeng.com/c/8t1AVGn6qCa",
@@ -28,6 +17,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "告到中央!家长投诉二次元害人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354150&amp;topic_name=%E5%91%8A%E5%88%B0%E4%B8%AD%E5%A4%AE%21%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89%E4%BA%8C%E6%AC%A1%E5%85%83%E5%AE%B3%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时28分]"
+        },
+        {
+          "title": "游客投诉演唱会座椅脏被“拉黑”，桂林文旅已道歉并解除“拉黑”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154144",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时28分]"
+        },
+        {
+          "title": "女生写作业至凌晨外出复印试卷失联",
+          "url": "https://www.toutiao.com/trending/7637477135180726299/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时28分]"
+        },
+        {
+          "title": "广东省地震局回应给全省发短信",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E7%BB%99%E5%85%A8%E7%9C%81%E5%8F%91%E7%9F%AD%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "张文宏最新解读：此次汉坦病毒疫情核心在于传播路径异常 在邮轮上暴发极其罕见",
@@ -41,6 +77,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "韩国市场监管机构：正在密切关注散户投资者的杠杆股票投资情况。",
+          "url": "https://flash.jin10.com/detail/20260511141257771800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "17岁高中女生凌晨外出复印试卷失联",
           "url": "https://www.baidu.com/s?wd=17%E5%B2%81%E9%AB%98%E4%B8%AD%E5%A5%B3%E7%94%9F%E5%87%8C%E6%99%A8%E5%A4%96%E5%87%BA%E5%A4%8D%E5%8D%B0%E8%AF%95%E5%8D%B7%E5%A4%B1%E8%81%94",
           "source": "百度热搜",
@@ -50,6 +97,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "韩国市场监管机构表示，如有必要将采取先发制人的措施以维护市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260511141216537800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "受贿数额特别巨大，中巡组原副部级巡视专员许传智被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154566",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "17岁女生写作业至凌晨外出复印失联",
@@ -74,15 +143,26 @@
           "time_info": "10时02分"
         },
         {
-          "title": "游客投诉演唱会座椅脏被“拉黑”，桂林文旅已道歉并解除“拉黑”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33154144",
-          "source": "澎湃新闻",
+          "title": "广东地震局短信",
+          "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%9C%B0%E9%9C%87%E5%B1%80%E7%9F%AD%E4%BF%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "伪造合格证、电池以旧代新…《财经调查》曝光危险的“手搓汽车”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33152342",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "涉汉坦病毒疫情邮轮人员开始疏散转运",
@@ -96,15 +176,26 @@
           "time_info": "10时02分"
         },
         {
-          "title": "女生写作业至凌晨外出复印试卷失联",
-          "url": "https://www.toutiao.com/trending/7637477135180726299/",
+          "title": "女子在家里养花被对面小区投诉",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%AE%B6%E9%87%8C%E5%85%BB%E8%8A%B1%E8%A2%AB%E5%AF%B9%E9%9D%A2%E5%B0%8F%E5%8C%BA%E6%8A%95%E8%AF%89&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "美国一邮轮暴发诺如病毒疫情",
+          "url": "https://www.toutiao.com/trending/7637371292224176171/",
           "source": "今日头条",
           "ranks": [
-            29
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "14时28分"
         }
       ]
     }
