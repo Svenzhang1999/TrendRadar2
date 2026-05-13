@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T19:56:11.731382+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-05-13T22:32:26.496592+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "黎巴嫩卫生部：以色列对黎巴嫩吉耶、赛义达和西顿的袭击造成的遇难人数已升至9人。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -66,11 +66,12 @@
             18,
             16,
             13,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 19时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 22时32分]"
         },
         {
           "title": "华裔女子勒索美富豪12亿，调查人员：涉案私密影像为换脸",
@@ -80,8 +81,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 22时32分]"
+        },
+        {
+          "title": "汶川地震一个班 11 名幸存者，灾后 16 年仍不敢相聚，他们为何选择「回避相聚」？",
+          "url": "https://www.zhihu.com/question/2037250513499068220",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时56分]"
+          "time_info": "[19时55分 ~ 22时32分]"
         },
         {
           "title": "17岁男孩被责备后失联 父亲崩溃大哭",
@@ -94,6 +107,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时53分 ~ 19时56分]"
+        },
+        {
+          "title": "探访电商拉黑的街道：商家恨“薅羊毛”、快递员频遭投诉；丽晶国际说网红已搬走，居民说确曾被连累",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33171083",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 22时32分]"
         },
         {
           "title": "美参议院确认凯文·沃什出任美联储理事 为主席任命铺平道路",
@@ -118,28 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 14时19分]"
-        },
-        {
-          "title": "汶川地震一个班 11 名幸存者，灾后 16 年仍不敢相聚，他们为何选择「回避相聚」？",
-          "url": "https://www.zhihu.com/question/2037250513499068220",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "探访电商拉黑的街道：商家恨“薅羊毛”、快递员频遭投诉；丽晶国际说网红已搬走，居民说确曾被连累",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33171083",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "河南南阳市人大原副主任余广东被双开",
@@ -170,7 +173,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -236,7 +239,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -269,7 +272,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -280,7 +283,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -296,13 +299,24 @@
           "time_info": "10时04分"
         },
         {
+          "title": "市场监管总局标准创新司副司长柳成洋：推动地方标准向国家标准提升转化",
+          "url": "https://wallstreetcn.com/livenews/3103038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "市场监管总局：一季度，全国新设经营主体509.8万户",
           "url": "https://wallstreetcn.com/livenews/3102932",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         }
