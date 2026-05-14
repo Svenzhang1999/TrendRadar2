@@ -1,324 +1,132 @@
 {
-  "generated_at": "2026-05-13T22:32:26.496592+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-05-14T10:07:30.730424+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 27,
+      "match_count": 11,
       "titles": [
         {
-          "title": "黎巴嫩卫生部：以色列对黎巴嫩吉耶、赛义达和西顿的袭击造成的遇难人数已升至9人。",
-          "url": "https://flash.jin10.com/detail/20260513193545997800",
-          "source": "金十数据",
+          "title": "凯文·沃什获美参议院批准 将成为下一任美联储主席",
+          "url": "https://www.cls.cn/detail/2370673",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "10时07分"
         },
         {
-          "title": "京沪高铁二等座将涨至八百？公司称调整初期执行票价维持不变，对民航影响几何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33165285",
-          "source": "澎湃新闻",
+          "title": "网警侦破2起有偿删差评案 刑拘7人",
+          "url": "https://www.toutiao.com/trending/7639540358438866482/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            4,
-            2,
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
-          "title": "自助餐加了“饱腹剂”？记者调查",
-          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8A%A0%E4%BA%86%E2%80%9C%E9%A5%B1%E8%85%B9%E5%89%82%E2%80%9D%EF%BC%9F%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5",
+          "title": "网警侦破有偿删差评案 刑拘7人",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E6%9C%89%E5%81%BF%E5%88%A0%E5%B7%AE%E8%AF%84%E6%A1%88+%E5%88%91%E6%8B%987%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            26,
-            4,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
-          "title": "45 岁独身男子离世 15 万存款被转走，叔叔全程陪护却无权继承，报警后未能立案，遗产还能要回来吗？",
-          "url": "https://www.zhihu.com/question/2036899730563622220",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 17时53分]"
-        },
-        {
-          "title": "媒体：恶意公布投诉者个人隐私，谁给的胆子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33166496",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 22时32分]"
-        },
-        {
-          "title": "华裔女子勒索美富豪12亿，调查人员：涉案私密影像为换脸",
-          "url": "https://news.ifeng.com/c/8t5tM2iMoSZ",
-          "source": "凤凰网",
+          "title": "又一艘邮轮疑似暴发疫情 1人死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E8%89%98%E9%82%AE%E8%BD%AE%E7%96%91%E4%BC%BC%E6%9A%B4%E5%8F%91%E7%96%AB%E6%83%85+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 22时32分]"
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
-          "title": "汶川地震一个班 11 名幸存者，灾后 16 年仍不敢相聚，他们为何选择「回避相聚」？",
-          "url": "https://www.zhihu.com/question/2037250513499068220",
-          "source": "知乎",
+          "title": "四川人集体投诉被夜鹰吵得睡不着",
+          "url": "https://www.toutiao.com/trending/7638971840393150507/",
+          "source": "今日头条",
           "ranks": [
-            16,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 22时32分]"
-        },
-        {
-          "title": "17岁男孩被责备后失联 父亲崩溃大哭",
-          "url": "https://www.baidu.com/s?wd=17%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%B4%A3%E5%A4%87%E5%90%8E%E5%A4%B1%E8%81%94+%E7%88%B6%E4%BA%B2%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "探访电商拉黑的街道：商家恨“薅羊毛”、快递员频遭投诉；丽晶国际说网红已搬走，居民说确曾被连累",
           "url": "https://m.thepaper.cn/newsDetail_forward_33171083",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 22时32分]"
-        },
-        {
-          "title": "美参议院确认凯文·沃什出任美联储理事 为主席任命铺平道路",
-          "url": "https://www.cls.cn/detail/2369561",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 14时19分]"
-        },
-        {
-          "title": "戴口罩男子从背后撞倒女子后逃离，南昌警方：15岁违法行为人正接受调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33161630",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 14时19分]"
-        },
-        {
-          "title": "河南南阳市人大原副主任余广东被双开",
-          "url": "https://www.toutiao.com/trending/7639283695790882825/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 19时56分]"
-        },
-        {
-          "title": "当地媒体报道，瓦哈卡炼油厂爆炸中受伤的一名墨西哥国家石油公司员工不治身亡。",
-          "url": "https://flash.jin10.com/detail/20260513174131503800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "10时07分"
         },
         {
-          "title": "以色列国防军：在过去几个小时内，真主党发射了多架爆炸无人机，这些无人机在以色列国防军士兵作战区域附近爆炸。",
-          "url": "https://flash.jin10.com/detail/20260513192442337800",
-          "source": "金十数据",
+          "title": "华裔女子勒索美富豪12亿，调查人员：涉案私密影像为换脸",
+          "url": "https://news.ifeng.com/c/8t5tM2iMoSZ",
+          "source": "凤凰网",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "10时07分"
         },
         {
-          "title": "香港一房企创始人自杀身亡",
-          "url": "https://www.toutiao.com/trending/7639237171308806153/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "美参议院确认沃什出任美联储理事，美联储主席确认投票最早将于周三完成",
-          "url": "https://wallstreetcn.com/articles/3772109",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "汶川地震空降兵勇士回忆“盲跳”",
-          "url": "https://www.toutiao.com/trending/7639140103734099974/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "市场监管总局：清理地方标准 打通市场流通堵点",
-          "url": "https://wallstreetcn.com/livenews/3102893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "市场监管总局：严查算法违规乱象 规范市场竞争秩序",
-          "url": "https://wallstreetcn.com/livenews/3102892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "台湾花莲县海域附近发生4.4级左右地震",
-          "url": "https://wallstreetcn.com/livenews/3102962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "伊朗石油命脉哈尔克岛首次陷入“持续停运”，美国封锁奏效了？",
-          "url": "https://flash.jin10.com/detail/20260513092744502800",
-          "source": "金十数据",
+          "title": "四川人集体投诉被夜鹰吵得睡不着",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%BA%BA%E9%9B%86%E4%BD%93%E6%8A%95%E8%AF%89%E8%A2%AB%E5%A4%9C%E9%B9%B0%E5%90%B5%E5%BE%97%E7%9D%A1%E4%B8%8D%E7%9D%80",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "10时07分"
         },
         {
-          "title": "市场监管总局：推动价格法等多部法律法规修订",
-          "url": "https://wallstreetcn.com/livenews/3102887",
-          "source": "华尔街见闻-快讯",
+          "title": "中国地震台网正式测定：05月14日09时19分在新疆阿克苏地区库车市（北纬41.35度，东经83.92度）发生3.3级地震，震源深度20千米。",
+          "url": "https://flash.jin10.com/detail/20260514092528348800",
+          "source": "金十数据",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "10时07分"
         },
         {
-          "title": "迪安诊断：因涉嫌泰格医药持股变动相关信息披露违法违规，中国证监会决定对叶小平先生立案调查。",
-          "url": "https://wallstreetcn.com/livenews/3102952",
-          "source": "华尔街见闻-快讯",
+          "title": "女子骑车被鸵鸟“追尾” 监控曝光",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E8%A2%AB%E9%B8%B5%E9%B8%9F%E2%80%9C%E8%BF%BD%E5%B0%BE%E2%80%9D+%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
           "ranks": [
-            19
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "10时07分"
         },
         {
-          "title": "国家医保局：到2030年，基本建成全方位、多层次、立体化的医保基金监管体系",
-          "url": "https://wallstreetcn.com/livenews/3102941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "37岁单亲爸爸边境失联 家属发声",
-          "url": "https://www.toutiao.com/trending/7638938545796710409/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "市场监管总局标准创新司副司长柳成洋：推动地方标准向国家标准提升转化",
-          "url": "https://wallstreetcn.com/livenews/3103038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "市场监管总局：一季度，全国新设经营主体509.8万户",
-          "url": "https://wallstreetcn.com/livenews/3102932",
+          "title": "乌克兰首都基辅传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3103290",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "10时07分"
         }
       ]
     }
