@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T14:15:50.592335+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-05-14T17:27:20.783612+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "凯文·沃什获美参议院批准 将成为下一任美联储主席",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 17时27分]"
         },
         {
           "title": "网警侦破有偿删差评案 刑拘7人",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 17时27分]"
         },
         {
           "title": "探访电商拉黑的街道：商家恨“薅羊毛”、快递员频遭投诉；丽晶国际说网红已搬走，居民说确曾被连累",
@@ -65,6 +65,17 @@
           "time_info": "[10时07分 ~ 14时15分]"
         },
         {
+          "title": "菲律宾参议院枪击事件嫌疑人被捕，总统召集紧急会议",
+          "url": "https://news.ifeng.com/c/8t7cTMRATH7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "又一艘邮轮疑似暴发疫情 1人死亡",
           "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E8%89%98%E9%82%AE%E8%BD%AE%E7%96%91%E4%BC%BC%E6%9A%B4%E5%8F%91%E7%96%AB%E6%83%85+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
@@ -87,6 +98,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "湖南浏阳华盛烟花厂爆炸事故已有34名伤员出院",
+          "url": "https://wallstreetcn.com/livenews/3103581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "华裔女子勒索美富豪12亿，调查人员：涉案私密影像为换脸",
           "url": "https://news.ifeng.com/c/8t5tM2iMoSZ",
           "source": "凤凰网",
@@ -96,6 +118,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "英国政府：货币市场基金监管提案将包括指导方针，明确期望英国货币市场基金持有更高水平的流动性。",
+          "url": "https://flash.jin10.com/detail/20260514170742462800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "“四川北川连续两天地震”不实",
+          "url": "https://www.douyin.com/hot/2498747",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "四川人集体投诉被夜鹰吵得睡不着",
@@ -109,13 +153,24 @@
           "time_info": "10时07分"
         },
         {
+          "title": "探店网红白冰视频称被员工转走 1000 万，打官司被败诉，大家怎么看？",
+          "url": "https://www.zhihu.com/question/2037924985948393896",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "白冰视频称被员工转走 1000 万打官司被败诉，大家怎么看？",
           "url": "https://www.zhihu.com/question/2037924985948393896",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -129,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "外交部：愿同各方一道支持主席国印度成功举办金砖国家外长会晤",
+          "url": "https://wallstreetcn.com/livenews/3103554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "乌克兰首都基辅传出爆炸声",
