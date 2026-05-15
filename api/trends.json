@@ -1,66 +1,22 @@
 {
-  "generated_at": "2026-05-14T21:29:09.732284+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-05-15T10:05:36.617436+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 26,
+      "match_count": 8,
       "titles": [
         {
-          "title": "市场监管总局：加快推进“互联网+AI监管”建设，治理网络餐饮、网红食品等问题",
-          "url": "https://wallstreetcn.com/livenews/3103743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "凯文·沃什获美参议院批准 将成为下一任美联储主席",
-          "url": "https://www.cls.cn/detail/2370673",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "箭元科技：目标瞄准2026年底执行首次入轨发射+海上回收任务",
-          "url": "https://wallstreetcn.com/livenews/3103683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "网警侦破2起有偿删差评案 刑拘7人",
-          "url": "https://www.toutiao.com/trending/7639540358438866482/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 21时29分]"
-        },
-        {
-          "title": "网警侦破有偿删差评案 刑拘7人",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E6%9C%89%E5%81%BF%E5%88%A0%E5%B7%AE%E8%AF%84%E6%A1%88+%E5%88%91%E6%8B%987%E4%BA%BA",
+          "title": "习主席在欢迎宴会上强调了什么",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%9C%A8%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E4%B8%8A%E5%BC%BA%E8%B0%83%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 21时29分]"
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "菲律宾参议院枪击事件嫌疑人被捕，总统召集紧急会议",
@@ -70,231 +26,74 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 21时29分]"
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
-          "title": "探店网红白冰视频称被员工转走 1000 万，打官司被败诉，大家怎么看？",
-          "url": "https://www.zhihu.com/question/2037924985948393896",
-          "source": "知乎",
+          "title": "5月15日投资避雷针：A股“股王”突发 副总经理被刑拘",
+          "url": "https://www.cls.cn/detail/2371898",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时44分]"
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
-          "title": "探访电商拉黑的街道：商家恨“薅羊毛”、快递员频遭投诉；丽晶国际说网红已搬走，居民说确曾被连累",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33171083",
-          "source": "澎湃新闻",
+          "title": "女高中生被男同学偷拍私密视频并传播，警方立案",
+          "url": "https://news.ifeng.com/c/8t7w2cMl8l1",
+          "source": "凤凰网",
           "ranks": [
-            11,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时15分]"
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
-          "title": "河南濮阳17岁失联男孩遗体已找到",
-          "url": "https://www.toutiao.com/trending/7639598358487040063/",
-          "source": "今日头条",
+          "title": "突发！1400亿光芯片概念股副总经理被刑拘|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2371638",
+          "source": "财联社热门",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
-          "title": "女子骑车被鸵鸟“追尾” 监控曝光",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E8%A2%AB%E9%B8%B5%E9%B8%9F%E2%80%9C%E8%BF%BD%E5%B0%BE%E2%80%9D+%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
+          "title": "中国地震台网正式测定：05月15日09时23分在新疆阿克苏地区库车市（北纬41.34度，东经83.96度）发生3.4级地震，震源深度19千米。",
+          "url": "https://flash.jin10.com/detail/20260515093251454800",
+          "source": "金十数据",
           "ranks": [
-            30,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆表示，墨西哥石油公司（Pemex）首席执行官Victor Rodriguez即将辞职，她将任命首席财务官Juan Carlos Carpio接替出任墨西哥石油公司首席执行官。",
+          "url": "https://wallstreetcn.com/livenews/3103990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 14时15分]"
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
-          "title": "汶川地震幸存者胡晓霞的这18年",
-          "url": "https://www.toutiao.com/trending/7639615406512016946/",
-          "source": "今日头条",
+          "title": "河南17岁失联男孩遗体已找到",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9717%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%A9%E9%81%97%E4%BD%93%E5%B7%B2%E6%89%BE%E5%88%B0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
-        },
-        {
-          "title": "又一艘邮轮疑似暴发疫情 1人死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E8%89%98%E9%82%AE%E8%BD%AE%E7%96%91%E4%BC%BC%E6%9A%B4%E5%8F%91%E7%96%AB%E6%83%85+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            8
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "四川人集体投诉被夜鹰吵得睡不着",
-          "url": "https://www.toutiao.com/trending/7638971840393150507/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "湖南浏阳华盛烟花厂爆炸事故已有34名伤员出院",
-          "url": "https://wallstreetcn.com/livenews/3103581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "华裔女子勒索美富豪12亿，调查人员：涉案私密影像为换脸",
-          "url": "https://news.ifeng.com/c/8t5tM2iMoSZ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "英国政府：货币市场基金监管提案将包括指导方针，明确期望英国货币市场基金持有更高水平的流动性。",
-          "url": "https://flash.jin10.com/detail/20260514170742462800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：将继续加强对乌克兰的支持；正在敲定一项60亿欧元的无人机支持计划。同时，我们对俄罗斯的战争经济施加越来越严厉的制裁。",
-          "url": "https://flash.jin10.com/detail/20260514211133481800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "“四川北川连续两天地震”不实",
-          "url": "https://www.douyin.com/hot/2498747",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "四川人集体投诉被夜鹰吵得睡不着",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%BA%BA%E9%9B%86%E4%BD%93%E6%8A%95%E8%AF%89%E8%A2%AB%E5%A4%9C%E9%B9%B0%E5%90%B5%E5%BE%97%E7%9D%A1%E4%B8%8D%E7%9D%80",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "白冰视频称被员工转走 1000 万打官司被败诉，大家怎么看？",
-          "url": "https://www.zhihu.com/question/2037924985948393896",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "中国地震台网正式测定：05月14日09时19分在新疆阿克苏地区库车市（北纬41.35度，东经83.92度）发生3.3级地震，震源深度20千米。",
-          "url": "https://flash.jin10.com/detail/20260514092528348800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "市场监管总局：推进互联网+AI监管建设 治理网红食品等问题",
-          "url": "https://flash.jin10.com/detail/20260514210127400800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "欧洲地中海地震中心：哥伦比亚地区发生5.5级地震。",
-          "url": "https://flash.jin10.com/detail/20260514205436004800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "外交部：愿同各方一道支持主席国印度成功举办金砖国家外长会晤",
-          "url": "https://wallstreetcn.com/livenews/3103554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美联储理事米兰：鲍威尔可能会在沃什过渡期间提供帮助。 美联储只有一个主席这一点很重要。",
-          "url": "https://wallstreetcn.com/livenews/3103711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "乌克兰首都基辅传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3103290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时05分"
         }
       ]
     }
