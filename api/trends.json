@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-15T17:39:02.473253+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-05-15T19:47:40.495067+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 28,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：热情期待在华盛顿接待习主席",
           "url": "https://www.toutiao.com/trending/7638941233318104619/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 19时47分]"
+        },
+        {
+          "title": "日本气象厅：日本宫城县附近发生地震。",
+          "url": "https://flash.jin10.com/detail/20260515192245865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "习主席在欢迎宴会上强调了什么",
@@ -41,15 +53,49 @@
           "time_info": "14时24分"
         },
         {
+          "title": "日本宫城县附近海域发生5.2级地震",
+          "url": "https://wallstreetcn.com/livenews/3104408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "金融监管总局：一季度末我国银行业金融机构本外币资产总额494.7万亿元，同比增长8.0%",
+          "url": "https://wallstreetcn.com/livenews/3104403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "北京证监局对国都证券股份有限公司采取监管谈话行政监管措施",
           "url": "https://flash.jin10.com/detail/20260515171950816800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "杨梅商贩浸泡8000倍超甜三无添加剂",
+          "url": "https://www.toutiao.com/trending/7639996854156591146/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时47分]"
         },
         {
           "title": "男子造谣张家界玻璃桥坍塌被抓",
@@ -64,14 +110,15 @@
         },
         {
           "title": "杨梅商贩浸泡8000倍超甜三无添加剂",
-          "url": "https://www.toutiao.com/trending/7639996854156591146/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%A2%85%E5%95%86%E8%B4%A9%E6%B5%B8%E6%B3%A18000%E5%80%8D%E8%B6%85%E7%94%9C%E4%B8%89%E6%97%A0%E6%B7%BB%E5%8A%A0%E5%89%82",
+          "source": "百度热搜",
           "ranks": [
-            7
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时47分]"
         },
         {
           "title": "5月15日投资避雷针：A股“股王”突发 副总经理被刑拘",
@@ -97,17 +144,6 @@
           "time_info": "[17时38分 ~ 17时39分]"
         },
         {
-          "title": "杨梅商贩浸泡8000倍超甜三无添加剂",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%A2%85%E5%95%86%E8%B4%A9%E6%B5%B8%E6%B3%A18000%E5%80%8D%E8%B6%85%E7%94%9C%E4%B8%89%E6%97%A0%E6%B7%BB%E5%8A%A0%E5%89%82",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
-        },
-        {
           "title": "菲律宾参议院枪击事件嫌疑人被捕，总统召集紧急会议",
           "url": "https://news.ifeng.com/c/8t7cTMRATH7",
           "source": "凤凰网",
@@ -117,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "深交所：本周对293起证券异常交易行为采取自律监管措施",
+          "url": "https://flash.jin10.com/detail/20260515191508567800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "特朗普：热情期待在华盛顿接待习近平主席",
@@ -136,7 +183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -150,6 +197,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "“重庆江边游轮起火”系谣言",
+          "url": "https://www.toutiao.com/trending/7639696329967452196/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "“重庆江边游轮起火”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%87%8D%E5%BA%86%E6%B1%9F%E8%BE%B9%E6%B8%B8%E8%BD%AE%E8%B5%B7%E7%81%AB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "突发！1400亿光芯片概念股副总经理被刑拘|盘后公告集锦",
@@ -180,7 +249,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -218,6 +287,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "男子被指骗养犬只供家里烈犬撕咬训练，派出所：已将其扣留，正调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33177974",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "男子骗养20多只狗供烈犬撕咬被刑拘",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%97%E5%85%BB20%E5%A4%9A%E5%8F%AA%E7%8B%97%E4%BE%9B%E7%83%88%E7%8A%AC%E6%92%95%E5%92%AC%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "百度热搜",
@@ -227,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "日本本州东部附近海域6.8级左右地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F6.8%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "日本央行执行董事Kamiyama：全球对冲基金资本流动的突然变化可能加剧债券和股票市场的价格波动。",
@@ -246,7 +337,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -279,9 +370,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "证监会副主席陈华平：完善中国特色稳市机制建设，健全完善中长期资金入市长周期考核机制",
+          "url": "https://wallstreetcn.com/livenews/3104371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "河南17岁失联男孩遗体已找到",
@@ -301,7 +403,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -312,7 +414,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         }
