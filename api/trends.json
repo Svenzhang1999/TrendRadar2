@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-18T14:44:42.596497+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-18T18:57:25.298650+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 58,
+      "match_count": 73,
       "titles": [
-        {
-          "title": "直击柳州地震救援现场",
-          "url": "https://www.douyin.com/hot/2502730",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 14时44分]"
-        },
         {
           "title": "广西柳州地震已致2人死亡",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top",
@@ -48,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -70,9 +59,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "直击柳州地震救援现场",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "周末要闻汇总：中美经贸磋商初步成果公布；巨力索具涉嫌信息披露误导性陈述违法违规被证监会立案",
@@ -103,9 +103,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "匈牙利新总理毛焦尔：在今天的内阁会议开始前，我通过电话告知欧洲理事会主席，我们已启动与乌方的一轮技术级会谈。",
+          "url": "https://flash.jin10.com/detail/20260518184914235800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "广西柳州突发5.2级地震 有房屋倒塌",
@@ -125,29 +136,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "广西5.2级地震造成2死1失联",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354368&amp;topic_name=%E5%B9%BF%E8%A5%BF5.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%80%A0%E6%88%902%E6%AD%BB1%E5%A4%B1%E8%81%94",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "柳州地震最后1名被困人员获救",
-          "url": "https://www.douyin.com/hot/2502968",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -163,6 +152,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "FIFA天价版权为何在中国受阻",
+          "url": "https://search.bilibili.com/all?keyword=FIFA%E5%A4%A9%E4%BB%B7%E7%89%88%E6%9D%83%E4%B8%BA%E4%BD%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8F%97%E9%98%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "广西柳州地震已致2死1失联",
           "url": "https://www.toutiao.com/trending/7640966794185883684/",
           "source": "今日头条",
@@ -174,15 +174,37 @@
           "time_info": "10时11分"
         },
         {
+          "title": "广西柳州地震已致58栋民房受损",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B458%E6%A0%8B%E6%B0%91%E6%88%BF%E5%8F%97%E6%8D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "欧盟委员会执行副主席东布罗夫斯基斯重申尽快开放霍尔木兹海峡的必要性。",
           "url": "https://flash.jin10.com/detail/20260518143451084800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "直击柳州地震救援现场",
+          "url": "https://www.toutiao.com/trending/7640820039668269083/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "欧盟委员会执行副主席东布罗夫斯基斯：七国集团将讨论乌克兰和伊朗的战争。",
@@ -191,9 +213,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "直击柳州地震救援现场",
+          "url": "https://www.douyin.com/hot/2502730",
+          "source": "抖音",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 18时57分]"
         },
         {
           "title": "广西柳州5.2级地震",
@@ -220,6 +254,79 @@
           "time_info": "[10时11分 ~ 14时44分]"
         },
         {
+          "title": "广西5.2级地震造成2死1失联",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354368&amp;topic_name=%E5%B9%BF%E8%A5%BF5.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%80%A0%E6%88%902%E6%AD%BB1%E5%A4%B1%E8%81%94",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时57分]"
+        },
+        {
+          "title": "柳州地震最后1名被困人员获救",
+          "url": "https://www.douyin.com/hot/2502968",
+          "source": "抖音",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时57分]"
+        },
+        {
+          "title": "演员杨子家族旗下公司巨力索具被立案调查，此前称累计获上千万元商业航天订单，会有何影响？涉嫌误导投资吗？",
+          "url": "https://www.zhihu.com/question/2038933502192612725",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 18时57分]"
+        },
+        {
+          "title": "扰民被投诉,乘客把监督当魅力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354332&amp;topic_name=%E6%89%B0%E6%B0%91%E8%A2%AB%E6%8A%95%E8%AF%89%2C%E4%B9%98%E5%AE%A2%E6%8A%8A%E7%9B%91%E7%9D%A3%E5%BD%93%E9%AD%85%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 18时57分]"
+        },
+        {
+          "title": "广西柳州地震已致2死",
+          "url": "https://www.douyin.com/hot/2502775",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时57分]"
+        },
+        {
+          "title": "荆州：停工、停产、停业、停运、停课",
+          "url": "https://www.cls.cn/detail/2373887",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时57分]"
+        },
+        {
           "title": "驻日美军一士兵涉嫌盗窃被捕",
           "url": "https://news.ifeng.com/c/8tCpvFtLBLw",
           "source": "凤凰网",
@@ -231,28 +338,40 @@
           "time_info": "[10时11分 ~ 14时44分]"
         },
         {
-          "title": "演员杨子家族旗下公司巨力索具被立案调查，此前称累计获上千万元商业航天订单，会有何影响？涉嫌误导投资吗？",
-          "url": "https://www.zhihu.com/question/2038933502192612725",
-          "source": "知乎",
+          "title": "两部门对广西柳州市柳南区5.2级地震启动国家地震灾害四级应急响应，派出工作组指导工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192050",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            13
+            13,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 14时44分]"
+          "time_info": "[14时44分 ~ 18时57分]"
         },
         {
-          "title": "扰民被投诉,乘客把监督当魅力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354332&amp;topic_name=%E6%89%B0%E6%B0%91%E8%A2%AB%E6%8A%95%E8%AF%89%2C%E4%B9%98%E5%AE%A2%E6%8A%8A%E7%9B%91%E7%9D%A3%E5%BD%93%E9%AD%85%E5%8A%9B",
-          "source": "贴吧",
+          "title": "视频丨广西柳州地震最后1名被困人员获救：系91岁老人，生命体征平稳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192718",
+          "source": "澎湃新闻",
           "ranks": [
-            21,
-            23
+            17,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 14时44分]"
+          "time_info": "[14时44分 ~ 18时57分]"
+        },
+        {
+          "title": "地震来袭应该怎么躲",
+          "url": "https://www.douyin.com/hot/2503120",
+          "source": "抖音",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时57分]"
         },
         {
           "title": "5月18日投资避雷针：涉嫌信息披露误导性陈述 这只商业航天人气股被证监会立案",
@@ -261,7 +380,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -299,15 +418,26 @@
           "time_info": "10时11分"
         },
         {
-          "title": "广西柳州地震已致2死",
-          "url": "https://www.douyin.com/hot/2502775",
-          "source": "抖音",
+          "title": "据路透调查：根据调查中位数预测，印尼央行7天逆回购利率到2026年底将为5.00%（4月份调查时为4.75%）。",
+          "url": "https://flash.jin10.com/detail/20260518184324596800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时44分"
+          "time_info": "18时57分"
+        },
+        {
+          "title": "据路透调查：16位经济学家中有9位表示，印尼央行将在5月20日将7天逆回购利率上调25个基点至5.00%。",
+          "url": "https://flash.jin10.com/detail/20260518184309217800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "柳州凌晨地震 市民：轰隆一下就塌了",
@@ -327,7 +457,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -349,9 +479,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "广西车辆坠河已致5人遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E5%B7%B2%E8%87%B45%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "直击柳州5.2级地震",
@@ -376,15 +517,15 @@
           "time_info": "10时11分"
         },
         {
-          "title": "荆州：停工、停产、停业、停运、停课",
-          "url": "https://www.cls.cn/detail/2373887",
-          "source": "财联社热门",
+          "title": "姜乘澜被执行1119万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%B9%98%E6%BE%9C%E8%A2%AB%E6%89%A7%E8%A1%8C1119%E4%B8%87%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时44分"
+          "time_info": "18时57分"
         },
         {
           "title": "广西皮卡坠河9人失联均为女性",
@@ -398,24 +539,24 @@
           "time_info": "10时11分"
         },
         {
+          "title": "专家介绍柳州地震相关情况",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%93%E5%AE%B6%E4%BB%8B%E7%BB%8D%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9B%B8%E5%85%B3%E6%83%85%E5%86%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "性侵迷局：双方在车内有亲密行为，女方收30万后改口称“自愿”",
           "url": "https://news.ifeng.com/c/8tC9XgIxyXS",
           "source": "凤凰网",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "地震来袭应该怎么躲",
-          "url": "https://www.douyin.com/hot/2503120",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -429,17 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "两部门对广西柳州市柳南区5.2级地震启动国家地震灾害四级应急响应，派出工作组指导工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33192050",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
         },
         {
           "title": "柳州地震交警施行交通管制",
@@ -470,9 +600,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "天津高空跳伞基地发生事故 两人遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E6%B4%A5%E9%AB%98%E7%A9%BA%E8%B7%B3%E4%BC%9E%E5%9F%BA%E5%9C%B0%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85+%E4%B8%A4%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "警犬参与广西柳州地震搜救",
@@ -492,18 +633,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "视频丨广西柳州地震最后1名被困人员获救：系91岁老人，生命体征平稳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33192718",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -541,6 +671,28 @@
           "time_info": "10时11分"
         },
         {
+          "title": "警方通报男子酒后殴打未满2个月女儿",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%AE%B4%E6%89%93%E6%9C%AA%E6%BB%A12%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%84%BF",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "针对柳州5.2级地震，水利部启动水利抗震救灾调度指挥机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192833",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "浏阳烟花厂爆炸事故已有36人出院",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%B7%B2%E6%9C%8936%E4%BA%BA%E5%87%BA%E9%99%A2%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -558,9 +710,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "柳州地震遇难夫妻靠卖鸡鸭为生",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E5%A4%AB%E5%A6%BB%E9%9D%A0%E5%8D%96%E9%B8%A1%E9%B8%AD%E4%B8%BA%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "【中国证监会副主席李超：以更大力度推进北京证券交易所深化改革】中国证监会副主席李超5月18日在2026北京上市公司高质量发展大会暨投融资并购对接会上表示，将全力稳定和增强资本市场信心，并提出三点举措：以更大力度支持科技创新和产业创新深度融合、以更大力度推进北京证券交易所深化改革、以更大力度夯实上市公司高质量发展基础。（新华财经）",
@@ -624,7 +787,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -635,9 +798,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "地震避险记住这口诀",
+          "url": "https://www.toutiao.com/trending/7641000507780120617/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "广西柳州地震已致3人失联",
