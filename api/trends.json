@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-05-19T10:12:01.968574+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-19T14:40:11.882613+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 17,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "美两架“咆哮者”战机空中相撞坠毁，五角大楼展开调查",
+          "url": "https://news.ifeng.com/c/8tFBKOBn53U",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时40分]"
+        },
+        {
+          "title": "木叶传统,火影又搞霸凌文学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354406&amp;topic_name=%E6%9C%A8%E5%8F%B6%E4%BC%A0%E7%BB%9F%2C%E7%81%AB%E5%BD%B1%E5%8F%88%E6%90%9E%E9%9C%B8%E5%87%8C%E6%96%87%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
         {
           "title": "视频丨广西柳州地震最后1名被困人员获救：系91岁老人，生命体征平稳",
           "url": "https://m.thepaper.cn/newsDetail_forward_33192718",
@@ -17,6 +40,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "官方调查“585人村庄62人患癌”",
+          "url": "https://www.toutiao.com/trending/7641469216280808966/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
+          "title": "585人村庄62人患癌 武汉成立调查组",
+          "url": "https://www.baidu.com/s?wd=585%E4%BA%BA%E6%9D%91%E5%BA%8462%E4%BA%BA%E6%82%A3%E7%99%8C+%E6%AD%A6%E6%B1%89%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "男子酒后多次骚扰女童被打索赔36万",
@@ -30,15 +75,74 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "美两架“咆哮者”战机空中相撞坠毁，五角大楼展开调查",
-          "url": "https://news.ifeng.com/c/8tFBKOBn53U",
-          "source": "凤凰网",
+          "title": "广西柳州市柳南区发生5.2级地震，震源深度8千米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33195196",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时40分]"
+        },
+        {
+          "title": "5月19日投资避雷针：上市仅一个月股价累计涨幅超16倍 这只人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2374834",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时40分]"
+        },
+        {
+          "title": "埃博拉疫情扩散！116例疑似病例死亡",
+          "url": "https://news.ifeng.com/c/8tFLhj7c91c",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时40分]"
+        },
+        {
+          "title": "广西地震局辟谣网传通报",
+          "url": "https://www.douyin.com/hot/2503257",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时40分]"
+        },
+        {
+          "title": "广西5.2级地震造成2死1失联",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354368&amp;topic_name=%E5%B9%BF%E8%A5%BF5.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%80%A0%E6%88%902%E6%AD%BB1%E5%A4%B1%E8%81%94",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时40分]"
+        },
+        {
+          "title": "五月天向柳州地震捐助100万元",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%91%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E6%8D%90%E5%8A%A9100%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 14时40分]"
         },
         {
           "title": "柳州两次5.2级地震几乎同一位置",
@@ -46,17 +150,6 @@
           "source": "百度热搜",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "广西柳州市柳南区发生5.2级地震，震源深度8千米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33195196",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -74,37 +167,15 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "埃博拉疫情扩散！116例疑似病例死亡",
-          "url": "https://news.ifeng.com/c/8tFLhj7c91c",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "5月19日投资避雷针：上市仅一个月股价累计涨幅超16倍 这只人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2374834",
-          "source": "财联社热门",
+          "title": "现在的患者为什么动不动就要投诉医生？",
+          "url": "https://www.zhihu.com/question/1891068781184406834",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "广西地震局辟谣网传通报",
-          "url": "https://www.douyin.com/hot/2503257",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "AMD董事会主席：中国市场极其重要",
@@ -112,17 +183,6 @@
           "source": "今日头条",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "广西5.2级地震造成2死1失联",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354368&amp;topic_name=%E5%B9%BF%E8%A5%BF5.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%80%A0%E6%88%902%E6%AD%BB1%E5%A4%B1%E8%81%94",
-          "source": "贴吧",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -140,15 +200,15 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "五月天向柳州地震捐助100万元",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%91%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E6%8D%90%E5%8A%A9100%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
+          "title": "广西车辆坠河已致6人遇难",
+          "url": "https://www.toutiao.com/trending/7640556599806820379/",
+          "source": "今日头条",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "湖北宣恩强降雨致3死4失联",
@@ -173,6 +233,17 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "非洲暴发埃博拉疫情",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E6%9A%B4%E5%8F%91%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E6%83%85%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
           "title": "直击柳州再次地震救援现场",
           "url": "https://www.douyin.com/hot/2503874",
           "source": "抖音",
@@ -193,6 +264,94 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "马斯克败诉：美AI权力格局更加清晰",
+          "url": "https://www.toutiao.com/trending/7641379878092148287/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，解除制裁、释放冻结资金、结束封锁包含在伊朗最近对美国的提议中。",
+          "url": "https://flash.jin10.com/detail/20260519141041743800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "美国银行调查：（5月份受访者的）现金水平从4.3%降至3.9%，为2024年2月以来最大月度降幅。",
+          "url": "https://flash.jin10.com/detail/20260519141024916800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "美国银行调查：40%的受访者认为第二波通胀是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20260519140949099800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "美国银行调查：仅有4%的基金经理认为会出现“硬着陆”。",
+          "url": "https://flash.jin10.com/detail/20260519140939592800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "美国银行调查：66%的受访者预计霍尔木兹海峡瓶颈将在未来几个月内结束。",
+          "url": "https://flash.jin10.com/detail/20260519140924310800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "美国银行调查：62%的受访者预计30年期美国国债收益率将达到6%，20%的受访者则预计为4%。",
+          "url": "https://flash.jin10.com/detail/20260519140907283800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "美国银行调查：全球基金经理在五月份的股票配置创下新高。",
+          "url": "https://flash.jin10.com/detail/20260519140849708800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     }
