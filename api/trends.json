@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T14:40:11.882613+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-05-19T18:32:14.649840+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 31,
+      "match_count": 41,
       "titles": [
         {
           "title": "美两架“咆哮者”战机空中相撞坠毁，五角大楼展开调查",
@@ -13,22 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 14时40分]"
-        },
-        {
-          "title": "木叶传统,火影又搞霸凌文学",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354406&amp;topic_name=%E6%9C%A8%E5%8F%B6%E4%BC%A0%E7%BB%9F%2C%E7%81%AB%E5%BD%B1%E5%8F%88%E6%90%9E%E9%9C%B8%E5%87%8C%E6%96%87%E5%AD%A6",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 18时32分]"
         },
         {
           "title": "视频丨广西柳州地震最后1名被困人员获救：系91岁老人，生命体征平稳",
@@ -53,17 +43,6 @@
           "time_info": "[14时39分 ~ 14时40分]"
         },
         {
-          "title": "585人村庄62人患癌 武汉成立调查组",
-          "url": "https://www.baidu.com/s?wd=585%E4%BA%BA%E6%9D%91%E5%BA%8462%E4%BA%BA%E6%82%A3%E7%99%8C+%E6%AD%A6%E6%B1%89%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
-        },
-        {
           "title": "男子酒后多次骚扰女童被打索赔36万",
           "url": "https://www.toutiao.com/trending/7641201508222566450/",
           "source": "今日头条",
@@ -75,16 +54,76 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "上交所对招商局能源运输股份有限公司予以监管警示。",
+          "url": "https://flash.jin10.com/detail/20260519182310058800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "木叶传统,火影又搞霸凌文学",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354406&amp;topic_name=%E6%9C%A8%E5%8F%B6%E4%BC%A0%E7%BB%9F%2C%E7%81%AB%E5%BD%B1%E5%8F%88%E6%90%9E%E9%9C%B8%E5%87%8C%E6%96%87%E5%AD%A6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 18时32分]"
+        },
+        {
+          "title": "585人村庄62人患癌 武汉成立调查组",
+          "url": "https://www.baidu.com/s?wd=585%E4%BA%BA%E6%9D%91%E5%BA%8462%E4%BA%BA%E6%82%A3%E7%99%8C+%E6%AD%A6%E6%B1%89%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 18时32分]"
+        },
+        {
           "title": "广西柳州市柳南区发生5.2级地震，震源深度8千米",
           "url": "https://m.thepaper.cn/newsDetail_forward_33195196",
           "source": "澎湃新闻",
           "ranks": [
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 18时32分]"
+        },
+        {
+          "title": "广西地震局辟谣网传通报",
+          "url": "https://www.douyin.com/hot/2503257",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 18时32分]"
+        },
+        {
+          "title": "广西5.2级地震造成2死1失联",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354368&amp;topic_name=%E5%B9%BF%E8%A5%BF5.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%80%A0%E6%88%902%E6%AD%BB1%E5%A4%B1%E8%81%94",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 18时32分]"
         },
         {
           "title": "5月19日投资避雷针：上市仅一个月股价累计涨幅超16倍 这只人气股今起停牌核查",
@@ -104,29 +143,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 14时40分]"
-        },
-        {
-          "title": "广西地震局辟谣网传通报",
-          "url": "https://www.douyin.com/hot/2503257",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 14时40分]"
-        },
-        {
-          "title": "广西5.2级地震造成2死1失联",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354368&amp;topic_name=%E5%B9%BF%E8%A5%BF5.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%80%A0%E6%88%902%E6%AD%BB1%E5%A4%B1%E8%81%94",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            24
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -167,6 +183,28 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "遭证监会立案调查 巨力索具连续两日跌停",
+          "url": "https://www.cls.cn/detail/2374958",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "广西河池车辆坠河事件已致8人遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%B2%B3%E6%B1%A0%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "现在的患者为什么动不动就要投诉医生？",
           "url": "https://www.zhihu.com/question/1891068781184406834",
           "source": "知乎",
@@ -176,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
+          "title": "贵州贵定暴雨洪灾已致4死5失联",
+          "url": "https://www.toutiao.com/trending/7641526736445771283/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "AMD董事会主席：中国市场极其重要",
@@ -200,6 +249,17 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "湖北宣恩县汛情已致3人死亡、4人失联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33195899",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "广西车辆坠河已致6人遇难",
           "url": "https://www.toutiao.com/trending/7640556599806820379/",
           "source": "今日头条",
@@ -209,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
+          "title": "贵州贵定洪灾已致4死5失联",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E8%B4%B5%E5%AE%9A%E6%B4%AA%E7%81%BE%E5%B7%B2%E8%87%B44%E6%AD%BB5%E5%A4%B1%E8%81%94%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "湖北宣恩强降雨致3死4失联",
@@ -277,13 +348,46 @@
           "time_info": "[14时39分 ~ 14时40分]"
         },
         {
+          "title": "调查显示卢拉在巴西总统选举中重获领先优势，博索纳罗受到丑闻影响。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "厦门出台六条公积金措施 “卖旧换新”贷款按首套房利率执行",
+          "url": "https://flash.jin10.com/detail/20260519181555046800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "招商轮船：收到上海监管局行政监管措施决定书",
+          "url": "https://wallstreetcn.com/livenews/3105965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，解除制裁、释放冻结资金、结束封锁包含在伊朗最近对美国的提议中。",
           "url": "https://flash.jin10.com/detail/20260519141041743800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -294,7 +398,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -305,7 +409,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -316,9 +420,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "招商轮船：因公司2021年年报等财务报告不准确，上海监管局对公司出具警示函",
+          "url": "https://flash.jin10.com/detail/20260519180534639800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "美国银行调查：66%的受访者预计霍尔木兹海峡瓶颈将在未来几个月内结束。",
@@ -327,7 +442,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -338,7 +453,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -349,7 +464,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
