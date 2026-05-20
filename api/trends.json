@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T14:40:02.933476+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-05-20T18:18:52.644881+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "失联人员均已找到，广西环江车辆坠河事件5人生还、10人遇难",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
         },
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：感谢德国总理默茨和我们在德国的朋友们迅速协助照顾受埃博拉疫情影响的美国人。我们对你们的合作表示感激。",
+          "url": "https://flash.jin10.com/detail/20260520181420341800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "柳州3.6级地震",
@@ -58,22 +69,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时40分]"
-        },
-        {
-          "title": "湖南石门强降雨致5死11失联",
-          "url": "https://www.douyin.com/hot/2505253",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
         },
         {
           "title": "“生命三角区”地震逃生法被辟谣",
@@ -83,15 +84,27 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
         },
         {
           "title": "强降雨致湖南石门4人遇难、1人失联",
           "url": "https://m.thepaper.cn/newsDetail_forward_33200036",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
+        },
+        {
+          "title": "湖南石门强降雨致5死11失联",
+          "url": "https://www.douyin.com/hot/2505253",
+          "source": "抖音",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -132,6 +145,39 @@
           "time_info": "10时10分"
         },
         {
+          "title": "泰国国家安全委员会主席：将允许向越南和菲律宾出口航空燃料。",
+          "url": "https://flash.jin10.com/detail/20260520181159221800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "“100%椰子水”再调查",
+          "url": "https://www.toutiao.com/trending/7641162685245816874/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "柳州柳南区发生3.7级地震",
+          "url": "https://www.toutiao.com/trending/7641888242836442666/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）正在审查今年3月特朗普宣布推迟对伊朗进行军事打击前夕，原油期货交易量暴增的情况。作为调查的一部分，CFTC目前对至少三家公司进行关注。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3106339",
           "source": "华尔街见闻-快讯",
@@ -154,6 +200,39 @@
           "time_info": "10时10分"
         },
         {
+          "title": "广西柳州柳南区发生3.7级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E6%9F%B3%E5%8D%97%E5%8C%BA%E5%8F%91%E7%94%9F3.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "释新闻｜刚果（金）曾暴发十余次埃博拉疫情，为何谭德塞此次“深感担忧”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33202967",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "日本央行调查显示，日本债券市场正重拾其经济晴雨表地位",
+          "url": "https://flash.jin10.com/detail/20260520180538836800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "武汉调查村庄62人患癌事件",
           "url": "https://www.douyin.com/hot/2504340",
           "source": "抖音",
@@ -171,7 +250,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
