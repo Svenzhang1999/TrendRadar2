@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-05-23T09:59:59.896231+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-23T13:39:43.237517+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 24,
+      "match_count": 48,
       "titles": [
+        {
+          "title": "沃什宣誓就任美联储主席 此刻华尔街已不再幻想降息",
+          "url": "https://www.cls.cn/detail/2379634",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
+        },
+        {
+          "title": "山西煤矿事故已致82死9失联",
+          "url": "https://www.toutiao.com/trending/7642943198754541107/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "山西煤矿瓦斯爆炸已致82人遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%93%A6%E6%96%AF%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B482%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
         {
           "title": "“姐姐为亡弟追凶27年”案二审宣判：维持死缓判决",
           "url": "https://m.thepaper.cn/newsDetail_forward_33209025",
@@ -19,26 +53,116 @@
           "time_info": "09时59分"
         },
         {
-          "title": "沃什宣誓就任美联储主席 此刻华尔街已不再幻想降息",
-          "url": "https://www.cls.cn/detail/2379634",
-          "source": "财联社热门",
+          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超82人遇难。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3108319",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "留神峪煤矿事故82人遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%8582%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "山西煤矿瓦斯爆炸事故82人遇难",
+          "url": "https://www.douyin.com/hot/2508971",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "4名在泰失联中国公民已被找到",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "山西煤矿瓦斯爆炸事故82人遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%93%A6%E6%96%AF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%8582%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超82人遇难。",
+          "url": "https://flash.jin10.com/detail/20260523130717176800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超50人遇难",
+          "url": "https://wallstreetcn.com/livenews/3108315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "四川一国企退休职工帮同事维权与董事长争执后猝死，董事长建议去起诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205732",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
         },
         {
           "title": "神舟二十三号已具备执行发射任务条件",
           "url": "https://wallstreetcn.com/livenews/3108295",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
         },
         {
           "title": "净网 | 这些涉柳州地震的信息是谣言",
@@ -48,8 +172,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
         },
         {
           "title": "净网|这些涉柳州地震的信息是谣言",
@@ -59,19 +183,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "四川一国企退休职工帮同事维权与董事长争执后猝死，董事长建议去起诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205732",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
         },
         {
           "title": "这些涉及柳州地震的信息是谣言",
@@ -81,8 +194,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
         },
         {
           "title": "这些涉及柳州地震的信息是谣言",
@@ -92,8 +205,65 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
+        },
+        {
+          "title": "诈骗数额超24亿元，缅北果敢魏家犯罪集团主案一审开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33210687",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
+        },
+        {
+          "title": "重庆江边游轮起火？谣言",
+          "url": "https://www.toutiao.com/trending/7642231898786070571/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
+        },
+        {
+          "title": "山西沁源一煤矿爆炸已致8人死亡，井下38人正在全力搜救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33217003",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 13时39分]"
+        },
+        {
+          "title": "直击山西沁源煤矿瓦斯爆炸井口现场",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E7%85%A4%E7%9F%BF%E7%93%A6%E6%96%AF%E7%88%86%E7%82%B8%E4%BA%95%E5%8F%A3%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时39分"
         },
         {
           "title": "宣誓就任美联储主席！沃什：美联储将以改革为导向，未来数年能给美带来无与伦比繁荣",
@@ -107,15 +277,15 @@
           "time_info": "09时59分"
         },
         {
-          "title": "诈骗数额超24亿元，缅北果敢魏家犯罪集团主案一审开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33210687",
-          "source": "澎湃新闻",
+          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超50人遇难",
+          "url": "https://flash.jin10.com/detail/20260523124647355800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时39分"
         },
         {
           "title": "「穷人碳水脸」「这就是碳水脸和蛋白脸的差距」等说法刷屏，如何看待这种说法？算是一种审美霸凌吗？",
@@ -129,15 +299,15 @@
           "time_info": "09时59分"
         },
         {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
-          "source": "华尔街见闻",
+          "title": "山西煤矿事故仍有9人失联",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E4%BB%8D%E6%9C%899%E4%BA%BA%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时39分"
         },
         {
           "title": "国家统计局发布《2025 年全国 1% 人口抽样调查主要数据公报》，如何解读报告内容？",
@@ -162,15 +332,26 @@
           "time_info": "09时59分"
         },
         {
-          "title": "重庆江边游轮起火？谣言",
-          "url": "https://www.toutiao.com/trending/7642231898786070571/",
-          "source": "今日头条",
+          "title": "山西煤矿事故仍有9人失联",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E4%BB%8D%E6%9C%899%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "山西留神峪煤矿瓦斯爆炸事故已致超50人遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218631",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时39分"
         },
         {
           "title": "神二十三乘组确定：朱杨柱、张志远和首位香港籍航天员黎家盈将执行神舟二十三号载人飞行任务，朱杨柱担任指令长。",
@@ -184,15 +365,37 @@
           "time_info": "09时59分"
         },
         {
-          "title": "山西沁源一煤矿爆炸已致8人死亡，井下38人正在全力搜救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33217003",
-          "source": "澎湃新闻",
+          "title": "山西瓦斯爆炸煤矿曾因安全问题被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%93%A6%E6%96%AF%E7%88%86%E7%82%B8%E7%85%A4%E7%9F%BF%E6%9B%BE%E5%9B%A0%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
           "ranks": [
-            14
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "13时39分"
+        },
+        {
+          "title": "青海省供销合作社联合社原党组书记朱小青接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3108303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "受惊马拖行女童致死马主被立案侦查",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97%E6%83%8A%E9%A9%AC%E6%8B%96%E8%A1%8C%E5%A5%B3%E7%AB%A5%E8%87%B4%E6%AD%BB%E9%A9%AC%E4%B8%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "纽约一造船厂爆炸1死36伤",
@@ -217,6 +420,39 @@
           "time_info": "09时59分"
         },
         {
+          "title": "山西大同发生3.2级地震",
+          "url": "https://www.douyin.com/hot/2509313",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "留神峪煤矿事故超50人遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%B6%8550%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "女子殴打住院朋友致死获刑",
+          "url": "https://www.toutiao.com/trending/7642705798939295771/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "官员们表示：俄罗斯黑海港口Novorossiysk石油输送枢纽因（多架）无人机碎片坠落而起火。（路透）",
           "url": "https://wallstreetcn.com/livenews/3108269",
           "source": "华尔街见闻-快讯",
@@ -226,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "4名在泰失联中国公民已被找到",
+          "url": "https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "美联储声明：联邦公开市场委员会（FOMC）一致选举凯文·沃什为FOMC主席。",
@@ -250,6 +497,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "美国众议院监督与政府改革委员会主席James Comer宣布，围绕内幕交易问题对Kalshi和Polymarket展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3108309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "霸凌模式·开!鹿丸只想躺平",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354472&amp;topic_name=%E9%9C%B8%E5%87%8C%E6%A8%A1%E5%BC%8F%C2%B7%E5%BC%80%21%E9%B9%BF%E4%B8%B8%E5%8F%AA%E6%83%B3%E8%BA%BA%E5%B9%B3",
           "source": "贴吧",
@@ -270,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "山西煤矿爆炸已致82人遇难",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354533&amp;topic_name=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B482%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     }
