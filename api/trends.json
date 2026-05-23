@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T18:21:50.652115+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-05-23T19:54:33.789113+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 73,
+      "match_count": 85,
       "titles": [
         {
           "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
@@ -13,11 +13,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 19时54分]"
+        },
+        {
+          "title": "山西煤矿瓦斯爆炸事故90人遇难",
+          "url": "https://www.douyin.com/hot/2508971",
+          "source": "抖音",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时39分 ~ 18时21分]"
+          "time_info": "[16时05分 ~ 19时54分]"
         },
         {
           "title": "山西煤矿爆炸已致90人遇难",
@@ -31,15 +43,26 @@
           "time_info": "[16时05分 ~ 18时21分]"
         },
         {
-          "title": "山西煤矿瓦斯爆炸事故90人遇难",
-          "url": "https://www.douyin.com/hot/2508971",
-          "source": "抖音",
+          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致 90 人遇难，123 人送医，现场情况如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2041501077955142768",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 18时21分]"
+          "time_info": "[18时21分 ~ 19时54分]"
+        },
+        {
+          "title": "爆炸煤矿企业负责人已被依法控制",
+          "url": "https://www.douyin.com/hot/2509589",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时54分]"
         },
         {
           "title": "山西煤矿事故已致82死9失联",
@@ -97,37 +120,26 @@
           "time_info": "13时39分"
         },
         {
-          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致 90 人遇难，123 人送医，现场情况如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2041501077955142768",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "国家卫健委组织多学科专家赴山西通洲集团留神峪煤矿瓦斯爆炸事故现场开展医疗救治",
-          "url": "https://flash.jin10.com/detail/20260523174916148800",
-          "source": "金十数据",
+          "title": "国务院调查组将就煤矿事故开展调查",
+          "url": "https://www.douyin.com/hot/2509726",
+          "source": "抖音",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时54分"
         },
         {
-          "title": "爆炸煤矿企业负责人已被依法控制",
-          "url": "https://www.douyin.com/hot/2509589",
-          "source": "抖音",
+          "title": "针对山西通洲集团留神峪煤矿瓦斯爆炸事故 国务院事故调查组将较真碰硬开展事故调查",
+          "url": "https://wallstreetcn.com/livenews/3108346",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时54分"
         },
         {
           "title": "山西煤矿瓦斯爆炸事故82人遇难",
@@ -158,11 +170,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 19时54分]"
         },
         {
           "title": "这些涉及柳州地震的信息是谣言",
@@ -173,20 +186,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 18时21分]"
-        },
-        {
-          "title": "中华全国总工会党组书记、副主席、书记处第一书记徐留平被查",
-          "url": "https://wallstreetcn.com/livenews/3108327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 19时54分]"
         },
         {
           "title": "四川一国企退休职工帮同事维权与董事长争执后猝死，董事长建议去起诉",
@@ -213,6 +214,18 @@
           "time_info": "[16时05分 ~ 18时21分]"
         },
         {
+          "title": "国家卫健委组织多学科专家赴山西通洲集团留神峪煤矿瓦斯爆炸事故现场开展医疗救治",
+          "url": "https://flash.jin10.com/detail/20260523174916148800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时54分]"
+        },
+        {
           "title": "4名在泰失联中国公民已被找到",
           "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%88%B0",
           "source": "百度热搜",
@@ -225,16 +238,16 @@
           "time_info": "[13时39分 ~ 16时05分]"
         },
         {
-          "title": "老虎国际澄清：并未“硬刚监管”，将严格按照监管部门的指导整改",
-          "url": "https://wallstreetcn.com/livenews/3108325",
-          "source": "华尔街见闻-快讯",
+          "title": "神舟二十三号即将发射，香港女航天员将执行任务，她也是第 4 位中国女航天员，这一安排有哪些特殊意义？",
+          "url": "https://www.zhihu.com/question/2041448429176579169",
+          "source": "知乎",
           "ranks": [
-            3,
-            11
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 18时21分]"
+          "time_info": "[18时21分 ~ 19时54分]"
         },
         {
           "title": "神舟二十三号已具备执行发射任务条件",
@@ -249,17 +262,17 @@
           "time_info": "[09时59分 ~ 13时39分]"
         },
         {
-          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超82人遇难。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3108319",
+          "title": "中华全国总工会党组书记、副主席、书记处第一书记徐留平被查",
+          "url": "https://wallstreetcn.com/livenews/3108327",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             9,
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时39分 ~ 18时21分]"
+          "time_info": "[16时05分 ~ 19时54分]"
         },
         {
           "title": "山西留神峪煤矿瓦斯爆炸事故已致超50人遇难",
@@ -275,6 +288,19 @@
           "time_info": "[13时39分 ~ 18时21分]"
         },
         {
+          "title": "老虎国际澄清：并未“硬刚监管”，将严格按照监管部门的指导整改",
+          "url": "https://wallstreetcn.com/livenews/3108325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 19时54分]"
+        },
+        {
           "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超50人遇难",
           "url": "https://wallstreetcn.com/livenews/3108315",
           "source": "华尔街见闻-快讯",
@@ -288,6 +314,20 @@
           "time_info": "[13时39分 ~ 18时21分]"
         },
         {
+          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超82人遇难。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3108319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 19时54分]"
+        },
+        {
           "title": "净网 | 这些涉柳州地震的信息是谣言",
           "url": "https://www.toutiao.com/trending/7641830125348274185/",
           "source": "今日头条",
@@ -295,8 +335,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 19时54分]"
         },
         {
           "title": "净网|这些涉柳州地震的信息是谣言",
@@ -306,8 +346,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 19时54分]"
         },
         {
           "title": "重庆江边游轮起火？谣言",
@@ -317,8 +357,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 19时54分]"
         },
         {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
@@ -329,8 +369,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 19时54分]"
+        },
+        {
+          "title": "网友输液（含氯化钾）调快速度，被医生训斥快推是执行死刑，氯化钾快推有多危险？自行调节输液速度有何风险？",
+          "url": "https://www.zhihu.com/question/2040750908300948196",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时59分 ~ 18时21分]"
+          "time_info": "[16时05分 ~ 19时54分]"
         },
         {
           "title": "这些涉及柳州地震的信息是谣言",
@@ -356,16 +409,16 @@
           "time_info": "[16时05分 ~ 18时21分]"
         },
         {
-          "title": "网友输液（含氯化钾）调快速度，被医生训斥快推是执行死刑，氯化钾快推有多危险？自行调节输液速度有何风险？",
-          "url": "https://www.zhihu.com/question/2040750908300948196",
-          "source": "知乎",
+          "title": "山西爆炸煤矿给出的图纸与实际不符",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%88%86%E7%82%B8%E7%85%A4%E7%9F%BF%E7%BB%99%E5%87%BA%E7%9A%84%E5%9B%BE%E7%BA%B8%E4%B8%8E%E5%AE%9E%E9%99%85%E4%B8%8D%E7%AC%A6",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            9
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时05分 ~ 18时21分]"
+          "time_info": "[18时21分 ~ 19时54分]"
         },
         {
           "title": "诈骗数额超24亿元，缅北果敢魏家犯罪集团主案一审开庭",
@@ -404,6 +457,17 @@
           "time_info": "[09时59分 ~ 13时39分]"
         },
         {
+          "title": "女子住院被朋友殴打昏迷数天后死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%99%A2%E8%A2%AB%E6%9C%8B%E5%8F%8B%E6%AE%B4%E6%89%93%E6%98%8F%E8%BF%B7%E6%95%B0%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时54分]"
+        },
+        {
           "title": "青海省供销合作社联合社原党组书记朱小青接受审查调查",
           "url": "https://wallstreetcn.com/livenews/3108303",
           "source": "华尔街见闻-快讯",
@@ -416,6 +480,18 @@
           "time_info": "[13时39分 ~ 16时05分]"
         },
         {
+          "title": "山西一石灰窑发生中毒事件 1死5伤",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E7%9F%B3%E7%81%B0%E7%AA%91%E5%8F%91%E7%94%9F%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6+1%E6%AD%BB5%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时54分]"
+        },
+        {
           "title": "受惊马拖行女童致死 马主被立案侦查",
           "url": "https://www.baidu.com/s?wd=%E5%8F%97%E6%83%8A%E9%A9%AC%E6%8B%96%E8%A1%8C%E5%A5%B3%E7%AB%A5%E8%87%B4%E6%AD%BB+%E9%A9%AC%E4%B8%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5",
           "source": "百度热搜",
@@ -426,6 +502,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时05分 ~ 18时21分]"
+        },
+        {
+          "title": "国务院调查组将较真碰硬调查山西矿难",
+          "url": "https://www.toutiao.com/trending/7643039715712568878/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "直击山西沁源煤矿瓦斯爆炸井口现场",
@@ -450,26 +537,26 @@
           "time_info": "09时59分"
         },
         {
-          "title": "神舟二十三号即将发射，香港女航天员将执行任务，她也是第 4 位中国女航天员，这一安排有哪些特殊意义？",
-          "url": "https://www.zhihu.com/question/2041448429176579169",
-          "source": "知乎",
+          "title": "全总党组书记、副主席、书记处第一书记徐留平任上被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219505",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时54分"
         },
         {
-          "title": "山西爆炸煤矿给出的图纸与实际不符",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%88%86%E7%82%B8%E7%85%A4%E7%9F%BF%E7%BB%99%E5%87%BA%E7%9A%84%E5%9B%BE%E7%BA%B8%E4%B8%8E%E5%AE%9E%E9%99%85%E4%B8%8D%E7%AC%A6",
-          "source": "百度热搜",
+          "title": "欧元区财长会议主席Kyriakos Pierrakakis：“欧元区发行共同债务”确实是存在严重意见分歧的领域之一，但它当然也是我们未来几个月将重点讨论的核心议题之一。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3108340",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时54分"
         },
         {
           "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超50人遇难",
@@ -544,7 +631,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -571,6 +658,17 @@
           "time_info": "16时05分"
         },
         {
+          "title": "针对山西通洲集团留神峪煤矿瓦斯爆炸事故 国务院事故调查组将较真碰硬开展事故调查",
+          "url": "https://flash.jin10.com/detail/20260523185745555800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美国18岁少女遭生父性侵自杀",
           "url": "https://news.ifeng.com/c/8tM15LjbChP",
           "source": "凤凰网",
@@ -588,18 +686,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "女子住院被朋友殴打昏迷数天后死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%99%A2%E8%A2%AB%E6%9C%8B%E5%8F%8B%E6%AE%B4%E6%89%93%E6%98%8F%E8%BF%B7%E6%95%B0%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -615,15 +702,26 @@
           "time_info": "13时39分"
         },
         {
-          "title": "山西一石灰窑发生中毒事件 1死5伤",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E4%B8%80%E7%9F%B3%E7%81%B0%E7%AA%91%E5%8F%91%E7%94%9F%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6+1%E6%AD%BB5%E4%BC%A4",
+          "title": "山西煤矿爆炸事故救援救治时间线",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%95%91%E6%8F%B4%E6%95%91%E6%B2%BB%E6%97%B6%E9%97%B4%E7%BA%BF",
           "source": "百度热搜",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时54分"
+        },
+        {
+          "title": "适老化改造变“敛财工程”，四川两地成立工作组调查督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33214687",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "运城石灰窑工人一氧化碳中毒1死5伤",
@@ -632,9 +730,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "习近平对山西长治市沁源县一煤矿瓦斯爆炸事故作出重要指示",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33217552",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "山西煤矿爆炸点附近出现积水",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E7%82%B9%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E7%A7%AF%E6%B0%B4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "中华全国总工会原副主席李奇生逝世",
@@ -643,7 +763,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -657,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "私刻公章变更法定代表人有效？榆林市场监管局败诉已半年仍未执行生效判决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33212144",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "纽约一造船厂爆炸1死36伤",
@@ -720,7 +851,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -745,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "男子买18个充电器调包 卖家千里维权",
+          "url": "https://www.toutiao.com/trending/7642957312631046194/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "官员们表示：俄罗斯黑海港口Novorossiysk石油输送枢纽因（多架）无人机碎片坠落而起火。（路透）",
