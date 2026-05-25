@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T19:42:49.112089+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-05-25T22:33:16.600469+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 44,
+      "match_count": 52,
       "titles": [
         {
           "title": "山西爆炸煤矿第三轮搜救正在进行",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时16分 ~ 15时02分]"
+        },
+        {
+          "title": "重庆永川暴雨致9死11失联",
+          "url": "https://www.douyin.com/hot/2511765",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 22时33分]"
         },
         {
           "title": "山西煤矿爆炸瞬间监控曝光",
@@ -63,24 +74,24 @@
           "time_info": "10时16分"
         },
         {
+          "title": "遭袭后，俄罗斯斯兹兰炼油厂（Syzran Oil Refinery）暂停运营。",
+          "url": "https://wallstreetcn.com/livenews/3108937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "世卫组织总干事谭德塞：埃博拉疫情疑似死亡人数达220人。",
           "url": "https://flash.jin10.com/detail/20260525193426445800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "重庆永川暴雨致9死11失联",
-          "url": "https://www.douyin.com/hot/2511765",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -96,29 +107,18 @@
           "time_info": "10时16分"
         },
         {
-          "title": "山西煤矿爆炸瞬间监控曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 19时42分]"
-        },
-        {
           "title": "官方通报小区马匹受惊致女童死亡：涉事马主被刑拘，已提请检方批捕",
           "url": "https://m.thepaper.cn/newsDetail_forward_33225050",
           "source": "澎湃新闻",
           "ranks": [
             10,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时16分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时16分 ~ 22时33分]"
         },
         {
           "title": "山西留神峪煤矿事故调查：写满安全规章的笔记本与缺失的定位卡",
@@ -127,11 +127,37 @@
           "ranks": [
             12,
             7,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时16分 ~ 22时33分]"
+        },
+        {
+          "title": "山西煤矿爆炸瞬间监控曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            25,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时16分 ~ 19时42分]"
+          "time_info": "[15时02分 ~ 22时33分]"
+        },
+        {
+          "title": "山西煤矿爆炸瞬间监控曝光",
+          "url": "https://www.douyin.com/hot/2511195",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 22时33分]"
         },
         {
           "title": "客户交百万意向金后三年无法提车，武汉法拉利门店再现“退款难”",
@@ -145,18 +171,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时16分 ~ 19时42分]"
-        },
-        {
-          "title": "山西煤矿爆炸瞬间监控曝光",
-          "url": "https://www.douyin.com/hot/2511195",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 19时42分]"
         },
         {
           "title": "德国性侵案华人团伙主犯被判14年",
@@ -193,6 +207,18 @@
           "time_info": "[10时16分 ~ 15时02分]"
         },
         {
+          "title": "两匹马受惊闯入小区拖曳女童致其死亡，马匹主人已被刑拘，遇到受惊的马该怎么应对？",
+          "url": "https://www.zhihu.com/question/2041569053173440782",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 22时33分]"
+        },
+        {
           "title": "男子吃野生石斑鱼籽中毒 尚无解药",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E9%87%8E%E7%94%9F%E7%9F%B3%E6%96%91%E9%B1%BC%E7%B1%BD%E4%B8%AD%E6%AF%92+%E5%B0%9A%E6%97%A0%E8%A7%A3%E8%8D%AF",
           "source": "百度热搜",
@@ -203,6 +229,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时16分 ~ 15时02分]"
+        },
+        {
+          "title": "从目前披露的信息看，山西煤矿爆炸事故涉事公司哪些行为涉嫌违法？要承担怎样的法律责任？",
+          "url": "https://www.zhihu.com/question/2041881081452781826",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 22时33分]"
+        },
+        {
+          "title": "重庆永川极端特大暴雨已致9死11失联",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E6%9E%81%E7%AB%AF%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B49%E6%AD%BB11%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 22时33分]"
+        },
+        {
+          "title": "凯雷集团（Carlyle）能源转型首席战略官兼Abaxx Markets联席主席Currie：下一个出现问题的将是欧洲。 我们预计在……这次（英国）银行公众假期结束后的某个时间，欧洲就会开始显现问题。",
+          "url": "https://wallstreetcn.com/livenews/3108931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "重庆永川暴雨致 17 人失联 3 人死亡，目前情况怎么样？救援进展如何？",
@@ -244,7 +304,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -266,7 +326,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -277,7 +337,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -288,7 +348,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -310,7 +370,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -343,7 +403,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -354,7 +414,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -365,7 +425,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -381,28 +441,6 @@
           "time_info": "10时16分"
         },
         {
-          "title": "两匹马受惊闯入小区拖曳女童致其死亡，马匹主人已被刑拘，遇到受惊的马该怎么应对？",
-          "url": "https://www.zhihu.com/question/2041569053173440782",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "从目前披露的信息看，山西煤矿爆炸事故涉事公司哪些行为涉嫌违法？要承担怎样的法律责任？",
-          "url": "https://www.zhihu.com/question/2041881081452781826",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "国务院调查组将就煤矿事故开展调查",
           "url": "https://www.douyin.com/hot/2509726",
           "source": "抖音",
@@ -412,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "北京约谈 17 家重点平台，要求 6·18 期间杜绝非理性大额补贴促销，这对普通消费者是好事还是坏事？",
+          "url": "https://www.zhihu.com/question/2042227453779763255",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "神舟二十三号载人飞船发射取得圆满成功，此次飞行将执行哪些任务？你有哪些期待？",
@@ -436,6 +485,28 @@
           "time_info": "10时16分"
         },
         {
+          "title": "西安一16岁女孩在街上遭陌生男子殴打",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%8016%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9C%A8%E8%A1%97%E4%B8%8A%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "四川某地适老化改造变「敛财工程」，包邮 425 元的轮椅，政府花 1450 元采购，监管为何失效？",
+          "url": "https://www.zhihu.com/question/2041474649188472195",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "​国家网络安全通报中心：主流JavaScript软件包管理平台npm遭供应链投毒攻击",
           "url": "https://flash.jin10.com/detail/20260525142640301800",
           "source": "金十数据",
@@ -447,24 +518,13 @@
           "time_info": "15时02分"
         },
         {
-          "title": "重庆永川极端特大暴雨已致9死11失联",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E6%9E%81%E7%AB%AF%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%B7%B2%E8%87%B49%E6%AD%BB11%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "*ST闻泰：控股股东闻天下所持全部股份被司法冻结",
           "url": "https://wallstreetcn.com/livenews/3108823",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -486,9 +546,42 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "女孩街头遭陌生男子殴打 警方已立案",
+          "url": "https://www.toutiao.com/trending/7643778552249368595/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "西安一女孩在街上遭陌生男子殴打",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E5%AE%89%E4%B8%80%E5%A5%B3%E5%AD%A9%E5%9C%A8%E8%A1%97%E4%B8%8A%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "昔日大牛股，控股股东全部持股被冻结！ | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260525211631640800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "马英九基金会调查出炉 萧旭岑致谢",
