@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-28T14:09:43.845003+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-05-28T18:45:00.926925+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "香港金管局要求银行倒查内地个人投资者在港投资账户，新开账户将实施更严格的核查",
+          "url": "https://wallstreetcn.com/articles/3773258",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 18时45分]"
+        },
         {
           "title": "香港金管局就内地投资账户新增监管措施，开户倒查至 2023 年、新增投资资金不得来自内地，如何解读？",
           "url": "https://www.zhihu.com/question/2043072357921546874",
@@ -19,15 +31,26 @@
           "time_info": "[09时59分 ~ 14时09分]"
         },
         {
-          "title": "香港金管局要求银行倒查内地个人投资者在港投资账户，新开账户将实施更严格的核查",
-          "url": "https://wallstreetcn.com/articles/3773258",
-          "source": "华尔街见闻",
+          "title": "证监会副主席刘浩凌：将系统谋划推出更多有力度的改革开放举措",
+          "url": "https://www.cls.cn/detail/2383908",
+          "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时09分]"
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "法拉利首款纯电动车 Luce 首秀后，公司股价大跳水，前主席怒斥可以去掉跃马标，问题出在了哪里？",
+          "url": "https://www.zhihu.com/question/2043099859129983602",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "河南高速客车与货车追尾致13死3伤",
@@ -58,7 +81,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -74,16 +97,16 @@
           "time_info": "09时59分"
         },
         {
-          "title": "卷钱跑路?如龙前主创骤然失联",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354640&amp;topic_name=%E5%8D%B7%E9%92%B1%E8%B7%91%E8%B7%AF%3F%E5%A6%82%E9%BE%99%E5%89%8D%E4%B8%BB%E5%88%9B%E9%AA%A4%E7%84%B6%E5%A4%B1%E8%81%94",
-          "source": "贴吧",
+          "title": "证监会副主席刘浩凌：各类境外投资者持有A股流通市值超过4万亿元",
+          "url": "https://www.cls.cn/detail/2383764",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            6
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时09分]"
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 18时45分]"
         },
         {
           "title": "客车追尾货车致13死 公安部派工作组",
@@ -110,6 +133,92 @@
           "time_info": "[09时59分 ~ 14时09分]"
         },
         {
+          "title": "卷钱跑路?如龙前主创骤然失联",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354640&amp;topic_name=%E5%8D%B7%E9%92%B1%E8%B7%91%E8%B7%AF%3F%E5%A6%82%E9%BE%99%E5%89%8D%E4%B8%BB%E5%88%9B%E9%AA%A4%E7%84%B6%E5%A4%B1%E8%81%94",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 18时45分]"
+        },
+        {
+          "title": "国务院成立山西留神峪事故调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33247829",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 18时45分]"
+        },
+        {
+          "title": "樱花妹霸凌上瘾,被揍仍不服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354613&amp;topic_name=%E6%A8%B1%E8%8A%B1%E5%A6%B9%E9%9C%B8%E5%87%8C%E4%B8%8A%E7%98%BE%2C%E8%A2%AB%E6%8F%8D%E4%BB%8D%E4%B8%8D%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 18时45分]"
+        },
+        {
+          "title": "杭州查封小区代孕窝点：立案调查",
+          "url": "https://www.toutiao.com/trending/7643990312188251690/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 18时45分]"
+        },
+        {
+          "title": "重庆一男子疑遭妻子家暴后跳楼，警方不立案后父母提刑事自诉告儿媳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33246241",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 18时45分]"
+        },
+        {
+          "title": "凌晨家中起火，宠物猫发出叫声“喊醒”主人一家逃生，自己吸入浓烟身亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33243690",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 18时45分]"
+        },
+        {
+          "title": "美国日资造纸厂爆炸事故死亡人数升至11人，部分污染物进入河流",
+          "url": "https://news.ifeng.com/c/8tUuMhWQeZd",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
           "title": "在美日资企业发生爆炸，9名失踪者被推定死亡",
           "url": "https://news.ifeng.com/c/8tUH5tB0RJK",
           "source": "凤凰网",
@@ -122,28 +231,26 @@
           "time_info": "[09时59分 ~ 14时09分]"
         },
         {
-          "title": "国务院成立山西留神峪事故调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33247829",
-          "source": "澎湃新闻",
+          "title": "JDG北北调查结果",
+          "url": "https://s.weibo.com/weibo?q=JDG%E5%8C%97%E5%8C%97%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时09分]"
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
-          "title": "樱花妹霸凌上瘾,被揍仍不服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354613&amp;topic_name=%E6%A8%B1%E8%8A%B1%E5%A6%B9%E9%9C%B8%E5%87%8C%E4%B8%8A%E7%98%BE%2C%E8%A2%AB%E6%8F%8D%E4%BB%8D%E4%B8%8D%E6%9C%8D",
-          "source": "贴吧",
+          "title": "湖北襄阳牌照超员客车河南南阳追尾货车致13人死亡，警方：该车在襄阳长期无行车轨迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33253064",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时09分]"
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "亚运阵容泄露,JKL锁定AD位",
@@ -158,35 +265,13 @@
           "time_info": "[09时59分 ~ 14时09分]"
         },
         {
-          "title": "杭州查封小区代孕窝点：立案调查",
-          "url": "https://www.toutiao.com/trending/7643990312188251690/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
           "title": "一超载客车追尾货车致13死3伤，公安部派工作组赴河南南阳",
           "url": "https://m.thepaper.cn/newsDetail_forward_33251753",
           "source": "澎湃新闻",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "证监会副主席刘浩凌：各类境外投资者持有A股流通市值超过4万亿元",
-          "url": "https://www.cls.cn/detail/2383764",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -197,7 +282,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -219,7 +304,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -230,7 +315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -263,7 +348,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -279,35 +364,13 @@
           "time_info": "09时59分"
         },
         {
-          "title": "凌晨家中起火，宠物猫发出叫声“喊醒”主人一家逃生，自己吸入浓烟身亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33243690",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "重庆一男子疑遭妻子家暴后跳楼，警方不立案后父母提刑事自诉告儿媳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33246241",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
           "title": "杭州非法代孕窝点称能选胎儿性别，女子十万移植失败又添新病，官方已立案调查，为何代孕屡禁不止？",
           "url": "https://www.zhihu.com/question/2043052117854613747",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -329,7 +392,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -351,7 +414,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         }
