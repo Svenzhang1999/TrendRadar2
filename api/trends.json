@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-29T10:06:39.293686+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-29T14:45:16.567793+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "法国外长表示，法国已要求检察官调查近期加沙船队中法国公民所受待遇。",
+          "url": "https://flash.jin10.com/detail/20260529143558000800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
         {
           "title": "重庆一男子疑遭妻子家暴后跳楼，警方不立案后父母提刑事自诉告儿媳",
           "url": "https://m.thepaper.cn/newsDetail_forward_33246241",
@@ -19,26 +30,83 @@
           "time_info": "10时06分"
         },
         {
+          "title": "2026 年 5 月 29 日新格伦火箭在发射台上发生大规模爆炸，可能的原因是什么？将会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2043624630074835147",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "蓝色起源“新格伦”火箭发生爆炸",
+          "url": "https://www.douyin.com/hot/2516095",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 14时45分]"
         },
         {
           "title": "卷钱跑路?如龙前主创骤然失联",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354640&amp;topic_name=%E5%8D%B7%E9%92%B1%E8%B7%91%E8%B7%AF%3F%E5%A6%82%E9%BE%99%E5%89%8D%E4%B8%BB%E5%88%9B%E9%AA%A4%E7%84%B6%E5%A4%B1%E8%81%94",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 14时45分]"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席卡什卡利：伊朗冲突令通胀前景变得不明朗。 由于伊朗冲突，现在不清楚货币政策的未来路径会如何。 在4月PCE通胀数据公布后，就断定我们需要立即加息还为时过早。 （PCE）数据让我进一步关注通胀风险。 无论在最好或最坏的情况下，都存在通货膨胀延长的风险。 通胀预期面临失控的风险。",
+          "url": "https://wallstreetcn.com/livenews/3111185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "14时45分"
+        },
+        {
+          "title": "四川省成立调查指导组督导稻城亚丁景区摆渡车问题整改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33261319",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "江西赣州公布一轿车追尾致3死事故调查报告：事发前司机激活智驾并双手脱离方向盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262014",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "游戏中都是 NPC 委托玩家执行任务，为什么不能设计出玩家可以委托 NPC 呢？",
@@ -61,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "美蓝色起源公司火箭点火测试时爆炸",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%93%9D%E8%89%B2%E8%B5%B7%E6%BA%90%E5%85%AC%E5%8F%B8%E7%81%AB%E7%AE%AD%E7%82%B9%E7%81%AB%E6%B5%8B%E8%AF%95%E6%97%B6%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "樱花妹霸凌上瘾,被揍仍不服",
