@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-31T10:28:48.178439+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-31T14:48:13.835551+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "为 190 元榴莲千里维权商家称收到死亡恐吓，已报警获刑事立案，究竟是怎么回事？恐吓者要承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2044012510097799040",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
         {
           "title": "法治课｜超载客车追尾致13死，司机身亡谁来承担巨额赔偿？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33272053",
@@ -34,11 +45,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BB%B7%E5%AE%A0%E7%89%A9%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%B4%B5",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
         },
         {
           "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
@@ -48,8 +60,100 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
+        },
+        {
+          "title": "央媒调查稻城亚丁“道路设卡摆渡收费”：收的什么费？景区有权设卡吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33274725",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
+        },
+        {
+          "title": "空气炸锅炸的食品会致癌吗",
+          "url": "https://www.douyin.com/hot/2518301",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
+        },
+        {
+          "title": "女子吃见手青中毒 开车百米连撞2车",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%90%83%E8%A7%81%E6%89%8B%E9%9D%92%E4%B8%AD%E6%AF%92+%E5%BC%80%E8%BD%A6%E7%99%BE%E7%B1%B3%E8%BF%9E%E6%92%9E2%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
+          "title": "一颗流星在美国马萨诸塞州上空爆炸引发巨响",
+          "url": "https://wallstreetcn.com/livenews/3111854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 14时48分]"
+        },
+        {
+          "title": "“司机夜间激活智驾并双手脱离方向盘”，江西一轿车追尾致3死调查报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33275467",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
+          "title": "原美国疾控主任：埃博拉疫情表明世界尚未为大流行病做好准备",
+          "url": "https://wallstreetcn.com/livenews/3111838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 14时48分]"
+        },
+        {
+          "title": "巴西正调查一起埃博拉疑似病例，该刚果（金）男子近期有过非洲旅行史",
+          "url": "https://wallstreetcn.com/livenews/3111847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 14时48分]"
+        },
+        {
+          "title": "列车被困隧道超2小时，官方：受异物击打设备故障，运行正恢复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33271802",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
         },
         {
           "title": "国务院留神峪煤矿事故调查组公告",
@@ -85,50 +189,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "空气炸锅炸的食品会致癌吗",
-          "url": "https://www.douyin.com/hot/2518301",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "央媒调查稻城亚丁“道路设卡摆渡收费”：收的什么费？景区有权设卡吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33274725",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "一颗流星在美国马萨诸塞州上空爆炸引发巨响",
-          "url": "https://wallstreetcn.com/livenews/3111854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "原美国疾控主任：埃博拉疫情表明世界尚未为大流行病做好准备",
-          "url": "https://wallstreetcn.com/livenews/3111838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "海口一教师疑因过度劳累赛课时猝死，校方回应正在按工伤处理，具体情况如何？赛课压力会是直接诱因吗？",
           "url": "https://www.zhihu.com/question/2043732787191084033",
           "source": "知乎",
@@ -151,15 +211,26 @@
           "time_info": "10时28分"
         },
         {
-          "title": "巴西正调查一起埃博拉疑似病例，该刚果（金）男子近期有过非洲旅行史",
-          "url": "https://wallstreetcn.com/livenews/3111847",
-          "source": "华尔街见闻-快讯",
+          "title": "戴尔科技集团创始人兼首席执行官：首台搭载英伟达Vera Rubin NVL72的戴尔科技Plus系统已面世。",
+          "url": "https://flash.jin10.com/detail/20260531103426891800",
+          "source": "金十数据",
           "ranks": [
-            19
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "14时48分"
+        },
+        {
+          "title": "高价销售集采药调查：供货商已降价补差 但药店仍高价销售",
+          "url": "https://flash.jin10.com/detail/20260531103051176800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "8岁女童被60岁老人猥亵母亲发声",
