@@ -1,427 +1,187 @@
 {
-  "generated_at": "2026-05-30T20:02:39.071856+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-05-31T10:28:48.178439+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 36,
+      "match_count": 16,
       "titles": [
         {
-          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
-          "url": "https://www.cls.cn/detail/2385959",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 20时02分]"
-        },
-        {
-          "title": "“超载客车追尾致13死”背后：“黑车”长途载客普遍，多个“拼车群”揽客",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33261390",
+          "title": "法治课｜超载客车追尾致13死，司机身亡谁来承担巨额赔偿？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33272053",
           "source": "澎湃新闻",
           "ranks": [
-            1,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时50分]"
-        },
-        {
-          "title": "江西赣州公布一轿车追尾致3死事故调查报告：事发前司机激活智驾并双手脱离方向盘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33262014",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "蓝色起源火箭测试中爆炸，贝索斯“太空梦”受挫，马斯克：火箭就是这么难",
-          "url": "https://wallstreetcn.com/articles/3773436",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 20时02分]"
-        },
-        {
-          "title": "蓝色起源“新格伦”火箭发生爆炸",
-          "url": "https://www.douyin.com/hot/2516095",
-          "source": "抖音",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时50分]"
-        },
-        {
-          "title": "准女婿涉嫌诈骗7亿 丈母娘拒腾房被拘",
-          "url": "https://www.toutiao.com/trending/7644822302210965523/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 16时16分]"
-        },
-        {
-          "title": "德国慕尼黑机场恢复运营 曾因疑似无人机活动短暂停运",
-          "url": "https://wallstreetcn.com/livenews/3111784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 20时02分]"
-        },
-        {
-          "title": "内蒙古呼和浩特一药店高价销售集采药 当地约谈主要负责人",
-          "url": "https://wallstreetcn.com/livenews/3111754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 18时44分]"
-        },
-        {
-          "title": "太空股狂欢遭遇现实暴击：蓝色起源火箭爆炸重挫市场热情",
-          "url": "https://www.cls.cn/detail/2385946",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 20时02分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "云南昭通一精神病医院涉嫌使用多种过期药品，被罚款2000元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33270942",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            10,
-            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "天价宠物为何这么贵",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BB%B7%E5%AE%A0%E7%89%A9%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%B4%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
+          "url": "https://www.cls.cn/detail/2385959",
+          "source": "财联社热门",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 20时02分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
-          "title": "准女婿涉嫌诈骗7亿 丈母娘拒腾房被拘",
-          "url": "https://www.baidu.com/s?wd=%E5%87%86%E5%A5%B3%E5%A9%BF%E6%B6%89%E5%AB%8C%E8%AF%88%E9%AA%977%E4%BA%BF+%E4%B8%88%E6%AF%8D%E5%A8%98%E6%8B%92%E8%85%BE%E6%88%BF%E8%A2%AB%E6%8B%98",
+          "title": "国务院留神峪煤矿事故调查组公告",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84%E5%85%AC%E5%91%8A",
           "source": "百度热搜",
           "ranks": [
-            13,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 16时16分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
-          "title": "仅退款“薅羊毛”70余次被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%85%E9%80%80%E6%AC%BE%E2%80%9C%E8%96%85%E7%BE%8A%E6%AF%9B%E2%80%9D70%E4%BD%99%E6%AC%A1%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
+          "title": "一颗流星在美国上空爆炸，引发巨响",
+          "url": "https://news.ifeng.com/c/8tYxj7tOixU",
+          "source": "凤凰网",
           "ranks": [
-            22,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 18时44分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
-          "title": "高血压男子健身猝死 健身房判赔10万",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%A1%80%E5%8E%8B%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E7%8C%9D%E6%AD%BB+%E5%81%A5%E8%BA%AB%E6%88%BF%E5%88%A4%E8%B5%9410%E4%B8%87",
-          "source": "百度热搜",
+          "title": "美国智库主席重批民进党愚蠢，蓝营议员解读：传达两大信号",
+          "url": "https://news.ifeng.com/c/8tYfiBi0636",
+          "source": "凤凰网",
           "ranks": [
-            30,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "空气炸锅炸的食品会致癌吗",
+          "url": "https://www.douyin.com/hot/2518301",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "央媒调查稻城亚丁“道路设卡摆渡收费”：收的什么费？景区有权设卡吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33274725",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "一颗流星在美国马萨诸塞州上空爆炸引发巨响",
+          "url": "https://wallstreetcn.com/livenews/3111854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "原美国疾控主任：埃博拉疫情表明世界尚未为大流行病做好准备",
+          "url": "https://wallstreetcn.com/livenews/3111838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 18时44分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
-          "title": "幼童被幼儿园老师用热熔胶烫嘴虐待，公安部门立案调查，此类虐童事件为何屡禁不止？背后哪些问题值得反思？",
-          "url": "https://www.zhihu.com/question/2043824042503660038",
+          "title": "海口一教师疑因过度劳累赛课时猝死，校方回应正在按工伤处理，具体情况如何？赛课压力会是直接诱因吗？",
+          "url": "https://www.zhihu.com/question/2043732787191084033",
           "source": "知乎",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "2岁男童公园误食滴水观音叶中毒",
-          "url": "https://www.toutiao.com/trending/7645152856706351130/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "香会今日开幕，越南国家主席首次主讲，创下一个纪录",
-          "url": "https://news.ifeng.com/c/8tWAEnAqbm8",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "男子健身时猝死 家属起诉健身房索赔",
-          "url": "https://www.toutiao.com/trending/7645575740390293558/",
-          "source": "今日头条",
-          "ranks": [
-            9,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 20时02分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
-          "title": "世卫组织谈控制埃博拉疫情关键",
-          "url": "https://www.douyin.com/hot/2517535",
-          "source": "抖音",
+          "title": "空气炸锅纸致癌？实测结果公布",
+          "url": "https://www.baidu.com/s?wd=%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E7%BA%B8%E8%87%B4%E7%99%8C%EF%BC%9F%E5%AE%9E%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            11
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 20时02分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
-          "title": "遭仅退款榴莲商家起诉买家获立案",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE%E6%A6%B4%E8%8E%B2%E5%95%86%E5%AE%B6%E8%B5%B7%E8%AF%89%E4%B9%B0%E5%AE%B6%E8%8E%B7%E7%AB%8B%E6%A1%88%23&t=31&band_rank=11&Refer=top",
+          "title": "巴西正调查一起埃博拉疑似病例，该刚果（金）男子近期有过非洲旅行史",
+          "url": "https://wallstreetcn.com/livenews/3111847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "8岁女童被60岁老人猥亵母亲发声",
+          "url": "https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB60%E5%B2%81%E8%80%81%E4%BA%BA%E7%8C%A5%E4%BA%B5%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "患者曝名医让其子代诊致误诊流产，上门质问时仍自顾剪脚趾甲，怎么回事？涉事医生及其子将承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2043756566575145350",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 20时02分]"
-        },
-        {
-          "title": "新格伦火箭发生爆炸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E6%A0%BC%E4%BC%A6%E7%81%AB%E7%AE%AD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "金融监管总局迎首位女性“掌门人”",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A5%B3%E6%80%A7%E2%80%9C%E6%8E%8C%E9%97%A8%E4%BA%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "列车受电弓遭异物击打被困隧道",
-          "url": "https://www.toutiao.com/trending/7645218220216778815/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "列车受电弓遭异物击打 火车站致歉",
-          "url": "https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E5%8F%97%E7%94%B5%E5%BC%93%E9%81%AD%E5%BC%82%E7%89%A9%E5%87%BB%E6%89%93+%E7%81%AB%E8%BD%A6%E7%AB%99%E8%87%B4%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "内蒙古呼和浩特一药店高价销售集采药 当地约谈主要负责人",
-          "url": "https://flash.jin10.com/detail/20260530154237111800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "据Alerta News 24报道，以色列对黎巴嫩的最新空袭造成11人遇难，其中包括一名救援人员。",
-          "url": "https://flash.jin10.com/detail/20260530090112008800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时28分"
         },
         {
           "title": "一张8人全家福 4人遇难",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%BC%A08%E4%BA%BA%E5%85%A8%E5%AE%B6%E7%A6%8F+4%E4%BA%BA%E9%81%87%E9%9A%BE",
           "source": "百度热搜",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
-          "url": "https://flash.jin10.com/detail/20260530185118096800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "情侣相约自杀1人身亡1人获刑",
-          "url": "https://www.baidu.com/s?wd=%E6%83%85%E4%BE%A3%E7%9B%B8%E7%BA%A6%E8%87%AA%E6%9D%801%E4%BA%BA%E8%BA%AB%E4%BA%A11%E4%BA%BA%E8%8E%B7%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            16
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "致13人遇难客车车厢里有电动车",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%87%B413%E4%BA%BA%E9%81%87%E9%9A%BE%E5%AE%A2%E8%BD%A6%E8%BD%A6%E5%8E%A2%E9%87%8C%E6%9C%89%E7%94%B5%E5%8A%A8%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "集采百元一盒药，药店竟卖3960元，央视调查“高价药”疑云",
-          "url": "https://wallstreetcn.com/livenews/3111718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "女子利用仅退款薅羊毛70余次被刑拘",
-          "url": "https://www.toutiao.com/trending/7644996526792310827/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "越共中央总书记、国家主席苏林：越南今年经济增长10%、此后实现两位数增长的经济目标将不会调整。",
-          "url": "https://flash.jin10.com/detail/20260530161716652800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "湖南衡阳一氢氟酸罐车发生追尾致危化品泄漏 无人员伤亡",
-          "url": "https://wallstreetcn.com/livenews/3111713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "会所老板诈骗7亿潜逃奢靡生活曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%9A%E6%89%80%E8%80%81%E6%9D%BF%E8%AF%88%E9%AA%977%E4%BA%BF%E6%BD%9C%E9%80%83%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "日本公司发布调查报告：近九成在华日企“没有退出中国市场计划”",
-          "url": "https://wallstreetcn.com/livenews/3111662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "10时28分"
         }
       ]
     }
