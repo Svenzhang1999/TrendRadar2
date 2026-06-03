@@ -1,45 +1,23 @@
 {
-  "generated_at": "2026-06-03T10:44:15.737377+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-06-03T16:05:25.476719+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "中央巡视办原主任黎晓宏接受中央纪委国家监委审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33291689",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 10时44分]"
-        },
-        {
-          "title": "“女老虎”王莉霞被提起公诉",
-          "url": "https://www.toutiao.com/trending/7646982867964444678/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "矿难致82死后当地县委书记落马",
-          "url": "https://www.toutiao.com/trending/7646785410631352356/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 10时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 16时05分]"
         },
         {
           "title": "山西长治市沁源县委书记赵永进接受审查调查",
@@ -47,11 +25,37 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 16时05分]"
+        },
+        {
+          "title": "“女老虎”王莉霞被提起公诉",
+          "url": "https://www.toutiao.com/trending/7646982867964444678/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时06分 ~ 10时44分]"
+          "time_info": "[10时43分 ~ 16时05分]"
+        },
+        {
+          "title": "矿难致82死后当地县委书记落马",
+          "url": "https://www.toutiao.com/trending/7646785410631352356/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 16时05分]"
         },
         {
           "title": "海力士火灾,内存涨价理由+1",
@@ -59,33 +63,36 @@
           "source": "贴吧",
           "ranks": [
             9,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 10时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 16时05分]"
         },
         {
           "title": "台岛以东日菲擅自划界，中国海警前出维权，台当局“炸毛”",
           "url": "https://news.ifeng.com/c/8tdaOdDac0X",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时05分]"
         },
         {
           "title": "王莉霞被提起公诉",
           "url": "https://www.douyin.com/hot/2521904",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时05分]"
         },
         {
           "title": "山西煤矿爆炸致 82 死，当地县委书记被查，哪些信息值得关注？",
@@ -95,8 +102,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时05分]"
         },
         {
           "title": "赤峰警方通报中学男生宿舍殴打案件：4人侮辱殴打3人，已被行拘",
@@ -110,15 +117,70 @@
           "time_info": "00时06分"
         },
         {
+          "title": "欧洲议会贸易委员会主席：美国政府正在迫切寻求其关税政策的新法律依据。",
+          "url": "https://flash.jin10.com/detail/20260603154511915800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "库里天价代言费曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E9%87%8C%E5%A4%A9%E4%BB%B7%E4%BB%A3%E8%A8%80%E8%B4%B9%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "欧洲议会贸易委员会主席：对欧盟而言，特恩伯里协议中任何高于15%的关税都是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260603154503630800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "受贿数额特别巨大，内蒙古自治区政府原主席王莉霞被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33297312",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "受贿数额特别巨大 内蒙古自治区政府原主席王莉霞被提起公诉",
           "url": "https://wallstreetcn.com/livenews/3113430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "老挝国家主席参访阿里中文致谢数字人",
+          "url": "https://www.toutiao.com/trending/7646725346187939370/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "狠人吃3斤临期刺身中毒",
