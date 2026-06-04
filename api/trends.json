@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T15:14:58.078477+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-06-04T18:54:34.631012+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "银之杰紧急澄清“被立案” 砸盘式“小作文”频繁扰乱市场",
@@ -31,6 +31,18 @@
           "time_info": "[10时38分 ~ 15时14分]"
         },
         {
+          "title": "杭州警方：19岁男子驾驶摩托车冲卡致执勤警员受伤，已被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303921",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 18时54分]"
+        },
+        {
           "title": "台积电(TSM.N)首席执行官：CoPoS先进封装技术已有试点生产线，我们预计CoPoS的产量将在两到三年内显著提升。",
           "url": "https://flash.jin10.com/detail/20260604102555351800",
           "source": "金十数据",
@@ -42,15 +54,26 @@
           "time_info": "10时38分"
         },
         {
-          "title": "杭州警方：19岁男子驾驶摩托车冲卡致执勤警员受伤，已被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33303921",
-          "source": "澎湃新闻",
+          "title": "老挝国家主席通伦抵达北京",
+          "url": "https://www.douyin.com/hot/2523111",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "运行超11年后失联，NASA正式宣布结束MAVEN火星探测任务",
+          "url": "https://news.ifeng.com/c/8tgNlfS7Oag",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "18时54分"
         },
         {
           "title": "据半岛电视台：以色列对加沙城的空袭造成9人遇难，其中包括4名儿童。",
@@ -70,7 +93,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -114,9 +137,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "男子买 34 层收房得知只建 32 层，至今只收到 7 万元退款，该如何维权？谁应为此担责？",
+          "url": "https://www.zhihu.com/question/2045565518300411299",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "台积电(TSM.N)首席执行官：全球产能扩张主要受客户需求和地方政府支持驱动。",
@@ -136,7 +170,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -152,13 +186,35 @@
           "time_info": "10时38分"
         },
         {
+          "title": "网红泰餐厅疑多人食物中毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%B3%B0%E9%A4%90%E5%8E%85%E7%96%91%E5%A4%9A%E4%BA%BA%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：俄罗斯近期针对亚美尼亚的限制措施无异于经济胁迫，这是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260604175616708800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "浙江人大常委会原副主任高兴夫被公诉",
           "url": "https://www.toutiao.com/trending/7647354406140477490/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -183,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧盟正在为亚美尼亚准备支持方案。将包括对亚美尼亚的即时财政援助，价值超过5000万欧元。",
+          "url": "https://flash.jin10.com/detail/20260604175516539800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "台积电(TSM.N)首席执行官：2024年和2025年员工分红利润增长约30%，预计2026年再增长30%。",
