@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T10:14:12.560939+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-05T14:57:57.234116+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 6,
+      "match_count": 15,
       "titles": [
         {
           "title": "老挝国家主席在华重回早年所住宿舍",
@@ -19,26 +19,39 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
+          "title": "网警侦破涉2026高考诈骗案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E6%B6%892026%E9%AB%98%E8%80%83%E8%AF%88%E9%AA%97%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "公司半夜通知全员放假后一夜搬空，200 名员工遭欠薪，员工该如何维权？公司跑路前一般有哪些征兆？",
           "url": "https://www.zhihu.com/question/2045868590243341493",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 14时57分]"
         },
         {
           "title": "圈国道收费遭多次投诉，神农架景区终于致歉：过境车辆自由通行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33307999",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 14时57分]"
         },
         {
           "title": "浙江省人大常委会原副主任高兴夫被提起公诉",
@@ -72,6 +85,94 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "网警护航高考 | 况某谎称售卖“2026高考题”实施诈骗被查",
+          "url": "https://www.toutiao.com/trending/7646951952911237166/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "网民谎称售卖2026高考题诈骗被查",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E8%B0%8E%E7%A7%B0%E5%94%AE%E5%8D%962026%E9%AB%98%E8%80%83%E9%A2%98%E8%AF%88%E9%AA%97%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "网警侦破涉高考试题诈骗案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E6%B6%89%E9%AB%98%E8%80%83%E8%AF%95%E9%A2%98%E8%AF%88%E9%AA%97%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "南开大学一学生被电诈骗220万",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%94%B5%E8%AF%88%E9%AA%97220%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "火箭发射突然爆炸，腾起巨大蘑菇云，美国登月计划再添变数",
+          "url": "https://v.ifeng.com/c/8tgYHU5uBap",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "曝美军福特号航母火灾远比描述严重",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%BE%8E%E5%86%9B%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E7%81%AB%E7%81%BE%E8%BF%9C%E6%AF%94%E6%8F%8F%E8%BF%B0%E4%B8%A5%E9%87%8D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "视频丨老挝国家主席通伦参访中央党校，重回26年前所住宿舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33308127",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "女讲师被要求50岁退休 起诉学校败诉",
+          "url": "https://www.toutiao.com/trending/7647689342340661267/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     }
