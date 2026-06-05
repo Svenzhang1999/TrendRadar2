@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-05T18:43:07.288089+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-06-05T21:47:29.968571+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "国务院调查双汇猪肉抗生素超标",
-          "url": "https://www.toutiao.com/trending/7646734389795209225/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
-        },
         {
           "title": "闻泰科技起诉安世荷兰已立案",
           "url": "https://news.ifeng.com/c/8ti5dci0HPR",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时47分]"
         },
         {
           "title": "老挝国家主席在华重回早年所住宿舍",
@@ -41,35 +30,13 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "成都原市长王凤朝被双开",
-          "url": "https://www.toutiao.com/trending/7647834824605961771/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：5月信贷或同比小幅少增，新增社融或同比继续下行",
-          "url": "https://www.cls.cn/detail/2391733",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
-        },
-        {
           "title": "中国银行深圳市分行原行长王少俊接受审查调查",
           "url": "https://wallstreetcn.com/livenews/3115026",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -80,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -96,6 +63,18 @@
           "time_info": "14时57分"
         },
         {
+          "title": "豆包误判蘑菇致用户中毒 高管回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%E8%87%B4%E7%94%A8%E6%88%B7%E4%B8%AD%E6%AF%92+%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时47分]"
+        },
+        {
           "title": "公司半夜通知全员放假后一夜搬空，200 名员工遭欠薪，员工该如何维权？公司跑路前一般有哪些征兆？",
           "url": "https://www.zhihu.com/question/2045868590243341493",
           "source": "知乎",
@@ -108,6 +87,42 @@
           "time_info": "[10时13分 ~ 14时57分]"
         },
         {
+          "title": "财联社C50风向指数调查：5月信贷或同比小幅少增，新增社融或同比继续下行",
+          "url": "https://www.cls.cn/detail/2391733",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时47分]"
+        },
+        {
+          "title": "国务院调查双汇猪肉抗生素超标",
+          "url": "https://www.toutiao.com/trending/7646734389795209225/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时47分]"
+        },
+        {
+          "title": "成都原市长王凤朝被双开",
+          "url": "https://www.toutiao.com/trending/7647834824605961771/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时47分]"
+        },
+        {
           "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
           "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
           "source": "澎湃新闻",
@@ -116,8 +131,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 21时47分]"
         },
         {
           "title": "网警护航高考 | 况某谎称售卖“2026高考题”实施诈骗被查",
@@ -127,8 +142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 21时47分]"
         },
         {
           "title": "网民谎称售卖2026高考题诈骗被查",
@@ -138,8 +153,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 21时47分]"
         },
         {
           "title": "网警侦破涉高考试题诈骗案",
@@ -149,8 +164,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 18时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 21时47分]"
         },
         {
           "title": "南开大学一学生被电诈骗220万",
@@ -161,8 +176,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 21时47分]"
+        },
+        {
+          "title": "云南一医生全家已连续3年吃菌子中毒",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%8C%BB%E7%94%9F%E5%85%A8%E5%AE%B6%E5%B7%B2%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E5%90%83%E8%8F%8C%E5%AD%90%E4%B8%AD%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时57分 ~ 18时43分]"
+          "time_info": "[18时42分 ~ 21时47分]"
         },
         {
           "title": "圈国道收费遭多次投诉，神农架景区终于致歉：过境车辆自由通行",
@@ -188,26 +214,15 @@
           "time_info": "[14时57分 ~ 18时43分]"
         },
         {
-          "title": "豆包误判蘑菇致用户中毒 高管回应",
-          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%E8%87%B4%E7%94%A8%E6%88%B7%E4%B8%AD%E6%AF%92+%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "37 岁工程师猝死时工作群仍在派活，生前常加班至凌晨，这种「停不下来」的死循环，究竟是谁在按下加速键？",
+          "url": "https://www.zhihu.com/question/2044735798428403181",
+          "source": "知乎",
           "ranks": [
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
-        },
-        {
-          "title": "云南一医生全家已连续3年吃菌子中毒",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%8C%BB%E7%94%9F%E5%85%A8%E5%AE%B6%E5%B7%B2%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E5%90%83%E8%8F%8C%E5%AD%90%E4%B8%AD%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时47分]"
         },
         {
           "title": "浙江省人大常委会原副主任高兴夫被提起公诉",
@@ -219,17 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
-          "title": "37 岁工程师猝死时工作群仍在派活，生前常加班至凌晨，这种「停不下来」的死循环，究竟是谁在按下加速键？",
-          "url": "https://www.zhihu.com/question/2044735798428403181",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "中学生篡改同学志愿 被拘5日不予执行",
@@ -298,15 +302,48 @@
           "time_info": "[18时42分 ~ 18时43分]"
         },
         {
+          "title": "TP-LINK 被曝强制全员转签，新合同暗含霸王条款，超 140 人离职，企业这种做法合法吗？",
+          "url": "https://www.zhihu.com/question/2046228508003627559",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "瑞士：针对美国加征关税，瑞士将继续进行谈判。 驳斥美方调查提出的相关指控。",
           "url": "https://wallstreetcn.com/livenews/3115013",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "马上评｜该对AI外呼骚扰电话出手了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "女讲师被要求50岁退休 起诉学校败诉",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%AE%B2%E5%B8%88%E8%A2%AB%E8%A6%81%E6%B1%8250%E5%B2%81%E9%80%80%E4%BC%91+%E8%B5%B7%E8%AF%89%E5%AD%A6%E6%A0%A1%E8%B4%A5%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "据罗马尼亚媒体G4Media：康斯坦察县县长表示，康斯坦察发生一起无人机爆炸事件，另一架无人机在乌克兰爆炸，目前仍在搜寻剩余的三架无人机。",
@@ -315,7 +352,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -326,7 +363,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -348,7 +385,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -370,7 +407,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -381,7 +418,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -392,7 +429,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -406,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "中学生篡改同学志愿 被拘5日不予执行",
+          "url": "https://www.toutiao.com/trending/7647787338382295081/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     }
