@@ -1,216 +1,165 @@
 {
-  "generated_at": "2026-06-07T21:20:06.109402+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-06-08T10:36:55.953004+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 18,
+      "match_count": 14,
       "titles": [
         {
-          "title": "英国航空首席执行官表示，如果燃油成本保持高位，机票价格将再次上涨。",
-          "url": "https://flash.jin10.com/detail/20260607140435618800",
-          "source": "金十数据",
+          "title": "菲律宾群岛地区发生7.9级地震",
+          "url": "https://www.toutiao.com/trending/7648804315238239787/",
+          "source": "今日头条",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时58分"
+          "time_info": "10时36分"
         },
         {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
+          "title": "菲律宾群岛地区发生7.9级地震",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F7.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "菲律宾群岛地区7.9级地震",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B%E5%9C%B0%E5%8C%BA7.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "武汉一民警被女子指控索要钱物受处分，涉猥亵举报未认定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33314672",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "《财经调查》曝光“回收料”牙刷：部分流入酒店民宿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329942",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "埃博拉疫情在东非蔓延，美媒这时候想到中国了",
+          "url": "https://news.ifeng.com/c/8tlEHCyOJyj",
           "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "菲律宾群岛地区发生7.9级地震",
+          "url": "https://www.douyin.com/hot/2526744",
+          "source": "抖音",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 21时20分]"
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
           "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
           "url": "https://www.cls.cn/detail/2392742",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 21时20分]"
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
-          "title": "知名品牌「进口黄油」被国内小作坊仿造，涉案金额超过 500w 才被发现，这暴露了哪些食品安全与监管问题？",
-          "url": "https://www.zhihu.com/question/2046166409097621946",
+          "title": "四川康定发生4.5级地震",
+          "url": "https://www.toutiao.com/trending/7648764878035779626/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "菲律宾群岛7.9级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B7.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
           "source": "知乎",
           "ranks": [
-            15,
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时58分 ~ 21时20分]"
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
-          "title": "网红边牧“锄头”被陌生男女偷走并遭宰杀，警方立案侦查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325346",
-          "source": "澎湃新闻",
+          "title": "直击菲律宾强震：有房屋坍塌成废墟",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%BC%BA%E9%9C%87%EF%BC%9A%E6%9C%89%E6%88%BF%E5%B1%8B%E5%9D%8D%E5%A1%8C%E6%88%90%E5%BA%9F%E5%A2%9F",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 17时58分]"
-        },
-        {
-          "title": "红色预警：湖南西南部、广西北部、贵州东南部局地发生山洪灾害可能性很大",
-          "url": "https://wallstreetcn.com/livenews/3115543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 21时20分]"
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
-          "title": "以军称两名士兵在黎巴嫩南部执行任务期间死亡",
-          "url": "https://wallstreetcn.com/livenews/3115497",
-          "source": "华尔街见闻-快讯",
+          "title": "据中国贸易救济信息网，6月5日，美国国际贸易委员会（ITC）投票决定对特定智能设备启动337调查。",
+          "url": "https://flash.jin10.com/detail/20260608095146772800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 14时58分]"
-        },
-        {
-          "title": "伊朗哈尔克岛附近爆炸声系排爆作业所致",
-          "url": "https://wallstreetcn.com/livenews/3115496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 14时58分]"
-        },
-        {
-          "title": "伊朗媒体：哈尔克岛附近居民听到爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3115493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 14时58分]"
-        },
-        {
-          "title": "乌称乏核燃料贮存设施遭袭 国际原子能机构将进行调查",
-          "url": "https://wallstreetcn.com/livenews/3115554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时20分"
+          "time_info": "10时36分"
         },
         {
-          "title": "中国地震台网正式测定：06月07日18时41分在千岛群岛发生6.0级地震，震源深度30千米。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260607191022440800",
-          "source": "金十数据",
+          "title": "杨超越素人时期遭职场霸凌",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%B4%A0%E4%BA%BA%E6%97%B6%E6%9C%9F%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "国际原子能机构：袭击对设施的燃料接收建筑造成了重大损害，附近建筑也受到爆炸波的影响。",
-          "url": "https://flash.jin10.com/detail/20260607162532896800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "据以色列国土报：以军内部评估认为，对黎巴嫩纳巴提耶（Nabatieh）的打击可能构成一场“军事地震”，并影响整个黎巴嫩南部战线。",
-          "url": "https://flash.jin10.com/detail/20260607162312312800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "加沙地带卫生部门：过去24小时，加沙地带各医院共接收了10名遇难者遗体和36名伤员。自2025年10月11日停火以来，加沙地带共记录遇难者961人、伤者3020人。",
-          "url": "https://flash.jin10.com/detail/20260607182750157800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "中国地震台网正式测定：06月07日18时02分在希腊发生5.0级地震，震源深度10千米。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260607182647707800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "据以色列媒体报道，贝鲁特达希耶地区传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260607201400758800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "一条锦鲤拍出400万元天价",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E9%94%A6%E9%B2%A4%E6%8B%8D%E5%87%BA400%E4%B8%87%E5%85%83%E5%A4%A9%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "男子吃见手青中毒以为自己在修仙",
-          "url": "https://www.toutiao.com/trending/7647881635538665514/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时36分"
         }
       ]
     }
