@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T18:28:03.816182+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-06-09T21:37:30.843107+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "火灾细节被披露，福特号故障暴露美海军战力下滑",
@@ -20,13 +20,24 @@
           "time_info": "[10时01分 ~ 14时12分]"
         },
         {
+          "title": "莫离热度像跳楼机",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E7%A6%BB%E7%83%AD%E5%BA%A6%E5%83%8F%E8%B7%B3%E6%A5%BC%E6%9C%BA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "中国证监会主席吴清会见香港金管局总裁余伟文和香港银行公会代表团",
           "url": "https://wallstreetcn.com/livenews/3116715",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -39,20 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 18时28分]"
-        },
-        {
-          "title": "香港开户行不通，又转向新加坡美国？实情调查",
-          "url": "https://www.cls.cn/detail/2394464",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 21时37分]"
         },
         {
           "title": "银狐木马中毒,吧友急求大神",
@@ -61,6 +60,18 @@
           "ranks": [
             4,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 21时37分]"
+        },
+        {
+          "title": "香港开户行不通，又转向新加坡美国？实情调查",
+          "url": "https://www.cls.cn/detail/2394464",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -93,6 +104,19 @@
           "time_info": "[10时01分 ~ 18时28分]"
         },
         {
+          "title": "贵州一职校在无烟日收缴香烟后，于操场集中焚烧，当地人社局已介入调查，如何看待校方行为？处理方式合规吗？",
+          "url": "https://www.zhihu.com/question/2045458377795433050",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 21时37分]"
+        },
+        {
           "title": "男子伪装店员带走醉酒女子后性侵",
           "url": "https://www.toutiao.com/trending/7649028207740059691/",
           "source": "今日头条",
@@ -116,16 +140,16 @@
           "time_info": "[10时01分 ~ 14时12分]"
         },
         {
-          "title": "贵州一职校在无烟日收缴香烟后，于操场集中焚烧，当地人社局已介入调查，如何看待校方行为？处理方式合规吗？",
-          "url": "https://www.zhihu.com/question/2045458377795433050",
-          "source": "知乎",
+          "title": "4名在泰失联中国公民目前已回国",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%9B%AE%E5%89%8D%E5%B7%B2%E5%9B%9E%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            11
+            16,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时12分 ~ 18时28分]"
+          "time_info": "[18时27分 ~ 21时37分]"
         },
         {
           "title": "网红边牧犬“锄头”被偷走宰杀，警方已刑事立案",
@@ -150,15 +174,15 @@
           "time_info": "[18时27分 ~ 18时28分]"
         },
         {
-          "title": "4名在泰失联中国公民目前已回国",
-          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%9B%AE%E5%89%8D%E5%B7%B2%E5%9B%9E%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "俄罗斯一处弹药库剧烈爆炸，现场腾起蘑菇云(图)",
+          "url": "https://v.ifeng.com/c/8tos3hBXZUh",
+          "source": "凤凰网",
           "ranks": [
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "女生校内厕所遭霸凌，连同两名施暴者一并被开除，校方回应(图)",
@@ -170,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "针对中国？印度空调爆炸烧死前高官，却仍在收紧压缩机进口",
+          "url": "https://news.ifeng.com/c/8tontSRAbju",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "菲律宾地震已致37人死亡百余人受伤",
@@ -200,9 +235,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "曝郭晓盈骚扰阿丽米热",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%83%AD%E6%99%93%E7%9B%88%E9%AA%9A%E6%89%B0%E9%98%BF%E4%B8%BD%E7%B1%B3%E7%83%AD%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "路透社/益普索调查显示，17%的美国共和党人表示他们不会投票支持因证券欺诈指控被起诉的得州参议院候选人。",
@@ -211,7 +257,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
