@@ -1,293 +1,88 @@
 {
-  "generated_at": "2026-06-08T20:21:36.332288+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-09T10:02:16.873945+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 25,
+      "match_count": 7,
       "titles": [
         {
-          "title": "武汉一民警被女子指控索要钱物受处分，涉猥亵举报未认定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33314672",
-          "source": "澎湃新闻",
+          "title": "火灾细节被披露，福特号故障暴露美海军战力下滑",
+          "url": "https://news.ifeng.com/c/8to6MDmBwyx",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 20时21分]"
-        },
-        {
-          "title": "6 月 8 日菲律宾群岛发生 7.9 级地震，或引发大规模海啸，目前情况如何？会对我国沿海造成影响吗？",
-          "url": "https://www.zhihu.com/question/2047225491350713696",
-          "source": "知乎",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "菲律宾群岛地区发生7.9级地震",
-          "url": "https://www.toutiao.com/trending/7648804315238239787/",
+          "title": "男子伪装店员带走醉酒女子后性侵",
+          "url": "https://www.toutiao.com/trending/7649028207740059691/",
           "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "菲律宾群岛地区发生7.9级地震",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F7.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "菲律宾群岛 7.9 级地震已致 15 人死亡，或引发大规模海啸，目前情况如何？会对我国沿海造成影响吗？",
-          "url": "https://www.zhihu.com/question/2047225491350713696",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "《财经调查》曝光“回收料”牙刷：部分流入酒店民宿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329942",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 20时21分]"
-        },
-        {
-          "title": "菲律宾群岛地区7.9级地震",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B%E5%9C%B0%E5%8C%BA7.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 15时23分]"
-        },
-        {
-          "title": "菲律宾群岛地区发生7.9级地震",
-          "url": "https://www.douyin.com/hot/2526744",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 20时21分]"
-        },
-        {
-          "title": "埃博拉疫情在东非蔓延，美媒这时候想到中国了",
-          "url": "https://news.ifeng.com/c/8tlEHCyOJyj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 15时23分]"
-        },
-        {
-          "title": "野路子的董路带着孩子们 7 战全胜，你支持董路当足协主席吗？如何看待类似董路这种「野路子现象」？",
-          "url": "https://www.zhihu.com/question/2046470362834195765",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 20时21分]"
-        },
-        {
-          "title": "菲律宾群岛发生7.9级地震",
-          "url": "https://news.ifeng.com/c/8tmggjV4P1u",
-          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "财联社C50风向指数调查：6月资金面或延续平稳，近七成机构对债市谨慎乐观",
-          "url": "https://www.cls.cn/detail/2393176",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "嘴含“网红花”拍照后中毒",
-          "url": "https://www.baidu.com/s?wd=%E5%98%B4%E5%90%AB%E2%80%9C%E7%BD%91%E7%BA%A2%E8%8A%B1%E2%80%9D%E6%8B%8D%E7%85%A7%E5%90%8E%E4%B8%AD%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "菲律宾地震一快餐店瞬间成废墟",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%B0%E9%9C%87%E4%B8%80%E5%BF%AB%E9%A4%90%E5%BA%97%E7%9E%AC%E9%97%B4%E6%88%90%E5%BA%9F%E5%A2%9F%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "苏拉威西海发生6.6级地震",
-          "url": "https://www.toutiao.com/trending/7648487753978298374/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "金融监管总局党委召开扩大会议 研究部署近期重点工作",
-          "url": "https://www.cls.cn/detail/2393701",
-          "source": "财联社热门",
+          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
+          "url": "https://wallstreetcn.com/articles/3774144",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
-          "url": "https://www.cls.cn/detail/2392742",
-          "source": "财联社热门",
+          "title": "江西南昌一辆小米SU7 Ultra起火，小米公司回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33335969",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "四川康定发生4.5级地震",
-          "url": "https://www.toutiao.com/trending/7648764878035779626/",
-          "source": "今日头条",
+          "title": "多个门店销售过期食品，美宜佳总部被市场监管总局约谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333668",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "菲律宾群岛7.9级地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B7.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
+          "title": "网红边牧犬“锄头”被偷走宰杀，警方已刑事立案",
+          "url": "https://news.ifeng.com/c/8tnXxA2lgS9",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "直击菲律宾强震：有房屋坍塌成废墟",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%BC%BA%E9%9C%87%EF%BC%9A%E6%9C%89%E6%88%BF%E5%B1%8B%E5%9D%8D%E5%A1%8C%E6%88%90%E5%BA%9F%E5%A2%9F",
-          "source": "百度热搜",
+          "title": "安徽滁州女刑警诈骗案调查：以招待名义向15人赊购700万烟茶酒，有个体户持“公章合同”追债",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333017",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "宁波银行公告称，近日收到相关监管批复，宁波金融监管局已核准冯培炯宁波银行副董事长、行长的任职资格。",
-          "url": "https://wallstreetcn.com/livenews/3116143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "据中国贸易救济信息网，6月5日，美国国际贸易委员会（ITC）投票决定对特定智能设备启动337调查。",
-          "url": "https://flash.jin10.com/detail/20260608095146772800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "伊朗德黑兰梅赫拉巴德机场宣布航班暂停运营",
-          "url": "https://wallstreetcn.com/livenews/3115912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "杨超越素人时期遭职场霸凌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%B4%A0%E4%BA%BA%E6%97%B6%E6%9C%9F%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     }
