@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T14:12:50.423426+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-06-09T18:28:03.816182+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "火灾细节被披露，福特号故障暴露美海军战力下滑",
@@ -20,15 +20,15 @@
           "time_info": "[10时01分 ~ 14时12分]"
         },
         {
-          "title": "银狐木马中毒,吧友急求大神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354995&amp;topic_name=%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC%E4%B8%AD%E6%AF%92%2C%E5%90%A7%E5%8F%8B%E6%80%A5%E6%B1%82%E5%A4%A7%E7%A5%9E",
-          "source": "贴吧",
+          "title": "中国证监会主席吴清会见香港金管局总裁余伟文和香港银行公会代表团",
+          "url": "https://wallstreetcn.com/livenews/3116715",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时12分"
+          "time_info": "18时28分"
         },
         {
           "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
@@ -39,8 +39,45 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 18时28分]"
+        },
+        {
+          "title": "香港开户行不通，又转向新加坡美国？实情调查",
+          "url": "https://www.cls.cn/detail/2394464",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时12分]"
+          "time_info": "[14时12分 ~ 18时28分]"
+        },
+        {
+          "title": "银狐木马中毒,吧友急求大神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354995&amp;topic_name=%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC%E4%B8%AD%E6%AF%92%2C%E5%90%A7%E5%8F%8B%E6%80%A5%E6%B1%82%E5%A4%A7%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 18时28分]"
+        },
+        {
+          "title": "安徽滁州女刑警诈骗案调查：以招待名义向15人赊购700万烟茶酒，有个体户持“公章合同”追债",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333017",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 18时28分]"
         },
         {
           "title": "江西南昌一辆小米SU7 Ultra起火，小米公司回应",
@@ -48,11 +85,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 18时28分]"
         },
         {
           "title": "男子伪装店员带走醉酒女子后性侵",
@@ -78,16 +116,16 @@
           "time_info": "[10时01分 ~ 14时12分]"
         },
         {
-          "title": "安徽滁州女刑警诈骗案调查：以招待名义向15人赊购700万烟茶酒，有个体户持“公章合同”追债",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333017",
-          "source": "澎湃新闻",
+          "title": "贵州一职校在无烟日收缴香烟后，于操场集中焚烧，当地人社局已介入调查，如何看待校方行为？处理方式合规吗？",
+          "url": "https://www.zhihu.com/question/2045458377795433050",
+          "source": "知乎",
           "ranks": [
-            14,
-            13
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时01分 ~ 14时12分]"
+          "time_info": "[14时12分 ~ 18时28分]"
         },
         {
           "title": "网红边牧犬“锄头”被偷走宰杀，警方已刑事立案",
@@ -101,15 +139,26 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "香港开户行不通，又转向新加坡美国？实情调查",
-          "url": "https://www.cls.cn/detail/2394464",
-          "source": "财联社热门",
+          "title": "女生校内厕所遭霸凌，连同两名施暴者一并被开除，校方回应",
+          "url": "https://news.ifeng.com/c/8tocSEnbQDd",
+          "source": "凤凰网",
           "ranks": [
-            7
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
+          "title": "4名在泰失联中国公民目前已回国",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%9C%A8%E6%B3%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%9B%AE%E5%89%8D%E5%B7%B2%E5%9B%9E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "女生校内厕所遭霸凌，连同两名施暴者一并被开除，校方回应(图)",
@@ -118,18 +167,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "贵州一职校在无烟日收缴香烟后，于操场集中焚烧，当地人社局已介入调查，如何看待校方行为？处理方式合规吗？",
-          "url": "https://www.zhihu.com/question/2045458377795433050",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -140,7 +178,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -151,9 +189,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "上期所：对部分客户采取限制开仓监管措施",
+          "url": "https://wallstreetcn.com/livenews/3116688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "路透社/益普索调查显示，17%的美国共和党人表示他们不会投票支持因证券欺诈指控被起诉的得州参议院候选人。",
+          "url": "https://flash.jin10.com/detail/20260609180149902800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "螺旋蝇疫情在美国多地扩散 联邦政府正在释放“不育蝇”加以应对",
@@ -162,7 +222,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }
