@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-11T10:36:51.275687+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-11T15:22:08.500222+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
         {
-          "title": "广西兴安发生爆炸已致7死17伤",
-          "url": "https://www.toutiao.com/trending/7649931155013111359/",
-          "source": "今日头条",
+          "title": "上海市政府党组成员、副市长陈宇剑接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350020",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 15时22分]"
         },
         {
           "title": "广西兴安爆炸致7死17伤",
@@ -24,17 +24,6 @@
           "source": "微博",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "上海市政府党组成员、副市长陈宇剑接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33350020",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,17 +52,6 @@
           "time_info": "10时36分"
         },
         {
-          "title": "吓人!小伙赴印尼奔现后失联",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355057&amp;topic_name=%E5%90%93%E4%BA%BA%21%E5%B0%8F%E4%BC%99%E8%B5%B4%E5%8D%B0%E5%B0%BC%E5%A5%94%E7%8E%B0%E5%90%8E%E5%A4%B1%E8%81%94",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
           "title": "广西兴安爆炸致7死17伤",
           "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E8%A5%BF%E5%85%B4%E5%AE%89%E7%88%86%E7%82%B8%E8%87%B47%E6%AD%BB17%E4%BC%A4",
           "source": "bilibili 热搜",
@@ -85,6 +63,143 @@
           "time_info": "10时36分"
         },
         {
+          "title": "广西兴安发生爆炸已致7死17伤",
+          "url": "https://www.toutiao.com/trending/7649931155013111359/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 15时22分]"
+        },
+        {
+          "title": "吓人!小伙赴印尼奔现后失联",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355057&amp;topic_name=%E5%90%93%E4%BA%BA%21%E5%B0%8F%E4%BC%99%E8%B5%B4%E5%8D%B0%E5%B0%BC%E5%A5%94%E7%8E%B0%E5%90%8E%E5%A4%B1%E8%81%94",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 15时22分]"
+        },
+        {
+          "title": "韩国LCK工作人员霸凌女粉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355038&amp;topic_name=%E9%9F%A9%E5%9B%BDLCK%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E9%9C%B8%E5%87%8C%E5%A5%B3%E7%B2%89",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 15时22分]"
+        },
+        {
+          "title": "广西兴安爆炸致7死17伤",
+          "url": "https://www.douyin.com/hot/2530282",
+          "source": "抖音",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 15时22分]"
+        },
+        {
+          "title": "重庆两江新区警方通报“男子虐待领养犬只”：李某已被行拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352583",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 15时22分]"
+        },
+        {
+          "title": "极兔速递被立案调查",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%81%E5%85%94%E9%80%9F%E9%80%92%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "“百亿补贴”并非真百亿，北京市场监管局约谈5家电商平台",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33356746",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "国家邮政局依法对极兔速递有限公司立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33356836",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "淘宝京东拼多多抖音小红书被约谈",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "广东3个月宝宝喝蔬菜汁冲奶中毒抢救",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C3%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E5%96%9D%E8%94%AC%E8%8F%9C%E6%B1%81%E5%86%B2%E5%A5%B6%E4%B8%AD%E6%AF%92%E6%8A%A2%E6%95%91",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "媒体评谢娜演唱会被投诉",
+          "url": "https://www.douyin.com/hot/2529687",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "百亿补贴并非真百亿 多家平台被约谈",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4%E5%B9%B6%E9%9D%9E%E7%9C%9F%E7%99%BE%E4%BA%BF+%E5%A4%9A%E5%AE%B6%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "广西兴安爆炸致7死17伤",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%85%B4%E5%AE%89%E7%88%86%E7%82%B8%E8%87%B47%E6%AD%BB17%E4%BC%A4",
           "source": "百度热搜",
@@ -94,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "英国海事贸易组织：地方当局报告称，一艘油轮的机舱内起火，尚未报告环境影响。",
+          "url": "https://flash.jin10.com/detail/20260611150145613800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "两大央企被约谈",
@@ -118,17 +244,6 @@
           "time_info": "10时36分"
         },
         {
-          "title": "韩国LCK工作人员霸凌女粉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355038&amp;topic_name=%E9%9F%A9%E5%9B%BDLCK%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E9%9C%B8%E5%87%8C%E5%A5%B3%E7%B2%89",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
           "title": "湖北宜昌发生爆炸火光冲天系谣言",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E7%81%AB%E5%85%89%E5%86%B2%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
@@ -140,15 +255,15 @@
           "time_info": "10时36分"
         },
         {
-          "title": "广西兴安爆炸致7死17伤",
-          "url": "https://www.douyin.com/hot/2530282",
-          "source": "抖音",
+          "title": "一名印度官员表示，三名印度海员在一艘因涉嫌违反美国对伊朗封锁而遭美军袭击的油轮上遇难。",
+          "url": "https://flash.jin10.com/detail/20260611145849399800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "15时22分"
         },
         {
           "title": "广西桂林兴安县发生爆炸已致7死17伤，排除管道燃气引起",
@@ -156,17 +271,6 @@
           "source": "澎湃新闻",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "重庆两江新区警方通报“男子虐待领养犬只”：李某已被行拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352583",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -226,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "极兔回应被立案调查：高度重视，全面整改",
+          "url": "https://wallstreetcn.com/livenews/3117930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     }
