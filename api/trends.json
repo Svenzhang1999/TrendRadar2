@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T16:48:14.133641+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-06-15T22:55:20.148839+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 15,
+      "match_count": 29,
       "titles": [
         {
           "title": "市场监管总局约谈山姆总部，要求其严防全链条食品安全风险，山姆的品控出了什么问题？此次约谈有何警示意义？",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 22时55分]"
+        },
+        {
+          "title": "录音显示美军仍在执行对伊朗海上封锁",
+          "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "影子调查｜有毒的“养生烟”：电商热销宣称“养生润肺”，神秘厂家难寻",
@@ -24,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 22时55分]"
         },
         {
           "title": "人民日报聚焦：无牌上路、禁而难止，“老头乐”怎成监管“老大难”",
@@ -36,11 +48,36 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 22时55分]"
+        },
+        {
+          "title": "山姆回应被市场监管总局约谈：全面优化食安管控和商品品控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380973",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时40分 ~ 16时48分]"
+          "time_info": "[16时47分 ~ 22时55分]"
+        },
+        {
+          "title": "针对多发食品安全问题，市场监管总局约谈山姆总部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380724",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 22时55分]"
         },
         {
           "title": "山姆总部被约谈",
@@ -48,28 +85,6 @@
           "source": "百度热搜",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
-        },
-        {
-          "title": "针对多发食品安全问题，市场监管总局约谈山姆总部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33380724",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
-        },
-        {
-          "title": "山姆回应被市场监管总局约谈：全面优化食安管控和商品品控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33380973",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -87,6 +102,50 @@
           "time_info": "[16时47分 ~ 16时48分]"
         },
         {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "官方调查13岁学生误诊艾滋遭劝退",
+          "url": "https://www.toutiao.com/trending/7650518120109064211/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "叙利亚内政部发言人表示，针对拉卡一处内政部营地的自杀式袭击造成至少两名内政部人员丧生。",
+          "url": "https://flash.jin10.com/detail/20260615223351299800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.toutiao.com/trending/7651542350414037011/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "检察机关依法对海南省委原常委、秘书长倪强涉嫌受贿案提起公诉。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3119385",
           "source": "华尔街见闻-快讯",
@@ -96,6 +155,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "信披整改承诺仅保持九个月 国晟科技再收监管“双罚单”|速读公告",
+          "url": "https://www.cls.cn/detail/2400460",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "多方回应13岁学生被误诊艾滋病",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%9413%E5%B2%81%E5%AD%A6%E7%94%9F%E8%A2%AB%E8%AF%AF%E8%AF%8A%E8%89%BE%E6%BB%8B%E7%97%85",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "印度男子骚扰女大学生被警方打脚心",
+          "url": "https://www.toutiao.com/trending/7651557590384230410/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "辽绥渔35261船倾覆事故致8人遇难2人失踪，36人被追责问责",
@@ -109,6 +201,39 @@
           "time_info": "10时40分"
         },
         {
+          "title": "独自上南太行失联19天小伙遗体已找到",
+          "url": "https://www.toutiao.com/trending/7651184688770891812/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "马上评｜企业把品牌维权外包，隐患不小",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33381618",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "尼日利亚霍乱疫情持续蔓延",
+          "url": "https://wallstreetcn.com/livenews/3119758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "陕西合阳4.1级地震 启动四级应急响应",
           "url": "https://www.toutiao.com/trending/7651393846483357222/",
           "source": "今日头条",
@@ -120,15 +245,37 @@
           "time_info": "10时40分"
         },
         {
+          "title": "男子家中离奇中毒岳母再婚丈夫被抓",
+          "url": "https://www.toutiao.com/trending/7651511244318359571/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "日本首相高市早苗：美伊协议务必切实执行至关重要。 还必须看到关于伊朗核问题的协议。",
           "url": "https://wallstreetcn.com/livenews/3119535",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩称，欧盟与法国将于周三签订151亿欧元（折合175亿美元）防务贷款协议。 目前，欧洲军工股涨跌各异。",
+          "url": "https://wallstreetcn.com/livenews/3119753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "市场消息：相关电子邮件显示，特斯拉(TSLA.O)向欧洲监管机构提供了具有误导性的“完全自动驾驶”数据。",
@@ -137,7 +284,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -153,13 +300,24 @@
           "time_info": "10时40分"
         },
         {
+          "title": "市场消息：派拉蒙下周将就欧盟对华纳交易调查发布重要更新。",
+          "url": "https://flash.jin10.com/detail/20260615220453193800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗外长与土耳其、伊拉克、埃及同行通话，称美国负有执行协议的责任。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3119528",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
