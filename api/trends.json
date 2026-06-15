@@ -1,40 +1,97 @@
 {
-  "generated_at": "2026-06-15T10:40:57.080781+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-15T16:48:14.133641+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
-          "title": "检察机关依法对海南省委原常委、秘书长倪强涉嫌受贿案提起公诉。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3119385",
-          "source": "华尔街见闻-快讯",
+          "title": "市场监管总局约谈山姆总部，要求其严防全链条食品安全风险，山姆的品控出了什么问题？此次约谈有何警示意义？",
+          "url": "https://www.zhihu.com/question/2049810638076130456",
+          "source": "知乎",
           "ranks": [
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
         },
         {
           "title": "影子调查｜有毒的“养生烟”：电商热销宣称“养生润肺”，神秘厂家难寻",
           "url": "https://m.thepaper.cn/newsDetail_forward_33360714",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时48分]"
         },
         {
           "title": "人民日报聚焦：无牌上路、禁而难止，“老头乐”怎成监管“老大难”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33379827",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时48分]"
+        },
+        {
+          "title": "山姆总部被约谈",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E6%80%BB%E9%83%A8%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "针对多发食品安全问题，市场监管总局约谈山姆总部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380724",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "山姆回应被市场监管总局约谈：全面优化食安管控和商品品控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380973",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "市场监管总局约谈山姆总部",
+          "url": "https://www.douyin.com/hot/2534948",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "检察机关依法对海南省委原常委、秘书长倪强涉嫌受贿案提起公诉。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3119385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,6 +120,28 @@
           "time_info": "10时40分"
         },
         {
+          "title": "日本首相高市早苗：美伊协议务必切实执行至关重要。 还必须看到关于伊朗核问题的协议。",
+          "url": "https://wallstreetcn.com/livenews/3119535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "市场消息：相关电子邮件显示，特斯拉(TSLA.O)向欧洲监管机构提供了具有误导性的“完全自动驾驶”数据。",
+          "url": "https://flash.jin10.com/detail/20260615160402222800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "女子手机放枕边充电凌晨突然爆炸",
           "url": "https://www.toutiao.com/trending/7651037840683941938/",
           "source": "今日头条",
@@ -72,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗外长与土耳其、伊拉克、埃及同行通话，称美国负有执行协议的责任。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3119528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "陕西地震",
