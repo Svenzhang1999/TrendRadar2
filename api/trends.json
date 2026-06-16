@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T10:44:05.818741+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-16T16:39:15.762823+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 11,
+      "match_count": 20,
       "titles": [
         {
           "title": "山姆回应被市场监管总局约谈：全面优化食安管控和商品品控",
@@ -52,20 +52,53 @@
           "time_info": "[10时43分 ~ 10时44分]"
         },
         {
-          "title": "马上评｜企业把品牌维权外包，隐患不小",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33381618",
-          "source": "澎湃新闻",
+          "title": "醉驾撞死环卫工涉事人员被刑拘",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB%E7%8E%AF%E5%8D%AB%E5%B7%A5%E6%B6%89%E4%BA%8B%E4%BA%BA%E5%91%98%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "美伊协议内容将在19日签署后公布，美方披露“停火60天、重开霍尔木兹海峡”，核心是“两步核查机制”，还有3000亿美元“激励投资”",
+          "url": "https://wallstreetcn.com/articles/3774747",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "爸爸亲子活动猝死幼儿园被指救援不力",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E4%BA%B2%E5%AD%90%E6%B4%BB%E5%8A%A8%E7%8C%9D%E6%AD%BB%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%8C%87%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "美军一架 B-52 轰炸机在加州爱德华兹空军基地坠毁，8 名机组人员全部遇难，事故原因可能是什么？",
           "url": "https://www.zhihu.com/question/2050069303643449337",
           "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时39分]"
+        },
+        {
+          "title": "马上评｜企业把品牌维权外包，隐患不小",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33381618",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
@@ -113,7 +146,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -124,9 +157,75 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "美军证实B-52轰炸机坠毁致8名机组人员全部遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33387092",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "男子参加幼儿园亲子马拉松猝死",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%82%E5%8A%A0%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%BA%B2%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%8C%9D%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "女儿鼻孔塞进异物 爸爸嘴对嘴吹出",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E9%BC%BB%E5%AD%94%E5%A1%9E%E8%BF%9B%E5%BC%82%E7%89%A9+%E7%88%B8%E7%88%B8%E5%98%B4%E5%AF%B9%E5%98%B4%E5%90%B9%E5%87%BA",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "严打互联网广告违法行为 市场监管总局推出系统性治理方案",
+          "url": "https://wallstreetcn.com/livenews/3120159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "市场消息：莫斯科炼油厂火灾已扑灭。",
+          "url": "https://flash.jin10.com/detail/20260616161748350800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "市场监管总局：创新智慧监管模式 严查线上虚假门店",
+          "url": "https://wallstreetcn.com/livenews/3120153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     }
