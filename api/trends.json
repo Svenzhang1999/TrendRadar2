@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-17T16:22:25.629452+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-06-17T20:45:15.622689+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "钻空子0元购,退货王遭刑拘",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355235&amp;topic_name=%E9%92%BB%E7%A9%BA%E5%AD%900%E5%85%83%E8%B4%AD%2C%E9%80%80%E8%B4%A7%E7%8E%8B%E9%81%AD%E5%88%91%E6%8B%98",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时45分]"
         },
         {
           "title": "中国地震台网正式测定：06月17日10时06分在青海海西州直辖区（北纬37.85度，东经95.55度）发生4.1级地震，震源深度10千米。",
@@ -68,11 +69,46 @@
           "source": "知乎",
           "ranks": [
             12,
-            2
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 20时45分]"
+        },
+        {
+          "title": "山东3亿北斗工程现“脆皮底座”，官方组成联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396010",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时45分]"
+        },
+        {
+          "title": "陕西一幼儿园举办 5 公里亲子迷你马拉松，36 岁父亲陪跑途中猝死，跑五公里适合作为幼儿园的活动吗？",
+          "url": "https://www.zhihu.com/question/2050225795503805964",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时45分]"
+        },
+        {
+          "title": "沈阳酒商称宜宾珙县警方跨省扣走159瓶茅台3年后出现缺失或空瓶，宜宾市公安局督审支队：正内部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397843",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时40分 ~ 16时22分]"
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "国际足联主席探望伊朗球员：我知道你们经历了什么",
@@ -110,6 +146,28 @@
           "time_info": "[10时40分 ~ 16时22分]"
         },
         {
+          "title": "“遇见小面”诉“渝见小面”案撤销，重庆小面协会倡议规范商标维权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389897",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "山姆被约谈背后：食安强监管已成“新常态” 龙头商超加码布局供应链品控",
+          "url": "https://www.cls.cn/detail/2402112",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "现场视频丨青海海西州地震已致1人遇难、4人受伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33391631",
           "source": "澎湃新闻",
@@ -120,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 16时22分]"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "青海海西地震已致1死4伤",
@@ -161,7 +230,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -227,20 +296,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
         {
-          "title": "陕西一幼儿园举办 5 公里亲子迷你马拉松，36 岁父亲陪跑途中猝死，跑五公里适合作为幼儿园的活动吗？",
-          "url": "https://www.zhihu.com/question/2050225795503805964",
-          "source": "知乎",
+          "title": "欧洲理事会主席据悉谋求推动俄乌和谈",
+          "url": "https://flash.jin10.com/detail/20260617200438342800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "20时45分"
         },
         {
           "title": "游客讲述遭遇青海海西州地震：晃得站不稳，大家趴在地上避险",
@@ -254,15 +323,15 @@
           "time_info": "10时40分"
         },
         {
-          "title": "山东3亿北斗工程现“脆皮底座”，官方组成联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396010",
-          "source": "澎湃新闻",
+          "title": "市场消息：七国集团领导人与发展中国家代表及全球科技企业首席执行官共进工作午餐。",
+          "url": "https://flash.jin10.com/detail/20260617195554152800",
+          "source": "金十数据",
           "ranks": [
-            18
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "20时45分"
         },
         {
           "title": "韩国金融市场监管机构：呼吁投资者避免进行高风险或过度杠杆投资。 将加强监测风险因素，以应对市场波动加剧。",
@@ -282,9 +351,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "市场消息：欧洲理事会主席科斯塔的办公室与克里姆林宫进行了两次通话。",
+          "url": "https://flash.jin10.com/detail/20260617195002706800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     }
