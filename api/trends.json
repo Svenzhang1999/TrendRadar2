@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T15:26:36.576471+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-06-18T19:44:57.444221+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图",
@@ -16,8 +16,32 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 19时44分]"
+        },
+        {
+          "title": "山姆被约谈后两天换两帅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355253&amp;topic_name=%E5%B1%B1%E5%A7%86%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%90%8E%E4%B8%A4%E5%A4%A9%E6%8D%A2%E4%B8%A4%E5%B8%85",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时37分 ~ 15时26分]"
+          "time_info": "[15时26分 ~ 19时44分]"
+        },
+        {
+          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
+          "url": "https://www.zhihu.com/question/2050522294171039185",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 19时44分]"
         },
         {
           "title": "沈阳酒商称宜宾珙县警方跨省扣走159瓶茅台3年后出现缺失或空瓶，宜宾市公安局督审支队：正内部调查",
@@ -43,35 +67,35 @@
           "time_info": "[10时37分 ~ 15时26分]"
         },
         {
+          "title": "北京密云养老院洪灾致32死 问责17人",
+          "url": "https://www.toutiao.com/trending/7652497112878350399/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "北京密云养老院洪灾致32死 问责17人",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%AF%86%E4%BA%91%E5%85%BB%E8%80%81%E9%99%A2%E6%B4%AA%E7%81%BE%E8%87%B432%E6%AD%BB+%E9%97%AE%E8%B4%A317%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "中国地震台网正式测定：06月18日15时11分在青海海西州直辖区（北纬37.81度，东经95.52度）发生3.1级地震，震源深度10千米。",
           "url": "https://flash.jin10.com/detail/20260618151548939800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
-          "url": "https://www.zhihu.com/question/2050522294171039185",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "山姆被约谈后两天换两帅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355253&amp;topic_name=%E5%B1%B1%E5%A7%86%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%90%8E%E4%B8%A4%E5%A4%A9%E6%8D%A2%E4%B8%A4%E5%B8%85",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -81,11 +105,23 @@
           "source": "贴吧",
           "ranks": [
             8,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 19时44分]"
+        },
+        {
+          "title": "据消息人士透露，在7月31日截止日期临近之际，刚果的矿业公司正寻求暂缓执行“工人持股5%”的规定。",
+          "url": "https://flash.jin10.com/detail/20260618191159632800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "男子豆角中毒评论区都在打听几分熟",
@@ -94,9 +130,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "落马市委书记留下33个烂尾工程",
+          "url": "https://www.toutiao.com/trending/7652609213639327780/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "爆炸不断！俄罗斯多地遭袭，城市被巨大黑烟笼罩",
+          "url": "https://v.ifeng.com/c/8u3hSctrvjW",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "17岁少年被骗出殴打时父亲身残难阻拦",
@@ -116,7 +174,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -127,9 +185,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "甲酰胺 致癌",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B2%E9%85%B0%E8%83%BA%20%E8%87%B4%E7%99%8C&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "小米称西安警方侦破 AI 造谣刑案，4 人被刑拘，利用 AI 造谣将面临哪些法律责任？",
@@ -138,9 +207,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "密云养老院洪灾致32死 问责17人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%86%E4%BA%91%E5%85%BB%E8%80%81%E9%99%A2%E6%B4%AA%E7%81%BE%E8%87%B432%E6%AD%BB%20%E9%97%AE%E8%B4%A317%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "36 岁家长跑幼儿园亲子马拉松猝死，家属质疑园方救援不力，园方需要负什么责任？亲子活动安全谁该把关？",
