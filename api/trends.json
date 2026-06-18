@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T19:44:57.444221+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-06-18T23:38:26.024639+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图",
@@ -13,11 +13,25 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 23时38分]"
+        },
+        {
+          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
+          "url": "https://www.zhihu.com/question/2050522294171039185",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时37分 ~ 19时44分]"
+          "time_info": "[15时26分 ~ 23时38分]"
         },
         {
           "title": "山姆被约谈后两天换两帅",
@@ -28,20 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 19时44分]"
-        },
-        {
-          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
-          "url": "https://www.zhihu.com/question/2050522294171039185",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 19时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 23时38分]"
         },
         {
           "title": "沈阳酒商称宜宾珙县警方跨省扣走159瓶茅台3年后出现缺失或空瓶，宜宾市公安局督审支队：正内部调查",
@@ -73,7 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -84,7 +86,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -106,11 +108,35 @@
           "ranks": [
             8,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 23时38分]"
+        },
+        {
+          "title": "落马市委书记留下33个烂尾工程",
+          "url": "https://www.toutiao.com/trending/7652609213639327780/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 23时38分]"
+        },
+        {
+          "title": "爆炸不断！俄罗斯多地遭袭，城市被巨大黑烟笼罩",
+          "url": "https://v.ifeng.com/c/8u3hSctrvjW",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 23时38分]"
         },
         {
           "title": "据消息人士透露，在7月31日截止日期临近之际，刚果的矿业公司正寻求暂缓执行“工人持股5%”的规定。",
@@ -119,7 +145,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -135,26 +161,26 @@
           "time_info": "15时26分"
         },
         {
-          "title": "落马市委书记留下33个烂尾工程",
-          "url": "https://www.toutiao.com/trending/7652609213639327780/",
-          "source": "今日头条",
+          "title": "欧盟委员会主席冯德莱恩：乌克兰的局势显然正在转变。 势头很强。",
+          "url": "https://flash.jin10.com/detail/20260618231008793800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时44分"
+          "time_info": "23时38分"
         },
         {
-          "title": "爆炸不断！俄罗斯多地遭袭，城市被巨大黑烟笼罩",
-          "url": "https://v.ifeng.com/c/8u3hSctrvjW",
-          "source": "凤凰网",
+          "title": "金融监管总局：鼓励有条件的大型金融机构向中小金融机构输出算力服务",
+          "url": "https://www.cls.cn/detail/2403832",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时44分"
+          "time_info": "23时38分"
         },
         {
           "title": "17岁少年被骗出殴打时父亲身残难阻拦",
@@ -190,13 +216,24 @@
           "time_info": "15时26分"
         },
         {
+          "title": "为什么粽子容易导致食道异物",
+          "url": "https://www.toutiao.com/trending/7652582793675440155/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "甲酰胺 致癌",
           "url": "https://s.weibo.com/weibo?q=%E7%94%B2%E9%85%B0%E8%83%BA%20%E8%87%B4%E7%99%8C&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -218,7 +255,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -232,6 +269,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "宾客婚宴后猝死新人因曾敬酒被索赔",
+          "url": "https://www.toutiao.com/trending/7652193776953294889/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
+          "title": "监管批复资本补充债券新增余额不超过0亿元？厦门银行回应",
+          "url": "https://wallstreetcn.com/livenews/3121784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
+          "title": "殴打17岁男生者被曝是替女友出气",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AE%B4%E6%89%9317%E5%B2%81%E7%94%B7%E7%94%9F%E8%80%85%E8%A2%AB%E6%9B%9D%E6%98%AF%E6%9B%BF%E5%A5%B3%E5%8F%8B%E5%87%BA%E6%B0%94%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
+          "title": "欧盟计划重新审视银行业奖金与市场风险监管规则",
+          "url": "https://wallstreetcn.com/livenews/3121782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         }
       ]
     }
