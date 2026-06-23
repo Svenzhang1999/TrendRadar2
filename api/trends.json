@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:28:34.045894+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-06-23T21:35:56.488141+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "多部门成立联合调查组，核查“婴幼儿纸尿裤甲酰胺问题”",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -75,6 +75,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "美联储前主席格林斯潘去世",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E5%89%8D%E4%B8%BB%E5%B8%AD%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E5%8E%BB%E4%B8%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 21时35分]"
+        },
+        {
           "title": "美联储前主席格林斯潘去世，享年100岁",
           "url": "https://m.thepaper.cn/newsDetail_forward_33430214",
           "source": "澎湃新闻",
@@ -87,15 +98,17 @@
           "time_info": "[10时09分 ~ 18时28分]"
         },
         {
-          "title": "美联储前主席格林斯潘去世",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E5%89%8D%E4%B8%BB%E5%B8%AD%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E5%8E%BB%E4%B8%96",
-          "source": "bilibili 热搜",
+          "title": "内蒙古包头一派出所副所长施救欲跳楼群众时不幸牺牲，年仅30岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431838",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            20,
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时09分 ~ 18时28分]"
+          "time_info": "[14时39分 ~ 21时35分]"
         },
         {
           "title": "八旬老太搀扶跌倒残疾人摔倒身亡，法院一审判决残疾人补偿2万元",
@@ -133,6 +146,18 @@
           "time_info": "[14时39分 ~ 18时28分]"
         },
         {
+          "title": "悲报,育碧联合创始人坠机遇难",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355311&amp;topic_name=%E6%82%B2%E6%8A%A5%2C%E8%82%B2%E7%A2%A7%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 21时35分]"
+        },
+        {
           "title": "救人遇难外卖小哥爸爸获赠新车",
           "url": "https://www.baidu.com/s?wd=%E6%95%91%E4%BA%BA%E9%81%87%E9%9A%BE%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%88%B8%E7%88%B8%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6",
           "source": "百度热搜",
@@ -145,16 +170,16 @@
           "time_info": "[10时09分 ~ 14时39分]"
         },
         {
-          "title": "内蒙古包头一派出所副所长施救欲跳楼群众时不幸牺牲，年仅30岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431838",
-          "source": "澎湃新闻",
+          "title": "男子合成前女友不雅照致其自杀",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%88%E6%88%90%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%B8%8D%E9%9B%85%E7%85%A7%E8%87%B4%E5%85%B6%E8%87%AA%E6%9D%80",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            18
+            23,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时39分 ~ 18时28分]"
+          "time_info": "[18时28分 ~ 21时35分]"
         },
         {
           "title": "30岁女警为救跳楼轻生者牺牲",
@@ -168,13 +193,24 @@
           "time_info": "[10时09分 ~ 14时39分]"
         },
         {
+          "title": "索尼音乐庆祝诈骗小曲播放破亿",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E5%BA%86%E7%A5%9D%E8%AF%88%E9%AA%97%E5%B0%8F%E6%9B%B2%E6%92%AD%E6%94%BE%E7%A0%B4%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "G胖偷师苹果收天价存储税",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355476&amp;topic_name=G%E8%83%96%E5%81%B7%E5%B8%88%E8%8B%B9%E6%9E%9C%E6%94%B6%E5%A4%A9%E4%BB%B7%E5%AD%98%E5%82%A8%E7%A8%8E",
           "source": "贴吧",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -201,6 +237,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "柬埔寨参议院主席洪森将访华",
+          "url": "https://www.toutiao.com/trending/7654283534697857067/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "山西运城警方通报“13岁女孩称遭男子强奸，警方不予立案”：已组成联合调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33432435",
           "source": "澎湃新闻",
@@ -210,6 +257,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "合肥网红店“七万卤菜店”被拍到生肉食材遭狗啃食，市监部门：已介入调查，门店已闭店",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436482",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "假大师利用封建迷信性侵一对母女",
+          "url": "https://www.baidu.com/s?wd=%E5%81%87%E5%A4%A7%E5%B8%88%E5%88%A9%E7%94%A8%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%E6%80%A7%E4%BE%B5%E4%B8%80%E5%AF%B9%E6%AF%8D%E5%A5%B3",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "30岁女副所长为救跳楼轻生者牺牲",
@@ -223,15 +292,15 @@
           "time_info": "10时09分"
         },
         {
-          "title": "悲报,育碧联合创始人坠机遇难",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355311&amp;topic_name=%E6%82%B2%E6%8A%A5%2C%E8%82%B2%E7%A2%A7%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE",
-          "source": "贴吧",
+          "title": "欧盟据称将升级对Meta的调查 指控其产品导致儿童上瘾",
+          "url": "https://wallstreetcn.com/livenews/3123459",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "21时35分"
         },
         {
           "title": "广德车祸司机被刑拘",
@@ -245,15 +314,48 @@
           "time_info": "10时09分"
         },
         {
-          "title": "男子合成前女友不雅照致其自杀",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%88%E6%88%90%E5%89%8D%E5%A5%B3%E5%8F%8B%E4%B8%8D%E9%9B%85%E7%85%A7%E8%87%B4%E5%85%B6%E8%87%AA%E6%9D%80",
-          "source": "百度热搜",
+          "title": "美国联邦储备委员会前主席艾伦·格林斯潘去世，你对他有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2052494676024718106",
+          "source": "知乎",
           "ranks": [
-            23
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "21时35分"
+        },
+        {
+          "title": "两部门联合发布橙色山洪灾害预警",
+          "url": "https://www.toutiao.com/trending/7654531604487864371/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "柬埔寨人民党主席、参议院主席洪森将访华",
+          "url": "https://wallstreetcn.com/livenews/3123446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "我国拟修法完善招标投标领域监管措施防治腐败",
+          "url": "https://wallstreetcn.com/livenews/3123443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     }
