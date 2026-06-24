@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T14:36:41.133094+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-06-24T18:13:56.638218+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "小米电视紧急致歉：地震预警系研发人员误发",
@@ -13,11 +13,23 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 18时13分]"
+        },
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "合肥网红店“七万卤菜店”被拍到生肉食材遭狗啃食，市监部门：已介入调查，门店已闭店",
@@ -25,23 +37,24 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 18时13分]"
         },
         {
-          "title": "芯片股抛售潮席卷全球市场 德国全境铁路暂停运营 | 环球市场",
-          "url": "https://www.cls.cn/detail/2407384",
+          "title": "监管叫停券商新增股票类跨境TRS，跨境配置通道降温，一线调研",
+          "url": "https://www.cls.cn/detail/2407769",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            11,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时36分]"
+          "time_info": "[14时36分 ~ 18时13分]"
         },
         {
           "title": "柬埔寨人民党主席、参议院主席洪森将访华",
@@ -49,11 +62,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 18时13分]"
         },
         {
           "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
@@ -63,8 +77,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 18时13分]"
         },
         {
           "title": "美联储前主席格林斯潘去世",
@@ -72,6 +86,18 @@
           "source": "bilibili 热搜",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 18时13分]"
+        },
+        {
+          "title": "芯片股抛售潮席卷全球市场 德国全境铁路暂停运营 | 环球市场",
+          "url": "https://www.cls.cn/detail/2407384",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -96,7 +122,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -112,15 +138,15 @@
           "time_info": "10时10分"
         },
         {
-          "title": "监管叫停券商新增股票类跨境TRS，跨境配置通道降温，一线调研",
-          "url": "https://www.cls.cn/detail/2407769",
-          "source": "财联社热门",
+          "title": "水利部和中国气象局6月24日18时联合发布橙色山洪灾害气象预警",
+          "url": "https://flash.jin10.com/detail/20260624180731804800",
+          "source": "金十数据",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "18时13分"
         },
         {
           "title": "四名香港女子涉嫌拾遗不报被捕",
@@ -134,6 +160,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "商务部公布《产业链供应链安全调查工作办法》",
+          "url": "https://wallstreetcn.com/livenews/3123920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "夫妻俩吃菌中毒民警来帮忙",
           "url": "https://www.toutiao.com/trending/7654552963704258606/",
           "source": "今日头条",
@@ -145,13 +182,24 @@
           "time_info": "10时10分"
         },
         {
+          "title": "印度歹徒轮奸女子警方拒立案引众怒",
+          "url": "https://www.toutiao.com/trending/7654106920257224755/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "特朗普：大型石油公司没有降低油价，已指示司法部立即调查。 汽油价格“最好赶紧下降”。",
           "url": "https://wallstreetcn.com/livenews/3123784",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -162,7 +210,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
