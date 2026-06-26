@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-06-26T10:12:35.735126+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-26T14:43:17.612048+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "2名中国公民在委内瑞拉地震中遇难",
+          "url": "https://news.ifeng.com/c/8uGETZsdV7Q",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时43分]"
+        },
+        {
+          "title": "委内瑞拉地震致2名西班牙人死亡",
+          "url": "https://flash.jin10.com/detail/20260626140924466800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
         {
           "title": "男子策划组织女子铁笼游街视频被刑拘",
           "url": "https://www.toutiao.com/trending/7655480070605114890/",
@@ -23,22 +46,60 @@
           "url": "https://search.bilibili.com/all?keyword=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%A7%94%E5%9C%B0%E9%9C%87%E4%B8%AD%E9%81%87%E9%9A%BE",
           "source": "bilibili 热搜",
           "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时43分]"
+        },
+        {
+          "title": "2026 年国内票房遇冷，北美院线却恢复到疫情前最好成绩，两地市场为何出现巨大反差？",
+          "url": "https://www.zhihu.com/question/2053495824634437802",
+          "source": "知乎",
+          "ranks": [
+            11,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时43分]"
         },
         {
           "title": "2名中国公民在委内瑞拉地震中遇难",
-          "url": "https://news.ifeng.com/c/8uGETZsdV7Q",
-          "source": "凤凰网",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33456921",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时43分]"
+        },
+        {
+          "title": "西安一女子房屋在查封期内被网签给他人，当地正督促开发商申请撤销",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33406544",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时43分]"
+        },
+        {
+          "title": "6月26日投资避雷针：5月7日至6月25日累计上涨277.95% MLCC大牛股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2409702",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 14时43分]"
         },
         {
           "title": "13岁男孩失联多日被找到：靠喝水存活",
@@ -50,6 +111,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "净网：何某摆拍 “女子被关铁笼游街” 被刑拘",
+          "url": "https://www.douyin.com/hot/2548282",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "意大利竞争管理局因“Microsoft 365”订阅价格上涨对微软(MSFT.O)展开调查。",
+          "url": "https://flash.jin10.com/detail/20260626140603242800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "委内瑞拉地震2名中国公民遇难",
@@ -96,17 +179,6 @@
           "time_info": "10时12分"
         },
         {
-          "title": "2026 年国内票房遇冷，北美院线却恢复到疫情前最好成绩，两地市场为何出现巨大反差？",
-          "url": "https://www.zhihu.com/question/2053495824634437802",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "委内瑞拉强震遇难人数升至235人",
           "url": "https://www.douyin.com/hot/2547533",
           "source": "抖音",
@@ -129,37 +201,15 @@
           "time_info": "10时12分"
         },
         {
-          "title": "2名中国公民在委内瑞拉地震中遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33456921",
-          "source": "澎湃新闻",
+          "title": "“名媛碎尸案”被害人母亲涉嫌诈骗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%90%8D%E5%AA%9B%E7%A2%8E%E5%B0%B8%E6%A1%88%E2%80%9D%E8%A2%AB%E5%AE%B3%E4%BA%BA%E6%AF%8D%E4%BA%B2%E6%B6%89%E5%AB%8C%E8%AF%88%E9%AA%97",
+          "source": "百度热搜",
           "ranks": [
-            13
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "6月26日投资避雷针：5月7日至6月25日累计上涨277.95% MLCC大牛股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2409702",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "西安一女子房屋在查封期内被网签给他人，当地正督促开发商申请撤销",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33406544",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "14时43分"
         },
         {
           "title": "失联13岁男孩落入坑洞疑靠喝水存活",
@@ -206,6 +256,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "日本东海第二核电站处于停运状态",
+          "url": "https://wallstreetcn.com/livenews/3125050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "2名中国公民在委内瑞拉地震中遇难",
           "url": "https://www.toutiao.com/trending/7655454842927713835/",
           "source": "今日头条",
@@ -215,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "委内瑞拉强震致20余名华人失联",
+          "url": "https://www.toutiao.com/trending/7655543920507817498/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     }
