@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:14:09.132071+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-06-26T21:03:24.389543+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 39,
+      "match_count": 50,
       "titles": [
         {
           "title": "何某低俗摆拍女子被关铁笼游街被刑拘",
@@ -31,6 +31,39 @@
           "time_info": "[10时12分 ~ 14时43分]"
         },
         {
+          "title": "巴拉圭足协投诉“捂嘴领红”判罚尺度",
+          "url": "https://www.toutiao.com/trending/7655332303132409899/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "美国地质勘探局：菲律宾萨兰加尼西南偏西34公里处发生6.5级地震。",
+          "url": "https://flash.jin10.com/detail/20260626205145088800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "李强会见柬埔寨人民党主席、参议院主席洪森",
+          "url": "https://flash.jin10.com/detail/20260626205010680800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "委内瑞拉地震致2名西班牙人死亡",
           "url": "https://flash.jin10.com/detail/20260626140924466800",
           "source": "金十数据",
@@ -48,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -97,8 +130,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 21时03分]"
+        },
+        {
+          "title": "净网：何某摆拍 “女子被关铁笼游街” 被刑拘",
+          "url": "https://www.douyin.com/hot/2548282",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时12分 ~ 18时14分]"
+          "time_info": "[14时43分 ~ 21时03分]"
         },
         {
           "title": "西安一女子房屋在查封期内被网签给他人，当地正督促开发商申请撤销",
@@ -113,17 +157,6 @@
           "time_info": "[10时12分 ~ 18时14分]"
         },
         {
-          "title": "净网：何某摆拍 “女子被关铁笼游街” 被刑拘",
-          "url": "https://www.douyin.com/hot/2548282",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 18时14分]"
-        },
-        {
           "title": "6月26日投资避雷针：5月7日至6月25日累计上涨277.95% MLCC大牛股今起停牌核查",
           "url": "https://www.cls.cn/detail/2409702",
           "source": "财联社热门",
@@ -135,6 +168,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 18时13分]"
+        },
+        {
+          "title": "男子吃豆角中毒3天瘦8斤",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%B1%86%E8%A7%92%E4%B8%AD%E6%AF%923%E5%A4%A9%E7%98%A68%E6%96%A4",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 21时03分]"
         },
         {
           "title": "媒体呼吁提级调查河南多地虹吸式执法",
@@ -159,22 +204,23 @@
           "time_info": "[18时13分 ~ 18时14分]"
         },
         {
+          "title": "警方通报湖南「浸猪笼」游行事件，系摆拍，组织者多次摆拍低俗场景被刑拘，其还将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2053616361088054056",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 21时03分]"
+        },
+        {
           "title": "男子下药迷昏多人猥亵拍视频获刑",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%8B%E8%8D%AF%E8%BF%B7%E6%98%8F%E5%A4%9A%E4%BA%BA%E7%8C%A5%E4%BA%B5%E6%8B%8D%E8%A7%86%E9%A2%91%E8%8E%B7%E5%88%91",
           "source": "百度热搜",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
-        },
-        {
-          "title": "男子吃豆角中毒3天瘦8斤",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%B1%86%E8%A7%92%E4%B8%AD%E6%AF%923%E5%A4%A9%E7%98%A68%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -198,7 +244,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -220,7 +266,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -253,7 +299,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -269,6 +315,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "委内瑞拉临时总统罗德里格斯：地震后将对拉瓜伊拉州实施“军事化管理”。",
+          "url": "https://flash.jin10.com/detail/20260626204048085800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "委内瑞拉百年最强地震致1708死伤",
           "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%99%BE%E5%B9%B4%E6%9C%80%E5%BC%BA%E5%9C%B0%E9%9C%87%E8%87%B41708%E6%AD%BB%E4%BC%A4",
           "source": "百度热搜",
@@ -278,6 +335,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "绵阳马鞍山文旅项目惨淡停运？不实",
+          "url": "https://www.toutiao.com/trending/7655310706896240666/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "廖林会见花旗集团董事会主席兼首席执行官范洁恩",
+          "url": "https://flash.jin10.com/detail/20260626203633678800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "委内瑞拉强震遇难人数升至235人",
@@ -302,15 +381,15 @@
           "time_info": "10时12分"
         },
         {
-          "title": "警方通报湖南「浸猪笼」游行事件，系摆拍，组织者多次摆拍低俗场景被刑拘，其还将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2053616361088054056",
-          "source": "知乎",
+          "title": "湖南汨罗警方：纠集8人在公共场合多次摆拍低俗场景，策划组织者被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33456448",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "21时03分"
         },
         {
           "title": "“名媛碎尸案”被害人母亲涉嫌诈骗",
@@ -324,6 +403,17 @@
           "time_info": "14时43分"
         },
         {
+          "title": "据委内瑞拉官方通报，委内瑞拉强震遇难人数升至589人，另有2980人受伤。",
+          "url": "https://flash.jin10.com/detail/20260626203032803800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "失联13岁男孩落入坑洞疑靠喝水存活",
           "url": "https://www.toutiao.com/trending/7655410515098816006/",
           "source": "今日头条",
@@ -335,15 +425,48 @@
           "time_info": "10时12分"
         },
         {
+          "title": "一图看懂｜委内瑞拉地震灾情有多严重？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459797",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "江西财大回应男学生被控性侵殴打",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%B4%A2%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8E%A7%E6%80%A7%E4%BE%B5%E6%AE%B4%E6%89%93%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "匈牙利总理毛焦尔：根据调查数据，社会普遍认同需要采用欧元。",
           "url": "https://flash.jin10.com/detail/20260626174038546800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "河南多地虹吸式执法必须提级调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E8%99%B9%E5%90%B8%E5%BC%8F%E6%89%A7%E6%B3%95%E5%BF%85%E9%A1%BB%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "遇害名媛蔡天凤母亲被指诈骗2745万",
@@ -363,7 +486,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -374,7 +497,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -440,7 +563,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
