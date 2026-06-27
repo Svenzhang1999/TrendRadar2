@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T17:23:15.411211+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-06-27T19:20:18.530796+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "财晓得丨委内瑞拉地震7.5级，日本地震7.2级，灾情为什么相差这么大？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 19时20分]"
         },
         {
           "title": "遇难中国公民升至7人，委内瑞拉强震已致920死",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 19时20分]"
         },
         {
           "title": "七旬大爷殴打8月大婴儿致死获刑12年",
@@ -42,6 +42,17 @@
           "time_info": "[17时22分 ~ 17时23分]"
         },
         {
+          "title": "印尼东努沙登加拉省附近海域发生5.6级地震",
+          "url": "https://flash.jin10.com/detail/20260627185554102800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "海南调整住房公积金缴存基数 7月起执行",
           "url": "https://flash.jin10.com/detail/20260627132554126800",
           "source": "金十数据",
@@ -51,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "欠债20亿老赖和家人在国外住豪宅",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A0%E5%80%BA20%E4%BA%BF%E8%80%81%E8%B5%96%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9C%A8%E5%9B%BD%E5%A4%96%E4%BD%8F%E8%B1%AA%E5%AE%85%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "海南调整住房公积金缴存基数 7月起执行",
@@ -95,22 +117,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 17时23分]"
-        },
-        {
-          "title": "“变电站电磁辐射会致癌”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%98%E7%94%B5%E7%AB%99%E7%94%B5%E7%A3%81%E8%BE%90%E5%B0%84%E4%BC%9A%E8%87%B4%E7%99%8C%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 19时20分]"
         },
         {
           "title": "委内瑞拉地震中国公民遇难人数升至7人",
@@ -118,6 +130,18 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 19时20分]"
+        },
+        {
+          "title": "“变电站电磁辐射会致癌”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%98%E7%94%B5%E7%AB%99%E7%94%B5%E7%A3%81%E8%BE%90%E5%B0%84%E4%BC%9A%E8%87%B4%E7%99%8C%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
             11
           ],
           "is_new": false,
@@ -132,8 +156,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时20分]"
+        },
+        {
+          "title": "七旬大爷殴打8月大婴儿致死获刑12年",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E5%A4%A7%E7%88%B7%E6%AE%B4%E6%89%938%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E8%87%B4%E6%AD%BB%E8%8E%B7%E5%88%9112%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时20分]"
         },
         {
           "title": "乌拉圭主帅心态爆炸怒吼记者",
@@ -143,8 +179,20 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时20分]"
+        },
+        {
+          "title": "巴基斯坦俾路支省两天内发生五次地震",
+          "url": "https://wallstreetcn.com/livenews/3125566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "time_info": "[17时23分 ~ 19时20分]"
         },
         {
           "title": "佛得角足协副主席：感谢中国",
@@ -158,15 +206,15 @@
           "time_info": "[17时22分 ~ 17时23分]"
         },
         {
-          "title": "七旬大爷殴打8月大婴儿致死获刑12年",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E5%A4%A7%E7%88%B7%E6%AE%B4%E6%89%938%E6%9C%88%E5%A4%A7%E5%A9%B4%E5%84%BF%E8%87%B4%E6%AD%BB%E8%8E%B7%E5%88%9112%E5%B9%B4",
-          "source": "百度热搜",
+          "title": "委内瑞拉代总统：地震重灾区六成电力已恢复",
+          "url": "https://wallstreetcn.com/livenews/3125586",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "委内瑞拉官员：石油生产未受地震影响",
@@ -197,9 +245,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "悬赏公告背后的“老赖”：被指隐匿资产涉嫌虚假诉讼，警方已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33466622",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "伊朗议会国家安全委员会主席：任何违反伊朗霍尔木兹海峡航运指令的行为都将遭到果断应对。",
@@ -208,20 +267,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
         {
-          "title": "巴基斯坦俾路支省两天内发生五次地震",
-          "url": "https://wallstreetcn.com/livenews/3125566",
-          "source": "华尔街见闻-快讯",
+          "title": "委内瑞拉代总统：地震重灾区六成电力已恢复",
+          "url": "https://flash.jin10.com/detail/20260627181815373800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "19时20分"
         },
         {
           "title": "委内瑞拉地震7名中国公民遇难",
@@ -233,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "河南省提级调查处理驻马店市泌阳县等地“查扣冻品”问题",
+          "url": "https://wallstreetcn.com/livenews/3125582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "委内瑞拉强震已致920人遇难",
@@ -263,9 +333,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "中央社会工作部副部长贺志亮涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+          "url": "https://flash.jin10.com/detail/20260627180723740800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "据欧洲地中海地震中心：巴基斯坦地区发生5.4级地震。",
@@ -318,7 +399,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
