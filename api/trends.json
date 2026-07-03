@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-07-03T13:43:45.069094+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-03T16:48:22.663654+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 22,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "委内瑞拉震区几乎所有官员遇难",
+          "url": "https://news.ifeng.com/c/8uS96khSFPa",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时48分]"
+        },
+        {
+          "title": "海军上校方明执行任务时牺牲",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%86%9B%E4%B8%8A%E6%A0%A1%E6%96%B9%E6%98%8E%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1%E6%97%B6%E7%89%BA%E7%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
         {
           "title": "委内瑞拉地震已造成2595人死亡。",
           "url": "https://wallstreetcn.com/livenews/3128345",
@@ -19,15 +42,26 @@
           "time_info": "09时53分"
         },
         {
-          "title": "委内瑞拉重灾区几乎所有官员遇难",
-          "url": "https://www.toutiao.com/trending/7657477058720828991/",
+          "title": "日本男演员片场骚扰女明星",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355865&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%94%B7%E6%BC%94%E5%91%98%E7%89%87%E5%9C%BA%E9%AA%9A%E6%89%B0%E5%A5%B3%E6%98%8E%E6%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "海军上校方明执行飞行训练任务时牺牲",
+          "url": "https://www.toutiao.com/trending/7657890612604583999/",
           "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "16时48分"
         },
         {
           "title": "委内瑞拉专家：近千栋建筑物受损的元凶不是地震",
@@ -41,15 +75,27 @@
           "time_info": "09时53分"
         },
         {
-          "title": "委内瑞拉震区几乎所有官员遇难",
-          "url": "https://news.ifeng.com/c/8uS96khSFPa",
-          "source": "凤凰网",
+          "title": "欧洲理事会主席科斯塔：需要在今年年底前批准欧盟预算。",
+          "url": "https://flash.jin10.com/detail/20260703161945091800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "16时48分"
+        },
+        {
+          "title": "委内瑞拉重灾区几乎所有官员遇难",
+          "url": "https://www.toutiao.com/trending/7657477058720828991/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时48分]"
         },
         {
           "title": "博主印度吃中毒,医院神补刀",
@@ -57,11 +103,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时48分]"
         },
         {
           "title": "老外开中国车遭日本人骚扰",
@@ -69,11 +116,57 @@
           "source": "贴吧",
           "ranks": [
             19,
-            24
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 16时48分]"
+        },
+        {
+          "title": "中央网信办：整治网娱团播乱象，剑指侵害未成年人权益等6类问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33508827",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时43分]"
+          "time_info": "[13时43分 ~ 16时48分]"
+        },
+        {
+          "title": "3人发布涉赛格坠楼事件谣言被罚",
+          "url": "https://www.douyin.com/hot/2556198",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时48分]"
+        },
+        {
+          "title": "先岛诸岛6.2级地震 上海杭州有震感",
+          "url": "https://www.baidu.com/s?wd=%E5%85%88%E5%B2%9B%E8%AF%B8%E5%B2%9B6.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%B8%8A%E6%B5%B7%E6%9D%AD%E5%B7%9E%E6%9C%89%E9%9C%87%E6%84%9F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时48分]"
+        },
+        {
+          "title": "欧洲理事会主席科斯塔：下一份欧盟预算将使研发投资翻倍。",
+          "url": "https://flash.jin10.com/detail/20260703161937596800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "委内瑞拉震区几乎所有官员遇难",
@@ -82,9 +175,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "美国选美皇后在委内瑞拉强震中遇难",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%80%89%E7%BE%8E%E7%9A%87%E5%90%8E%E5%9C%A8%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%BA%E9%9C%87%E4%B8%AD%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "欧洲理事会主席科斯塔：欧盟将在今年批准储蓄和投资联盟。",
+          "url": "https://flash.jin10.com/detail/20260703161915631800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "海军上校方明执行任务时牺牲",
+          "url": "https://www.douyin.com/hot/2556976",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "美联储主席沃什称希望美联储资产负债表规模缩小，主要通过资产价格运作，通胀风险已经下降，如何解读？",
@@ -104,18 +230,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "中央网信办：整治网娱团播乱象，剑指侵害未成年人权益等6类问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33508827",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -131,26 +246,26 @@
           "time_info": "09时53分"
         },
         {
-          "title": "3人发布涉赛格坠楼事件谣言被罚",
-          "url": "https://www.douyin.com/hot/2556198",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
           "title": "日本宫古岛西北近海发生6.4级地震",
           "url": "https://wallstreetcn.com/livenews/3128420",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "美国选美皇后在委内瑞拉强震中遇难",
+          "url": "https://www.toutiao.com/trending/7657948306941509668/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "新国都：不存在被中国人民银行立案调查或实施行政处罚情形",
@@ -159,7 +274,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -175,15 +290,26 @@
           "time_info": "09时53分"
         },
         {
-          "title": "先岛诸岛6.2级地震 上海杭州有震感",
-          "url": "https://www.baidu.com/s?wd=%E5%85%88%E5%B2%9B%E8%AF%B8%E5%B2%9B6.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%B8%8A%E6%B5%B7%E6%9D%AD%E5%B7%9E%E6%9C%89%E9%9C%87%E6%84%9F",
-          "source": "百度热搜",
+          "title": "日本先岛诸岛地震杭州有震感",
+          "url": "https://www.toutiao.com/trending/7658155947068309510/",
+          "source": "今日头条",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "16时48分"
+        },
+        {
+          "title": "西安警方通报：借由赛格坠楼事件造谣，2人被拘1人被罚款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33505556",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "西安赛格坠楼商户曾因“拆券”被罚上千万，其两店铺刚被撤柜",
@@ -203,9 +329,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "市场监管总局公布6月22日-6月28日无条件批准经营者集中案件列表",
+          "url": "https://wallstreetcn.com/livenews/3128527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "警方助六旬老人找到失联30余年亲人",
+          "url": "https://www.toutiao.com/trending/7658099868778463275/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "水果店1斤冬枣88元投诉后降到38元",
@@ -214,7 +362,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -236,7 +384,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -247,9 +395,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "台风即将登陆 多地停课停运停航",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%8D%B3%E5%B0%86%E7%99%BB%E9%99%86+%E5%A4%9A%E5%9C%B0%E5%81%9C%E8%AF%BE%E5%81%9C%E8%BF%90%E5%81%9C%E8%88%AA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     }
