@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T19:23:14.930940+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-07-05T21:06:12.631082+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             2,
             3,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 21时06分]"
         },
         {
           "title": "中国石油集团董事长戴厚良会见壳牌公司首席执行官",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 21时06分]"
         },
         {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
