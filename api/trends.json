@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-06T19:39:22.385127+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-07-06T22:57:39.073046+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "广西横州六蓝水库坝体出现缺口，应急局：不是坍塌，正紧急处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33525045",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
         {
           "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
           "url": "https://www.zhihu.com/question/2056780978534750118",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "特朗普称已就美国队球员红牌判罚与国际足联主席通话",
+          "url": "https://wallstreetcn.com/livenews/3129439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美国队红牌禁赛暂缓执行",
@@ -48,11 +70,12 @@
           "ranks": [
             3,
             11,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 22时57分]"
         },
         {
           "title": "四川绵竹市连发四级以上地震",
@@ -61,11 +84,12 @@
           "ranks": [
             7,
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 22时57分]"
         },
         {
           "title": "新车掉漆难挂牌,车主上路维权",
@@ -73,11 +97,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 22时57分]"
         },
         {
           "title": "漠叔调查日本毒气战",
@@ -85,11 +110,46 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            12
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 22时57分]"
+        },
+        {
+          "title": "失禁不忘霸凌,无职转生也干了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355948&amp;topic_name=%E5%A4%B1%E7%A6%81%E4%B8%8D%E5%BF%98%E9%9C%B8%E5%87%8C%2C%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F%E4%B9%9F%E5%B9%B2%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时02分 ~ 19时39分]"
+          "time_info": "[19时39分 ~ 22时57分]"
+        },
+        {
+          "title": "落马厅官杨有林被判死刑",
+          "url": "https://www.douyin.com/hot/2560858",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 22时57分]"
+        },
+        {
+          "title": "法国又有国民级明星因性侵丑闻崩塌",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8F%88%E6%9C%89%E5%9B%BD%E6%B0%91%E7%BA%A7%E6%98%8E%E6%98%9F%E5%9B%A0%E6%80%A7%E4%BE%B5%E4%B8%91%E9%97%BB%E5%B4%A9%E5%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 22时57分]"
         },
         {
           "title": "LPL官方回应BLG丹妮BP遭泄露",
@@ -104,15 +164,15 @@
           "time_info": "[10时06分 ~ 15时02分]"
         },
         {
-          "title": "失禁不忘霸凌,无职转生也干了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355948&amp;topic_name=%E5%A4%B1%E7%A6%81%E4%B8%8D%E5%BF%98%E9%9C%B8%E5%87%8C%2C%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F%E4%B9%9F%E5%B9%B2%E4%BA%86",
-          "source": "贴吧",
+          "title": "美国总统特朗普称赞国际足联主席凡蒂诺是个聪明人。",
+          "url": "https://flash.jin10.com/detail/20260706222335455800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "22时57分"
         },
         {
           "title": "2026 年 7 月 5 日晚，四川德阳绵竹接连发生 3 次四级以上地震，目前情况如何？",
@@ -135,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "落马厅官杨有林被判死刑",
-          "url": "https://www.douyin.com/hot/2560858",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
@@ -225,15 +274,26 @@
           "time_info": "15时02分"
         },
         {
-          "title": "法国又有国民级明星因性侵丑闻崩塌",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8F%88%E6%9C%89%E5%9B%BD%E6%B0%91%E7%BA%A7%E6%98%8E%E6%98%9F%E5%9B%A0%E6%80%A7%E4%BE%B5%E4%B8%91%E9%97%BB%E5%B4%A9%E5%A1%8C",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：与国际足联主席因凡蒂诺谈了红牌问题。",
+          "url": "https://flash.jin10.com/detail/20260706221520447800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国总统特朗普证实其致电国际足联主席。",
+          "url": "https://flash.jin10.com/detail/20260706221344903800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "乌克兰首都基辅又响起多次爆炸声",
@@ -267,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "四川连续发生地震 铁路部门扣停列车",
+          "url": "https://www.toutiao.com/trending/7659332596823998470/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "郑州一小区火灾致5死1伤",
