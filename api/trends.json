@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T22:57:39.073046+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-07-07T10:02:52.889120+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 14,
       "titles": [
         {
           "title": "广西横州六蓝水库坝体出现缺口，应急局：不是坍塌，正紧急处理",
@@ -14,341 +14,152 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
-          "url": "https://www.zhihu.com/question/2056780978534750118",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "10时02分"
         },
         {
-          "title": "特朗普称已就美国队球员红牌判罚与国际足联主席通话",
-          "url": "https://wallstreetcn.com/livenews/3129439",
-          "source": "华尔街见闻-快讯",
+          "title": "国际足联主席回应美国球员巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8uYELXPooFC",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "美国队红牌禁赛暂缓执行",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BA%A2%E7%89%8C%E7%A6%81%E8%B5%9B%E6%9A%82%E7%BC%93%E6%89%A7%E8%A1%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "10时02分"
         },
         {
-          "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
-          "url": "https://www.zhihu.com/question/2057280677406577002",
-          "source": "知乎",
+          "title": "湖北黄石黄冈等地遭遇强对流天气，致8人死亡1人失联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33530511",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 15时02分]"
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
-          "title": "电驴违规上高架,后车倒霉追尾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355922&amp;topic_name=%E7%94%B5%E9%A9%B4%E8%BF%9D%E8%A7%84%E4%B8%8A%E9%AB%98%E6%9E%B6%2C%E5%90%8E%E8%BD%A6%E5%80%92%E9%9C%89%E8%BF%BD%E5%B0%BE",
-          "source": "贴吧",
+          "title": "湖北强对流天气已致8死1失联",
+          "url": "https://www.douyin.com/hot/2561407",
+          "source": "抖音",
           "ranks": [
-            3,
-            11,
-            17,
-            18
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 22时57分]"
-        },
-        {
-          "title": "四川绵竹市连发四级以上地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355921&amp;topic_name=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E7%AB%B9%E5%B8%82%E8%BF%9E%E5%8F%91%E5%9B%9B%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            20,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 22时57分]"
-        },
-        {
-          "title": "新车掉漆难挂牌,车主上路维权",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355935&amp;topic_name=%E6%96%B0%E8%BD%A6%E6%8E%89%E6%BC%86%E9%9A%BE%E6%8C%82%E7%89%8C%2C%E8%BD%A6%E4%B8%BB%E4%B8%8A%E8%B7%AF%E7%BB%B4%E6%9D%83",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 22时57分]"
-        },
-        {
-          "title": "漠叔调查日本毒气战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 22时57分]"
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "失禁不忘霸凌,无职转生也干了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355948&amp;topic_name=%E5%A4%B1%E7%A6%81%E4%B8%8D%E5%BF%98%E9%9C%B8%E5%87%8C%2C%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F%E4%B9%9F%E5%B9%B2%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 22时57分]"
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
-          "title": "落马厅官杨有林被判死刑",
-          "url": "https://www.douyin.com/hot/2560858",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 22时57分]"
-        },
-        {
-          "title": "法国又有国民级明星因性侵丑闻崩塌",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8F%88%E6%9C%89%E5%9B%BD%E6%B0%91%E7%BA%A7%E6%98%8E%E6%98%9F%E5%9B%A0%E6%80%A7%E4%BE%B5%E4%B8%91%E9%97%BB%E5%B4%A9%E5%A1%8C",
+          "title": "湖北强对流天气已致8死1失联",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%94%E5%B7%B2%E8%87%B48%E6%AD%BB1%E5%A4%B1%E8%81%94",
           "source": "百度热搜",
           "ranks": [
-            16,
-            29
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 22时57分]"
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
-          "title": "LPL官方回应BLG丹妮BP遭泄露",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355905&amp;topic_name=LPL%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94BLG%E4%B8%B9%E5%A6%AEBP%E9%81%AD%E6%B3%84%E9%9C%B2",
+          "title": "新车掉漆难挂牌,车主上路维权",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355935&amp;topic_name=%E6%96%B0%E8%BD%A6%E6%8E%89%E6%BC%86%E9%9A%BE%E6%8C%82%E7%89%8C%2C%E8%BD%A6%E4%B8%BB%E4%B8%8A%E8%B7%AF%E7%BB%B4%E6%9D%83",
           "source": "贴吧",
           "ranks": [
-            17,
-            26
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 15时02分]"
-        },
-        {
-          "title": "美国总统特朗普称赞国际足联主席凡蒂诺是个聪明人。",
-          "url": "https://flash.jin10.com/detail/20260706222335455800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "10时02分"
         },
         {
-          "title": "2026 年 7 月 5 日晚，四川德阳绵竹接连发生 3 次四级以上地震，目前情况如何？",
-          "url": "https://www.zhihu.com/question/2057246238785942778",
+          "title": "男子买保险交费 30 年退休后月领 50 万，兑付时保险公司变卦，他该如何维权？",
+          "url": "https://www.zhihu.com/question/2057003050880047067",
           "source": "知乎",
           "ranks": [
-            7
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "10时02分"
         },
         {
-          "title": "BLG战术板遭泄露 拳头回应",
-          "url": "https://www.douyin.com/hot/2559229",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
-          "url": "https://www.zhihu.com/question/2056716909140354522",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "四川绵竹昨夜半小时三次地震",
-          "url": "https://www.toutiao.com/trending/7659183487043243529/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "郑州一小区火灾致5死1伤",
-          "url": "https://www.toutiao.com/trending/7659274873163746859/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "四川绵竹半小时3次地震",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E7%AB%B9%E5%8D%8A%E5%B0%8F%E6%97%B63%E6%AC%A1%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "地震致绵竹街道房屋受损？谣言",
-          "url": "https://www.toutiao.com/trending/7659221796297674246/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "LV 在中国密集维权，从茉莉奶白到鸭血粉丝、平价餐吧，目的何在？商标保护范围是不是太宽了？",
-          "url": "https://www.zhihu.com/question/2057021664789882741",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "霉霉婚礼现场照片遭大规模泄露",
-          "url": "https://www.toutiao.com/trending/7659037143587651627/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "美国总统特朗普：与国际足联主席因凡蒂诺谈了红牌问题。",
-          "url": "https://flash.jin10.com/detail/20260706221520447800",
-          "source": "金十数据",
+          "title": "因凡蒂诺就巴洛贡红牌禁赛暂缓执行决定发表声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33530610",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "10时02分"
         },
         {
-          "title": "美国总统特朗普证实其致电国际足联主席。",
-          "url": "https://flash.jin10.com/detail/20260706221344903800",
-          "source": "金十数据",
+          "title": "湖北强对流天气8死1失联",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%948%E6%AD%BB1%E5%A4%B1%E8%81%94%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "10时02分"
         },
         {
-          "title": "乌克兰首都基辅又响起多次爆炸声",
-          "url": "https://flash.jin10.com/detail/20260706093438832800",
-          "source": "金十数据",
+          "title": "漠叔调查日本毒气战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "10时02分"
         },
         {
-          "title": "四川绵竹发生4.5级地震",
-          "url": "https://www.douyin.com/hot/2559911",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "监管人员痛斥商家：就给孩子吃这些？",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%91%E7%AE%A1%E4%BA%BA%E5%91%98%E7%97%9B%E6%96%A5%E5%95%86%E5%AE%B6%EF%BC%9A%E5%B0%B1%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%83%E8%BF%99%E4%BA%9B%EF%BC%9F",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "四川连续发生地震 铁路部门扣停列车",
-          "url": "https://www.toutiao.com/trending/7659332596823998470/",
+          "title": "国际足联主席回应红牌禁赛暂缓",
+          "url": "https://www.toutiao.com/trending/7658860523358896178/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "10时02分"
         },
         {
-          "title": "郑州一小区火灾致5死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%E8%87%B45%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
+          "title": "湖北强对流天气已致8死1失联",
+          "url": "https://www.toutiao.com/trending/7658600876742918163/",
+          "source": "今日头条",
           "ranks": [
-            28
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时02分"
+          "time_info": "10时02分"
+        },
+        {
+          "title": "电驴违规上高架,后车倒霉追尾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355922&amp;topic_name=%E7%94%B5%E9%A9%B4%E8%BF%9D%E8%A7%84%E4%B8%8A%E9%AB%98%E6%9E%B6%2C%E5%90%8E%E8%BD%A6%E5%80%92%E9%9C%89%E8%BF%BD%E5%B0%BE",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     }
