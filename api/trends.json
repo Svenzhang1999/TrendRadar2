@@ -1,33 +1,56 @@
 {
-  "generated_at": "2026-07-08T09:32:03.096295+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-08T12:59:03.999795+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 29,
+      "match_count": 41,
       "titles": [
-        {
-          "title": "甘肃陇南滑坡21人遇难",
-          "url": "https://www.douyin.com/hot/2562784",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
         {
           "title": "甘肃陇南滑坡共造成21人遇难",
           "url": "https://www.toutiao.com/trending/7659634219833573419/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://wallstreetcn.com/articles/3776397",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "埃及足协正式申诉 要求调查主裁判",
+          "url": "https://www.toutiao.com/trending/7659976041368161843/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "埃及足协正式申诉 要求调查主裁判",
+          "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89%20%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "美军发动打击，伊朗多地传出爆炸声",
@@ -41,37 +64,121 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
-          "title": "甘肃陇南滑坡致21人遇难",
-          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%99%87%E5%8D%97%E6%BB%91%E5%9D%A1%E8%87%B421%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
-          "url": "https://wallstreetcn.com/articles/3776397",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
           "title": "澳洲联储助理主席Hunter：大型经济冲击可能会带来不确定性、降低信心并抑制消费。 澳洲联储委员会将根据需要采取行动，以确保通胀重回目标水平。 到目前为止，几乎没有迹象表明经济活动出现了明显的放缓。 石油冲击可能会改变通胀预期。 供给冲击并不会降低维持低且稳定通胀率的重要性。 货币政策有可能限制间接影响和第二轮效应。 如果通胀预期上升，可能需要经历一段低通胀和高失业率率的时期。 某些经济代价是无法避免的，政策制定者所能做的只有取得平衡。",
           "url": "https://wallstreetcn.com/livenews/3130269",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "甘肃陇南滑坡21人遇难",
+          "url": "https://www.douyin.com/hot/2562784",
+          "source": "抖音",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "甘肃陇南滑坡致21人遇难",
+          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E9%99%87%E5%8D%97%E6%BB%91%E5%9D%A1%E8%87%B421%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "广西因灾死亡6人失联11人",
+          "url": "https://www.douyin.com/hot/2562568",
+          "source": "抖音",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "美国消费者通胀预期再度升温！纽约联储调查：一年期升至2023年9月以来最高，医疗和房租成最大担忧",
+          "url": "https://wallstreetcn.com/articles/3776403",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "巴基斯坦发表声明：一架飞机失联",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6BzX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "广西因灾死亡6人失联11人",
+          "url": "https://www.toutiao.com/trending/7659763555691990554/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "男子试图迷晕少女性侵 引爆燃致4伤",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%95%E5%9B%BE%E8%BF%B7%E6%99%95%E5%B0%91%E5%A5%B3%E6%80%A7%E4%BE%B5+%E5%BC%95%E7%88%86%E7%87%83%E8%87%B44%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "湖北黄冈龙卷风致多人伤亡失联",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
+        },
+        {
+          "title": "埃及足协正式申诉 要求调查主裁判",
+          "url": "https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89+%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时59分]"
         },
         {
           "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
@@ -85,15 +192,15 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
-          "title": "广西因灾死亡6人失联11人",
-          "url": "https://www.douyin.com/hot/2562568",
+          "title": "四川高县再发5.0级地震",
+          "url": "https://www.douyin.com/hot/2562710",
           "source": "抖音",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "四川宜宾高县发生5.0级地震",
@@ -107,26 +214,26 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
-          "title": "美国消费者通胀预期再度升温！纽约联储调查：一年期升至2023年9月以来最高，医疗和房租成最大担忧",
-          "url": "https://wallstreetcn.com/articles/3776403",
-          "source": "华尔街见闻",
+          "title": "广西“洪水冲下很多尸体”不实",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E2%80%9C%E6%B4%AA%E6%B0%B4%E5%86%B2%E4%B8%8B%E5%BE%88%E5%A4%9A%E5%B0%B8%E4%BD%93%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
-          "title": "巴基斯坦发表声明：一架飞机失联",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6BzX",
-          "source": "凤凰网",
+          "title": "唐香玉拒绝道歉后遭强制执行",
+          "url": "https://www.toutiao.com/trending/7659799613398057023/",
+          "source": "今日头条",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "伊朗多地传出爆炸声",
@@ -140,6 +247,17 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
+          "title": "甘肃陇南滑坡已致21人遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%98%E8%82%83%E9%99%87%E5%8D%97%E6%BB%91%E5%9D%A1%E5%B7%B2%E8%87%B421%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
           "url": "https://news.ifeng.com/c/8uZavoCll5c",
           "source": "凤凰网",
@@ -149,6 +267,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：6月新增社融或同比少增，M2、M1增速剪刀差走阔",
+          "url": "https://www.cls.cn/detail/2420002",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "广西“洪水冲下很多尸体”不实",
+          "url": "https://www.douyin.com/hot/2562818",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "四川高县5.0级地震",
@@ -173,15 +313,26 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
-          "title": "广西因灾死亡6人失联11人",
-          "url": "https://www.toutiao.com/trending/7659763555691990554/",
-          "source": "今日头条",
+          "title": "四川宜宾市高县再次发生5.0级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF%E5%86%8D%E6%AC%A1%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
           "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "7 月 8 日四川宜宾市高县一天内两次发生 5.0 级地震，当地具体情况如何？你那里有震感吗？",
+          "url": "https://www.zhihu.com/question/2058088753860540088",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
@@ -206,6 +357,17 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
+          "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "四川高县10分钟5次地震",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%AB%98%E5%8E%BF10%E5%88%86%E9%92%9F5%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -217,44 +379,11 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
-          "title": "男子试图迷晕少女性侵 引爆燃致4伤",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%95%E5%9B%BE%E8%BF%B7%E6%99%95%E5%B0%91%E5%A5%B3%E6%80%A7%E4%BE%B5+%E5%BC%95%E7%88%86%E7%87%83%E8%87%B44%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
           "title": "四川宜宾市高县发生5.0级地震",
           "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "湖北黄冈龙卷风致多人伤亡失联",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "埃及足协正式申诉 要求调查主裁判",
-          "url": "https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89+%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -316,13 +445,24 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
+          "title": "一位资深议员透露，日本执政党正考虑加强对激进投资者信息披露的监管。",
+          "url": "https://flash.jin10.com/detail/20260708123035890800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "伊朗媒体称格什姆岛再次传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3130254",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         }
