@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T17:02:34.987415+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-10T19:54:08.720540+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "福建晋江鞋厂火灾已致28人遇难",
@@ -72,7 +72,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -83,11 +83,12 @@
           "ranks": [
             4,
             5,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 19时54分]"
         },
         {
           "title": "晋江鞋厂火灾事故致28死，福建省政府已成立事故调查组",
@@ -107,11 +108,37 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            8
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 19时54分]"
+        },
+        {
+          "title": "视频丨福建晋江鞋厂火灾遇难者大多被困厂房楼顶，救援工作已基本结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33555947",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 19时54分]"
+        },
+        {
+          "title": "长沙市体育局通报工作人员霸占车位事件，称配合调查，后续会如何发展？遇到这种情况怎么做才能有效维权？",
+          "url": "https://www.zhihu.com/question/2058710618564191833",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时52分 ~ 17时02分]"
+          "time_info": "[17时02分 ~ 19时54分]"
         },
         {
           "title": "福建晋江火灾已致28死",
@@ -138,16 +165,26 @@
           "time_info": "[09时52分 ~ 13时54分]"
         },
         {
-          "title": "视频丨福建晋江鞋厂火灾遇难者大多被困厂房楼顶，救援工作已基本结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33555947",
-          "source": "澎湃新闻",
+          "title": "起火鞋厂事发前2天被查出消防隐患",
+          "url": "https://www.toutiao.com/trending/7660519619669065764/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 17时02分]"
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
+          "title": "晋江鞋厂火灾致 28 死，员工千人却仅 12 人参保，这种乱象背后存在哪些问题？",
+          "url": "https://www.zhihu.com/question/2058823246980571934",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "福建晋江鞋厂火灾救援进展：有人员被困，已启动直升机参与援救",
@@ -162,6 +199,17 @@
           "time_info": "[13时54分 ~ 17时02分]"
         },
         {
+          "title": "鞋厂火灾致28死，晋江市委市政府：沉痛哀悼、诚恳道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33556601",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
           "title": "50岁男子花20万娶妻3个月妻子失联",
           "url": "https://www.baidu.com/s?wd=50%E5%B2%81%E7%94%B7%E5%AD%90%E8%8A%B120%E4%B8%87%E5%A8%B6%E5%A6%BB3%E4%B8%AA%E6%9C%88%E5%A6%BB%E5%AD%90%E5%A4%B1%E8%81%94",
           "source": "百度热搜",
@@ -172,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 17时02分]"
+        },
+        {
+          "title": "浙江多地：停课停工停产停运停业",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%EF%BC%9A%E5%81%9C%E8%AF%BE%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7%E5%81%9C%E8%BF%90%E5%81%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "晋江起火鞋厂负责人已被控制",
@@ -191,9 +250,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "交通运输部党组召开会议 坚决拥护党中央对李建波涉嫌严重违纪违法进行纪律审查和监察调查的决定",
+          "url": "https://wallstreetcn.com/livenews/3132055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "晋江鞋厂火灾遇难者大多被困楼顶",
@@ -218,6 +288,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "深圳证监局对乔某编造传播涉共进股份虚假信息立案调查",
+          "url": "https://wallstreetcn.com/livenews/3132046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "福建晋江火灾已致28死",
           "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B428%E6%AD%BB",
           "source": "百度热搜",
@@ -240,15 +321,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "长沙市体育局通报工作人员霸占车位事件，称配合调查，后续会如何发展？遇到这种情况怎么做才能有效维权？",
-          "url": "https://www.zhihu.com/question/2058710618564191833",
-          "source": "知乎",
+          "title": "伊朗外交部发言人巴加埃：我们强烈谴责巴基斯坦西南部发生的恐怖袭击事件，该事件导致多名巴基斯坦公民伤亡。我代表伊朗向遇难者家属、巴基斯坦人民和政府表示深切慰问和诚挚哀悼。",
+          "url": "https://flash.jin10.com/detail/20260710191700501800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "19时54分"
         },
         {
           "title": "福建已成立晋江鞋厂火灾事故调查组",
@@ -334,7 +415,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -400,7 +481,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
