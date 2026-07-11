@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T18:54:57.538197+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-07-11T19:44:21.135366+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "看广西洪灾中的救援硬核科技",
@@ -27,20 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时54分]"
-        },
-        {
-          "title": "同行霸凌反噬,尼古喵作者赢麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356090&amp;topic_name=%E5%90%8C%E8%A1%8C%E9%9C%B8%E5%87%8C%E5%8F%8D%E5%99%AC%2C%E5%B0%BC%E5%8F%A4%E5%96%B5%E4%BD%9C%E8%80%85%E8%B5%A2%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时44分]"
         },
         {
           "title": "伊朗媒体Fars News援引官方消息称，德黑兰省东部听到的爆炸声与销毁爆炸物的控制行动有关。",
@@ -65,6 +53,17 @@
           "time_info": "15时06分"
         },
         {
+          "title": "中国地震台网正式测定：07月11日19时14分在云南大理州洱源县（北纬26.12度，东经99.86度）发生3.3级地震，震源深度11千米。",
+          "url": "https://wallstreetcn.com/livenews/3132349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "据沙特媒体哈达斯：有未证实消息称，在伊朗巴克达什特和巴尔希因附近听到强烈爆炸声。",
           "url": "https://flash.jin10.com/detail/20260711141035412800",
           "source": "金十数据",
@@ -74,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "中国地震台网正式测定：07月11日19时14分在云南大理州洱源县（北纬26.12度，东经99.86度）发生3.3级地震，震源深度11千米。",
+          "url": "https://flash.jin10.com/detail/20260711191908922800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "据法新社：乌克兰首都基辅至少听到5次爆炸声。",
@@ -87,17 +97,42 @@
           "time_info": "09时32分"
         },
         {
+          "title": "南大西洋南桑威奇群岛发生6.4级地震",
+          "url": "https://wallstreetcn.com/livenews/3132347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "美巨头辉瑞前总部大楼恐局部坍塌，有两根支撑梁柱发生弯曲，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058872591855752079",
           "source": "知乎",
           "ranks": [
             3,
             2,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 19时44分]"
+        },
+        {
+          "title": "同行霸凌反噬,尼古喵作者赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356090&amp;topic_name=%E5%90%8C%E8%A1%8C%E9%9C%B8%E5%87%8C%E5%8F%8D%E5%99%AC%2C%E5%B0%BC%E5%8F%A4%E5%96%B5%E4%BD%9C%E8%80%85%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时44分]"
         },
         {
           "title": "受台风“巴威”影响 长三角铁路部分线路临时停运",
@@ -117,11 +152,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时44分]"
         },
         {
           "title": "副处长被指霸道停车，检察日报刊文：“小恶难惩”把维权者逼向违法边缘",
@@ -130,11 +166,12 @@
           "ranks": [
             14,
             15,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 19时44分]"
         },
         {
           "title": "晋江鞋厂火灾致 28 死，员工千人却仅 12 人参保，这种乱象背后存在哪些问题？",
@@ -159,8 +196,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 19时44分]"
         },
         {
           "title": "女儿女婿相继自杀后，妈妈投身防性侵宣传",
@@ -217,11 +254,47 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时44分]"
+        },
+        {
+          "title": "广东普宁村民杀害村支书案二审宣判：维持死刑判决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565241",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时44分]"
+        },
+        {
+          "title": "国务院安委会对福建泉州「7·9」重大火灾查处挂牌督办，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2059215563638018597",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时44分]"
+        },
+        {
+          "title": "女儿女婿自杀后妈妈投身防性侵宣传",
+          "url": "https://www.toutiao.com/trending/7660839150657142803/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时54分]"
+          "time_info": "[18时54分 ~ 19时44分]"
         },
         {
           "title": "女儿女婿自杀后妈妈投身防性侵宣传",
@@ -234,29 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "广东普宁村民杀害村支书案二审宣判：维持死刑判决",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565241",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时54分]"
-        },
-        {
-          "title": "国务院安委会对福建泉州「7·9」重大火灾查处挂牌督办，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2059215563638018597",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时54分]"
         },
         {
           "title": "国务院安委会对晋江28死火灾挂牌督办",
@@ -347,6 +397,17 @@
           "time_info": "09时32分"
         },
         {
+          "title": "国家海洋预报台：南桑威奇群岛地区发生6.6级地震，震源周围可能引发局地海啸",
+          "url": "https://flash.jin10.com/detail/20260711184236961800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "伊朗媒体称，伊朗西部小型炼油厂火灾已得到控制",
           "url": "https://wallstreetcn.com/livenews/3132265",
           "source": "华尔街见闻-快讯",
@@ -356,17 +417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
-        },
-        {
-          "title": "女儿女婿自杀后妈妈投身防性侵宣传",
-          "url": "https://www.toutiao.com/trending/7660839150657142803/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "秘鲁利马地区发生4.3级地震",
@@ -380,13 +430,24 @@
           "time_info": "15时06分"
         },
         {
+          "title": "德国地学研究中心GFZ：南桑威奇群岛地区发生6.6级地震。",
+          "url": "https://flash.jin10.com/detail/20260711183744206800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "英国最大零售银行维珍理财前首席执行官加迪亚将被任命为英国审计监管机构主席。",
           "url": "https://flash.jin10.com/detail/20260711171641978800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -430,7 +491,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -455,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "四川再发山洪灾害蓝色预警",
+          "url": "https://www.toutiao.com/trending/7660906538650943497/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "欧洲地中海地震中心：美国北加州发生了4.2级地震；震源深度10.7公里。",
