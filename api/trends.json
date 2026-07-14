@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:18:00.203360+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-07-14T21:07:21.247147+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 38,
+      "match_count": 53,
       "titles": [
         {
           "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时07分]"
         },
         {
           "title": "马兴瑞被双开",
@@ -58,9 +58,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "美联储主席沃什：美联储不会容忍通胀过高",
+          "url": "https://flash.jin10.com/detail/20260714204716195800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "伊朗阿巴斯港发生多起爆炸",
@@ -80,9 +91,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "美联储主席沃什：通胀框架工作组将研究通胀的驱动因素，并权衡实现价格稳定的各种思路。",
+          "url": "https://flash.jin10.com/detail/20260714204617601800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "美国军舰起火",
@@ -96,17 +118,15 @@
           "time_info": "17时46分"
         },
         {
-          "title": "马兴瑞被双开",
-          "url": "https://www.toutiao.com/trending/7662212929651687433/",
-          "source": "今日头条",
+          "title": "美联储主席沃什：我们的生产率和就业工作组将调查新一代通用技术的推进速度、覆盖范围和影响。",
+          "url": "https://flash.jin10.com/detail/20260714204607589800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            4,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "马兴瑞被双开",
@@ -118,8 +138,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时07分]"
         },
         {
           "title": "调查显示近千只瘫痪小猫超 65% 食用同一品牌猫粮，真是猫粮问题吗？猫粮中哪些成分可能导致这一问题？",
@@ -133,6 +153,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 15时03分]"
+        },
+        {
+          "title": "马兴瑞被双开",
+          "url": "https://www.toutiao.com/trending/7662212929651687433/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时07分]"
+        },
+        {
+          "title": "女子追尾身亡男友副驾睡觉被起诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%BD%E5%B0%BE%E8%BA%AB%E4%BA%A1%E7%94%B7%E5%8F%8B%E5%89%AF%E9%A9%BE%E7%9D%A1%E8%A7%89%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时07分]"
         },
         {
           "title": "乐事回应薯片中被曝出现蓝色异物",
@@ -166,11 +212,12 @@
             2,
             7,
             10,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时07分]"
         },
         {
           "title": "马兴瑞被“双开”",
@@ -179,11 +226,34 @@
           "ranks": [
             20,
             19,
-            17
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 21时07分]"
+        },
+        {
+          "title": "“鄂州龙卷风城区8人遇难”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%84%82%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%9F%8E%E5%8C%BA8%E4%BA%BA%E9%81%87%E9%9A%BE%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时03分 ~ 19时18分]"
+          "time_info": "[17时46分 ~ 21时07分]"
+        },
+        {
+          "title": "鄂州龙卷风城区8人遇难系谣言",
+          "url": "https://www.douyin.com/hot/2571267",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 21时07分]"
         },
         {
           "title": "大理百元豪车租赁乱象调查",
@@ -212,58 +282,26 @@
         },
         {
           "title": "“鄂州龙卷风城区8人遇难”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%84%82%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%9F%8E%E5%8C%BA8%E4%BA%BA%E9%81%87%E9%9A%BE%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时18分]"
-        },
-        {
-          "title": "鄂州龙卷风城区8人遇难系谣言",
-          "url": "https://www.douyin.com/hot/2571267",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时18分]"
-        },
-        {
-          "title": "女子追尾身亡男友副驾睡觉被起诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%BD%E5%B0%BE%E8%BA%AB%E4%BA%A1%E7%94%B7%E5%8F%8B%E5%89%AF%E9%A9%BE%E7%9D%A1%E8%A7%89%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "“鄂州龙卷风城区8人遇难”不实",
           "url": "https://www.toutiao.com/trending/7662311381517028890/",
           "source": "今日头条",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时07分]"
         },
         {
           "title": "LV 起诉国家知识产权局，因不服国家知识产权局驳回其针对广东服装经营者商标侵权的维权主张，如何看待此事？",
           "url": "https://www.zhihu.com/question/2060375449868441221",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时07分]"
         },
         {
           "title": "美国25岁女子涉嫌性侵男童并录像",
@@ -288,6 +326,39 @@
           "time_info": "[12时40分 ~ 15时03分]"
         },
         {
+          "title": "美联储主席沃什：我在五大领域各任命了一个工作组，目的在于使美联储在货币政策方面能够做出更佳决策，这些领域对于货币政策的广泛执行至关重要。",
+          "url": "https://flash.jin10.com/detail/20260714204557450800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "“新美联储通讯社”Nick Timiraos：6月份CPI数据全线表现温和。 核心商品价格连续第二个月下跌，降幅为0.09%。 住房价格仅上涨0.12%。 剔除住房后的核心服务价格下降了0.2%，创下疫情以来的最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3133673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "美联储主席沃什：我们尚不清楚经济将从AI建设中获得多大益处。",
+          "url": "https://flash.jin10.com/detail/20260714204501084800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "印度政府：6月批发价格指数（WPI）同比上涨9.87%（路透调查预期为9.15%）。",
           "url": "https://flash.jin10.com/detail/20260714143412992800",
           "source": "金十数据",
@@ -297,6 +368,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "美联储主席沃什：当前经济最突出的特征是商业投资。其快速步伐——且似乎还在加快——在很大程度上反映了数据中心的建设以及填满这些中心的AI相关设备和软件的庞大需求。",
+          "url": "https://flash.jin10.com/detail/20260714204440954800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "美联储主席沃什：我们共同坚定致力于恢复价格稳定，这正是我们6月会议的核心议题。",
+          "url": "https://flash.jin10.com/detail/20260714204418066800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "“烟草虎”韩占武被提起公诉",
@@ -321,6 +414,28 @@
           "time_info": "17时46分"
         },
         {
+          "title": "美联储主席沃什：我和我的同僚们认识到，高通胀一直是美国家庭和企业的不当负担。从更长时间维度看，潜在通胀在很大程度上由货币政策决定。",
+          "url": "https://flash.jin10.com/detail/20260714204401957800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "美联储主席沃什：如果我们选对了政策，那么过去五年的通胀飙升将成为历史。",
+          "url": "https://flash.jin10.com/detail/20260714204345951800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美军一补给舰起火",
           "url": "https://wallstreetcn.com/livenews/3133369",
           "source": "华尔街见闻-快讯",
@@ -330,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "美联储主席沃什：美联储对持续高通胀“零容忍”。 商业投资是当前经济最显著的特征。 美国经济具有韧性，增长步伐稳健。 消费增长温和，住房市场持续滞后。 AI机遇对决策者构成挑战。 正在监测AI对通胀和劳动力市场的影响。 劳动力市场总体稳定，名义工资增长稳健。 （沃什未就利率前景发表评论）",
+          "url": "https://wallstreetcn.com/livenews/3133664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "四大行提示“高息存款”诈骗",
@@ -354,6 +480,17 @@
           "time_info": "15时03分"
         },
         {
+          "title": "美联储主席沃什：美联储的首要目标是将货币政策做对——或者说尽可能做对。",
+          "url": "https://flash.jin10.com/detail/20260714204322871800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
           "source": "澎湃新闻",
@@ -371,9 +508,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "美联储主席沃什：消费增长温和，住房市场持续滞后。",
+          "url": "https://flash.jin10.com/detail/20260714204109479800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "男子酒驾撞车身亡其母称他遭“辅警与举报人合作追击”，呼伦贝尔市公安局曾指派异地调查",
@@ -398,13 +546,35 @@
           "time_info": "17时46分"
         },
         {
+          "title": "美联储主席沃什：AI机遇对决策者构成挑战。正在监测AI对通胀和劳动力市场的影响。",
+          "url": "https://flash.jin10.com/detail/20260714203815370800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "布鲁塞尔市中心一大楼发生火灾致多人死亡",
+          "url": "https://wallstreetcn.com/livenews/3133648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "伊朗媒体说布什尔地区发生数起爆炸",
           "url": "https://wallstreetcn.com/livenews/3133578",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
