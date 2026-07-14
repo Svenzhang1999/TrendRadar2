@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-14T09:23:04.063875+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-14T12:40:40.011585+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 4,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "调查显示近千只瘫痪小猫超 65% 食用同一品牌猫粮，真是猫粮问题吗？猫粮中哪些成分可能导致这一问题？",
+          "url": "https://www.zhihu.com/question/2058174380128130240",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时40分]"
+        },
         {
           "title": "网传 ICM 2026 菲尔兹奖名单在网页前端泄露，王虹、邓煜在获奖者讲座名单中，如何看待这一信息？",
           "url": "https://www.zhihu.com/question/2060133066643879544",
@@ -19,15 +31,48 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "调查显示近千只瘫痪小猫超 65% 食用同一品牌猫粮，真是猫粮问题吗？猫粮中哪些成分可能导致这一问题？",
-          "url": "https://www.zhihu.com/question/2058174380128130240",
+          "title": "马兴瑞被双开",
+          "url": "https://www.toutiao.com/trending/7662212929651687433/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "马兴瑞被双开",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E5%8F%8C%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "马兴瑞被双开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E5%8F%8C%E5%BC%80%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
+          "url": "https://www.zhihu.com/question/2060133066643879544",
           "source": "知乎",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：约旦东部马瓦法克·苏尔蒂空军基地发生剧烈爆炸。阿拉伯消息人士称该国军事目标遭导弹袭击。",
@@ -36,20 +81,98 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "马兴瑞被双开",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E5%8F%8C%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "马兴瑞被双开",
+          "url": "https://www.douyin.com/hot/2570577",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "遭仅退款老板千里维权坐30小时无座",
           "url": "https://www.baidu.com/s?wd=%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE%E8%80%81%E6%9D%BF%E5%8D%83%E9%87%8C%E7%BB%B4%E6%9D%83%E5%9D%9030%E5%B0%8F%E6%97%B6%E6%97%A0%E5%BA%A7",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时40分]"
+        },
+        {
+          "title": "乐事回应薯片中被曝出现蓝色异物",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%90%E4%BA%8B%E5%9B%9E%E5%BA%94%E8%96%AF%E7%89%87%E4%B8%AD%E8%A2%AB%E6%9B%9D%E5%87%BA%E7%8E%B0%E8%93%9D%E8%89%B2%E5%BC%82%E7%89%A9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "“烟草虎”韩占武被提起公诉",
+          "url": "https://www.toutiao.com/trending/7662197514435526697/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "美国25岁女子涉嫌性侵男童并录像",
+          "url": "https://www.toutiao.com/trending/7661944739440820260/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "阿根廷队想为广西洪灾捐赠物资",
+          "url": "https://www.douyin.com/hot/2570318",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "菲尔兹奖名单提前泄露",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%90%8D%E5%8D%95%E6%8F%90%E5%89%8D%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     }
