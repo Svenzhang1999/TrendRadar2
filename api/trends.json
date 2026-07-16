@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:51:06.574007+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-07-16T15:15:39.645340+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "日本央行调查：日本家庭预计五年后通胀率将平均上升10.8%，中位数为5.0%。",
@@ -14,9 +14,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "“硬刚王健林”的县长落马",
+          "url": "https://www.toutiao.com/trending/7662984996600155691/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "曾“硬刚王健林”的县长徐刘蔚落马",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E2%80%9C%E7%A1%AC%E5%88%9A%E7%8E%8B%E5%81%A5%E6%9E%97%E2%80%9D%E7%9A%84%E5%8E%BF%E9%95%BF%E5%BE%90%E5%88%98%E8%94%9A%E8%90%BD%E9%A9%AC",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "日本央行调查：86.1%的日本家庭预计五年后物价将上涨，而此前调查中的这一比例为82.6%。",
@@ -25,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -36,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -58,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -68,11 +90,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时15分]"
         },
         {
           "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
@@ -82,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时15分]"
         },
         {
           "title": "皮尤调查：中国全球好感度排名超美国",
@@ -106,6 +129,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "市场消息：韩国金融监管机构正着手制定针对单只股票杠杆型ETF的改进措施。",
+          "url": "https://flash.jin10.com/detail/20260716150933287800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
+          "url": "https://news.ifeng.com/c/8unzWPtRCRe",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "调查：多数经济学家预计拉加德将完成欧洲央行行长任期",
+          "url": "https://flash.jin10.com/detail/20260716150602856800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "7月16日投资避雷针：12天11板人气股提示风险 如进一步异常上涨将停牌核查",
@@ -150,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "上半年市场监管总局完成经营者集中反垄断审查298件",
+          "url": "https://flash.jin10.com/detail/20260716150039361800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "菲尔兹奖泄露,中国数学家封神",
