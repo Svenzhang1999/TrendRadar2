@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T19:27:35.649819+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-07-16T21:18:08.839948+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
         {
           "title": "美国对三星等7家公司启动337调查",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 19时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 21时18分]"
         },
         {
           "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 19时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 21时18分]"
         },
         {
           "title": "辽宁一橡皮艇闪爆致7死1失联",
@@ -38,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -104,7 +105,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -137,7 +138,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -159,7 +160,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -179,11 +180,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E4%B8%80%E6%A9%A1%E7%9A%AE%E8%89%87%E9%97%AA%E7%88%86%E8%87%B47%E6%AD%BB1%E5%A4%B1%E8%81%94%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时18分]"
         },
         {
           "title": "新西兰地震监测机构今天（7月16日）测定，新西兰南岛南部发生6.3级地震。 (CCTV国际时讯)",
@@ -210,6 +212,18 @@
           "time_info": "[09时29分 ~ 19时27分]"
         },
         {
+          "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
+          "url": "https://news.ifeng.com/c/8unzWPtRCRe",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 21时18分]"
+        },
+        {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
@@ -221,17 +235,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 15时15分]"
-        },
-        {
-          "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
-          "url": "https://news.ifeng.com/c/8unzWPtRCRe",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 19时27分]"
         },
         {
           "title": "女子醉驾拒绝抽血还辱骂殴打民警",
@@ -258,6 +261,39 @@
           "time_info": "[09时29分 ~ 17时56分]"
         },
         {
+          "title": "福建晋江一垃圾场起火",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%E4%B8%80%E5%9E%83%E5%9C%BE%E5%9C%BA%E8%B5%B7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
+        },
+        {
+          "title": "被“镜头霸凌”的普通人开始反击",
+          "url": "https://www.toutiao.com/trending/7662949777365827638/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
+        },
+        {
+          "title": "女子当街殴打89岁拾荒老人",
+          "url": "https://www.toutiao.com/trending/7663086377650880531/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
+        },
+        {
           "title": "皮尤调查：中国全球好感度排名超美国",
           "url": "https://www.toutiao.com/trending/7661901274195197995/",
           "source": "今日头条",
@@ -278,6 +314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "晋江火灾",
+          "url": "https://s.weibo.com/weibo?q=%E6%99%8B%E6%B1%9F%E7%81%AB%E7%81%BE&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "国际原子能机构：对扎波罗热核电站一名工程师在袭击中遇难的事件表示“不可接受”。",
@@ -308,7 +355,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -324,13 +371,24 @@
           "time_info": "15时15分"
         },
         {
+          "title": "中国地震台网正式测定：07月16日20时54分在云南大理州宾川县（北纬25.66度，东经100.69度）发生3.2级地震，震源深度9千米。",
+          "url": "https://flash.jin10.com/detail/20260716210028021800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "美国对三星等公司启动337调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%B8%89%E6%98%9F%E7%AD%89%E5%85%AC%E5%8F%B8%E5%90%AF%E5%8A%A8337%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -357,6 +415,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "中国地震台网自动测定：07月16日20时54分在云南大理州祥云县附近（北纬25.68度，东经100.69度）发生3.2级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260716205633676800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "巴林拉响防空警报 并传出数声爆炸声",
           "url": "https://wallstreetcn.com/livenews/3134687",
           "source": "华尔街见闻-快讯",
@@ -377,6 +446,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "意大利油企埃尼集团首席执行官：欧洲的乙烯和聚乙烯生产已停。",
+          "url": "https://flash.jin10.com/detail/20260716205354071800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "乌克兰确认接收501具遇难人员遗体 将确认身份",
+          "url": "https://flash.jin10.com/detail/20260716205123144800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "菲尔兹奖泄露,中国数学家封神",
