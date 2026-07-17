@@ -1,495 +1,143 @@
 {
-  "generated_at": "2026-07-16T21:18:08.839948+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-07-17T09:43:47.511698+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 43,
+      "match_count": 12,
       "titles": [
         {
-          "title": "美国对三星等7家公司启动337调查",
-          "url": "https://www.douyin.com/hot/2573272",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 21时18分]"
-        },
-        {
-          "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
-          "url": "https://www.zhihu.com/question/2060808065167746714",
+          "title": "如何看待真我 realme 退出中国市场，售后质保由 OPPO 全面接手？品牌为什么会走到停运这一步？",
+          "url": "https://www.zhihu.com/question/2061159948042461715",
           "source": "知乎",
           "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 21时18分]"
-        },
-        {
-          "title": "辽宁一橡皮艇闪爆致7死1失联",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%A9%A1%E7%9A%AE%E8%89%87%E9%97%AA%E7%88%86%E8%87%B47%E6%AD%BB1%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "09时43分"
         },
         {
-          "title": "日本央行调查：日本家庭预计五年后通胀率将平均上升10.8%，中位数为5.0%。",
-          "url": "https://flash.jin10.com/detail/20260716123137752800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "据路透调查：74位经济学家中有52位预计欧洲央行将在2026年再加息一次。",
-          "url": "https://flash.jin10.com/detail/20260716191704185800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "“硬刚王健林”的县长落马",
-          "url": "https://www.toutiao.com/trending/7662984996600155691/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "曾“硬刚王健林”的县长徐刘蔚落马",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E2%80%9C%E7%A1%AC%E5%88%9A%E7%8E%8B%E5%81%A5%E6%9E%97%E2%80%9D%E7%9A%84%E5%8E%BF%E9%95%BF%E5%BE%90%E5%88%98%E8%94%9A%E8%90%BD%E9%A9%AC",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "日本央行调查：86.1%的日本家庭预计五年后物价将上涨，而此前调查中的这一比例为82.6%。",
-          "url": "https://flash.jin10.com/detail/20260716123126563800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "据路透调查：所有74位经济学家均表示，欧洲央行将在7月23日维持存款利率于2.25%不变。",
-          "url": "https://flash.jin10.com/detail/20260716191656499800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "日本央行调查：日本家庭预计一年后通胀率将平均上升13.1%，中位数为10.0%。",
-          "url": "https://flash.jin10.com/detail/20260716123114869800",
+          "title": "调查显示日本企业稀土成本上涨逾两成 成本转嫁困难",
+          "url": "https://flash.jin10.com/detail/20260717093909385800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "09时43分"
         },
         {
-          "title": "德国地学研究中心GFZ：新西兰南岛发生5.62级地震。",
-          "url": "https://flash.jin10.com/detail/20260716172224770800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "辽宁一橡皮艇发生闪爆致7死1失联",
-          "url": "https://www.toutiao.com/trending/7662202757784587812/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
-          "url": "https://wallstreetcn.com/livenews/3134804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "辽宁一橡皮艇闪爆 7死1失联",
-          "url": "https://www.douyin.com/hot/2573726",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "日本央行6月季度调查显示，90.4%的日本家庭预计一年后物价将上涨，而此前调查中的这一比例为83.7%。",
-          "url": "https://flash.jin10.com/detail/20260716123101188800",
-          "source": "金十数据",
+          "title": "欧盟为何要调查北京烤鸭",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E4%B8%BA%E4%BD%95%E8%A6%81%E8%B0%83%E6%9F%A5%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "09时43分"
         },
         {
-          "title": "辽宁一橡皮艇闪爆致7死1失联",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E4%B8%80%E6%A9%A1%E7%9A%AE%E8%89%87%E9%97%AA%E7%88%86%E8%87%B47%E6%AD%BB1%E5%A4%B1%E8%81%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时18分]"
-        },
-        {
-          "title": "新西兰地震监测机构今天（7月16日）测定，新西兰南岛南部发生6.3级地震。 (CCTV国际时讯)",
-          "url": "https://wallstreetcn.com/livenews/3134988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 19时27分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "title": "乐事被曝薯片中吃出「蓝薯片」异物，它可能是什么？最可能从哪个环节混进包装袋的？",
+          "url": "https://www.zhihu.com/question/2060136922228565203",
           "source": "知乎",
           "ranks": [
-            12,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 19时27分]"
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
-          "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
-          "url": "https://news.ifeng.com/c/8unzWPtRCRe",
-          "source": "凤凰网",
+          "title": "沈音一对教授夫妻同日遇难",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%9F%B3%E4%B8%80%E5%AF%B9%E6%95%99%E6%8E%88%E5%A4%AB%E5%A6%BB%E5%90%8C%E6%97%A5%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时15分 ~ 21时18分]"
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 15时15分]"
-        },
-        {
-          "title": "女子醉驾拒绝抽血还辱骂殴打民警",
-          "url": "https://www.toutiao.com/trending/7662667996683108398/",
+          "title": "NFC果汁系勾兑2家企业被立案",
+          "url": "https://www.toutiao.com/trending/7663277377359183913/",
           "source": "今日头条",
           "ranks": [
-            10,
-            24
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 19时27分]"
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
-          "title": "7月16日投资避雷针：12天11板人气股提示风险 如进一步异常上涨将停牌核查",
-          "url": "https://www.cls.cn/detail/2427880",
-          "source": "财联社热门",
+          "title": "“黄鹤楼特饮”遭双重打击：黄鹤楼公园指其商标侵权，涉虚假宣传被市监部门立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598027",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 17时56分]"
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
-          "title": "福建晋江一垃圾场起火",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%E4%B8%80%E5%9E%83%E5%9C%BE%E5%9C%BA%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
+          "title": "河南处置“NFC果汁系勾兑”，对2家企业立案",
+          "url": "https://news.ifeng.com/c/8upEEuqtoGH",
+          "source": "凤凰网",
           "ranks": [
-            15
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
-          "title": "被“镜头霸凌”的普通人开始反击",
-          "url": "https://www.toutiao.com/trending/7662949777365827638/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "女子当街殴打89岁拾荒老人",
           "url": "https://www.toutiao.com/trending/7663086377650880531/",
           "source": "今日头条",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
-          "title": "皮尤调查：中国全球好感度排名超美国",
-          "url": "https://www.toutiao.com/trending/7661901274195197995/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
-          "title": "16月龄幼儿遭托育园老师虐待29分钟",
-          "url": "https://s.weibo.com/weibo?q=%2316%E6%9C%88%E9%BE%84%E5%B9%BC%E5%84%BF%E9%81%AD%E6%89%98%E8%82%B2%E5%9B%AD%E8%80%81%E5%B8%88%E8%99%90%E5%BE%8529%E5%88%86%E9%92%9F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
-          "title": "晋江火灾",
-          "url": "https://s.weibo.com/weibo?q=%E6%99%8B%E6%B1%9F%E7%81%AB%E7%81%BE&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
-          "title": "国际原子能机构：对扎波罗热核电站一名工程师在袭击中遇难的事件表示“不可接受”。",
-          "url": "https://flash.jin10.com/detail/20260716172000077800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "市场消息：韩国金融监管机构正着手制定针对单只股票杠杆型ETF的改进措施。",
-          "url": "https://flash.jin10.com/detail/20260716150933287800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "据Netlist：美国国际贸易委员会投票决定对三星展开第二次调查。",
-          "url": "https://flash.jin10.com/detail/20260716190547261800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "调查：多数经济学家预计拉加德将完成欧洲央行行长任期",
-          "url": "https://flash.jin10.com/detail/20260716150602856800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "中国地震台网正式测定：07月16日20时54分在云南大理州宾川县（北纬25.66度，东经100.69度）发生3.2级地震，震源深度9千米。",
-          "url": "https://flash.jin10.com/detail/20260716210028021800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "美国对三星等公司启动337调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%B8%89%E6%98%9F%E7%AD%89%E5%85%AC%E5%8F%B8%E5%90%AF%E5%8A%A8337%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "美国螺旋蝇疫情给墨西哥牧场主带来惨痛代价",
-          "url": "https://wallstreetcn.com/livenews/3134695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "罗技分销商因发「像狗一样」辱客广告，被市场监管部门罚款 20 万，如何看待这一处罚结果？有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/2060545155124441600",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "中国地震台网自动测定：07月16日20时54分在云南大理州祥云县附近（北纬25.68度，东经100.69度）发生3.2级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260716205633676800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "巴林拉响防空警报 并传出数声爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3134687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "上半年市场监管总局完成经营者集中反垄断审查298件",
-          "url": "https://flash.jin10.com/detail/20260716150039361800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "意大利油企埃尼集团首席执行官：欧洲的乙烯和聚乙烯生产已停。",
-          "url": "https://flash.jin10.com/detail/20260716205354071800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "乌克兰确认接收501具遇难人员遗体 将确认身份",
-          "url": "https://flash.jin10.com/detail/20260716205123144800",
-          "source": "金十数据",
-          "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "09时43分"
         },
         {
-          "title": "菲尔兹奖泄露,中国数学家封神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356174&amp;topic_name=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E6%B3%84%E9%9C%B2%2C%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%B0%81%E7%A5%9E",
-          "source": "贴吧",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日在上海开幕。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3135345",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时43分"
         },
         {
-          "title": "美国贸易代表格里尔：在301调查方面正在快速推进。",
-          "url": "https://wallstreetcn.com/livenews/3134677",
+          "title": "汶川地震获救者成为广西洪灾救援者",
+          "url": "https://www.toutiao.com/trending/7662783779925033023/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美军被曝搁置伊朗小学遇袭事件调查",
+          "url": "https://wallstreetcn.com/livenews/3135342",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时43分"
         }
       ]
     }
