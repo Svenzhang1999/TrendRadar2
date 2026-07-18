@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T12:38:44.783923+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-18T14:53:24.040452+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
@@ -20,6 +20,18 @@
           "time_info": "[09时23分 ~ 12时38分]"
         },
         {
+          "title": "FIFA主席提议中美合办世界杯",
+          "url": "https://www.toutiao.com/trending/7663707553033113126/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 14时53分]"
+        },
+        {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
           "url": "https://news.ifeng.com/c/8upHX3E0KP3",
           "source": "凤凰网",
@@ -31,15 +43,39 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "FIFA主席提议中美合办世界杯",
-          "url": "https://www.toutiao.com/trending/7663707553033113126/",
-          "source": "今日头条",
+          "title": "科威特电力部：遭受伊朗袭击后，电力和海水淡化厂发生火灾。",
+          "url": "https://wallstreetcn.com/livenews/3135974",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时38分"
+          "time_info": "14时53分"
+        },
+        {
+          "title": "科威特电力与海水淡化厂起火",
+          "url": "https://flash.jin10.com/detail/20260718141144982800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "重庆彭水山体崩塌现场还有34人失联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33609198",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 14时53分]"
         },
         {
           "title": "重庆彭水山体崩塌已致8死34失联",
@@ -50,20 +86,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时38分]"
-        },
-        {
-          "title": "重庆彭水山体崩塌现场还有34人失联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33609198",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 14时53分]"
         },
         {
           "title": "LV 再起诉浙江一日用百货店，商标维权诉讼已高达 1691 起，LV 为何在中国密集维权？",
@@ -74,8 +98,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 14时53分]"
+        },
+        {
+          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
+          "url": "https://www.cls.cn/detail/2430101",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 14时53分]"
         },
         {
           "title": "美军否认两艘油轮在霍尔木兹海峡触雷爆炸",
@@ -125,6 +161,18 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
+          "title": "FIFA主席说可以中美合办世界杯",
+          "url": "https://s.weibo.com/weibo?q=%23FIFA%E4%B8%BB%E5%B8%AD%E8%AF%B4%E5%8F%AF%E4%BB%A5%E4%B8%AD%E7%BE%8E%E5%90%88%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 14时53分]"
+        },
+        {
           "title": "山体崩塌现场还有34人失联",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94",
           "source": "百度热搜",
@@ -147,26 +195,26 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
-          "url": "https://www.cls.cn/detail/2430101",
-          "source": "财联社热门",
+          "title": "FIFA主席提议：中美合办世界杯",
+          "url": "https://www.baidu.com/s?wd=FIFA%E4%B8%BB%E5%B8%AD%E6%8F%90%E8%AE%AE%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%90%88%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时38分"
+          "time_info": "14时53分"
         },
         {
-          "title": "FIFA主席说可以中美合办世界杯",
-          "url": "https://s.weibo.com/weibo?q=%23FIFA%E4%B8%BB%E5%B8%AD%E8%AF%B4%E5%8F%AF%E4%BB%A5%E4%B8%AD%E7%BE%8E%E5%90%88%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "中国地震台网正式测定：7月18日13时47分在新疆克孜勒苏州阿克陶县（北纬38.71度，东经75.07度）发生4.3级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260718140501670800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时38分"
+          "time_info": "14时53分"
         },
         {
           "title": "伊朗革命卫队：两艘油轮穿越霍尔木兹海峡南部雷区后爆炸起火",
@@ -230,7 +278,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -241,7 +289,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -296,7 +344,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
