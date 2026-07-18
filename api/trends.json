@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-07-18T09:24:14.544854+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-18T12:38:44.783923+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "重庆彭水山体崩塌已致8死34失联",
-          "url": "https://www.douyin.com/hot/2575457",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时38分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -41,26 +31,87 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "美军否认两艘油轮在霍尔木兹海峡触雷爆炸",
-          "url": "https://wallstreetcn.com/livenews/3135939",
-          "source": "华尔街见闻-快讯",
+          "title": "FIFA主席提议中美合办世界杯",
+          "url": "https://www.toutiao.com/trending/7663707553033113126/",
+          "source": "今日头条",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "12时38分"
+        },
+        {
+          "title": "重庆彭水山体崩塌已致8死34失联",
+          "url": "https://www.douyin.com/hot/2575457",
+          "source": "抖音",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时38分]"
         },
         {
           "title": "重庆彭水山体崩塌现场还有34人失联",
           "url": "https://m.thepaper.cn/newsDetail_forward_33609198",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时38分]"
+        },
+        {
+          "title": "LV 再起诉浙江一日用百货店，商标维权诉讼已高达 1691 起，LV 为何在中国密集维权？",
+          "url": "https://www.zhihu.com/question/2061126048599602778",
+          "source": "知乎",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时38分]"
+        },
+        {
+          "title": "美军否认两艘油轮在霍尔木兹海峡触雷爆炸",
+          "url": "https://wallstreetcn.com/livenews/3135939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "time_info": "[09时24分 ~ 12时38分]"
+        },
+        {
+          "title": "重庆山体崩塌已致8死34失联",
+          "url": "https://www.toutiao.com/trending/7662578686872505862/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时38分]"
+        },
+        {
+          "title": "路人持拖把殴打八旬拾荒老人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356254&amp;topic_name=%E8%B7%AF%E4%BA%BA%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E5%85%AB%E6%97%AC%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时38分]"
         },
         {
           "title": "A股再现天价离婚案",
@@ -68,17 +119,6 @@
           "source": "今日头条",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "LV 再起诉浙江一日用百货店，商标维权诉讼已高达 1691 起，LV 为何在中国密集维权？",
-          "url": "https://www.zhihu.com/question/2061126048599602778",
-          "source": "知乎",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -96,17 +136,6 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "重庆山体崩塌已致8死34失联",
-          "url": "https://www.toutiao.com/trending/7662578686872505862/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
           "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
           "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
           "source": "澎湃新闻",
@@ -118,15 +147,26 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
-          "title": "路人持拖把殴打八旬拾荒老人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356254&amp;topic_name=%E8%B7%AF%E4%BA%BA%E6%8C%81%E6%8B%96%E6%8A%8A%E6%AE%B4%E6%89%93%E5%85%AB%E6%97%AC%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA",
-          "source": "贴吧",
+          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
+          "url": "https://www.cls.cn/detail/2430101",
+          "source": "财联社热门",
           "ranks": [
-            21
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "FIFA主席说可以中美合办世界杯",
+          "url": "https://s.weibo.com/weibo?q=%23FIFA%E4%B8%BB%E5%B8%AD%E8%AF%B4%E5%8F%AF%E4%BB%A5%E4%B8%AD%E7%BE%8E%E5%90%88%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "伊朗革命卫队：两艘油轮穿越霍尔木兹海峡南部雷区后爆炸起火",
@@ -135,7 +175,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -146,7 +186,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -157,7 +197,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -168,7 +208,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -179,9 +219,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "科威特、巴林传出新一轮爆炸声",
+          "url": "https://flash.jin10.com/detail/20260718102110038800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "欧洲地中海地震中心：墨西哥恰帕斯海域发生了4.2级地震；震源深度1.0公里。",
+          "url": "https://flash.jin10.com/detail/20260718101605428800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
@@ -190,7 +252,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -201,7 +263,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -212,7 +274,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -223,9 +285,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "霍尔木兹海峡2艘油轮爆炸起火",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A12%E8%89%98%E6%B2%B9%E8%BD%AE%E7%88%86%E7%82%B8%E8%B5%B7%E7%81%AB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "伊朗南部锡里克地区传出3次爆炸声",
@@ -234,7 +307,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
