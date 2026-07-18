@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-18T18:09:35.754963+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-07-18T19:44:35.528430+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
-        {
-          "title": "FIFA主席提议中美合办世界杯",
-          "url": "https://www.toutiao.com/trending/7663707553033113126/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时09分]"
-        },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
@@ -55,6 +42,28 @@
           "time_info": "14时53分"
         },
         {
+          "title": "广西水利厅和广西气象局联合发布山洪灾害气象预警",
+          "url": "https://wallstreetcn.com/livenews/3136003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
+          "url": "https://flash.jin10.com/detail/20260718190448394800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "科威特电力与海水淡化厂起火",
           "url": "https://flash.jin10.com/detail/20260718141144982800",
           "source": "金十数据",
@@ -75,8 +84,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时23分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 19时44分]"
+        },
+        {
+          "title": "FIFA主席提议中美合办世界杯",
+          "url": "https://www.toutiao.com/trending/7663707553033113126/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1,
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 19时44分]"
         },
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
@@ -88,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 19时44分]"
         },
         {
           "title": "LV 再起诉浙江一日用百货店，商标维权诉讼已高达 1691 起，LV 为何在中国密集维权？",
@@ -104,19 +127,6 @@
           "time_info": "[09时23分 ~ 14时53分]"
         },
         {
-          "title": "重庆彭水山体崩塌已致8死34失联",
-          "url": "https://www.douyin.com/hot/2575457",
-          "source": "抖音",
-          "ranks": [
-            1,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时23分 ~ 18时09分]"
-        },
-        {
           "title": "美军否认两艘油轮在霍尔木兹海峡触雷爆炸",
           "url": "https://wallstreetcn.com/livenews/3135939",
           "source": "华尔街见闻-快讯",
@@ -129,6 +139,20 @@
           "time_info": "[09时24分 ~ 12时38分]"
         },
         {
+          "title": "重庆彭水山体崩塌已致8死34失联",
+          "url": "https://www.douyin.com/hot/2575457",
+          "source": "抖音",
+          "ranks": [
+            1,
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 19时44分]"
+        },
+        {
           "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
           "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
           "source": "澎湃新闻",
@@ -136,8 +160,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 18时09分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 19时44分]"
         },
         {
           "title": "FIFA主席提议：中美合办世界杯",
@@ -200,6 +224,18 @@
           "time_info": "[12时38分 ~ 14时53分]"
         },
         {
+          "title": "上海足协发布对“禁足”人员申思的调查通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612930",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时44分]"
+        },
+        {
           "title": "山体崩塌现场还有34人失联",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94",
           "source": "百度热搜",
@@ -222,6 +258,18 @@
           "time_info": "[16时42分 ~ 18时09分]"
         },
         {
+          "title": "21岁失联女孩成为跨国绑架罪犯",
+          "url": "https://www.baidu.com/s?wd=21%E5%B2%81%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E6%88%90%E4%B8%BA%E8%B7%A8%E5%9B%BD%E7%BB%91%E6%9E%B6%E7%BD%AA%E7%8A%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时44分]"
+        },
+        {
           "title": "中国地震台网正式测定：7月18日13时47分在新疆克孜勒苏州阿克陶县（北纬38.71度，东经75.07度）发生4.3级地震，震源深度10千米。",
           "url": "https://flash.jin10.com/detail/20260718140501670800",
           "source": "金十数据",
@@ -231,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "中国地震台网正式测定：07月18日18时36分在塔吉克斯坦（北纬37.70度，东经72.55度）发生5.3级地震，震源深度140千米。",
+          "url": "https://flash.jin10.com/detail/20260718185657735800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "伊朗革命卫队：两艘油轮穿越霍尔木兹海峡南部雷区后爆炸起火",
@@ -244,13 +303,24 @@
           "time_info": "09时24分"
         },
         {
+          "title": "广西水利厅和广西气象局联合发布山洪灾害气象预警",
+          "url": "https://flash.jin10.com/detail/20260718185450669800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "16岁女儿诬告父亲性侵称因管教太严",
           "url": "https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%84%BF%E8%AF%AC%E5%91%8A%E7%88%B6%E4%BA%B2%E6%80%A7%E4%BE%B5%E7%A7%B0%E5%9B%A0%E7%AE%A1%E6%95%99%E5%A4%AA%E4%B8%A5%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -261,7 +331,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -310,17 +380,6 @@
           "time_info": "16时42分"
         },
         {
-          "title": "上海足协发布对“禁足”人员申思的调查通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612930",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
           "title": "据沙特媒体哈达斯：黎巴嫩消息人士表示，美国中央司令部领导层预计下周访问贝鲁特，跟进框架协议的执行情况。",
           "url": "https://flash.jin10.com/detail/20260718152752690800",
           "source": "金十数据",
@@ -330,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "女儿报警称遭父性侵两年后二审翻供",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%81%AD%E7%88%B6%E6%80%A7%E4%BE%B5%E4%B8%A4%E5%B9%B4%E5%90%8E%E4%BA%8C%E5%AE%A1%E7%BF%BB%E4%BE%9B",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "委内瑞拉临时总统：在地震后从国际货币基金组织获得了3.46亿美元的资源。",
@@ -409,15 +479,15 @@
           "time_info": "09时24分"
         },
         {
-          "title": "21岁失联女孩成为跨国绑架罪犯",
-          "url": "https://www.baidu.com/s?wd=21%E5%B2%81%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E6%88%90%E4%B8%BA%E8%B7%A8%E5%9B%BD%E7%BB%91%E6%9E%B6%E7%BD%AA%E7%8A%AF",
-          "source": "百度热搜",
+          "title": "住户将防火门改成自家大门被投诉",
+          "url": "https://www.toutiao.com/trending/7663682715062239275/",
+          "source": "今日头条",
           "ranks": [
-            27
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "19时44分"
         },
         {
           "title": "据伊朗国家电视台：伊朗革命卫队称，两艘油轮在驶经霍尔木兹海峡以南一条布设有水雷的航线后发生爆炸并起火。",
