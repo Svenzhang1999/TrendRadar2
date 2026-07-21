@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T12:58:36.719805+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-21T15:32:04.502377+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "怡颗莓 致癌物",
@@ -14,20 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "西班牙夺冠狂欢震动地震仪",
-          "url": "https://www.toutiao.com/trending/7663855418126417929/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时32分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在尝试通过霍尔木兹海峡南部航道时发生爆炸并起火。 已对位于巴林穆哈拉格的美军雷达和防空系统实施打击。 在导弹与无人机袭击中目标打击了位于巴林里法的美军“爱国者”防空系统。",
@@ -52,6 +41,79 @@
           "time_info": "09时29分"
         },
         {
+          "title": "西班牙夺冠狂欢震动地震仪",
+          "url": "https://www.toutiao.com/trending/7663855418126417929/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时32分]"
+        },
+        {
+          "title": "西班牙夺冠狂欢震动地震仪",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E7%8B%82%E6%AC%A2%E9%9C%87%E5%8A%A8%E5%9C%B0%E9%9C%87%E4%BB%AA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
+        },
+        {
+          "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620002",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
+        },
+        {
+          "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
+          "url": "https://www.zhihu.com/question/2062554076487881992",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
+        },
+        {
+          "title": "河北高碑店一11岁男孩被泳池排水口吸住溺亡，警方已立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33623094",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时32分]"
+        },
+        {
+          "title": "怡颗莓回应检出致癌物",
+          "url": "https://www.toutiao.com/trending/7664848376353197614/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
           "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
           "url": "https://www.zhihu.com/question/2061953789863654753",
           "source": "知乎",
@@ -64,40 +126,15 @@
           "time_info": "[09时29分 ~ 12时58分]"
         },
         {
-          "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620002",
-          "source": "澎湃新闻",
+          "title": "美政府开始调查哈佛大学，扯上了中国",
+          "url": "https://news.ifeng.com/c/8uwIPYqOSSc",
+          "source": "凤凰网",
           "ranks": [
-            14,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时58分]"
-        },
-        {
-          "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
-          "url": "https://www.zhihu.com/question/2062554076487881992",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时58分]"
-        },
-        {
-          "title": "西班牙夺冠狂欢震动地震仪",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E7%8B%82%E6%AC%A2%E9%9C%87%E5%8A%A8%E5%9C%B0%E9%9C%87%E4%BB%AA",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时58分]"
+          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "广西局部发生山洪灾害可能性较大",
@@ -109,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "欧元区Q2企业融资调查：融资成本上升，资金更多流向库存和现金流管理",
+          "url": "https://flash.jin10.com/detail/20260721150123726800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "西班牙夺冠狂欢“惊动”了地震仪",
@@ -131,17 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "河北高碑店一11岁男孩被泳池排水口吸住溺亡，警方已立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33623094",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "伊朗革命卫队：一小时前，两艘油轮在美军的误导下，试图经由霍尔木兹海峡以南的危险航道通过，结果发生爆炸起火并被迫停航。目前，救援部队正在将这些船只上的船员撤离该区域。",
@@ -172,7 +209,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
