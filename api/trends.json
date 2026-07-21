@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T15:32:04.502377+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-07-21T18:14:58.530261+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 19,
+      "match_count": 29,
       "titles": [
         {
           "title": "怡颗莓 致癌物",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 18时14分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在尝试通过霍尔木兹海峡南部航道时发生爆炸并起火。 已对位于巴林穆哈拉格的美军雷达和防空系统实施打击。 在导弹与无人机袭击中目标打击了位于巴林里法的美军“爱国者”防空系统。",
@@ -53,6 +53,18 @@
           "time_info": "[12时58分 ~ 15时32分]"
         },
         {
+          "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
+          "url": "https://www.zhihu.com/question/2062554076487881992",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 18时14分]"
+        },
+        {
           "title": "西班牙夺冠狂欢震动地震仪",
           "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E7%8B%82%E6%AC%A2%E9%9C%87%E5%8A%A8%E5%9C%B0%E9%9C%87%E4%BB%AA",
           "source": "百度热搜",
@@ -64,6 +76,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 15时32分]"
+        },
+        {
+          "title": "河北高碑店一11岁男孩被泳池排水口吸住溺亡，警方已立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33623094",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 18时14分]"
         },
         {
           "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
@@ -79,30 +104,6 @@
           "time_info": "[09时29分 ~ 15时32分]"
         },
         {
-          "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
-          "url": "https://www.zhihu.com/question/2062554076487881992",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 15时32分]"
-        },
-        {
-          "title": "河北高碑店一11岁男孩被泳池排水口吸住溺亡，警方已立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33623094",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时32分]"
-        },
-        {
           "title": "怡颗莓回应检出致癌物",
           "url": "https://www.toutiao.com/trending/7664848376353197614/",
           "source": "今日头条",
@@ -110,8 +111,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 18时14分]"
+        },
+        {
+          "title": "美政府开始调查哈佛大学，扯上了中国",
+          "url": "https://news.ifeng.com/c/8uwIPYqOSSc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 18时14分]"
         },
         {
           "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
@@ -126,15 +138,15 @@
           "time_info": "[09时29分 ~ 12时58分]"
         },
         {
-          "title": "美政府开始调查哈佛大学，扯上了中国",
-          "url": "https://news.ifeng.com/c/8uwIPYqOSSc",
-          "source": "凤凰网",
+          "title": "市场消息：巴林的美国第五舰队总部传出爆炸声。巴林首都麦纳麦已响起警报，居民被要求留在避难所内。",
+          "url": "https://flash.jin10.com/detail/20260721175713073800",
+          "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "广西局部发生山洪灾害可能性较大",
@@ -154,7 +166,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -170,6 +182,61 @@
           "time_info": "09时29分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：科威特北部发生剧烈爆炸。",
+          "url": "https://flash.jin10.com/detail/20260721175157274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "怡颗莓回应检出致癌物",
+          "url": "https://www.baidu.com/s?wd=%E6%80%A1%E9%A2%97%E8%8E%93%E5%9B%9E%E5%BA%94%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "视频丨允许菲方采取舰载小艇转运伤员，中国海警全程监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33626905",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "欧洲理事会主席与英国新任首相通话 讨论英欧合作",
+          "url": "https://wallstreetcn.com/livenews/3137481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "影子调查｜花七百万建宗祠木材腐烂成严重损坏房，三人已被抓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612075",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
           "url": "https://www.zhihu.com/question/2062557149230903440",
           "source": "知乎",
@@ -179,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "菲方转运伤员 中国海警全程监管",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E6%96%B9%E8%BD%AC%E8%BF%90%E4%BC%A4%E5%91%98+%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%85%A8%E7%A8%8B%E7%9B%91%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "伊朗革命卫队：一小时前，两艘油轮在美军的误导下，试图经由霍尔木兹海峡以南的危险航道通过，结果发生爆炸起火并被迫停航。目前，救援部队正在将这些船只上的船员撤离该区域。",
@@ -192,6 +270,28 @@
           "time_info": "09时29分"
         },
         {
+          "title": "印度央行：草案规则明确区分了《外汇管理法》（FEMA）的程序性条款与政策、行业特定要求，包括简化程序、降低合规负担、通过投资者友好的监管框架提供更大的操作灵活性。",
+          "url": "https://flash.jin10.com/detail/20260721174735539800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "日本公平贸易委员会将加强对中小企业价格转嫁的监管。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3137474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "FIFA将调查西班牙阿根廷赛后冲突",
           "url": "https://www.baidu.com/s?wd=FIFA%E5%B0%86%E8%B0%83%E6%9F%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B5%9B%E5%90%8E%E5%86%B2%E7%AA%81",
           "source": "百度热搜",
@@ -201,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "小孩哥右手火腿肠左手鹦鹉尸体",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%8F%B3%E6%89%8B%E7%81%AB%E8%85%BF%E8%82%A0%E5%B7%A6%E6%89%8B%E9%B9%A6%E9%B9%89%E5%B0%B8%E4%BD%93&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "FIFA将调查西班牙阿根廷赛后冲突",
