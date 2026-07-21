@@ -1,281 +1,143 @@
 {
-  "generated_at": "2026-07-20T21:47:27.462954+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-07-21T09:29:47.713275+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 24,
+      "match_count": 12,
       "titles": [
         {
-          "title": "监管出手也难止跌势？韩股又熔断了，评级遭投行下调",
-          "url": "https://www.cls.cn/detail/2430982",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 19时35分]"
-        },
-        {
-          "title": "据央视：李强主持召开国务院常务会议，听取2025年度中央预算执行和其他财政收支审计查出问题整改工作建议汇报。",
-          "url": "https://flash.jin10.com/detail/20260720191010970800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "李强主持召开国务院常务会议，听取2025年度中央预算执行和其他财政收支审计查出问题整改工作建议汇报。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3136865",
+          "title": "伊朗革命卫队：两艘油轮在尝试通过霍尔木兹海峡南部航道时发生爆炸并起火。 已对位于巴林穆哈拉格的美军雷达和防空系统实施打击。 在导弹与无人机袭击中目标打击了位于巴林里法的美军“爱国者”防空系统。",
+          "url": "https://wallstreetcn.com/livenews/3137161",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "日本自卫队驻地发生火灾",
-          "url": "https://flash.jin10.com/detail/20260720131445602800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "09时29分"
         },
         {
           "title": "重点整治毒动画、规范平台推荐行为等，中央网信办部署开展未成年人网络保护专项行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33619311",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            11,
-            12,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 21时47分]"
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
-          "title": "自发去车库抗洪失联男子已遇难",
-          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%8F%91%E5%8E%BB%E8%BD%A6%E5%BA%93%E6%8A%97%E6%B4%AA%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
+          "title": "广西局部发生山洪灾害可能性较大",
+          "url": "https://www.douyin.com/hot/2578068",
+          "source": "抖音",
           "ranks": [
-            23,
-            22
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时31分]"
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
-          "title": "央视财经曝光：“宫廷秘方”护肤品实为猪油炮制，套证上市逃避监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33617305",
-          "source": "澎湃新闻",
+          "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
+          "url": "https://www.zhihu.com/question/2061953789863654753",
+          "source": "知乎",
           "ranks": [
-            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "西班牙夺冠狂欢“惊动”了地震仪",
+          "url": "https://news.ifeng.com/c/8uvs3mJGNMA",
+          "source": "凤凰网",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时47分]"
-        },
-        {
-          "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
-          "url": "https://www.toutiao.com/trending/7664025440365494308/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "男童在网红村旅游时被溪水冲走遇难",
-          "url": "https://www.toutiao.com/trending/7664051374728085530/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "瑞安航空首席执行官：波音方面预计737 MAX 10将在9月或10月获得认证。",
-          "url": "https://flash.jin10.com/detail/20260720130801600800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "科威特军队总参谋部：科威特防空部队正在抵御敌对导弹和无人机袭击，以回应伊朗打击。如果听到爆炸声，那是防空系统拦截敌对攻击所致。呼吁所有人遵守主管部门发布的安全与安保指示。",
-          "url": "https://flash.jin10.com/detail/20260720213353647800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "市场监管总局部署开展推动平台企业赋能个体工商户发展行动 加大对平台新入驻个体工商户的支持力度",
-          "url": "https://wallstreetcn.com/livenews/3136717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "西班牙夺冠庆典喷泉坍塌13岁男孩身亡",
-          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E5%BA%86%E5%85%B8%E5%96%B7%E6%B3%89%E5%9D%8D%E5%A1%8C13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "市场监管总局：合理降低佣金、抽成、会员费等费用，减轻个体工商户运营初期成本压力",
-          "url": "https://wallstreetcn.com/livenews/3136716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗西北部城市大不里士发生了三起爆炸，但当局尚未确认爆炸的确切地点或来源。",
-          "url": "https://flash.jin10.com/detail/20260720094755523800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：巴林一处海军支援基地附近发生了爆炸。",
-          "url": "https://flash.jin10.com/detail/20260720125058398800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "欧洲央行调查：衡量企业整体银行融资状况的指标显示，融资环境进一步收紧。除利率外，企业还面临更高的非利息借贷成本。在未来12个月内计划进行AI相关投资的公司中，大多数预计将投资于AI相关技术和工具以及员工培训，资金主要来自企业内部。",
-          "url": "https://flash.jin10.com/detail/20260720162213855800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "09时29分"
         },
         {
           "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_33620002",
           "source": "澎湃新闻",
           "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
+          "url": "https://www.zhihu.com/question/2062554076487881992",
+          "source": "知乎",
+          "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时47分"
+          "time_info": "09时29分"
         },
         {
-          "title": "四川乐山苏稽古镇发生火灾",
-          "url": "https://www.toutiao.com/trending/7664389969083187242/",
+          "title": "伊朗革命卫队：一小时前，两艘油轮在美军的误导下，试图经由霍尔木兹海峡以南的危险航道通过，结果发生爆炸起火并被迫停航。目前，救援部队正在将这些船只上的船员撤离该区域。",
+          "url": "https://flash.jin10.com/detail/20260721090114844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "FIFA将调查西班牙阿根廷赛后冲突",
+          "url": "https://www.baidu.com/s?wd=FIFA%E5%B0%86%E8%B0%83%E6%9F%A5%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B5%9B%E5%90%8E%E5%86%B2%E7%AA%81",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "福建三钢起火？系雷击跳电后安全处置",
+          "url": "https://www.toutiao.com/trending/7664584417466531903/",
           "source": "今日头条",
           "ranks": [
-            18
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "09时29分"
         },
         {
-          "title": "上交所向智明达下发监管工作函，处理事由为关于成都智明达电子股份有限公司相关重要事项。",
-          "url": "https://flash.jin10.com/detail/20260720212417807800",
-          "source": "金十数据",
+          "title": "西班牙夺冠狂欢震动地震仪",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E7%8B%82%E6%AC%A2%E9%9C%87%E5%8A%A8%E5%9C%B0%E9%9C%87%E4%BB%AA",
+          "source": "百度热搜",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：在第一次地震发生5分钟后，位于克尔曼沙赫省库兹兰附近的地区发生了规模为5.7级的余震。",
-          "url": "https://flash.jin10.com/detail/20260720122542115800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "霍尔木兹海峡一船只起火",
-          "url": "https://wallstreetcn.com/livenews/3136420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "当地时间今天（7月20日）早晨，伊朗西部发生5.5级地震。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3136559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "男子泼硫酸捅刺女子致重伤被执行死刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B3%BC%E7%A1%AB%E9%85%B8%E6%8D%85%E5%88%BA%E5%A5%B3%E5%AD%90%E8%87%B4%E9%87%8D%E4%BC%A4%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "09时29分"
         }
       ]
     }
