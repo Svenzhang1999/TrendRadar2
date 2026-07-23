@@ -1,360 +1,55 @@
 {
-  "generated_at": "2026-07-22T20:21:57.640593+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-07-23T09:48:37.651544+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 30,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "影子调查｜花七百万建宗祠木材腐烂成严重损坏房，三人已被抓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612075",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时58分]"
-        },
-        {
-          "title": "视频丨允许菲方采取舰载小艇转运伤员，中国海警全程监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33626905",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时58分]"
-        },
-        {
-          "title": "“怡颗莓”被指检出含致癌物质：旗舰店称符合标准，多家线上商超已搜不到相关产品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33628698",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "监管关注部分信托公司的未交易银行间账户",
-          "url": "https://flash.jin10.com/detail/20260722152734510800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "“怡颗莓”被检出含致癌物质：旗舰店称符合标准，多家线上商超已搜不到相关产品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33628698",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "宗馥莉上诉被驳 18亿美元资产仍冻结",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%8A%E8%AF%89%E8%A2%AB%E9%A9%B3+18%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E4%BA%A7%E4%BB%8D%E5%86%BB%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "成都一仓库火灾无人伤亡",
-          "url": "https://www.douyin.com/hot/2581225",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "香港高院再次驳回宗馥莉上诉许可申请，维持18亿美元资产冻结令",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33630534",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 20时21分]"
-        },
-        {
-          "title": "中方全程监管菲律宾转运伤员",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%85%A8%E7%A8%8B%E7%9B%91%E7%AE%A1%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%BD%AC%E8%BF%90%E4%BC%A4%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            8,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 20时21分]"
-        },
-        {
-          "title": "多名中国公民在沙特被捕 中使馆提醒",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%B2%99%E7%89%B9%E8%A2%AB%E6%8D%95+%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 20时21分]"
-        },
-        {
-          "title": "东方空间引力一号首次远海发射成功 年内拟再执行三次卫星批量发射任务",
-          "url": "https://www.cls.cn/detail/2433531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 18时14分]"
-        },
-        {
-          "title": "视频丨中国海警局公布全程监管菲转运伤员现场画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33630862",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 20时21分]"
-        },
-        {
-          "title": "28岁小伙为救前妻落水弟弟遇难",
-          "url": "https://www.baidu.com/s?wd=28%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E5%89%8D%E5%A6%BB%E8%90%BD%E6%B0%B4%E5%BC%9F%E5%BC%9F%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 20时21分]"
-        },
         {
           "title": "多位中国公民在沙特被捕，中使馆回应",
           "url": "https://news.ifeng.com/c/8uxzPsDiHKz",
           "source": "凤凰网",
           "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 20时21分]"
-        },
-        {
-          "title": "无缘市赛的区二等奖作品得了“市一等奖”？阜阳市教育局：名单已下架，会核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33629022",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 18时14分]"
-        },
-        {
-          "title": "女友在商场被没拴绳的狗吓到，男子摔狗并掌掴狗主人，警方介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33628173",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 20时21分]"
-        },
-        {
-          "title": "前外长跳槽中企后，匈牙利新政府宣布启动投资调查",
-          "url": "https://news.ifeng.com/c/8uyD6jI3Uwu",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 20时21分]"
-        },
-        {
-          "title": "宗馥莉18亿美元资产被冻结",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%97%E9%A6%A5%E8%8E%8918%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E4%BA%A7%E8%A2%AB%E5%86%BB%E7%BB%93&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时48分"
         },
         {
-          "title": "“美国海军第五舰队司令部发生爆炸”",
-          "url": "https://news.ifeng.com/c/8uwrK5sQQBp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "女子用不锈钢盆晒面粉时起火",
-          "url": "https://www.toutiao.com/trending/7665014361485148166/",
-          "source": "今日头条",
+          "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
+          "url": "https://www.zhihu.com/question/2060880883452793625",
+          "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "09时48分"
         },
         {
           "title": "周星驰影迷集体维权",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BD%B1%E8%BF%B7%E9%9B%86%E4%BD%93%E7%BB%B4%E6%9D%83",
           "source": "百度热搜",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "香港高院驳回宗馥莉上诉许可申请，判决维持 18 亿美元资产冻结令，宗馥莉须支付 25 万港元讼费，如何解读？",
-          "url": "https://www.zhihu.com/question/2062979960810295712",
-          "source": "知乎",
-          "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时48分"
         },
         {
-          "title": "郑州致2死2伤火灾系经营纠纷纵火",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E8%87%B42%E6%AD%BB2%E4%BC%A4%E7%81%AB%E7%81%BE%E7%B3%BB%E7%BB%8F%E8%90%A5%E7%BA%A0%E7%BA%B7%E7%BA%B5%E7%81%AB%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "金建希首次接受特检组调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BB%BA%E5%B8%8C%E9%A6%96%E6%AC%A1%E6%8E%A5%E5%8F%97%E7%89%B9%E6%A3%80%E7%BB%84%E8%B0%83%E6%9F%A5%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "中国地震台网正式测定：07月22日11时45分在云南普洱市墨江县（北纬23.20度，东经101.45度）发生3.1级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260722115353391800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "中方全程监管菲律宾转运伤员",
-          "url": "https://www.toutiao.com/trending/7664865683680444462/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "女子边充电边刷手机睡着后手机起火",
-          "url": "https://www.toutiao.com/trending/7664566769684545578/",
+          "title": "涉密文件放窗台丢失 保密员被双开",
+          "url": "https://www.toutiao.com/trending/7665497823558926342/",
           "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "日本男子坠楼砸死路人自己生还",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%9D%A0%E6%A5%BC%E7%A0%B8%E6%AD%BB%E8%B7%AF%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%94%9F%E8%BF%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特朗普想让FIFA主席当联合国秘书长",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%AE%A9FIFA%E4%B8%BB%E5%B8%AD%E5%BD%93%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "喜马拉雅山区一印度项目隧道发生爆炸",
-          "url": "https://www.toutiao.com/trending/7664526032107716671/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "09时48分"
         }
       ]
     }
