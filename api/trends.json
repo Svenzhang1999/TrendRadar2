@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T09:44:31.461636+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-25T12:57:36.600814+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "王小洪会见美国联邦调查局局长",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时57分]"
+        },
+        {
+          "title": "中国证监会原党委委员、副主席方星海接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时57分]"
+        },
+        {
+          "title": "证监会原副主席方星海被查",
+          "url": "https://wallstreetcn.com/articles/3777885",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时57分]"
         },
         {
           "title": "王小洪会见美国联邦调查局局长",
@@ -30,26 +52,15 @@
           "time_info": "09时44分"
         },
         {
-          "title": "中国证监会原党委委员、副主席方星海接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "证监会原副主席方星海被查",
-          "url": "https://wallstreetcn.com/articles/3777885",
-          "source": "华尔街见闻",
+          "title": "载有11名外国游客的快艇在印尼东部海域失联",
+          "url": "https://flash.jin10.com/detail/20260725124801550800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "12时57分"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -100,11 +111,47 @@
           "url": "https://www.toutiao.com/trending/7665632878388215858/",
           "source": "今日头条",
           "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时57分]"
+        },
+        {
+          "title": "中纪委通报：上半年50名省部级及以上干部被立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656291",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时57分]"
+        },
+        {
+          "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654735",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时57分]"
+        },
+        {
+          "title": "司机追尾身亡,副驾睡觉被索赔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356495&amp;topic_name=%E5%8F%B8%E6%9C%BA%E8%BF%BD%E5%B0%BE%E8%BA%AB%E4%BA%A1%2C%E5%89%AF%E9%A9%BE%E7%9D%A1%E8%A7%89%E8%A2%AB%E7%B4%A2%E8%B5%94",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "12时57分"
         },
         {
           "title": "“广西百色遭遇严重洪灾”系谣言",
@@ -118,26 +165,37 @@
           "time_info": "09时44分"
         },
         {
-          "title": "中纪委通报：上半年50名省部级及以上干部被立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656291",
-          "source": "澎湃新闻",
+          "title": "高压线下打电话会引发爆炸系谣言",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%8E%8B%E7%BA%BF%E4%B8%8B%E6%89%93%E7%94%B5%E8%AF%9D%E4%BC%9A%E5%BC%95%E5%8F%91%E7%88%86%E7%82%B8%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
-            14
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "12时57分"
         },
         {
-          "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654735",
-          "source": "澎湃新闻",
+          "title": "女子举报遭警察猥亵 警方通报",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E9%81%AD%E8%AD%A6%E5%AF%9F%E7%8C%A5%E4%BA%B5+%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
-            18
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "12时57分"
+        },
+        {
+          "title": "罚没51.79亿元！市场监管总局对携程作出处罚",
+          "url": "https://wallstreetcn.com/livenews/3139699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "Anthropic首席执行官：已与三星电子及SK海力士签署供应协议。",
@@ -149,6 +207,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "西南证券原二级专务彭世斌涉嫌严重违纪违法接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3139695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "台风红霞来袭 多地停运、停航、停课",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E6%9D%A5%E8%A2%AD+%E5%A4%9A%E5%9C%B0%E5%81%9C%E8%BF%90%E3%80%81%E5%81%9C%E8%88%AA%E3%80%81%E5%81%9C%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "覆盖人口超4亿！我国地震预警公众服务体系已初步建成",
+          "url": "https://flash.jin10.com/detail/20260725111643310800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：继也门再次发动导弹袭击后，沙特境内再次传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260725111226216800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "丰田铂智7首个承诺电池事故起火赔付",
