@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T17:27:21.605228+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-07-25T19:03:52.174745+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "王小洪会见美国联邦调查局局长",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时03分]"
         },
         {
           "title": "证监会原副主席方星海被查",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时03分]"
         },
         {
           "title": "中国证监会原党委委员、副主席方星海接受审查调查",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时03分]"
         },
         {
           "title": "王小洪会见美国联邦调查局局长",
@@ -98,28 +98,6 @@
           "time_info": "09时44分"
         },
         {
-          "title": "黎巴嫩称以军行动致该国南部发生强烈爆炸",
-          "url": "https://wallstreetcn.com/livenews/3139730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "当地州长表示，无人机引发俄罗斯图门地区石油炼厂火灾。",
-          "url": "https://flash.jin10.com/detail/20260725161722616800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "证监会原副主席方星海被查",
           "url": "https://www.douyin.com/hot/2583989",
           "source": "抖音",
@@ -131,17 +109,42 @@
           "time_info": "09时44分"
         },
         {
+          "title": "黎巴嫩称以军行动致该国南部发生强烈爆炸",
+          "url": "https://wallstreetcn.com/livenews/3139730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时03分]"
+        },
+        {
+          "title": "当地州长表示，无人机引发俄罗斯图门地区石油炼厂火灾。",
+          "url": "https://flash.jin10.com/detail/20260725161722616800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时03分]"
+        },
+        {
           "title": "中纪委通报：上半年50名省部级及以上干部被立案",
           "url": "https://m.thepaper.cn/newsDetail_forward_33656291",
           "source": "澎湃新闻",
           "ranks": [
             14,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时03分]"
         },
         {
           "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
@@ -153,8 +156,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时03分]"
         },
         {
           "title": "司机追尾身亡,副驾睡觉被索赔",
@@ -163,11 +166,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 19时03分]"
         },
         {
           "title": "“鞋拔子脸”维权女孩：修复至少30万",
@@ -218,6 +222,30 @@
           "time_info": "[15时09分 ~ 17时27分]"
         },
         {
+          "title": "据英国国家电网数据，英国希舍姆2-7号核反应堆已停运。",
+          "url": "https://flash.jin10.com/detail/20260725160428934800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时03分]"
+        },
+        {
+          "title": "黎巴嫩称以军行动致该国南部发生强烈爆炸",
+          "url": "https://flash.jin10.com/detail/20260725152429725800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时03分]"
+        },
+        {
           "title": "罚没51.79亿元！市场监管总局对携程作出处罚",
           "url": "https://wallstreetcn.com/livenews/3139699",
           "source": "华尔街见闻-快讯",
@@ -253,17 +281,6 @@
           "time_info": "[15时09分 ~ 15时10分]"
         },
         {
-          "title": "据英国国家电网数据，英国希舍姆2-7号核反应堆已停运。",
-          "url": "https://flash.jin10.com/detail/20260725160428934800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "据东莞发布：台风“红霞”来势凶猛，市三防指挥部决定，自7月25日起在，全市范围内实行“四停”，（停课、停工、停运、停业）措施。",
           "url": "https://flash.jin10.com/detail/20260725140458389800",
           "source": "金十数据",
@@ -273,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "航行警告 渤海海峡黄海北部执行军事任务",
+          "url": "https://flash.jin10.com/detail/20260725173527743800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "“广西百色遭遇严重洪灾”系谣言",
@@ -286,17 +314,6 @@
           "time_info": "09时44分"
         },
         {
-          "title": "黎巴嫩称以军行动致该国南部发生强烈爆炸",
-          "url": "https://flash.jin10.com/detail/20260725152429725800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "科威特石油公司首席执行官：我们欢迎黑石、Brookfield和KKR作为长期投资者参与“游隼项目”。",
           "url": "https://flash.jin10.com/detail/20260725133344962800",
           "source": "金十数据",
@@ -308,13 +325,24 @@
           "time_info": "15时10分"
         },
         {
+          "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658118",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "船运调查机构ITS：马来西亚7月1日至25日棕榈油出口增长15.9%；马来西亚7月1日至25日棕榈油出口量预计为1,307,012吨。",
           "url": "https://flash.jin10.com/detail/20260725150832016800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -336,7 +364,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
