@@ -1,312 +1,110 @@
 {
-  "generated_at": "2026-07-24T20:12:47.122712+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-07-25T09:44:31.461636+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 42,
+      "match_count": 14,
       "titles": [
         {
-          "title": "7月26日广东省内铁路全线停运",
-          "url": "https://www.baidu.com/s?wd=7%E6%9C%8826%E6%97%A5%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%86%85%E9%93%81%E8%B7%AF%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 20时12分]"
-        },
-        {
-          "title": "“两高”修改司法解释 加大力度惩治内幕交易、泄露内幕信息犯罪",
-          "url": "https://www.cls.cn/detail/2436195",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 20时12分]"
-        },
-        {
-          "title": "双胞胎姐姐被抱走失联40年终团圆",
-          "url": "https://www.toutiao.com/trending/7665586423860903978/",
+          "title": "王小洪会见美国联邦调查局局长",
+          "url": "https://www.toutiao.com/trending/7666079821497630771/",
           "source": "今日头条",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
-          "title": "证监会原副主席方星海被查",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5",
+          "title": "王小洪会见美国联邦调查局局长",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E8%B0%83%E6%9F%A5%E5%B1%80%E5%B1%80%E9%95%BF",
           "source": "百度热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时12分"
+          "time_info": "09时44分"
         },
         {
-          "title": "巴基斯坦一名安全官员表示，在该国西北部的开伯尔省发生自杀式袭击，导致9名警察遇难，另有27人受伤。",
-          "url": "https://flash.jin10.com/detail/20260724174013981800",
-          "source": "金十数据",
+          "title": "中国证监会原党委委员、副主席方星海接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "证监会原副主席方星海被查",
+          "url": "https://wallstreetcn.com/articles/3777885",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "赛里木湖景区通报工作人员殴打司机",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "赛里木湖景区通报工作人员殴打司机",
-          "url": "https://www.toutiao.com/trending/7665732992987349011/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时00分 ~ 20时12分]"
-        },
-        {
-          "title": "国务院成立六蓝水库溃坝调查组",
-          "url": "https://www.douyin.com/hot/2583257",
-          "source": "抖音",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 20时12分]"
-        },
-        {
-          "title": "演员寇占文被法院悬赏，立案标的 694 万，曾出演《隋唐英雄传》《逐玉》《镖人》，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2063647197862654390",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 20时12分]"
-        },
-        {
-          "title": "限期完成机票超售问题自查整改！10家航司、5家线上售票平台被约谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650327",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 20时12分]"
-        },
-        {
-          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
-          "url": "https://www.cls.cn/detail/2435732",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 15时32分]"
-        },
-        {
-          "title": "国务院成立六蓝水库溃坝调查评估组",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 15时32分]"
-        },
-        {
-          "title": "如何评价台球厅一男子拍助教屁股被索赔两千元，现因猥亵他人已被警方依法行政拘留？",
-          "url": "https://www.zhihu.com/question/2063568881944359958",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时01分]"
-        },
-        {
-          "title": "女生晒全身照遭网友日式霸凌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356423&amp;topic_name=%E5%A5%B3%E7%94%9F%E6%99%92%E5%85%A8%E8%BA%AB%E7%85%A7%E9%81%AD%E7%BD%91%E5%8F%8B%E6%97%A5%E5%BC%8F%E9%9C%B8%E5%87%8C",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时01分]"
+          "time_info": "09时44分"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
           "url": "https://wallstreetcn.com/articles/3777836",
           "source": "华尔街见闻",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "限期完成机票超售问题自查整改！10家航司、5家线上售票平台被约谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650327",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "韩国总统与Anthropic首席执行官讨论扩大投资事宜",
+          "url": "https://flash.jin10.com/detail/20260725091446352800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "证监会原副主席方星海被查",
+          "url": "https://www.douyin.com/hot/2583989",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "“鞋拔子脸”维权女孩：修复至少30万",
+          "url": "https://www.toutiao.com/trending/7665632878388215858/",
+          "source": "今日头条",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 20时12分]"
-        },
-        {
-          "title": "男子采血后口吐白沫 当地成立调查组",
-          "url": "https://www.toutiao.com/trending/7665802541242105897/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "赛里木湖景区通报工作人员殴打旅游车司机，7 人被辞退，如何看待此事？景区管理存在哪些问题？",
-          "url": "https://www.zhihu.com/question/2063817016037979454",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "王虹接终身教授邀请邮件以为是诈骗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%99%B9%E6%8E%A5%E7%BB%88%E8%BA%AB%E6%95%99%E6%8E%88%E9%82%80%E8%AF%B7%E9%82%AE%E4%BB%B6%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%AF%88%E9%AA%97%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "蒋万安等人反对台当局上架致癌油产品",
-          "url": "https://www.toutiao.com/trending/7665125407587106859/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "SK掌门人50亿美元天价离婚案判了",
-          "url": "https://www.baidu.com/s?wd=SK%E6%8E%8C%E9%97%A8%E4%BA%BA50%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%88%A4%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "国务院成立六蓝水库溃坝灾害调查组",
-          "url": "https://www.toutiao.com/trending/7665701311173804075/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "国航南航东航同程携程飞猪等被约谈",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E5%8D%97%E8%88%AA%E4%B8%9C%E8%88%AA%E5%90%8C%E7%A8%8B%E6%90%BA%E7%A8%8B%E9%A3%9E%E7%8C%AA%E7%AD%89%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组",
-          "url": "https://wallstreetcn.com/livenews/3139216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "乌克兰检察总长：俄罗斯空袭导致基辅地区10人遇难。",
-          "url": "https://flash.jin10.com/detail/20260724200137328800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "中国证监会原副主席方星海接受审查调查",
-          "url": "https://flash.jin10.com/detail/20260724200105973800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
+          "time_info": "09时44分"
         },
         {
           "title": "“广西百色遭遇严重洪灾”系谣言",
@@ -315,174 +113,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "据伊朗国家电视台：伊朗南部贾斯克地区传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260724200028302800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "“两高”修改司法解释 加大力度惩治内幕交易、泄露内幕信息犯罪",
-          "url": "https://wallstreetcn.com/livenews/3139288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "09时44分"
         },
         {
-          "title": "女子举报安徽亳州公安一副支队长猥亵",
-          "url": "https://www.toutiao.com/trending/7665710254676656154/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "京津冀三地消协组织就机票超售约谈10家航空公司、5家线上售票平台",
-          "url": "https://wallstreetcn.com/livenews/3139206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "今年将成立国际打击电信网络诈骗联盟",
-          "url": "https://wallstreetcn.com/livenews/3139201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "国家网信办、公安部联合公布《小型个人信息处理者个人信息保护简化措施规定》",
-          "url": "https://wallstreetcn.com/livenews/3139373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "路透调查：英国2026年通胀预计平均为3.1%，经济增速为1.0%（6月调查分别为3.3%和1.0%）。",
-          "url": "https://flash.jin10.com/detail/20260724195053193800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "赛里木湖景区通报工作人员殴打旅游车司机：7人被警方控制，予以辞退",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33649439",
+          "title": "中纪委通报：上半年50名省部级及以上干部被立案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656291",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "09时44分"
         },
         {
-          "title": "路透调查：中值显示，英国央行预计将在明年中期之前将银行利率维持在3.75%不变。",
-          "url": "https://flash.jin10.com/detail/20260724195031345800",
+          "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654735",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "Anthropic首席执行官：已与三星电子及SK海力士签署供应协议。",
+          "url": "https://flash.jin10.com/detail/20260725083139937800",
           "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "亿纬锂能：回应美国专利诉讼及337调查 称不构成侵权",
-          "url": "https://wallstreetcn.com/livenews/3139363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "旅游偶遇失联台湾亲人男子最新发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E5%81%B6%E9%81%87%E5%A4%B1%E8%81%94%E5%8F%B0%E6%B9%BE%E4%BA%B2%E4%BA%BA%E7%94%B7%E5%AD%90%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "09时44分"
         },
         {
-          "title": "路透调查：70位经济学家一致预计英国央行将在7月30日会议上维持银行利率在3.75%。",
-          "url": "https://flash.jin10.com/detail/20260724195002462800",
-          "source": "金十数据",
+          "title": "丰田铂智7首个承诺电池事故起火赔付",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B0%E7%94%B0%E9%93%82%E6%99%BA7%E9%A6%96%E4%B8%AA%E6%89%BF%E8%AF%BA%E7%94%B5%E6%B1%A0%E4%BA%8B%E6%95%85%E8%B5%B7%E7%81%AB%E8%B5%94%E4%BB%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "香港证监会优化单日杠杆及反向产品的监管框架以确保市场有序交易",
-          "url": "https://wallstreetcn.com/livenews/3139357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "上交所：本周对201起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对32起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索5起。",
-          "url": "https://wallstreetcn.com/livenews/3139431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "中国警方抓获美籍涉嫌性侵幼女逃犯",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7%E7%BE%8E%E7%B1%8D%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%E5%B9%BC%E5%A5%B3%E9%80%83%E7%8A%AF",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "09时44分"
         }
       ]
     }
