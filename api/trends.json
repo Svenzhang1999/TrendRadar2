@@ -1,489 +1,143 @@
 {
-  "generated_at": "2026-07-26T20:56:49.801787+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-07-27T09:53:45.821779+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 41,
+      "match_count": 12,
       "titles": [
         {
-          "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658118",
-          "source": "澎湃新闻",
+          "title": "重庆彭水救援现场发现失联中巴残骸",
+          "url": "https://www.toutiao.com/trending/7666646939391639615/",
+          "source": "今日头条",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 16时07分]"
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
-          "title": "中南大学：近日收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660220",
-          "source": "澎湃新闻",
+          "title": "重庆彭水发现失联中巴车残骸",
+          "url": "https://www.douyin.com/hot/2586461",
+          "source": "抖音",
           "ranks": [
-            9,
-            5,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 19时55分]"
-        },
-        {
-          "title": "中国地震台网正式测定：07月26日20时36分在台湾新北市（北纬24.94度，东经121.82度）发生4.8级地震，震源深度95千米。",
-          "url": "https://flash.jin10.com/detail/20260726205341402800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "09时53分"
         },
         {
-          "title": "中国地震台网自动测定：07月26日20时36分在台湾宜兰县海域附近（北纬24.90度，东经121.87度）发生4.8级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260726204044978800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "中南大学已成立调查组",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=5&Refer=top",
+          "title": "重庆彭水发现失联中巴车残骸",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%8E%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%B7%B4%E8%BD%A6%E6%AE%8B%E9%AA%B8%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "09时53分"
         },
         {
           "title": "乌军袭击商船引发爆炸，伊朗发表声明谴责",
           "url": "https://news.ifeng.com/c/8v4SrzgNUdY",
           "source": "凤凰网",
           "ranks": [
-            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 20时56分]"
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
-          "title": "台湾“致癌油”已查出8000吨",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E2%80%9C%E8%87%B4%E7%99%8C%E6%B2%B9%E2%80%9D%E5%B7%B2%E6%9F%A5%E5%87%BA8000%E5%90%A8",
+          "title": "有毒养生神药曝光后 亳州成立调查组",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E6%AF%92%E5%85%BB%E7%94%9F%E7%A5%9E%E8%8D%AF%E6%9B%9D%E5%85%89%E5%90%8E+%E4%BA%B3%E5%B7%9E%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84",
           "source": "百度热搜",
           "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时07分]"
-        },
-        {
-          "title": "男子顺风车上猝死 家属索赔18万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%A1%BA%E9%A3%8E%E8%BD%A6%E4%B8%8A%E7%8C%9D%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9418%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时07分]"
-        },
-        {
-          "title": "新冠疫情升至中流行水平",
-          "url": "https://www.toutiao.com/trending/7666086385439555625/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            14,
-            16,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 19时55分]"
-        },
-        {
-          "title": "司机追尾身亡,副驾睡觉被索赔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356495&amp;topic_name=%E5%8F%B8%E6%9C%BA%E8%BF%BD%E5%B0%BE%E8%BA%AB%E4%BA%A1%2C%E5%89%AF%E9%A9%BE%E7%9D%A1%E8%A7%89%E8%A2%AB%E7%B4%A2%E8%B5%94",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 20时56分]"
-        },
-        {
-          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
-          "url": "https://flash.jin10.com/detail/20260726180734026800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时56分]"
-        },
-        {
-          "title": "上海交大医学院：针对仇某某发表医学论文及新华医院开展临床研究事件，进行全面调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33661692",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 20时56分]"
-        },
-        {
-          "title": "中南大学一硕士论文被指 13 页雷同，校方成立调查组，此前曾称暑假结束再受理举报，如何评价？暴露哪些问题？",
-          "url": "https://www.zhihu.com/question/2064146352787945024",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时06分 ~ 18时29分]"
-        },
-        {
-          "title": "贩卖私密视频 百万粉丝女网红被捕",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%A9%E5%8D%96%E7%A7%81%E5%AF%86%E8%A7%86%E9%A2%91+%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时56分]"
-        },
-        {
-          "title": "台湾 致癌油",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%20%E8%87%B4%E7%99%8C%E6%B2%B9&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时07分]"
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "视频丨甘肃渭源一景区发生山洪灾害，已致10人遇难23人受伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662993",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 20时56分]"
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
-          "title": "小狗护主咬死剧毒眼镜蛇嘴角中毒",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E6%8A%A4%E4%B8%BB%E5%92%AC%E6%AD%BB%E5%89%A7%E6%AF%92%E7%9C%BC%E9%95%9C%E8%9B%87%E5%98%B4%E8%A7%92%E4%B8%AD%E6%AF%92%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 20时56分]"
-        },
-        {
-          "title": "市长表示，戈尔洛夫卡的四名居民在乌克兰无人机袭击中遇难。",
-          "url": "https://flash.jin10.com/detail/20260726184834054800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 20时56分]"
-        },
-        {
-          "title": "也门总理：胡塞武装持续袭击船只并威胁红海安全，证明其正在执行伊朗的指令。",
-          "url": "https://flash.jin10.com/detail/20260726164651327800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时55分]"
-        },
-        {
-          "title": "小伙上门回收手机被客户男友误会殴打",
-          "url": "https://www.toutiao.com/trending/7665651386954465299/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "上海交大医学院就女童接受基因编辑后死亡发情况说明，已成立工作组对事件进行全面调查，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2064701373489182368",
+          "title": "甘肃渭源一景区山洪已致 10 人遇难，23 人受伤，现场已完成四轮搜救，目前情况如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2064783855282643631",
           "source": "知乎",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "台风天2名工人被困高空 官方介入调查",
-          "url": "https://www.toutiao.com/trending/7666684253400481801/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "报道：印尼金属出口因稀土核查面临延误",
-          "url": "https://wallstreetcn.com/livenews/3139770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 13时23分]"
-        },
-        {
-          "title": "伊媒：一艘油轮在霍尔木兹海峡触雷爆炸",
-          "url": "https://wallstreetcn.com/livenews/3139840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "调查显示日本8月将有近1900种食品涨价",
-          "url": "https://wallstreetcn.com/livenews/3139839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "台湾“致癌油”已查出8000吨",
-          "url": "https://www.toutiao.com/trending/7666238053325324329/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "伊媒：一艘油轮在霍尔木兹海峡触雷爆炸",
-          "url": "https://flash.jin10.com/detail/20260726200028077800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "越南籍船舶南海遇险沉没 中方已救起44人",
-          "url": "https://flash.jin10.com/detail/20260726121045216800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "唐山“教科书式老赖”案最新进展：肇事司机女儿房产或被法拍",
-          "url": "https://news.ifeng.com/c/8v4Cwvu2m7O",
-          "source": "凤凰网",
-          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "新冠疫情升至中流行水平",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%8D%87%E8%87%B3%E4%B8%AD%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "韩国散户抢在监管收紧前买入三星和Sk海力士单股杠杆ETF",
-          "url": "https://flash.jin10.com/detail/20260726120256815800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "09时53分"
         },
         {
           "title": "甘肃省渭源县一景区发生山洪灾害，已造成3人遇难",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662831",
           "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "新冠疫情升至中流行水平 专家建议",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%8D%87%E8%87%B3%E4%B8%AD%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3+%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "09时53分"
         },
         {
-          "title": "西班牙首相：多地山火灾情仍然严峻",
-          "url": "https://flash.jin10.com/detail/20260726082503722800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "越南籍船舶南海沉没62人遇险，中方救起39人仍有23人失联",
-          "url": "https://flash.jin10.com/detail/20260726103132123800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "中国工商银行董事长廖林会见巴拿马银行监管总署署长米尔顿·阿永",
-          "url": "https://wallstreetcn.com/livenews/3139768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
-          "url": "https://wallstreetcn.com/livenews/3139766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "虞书欣名誉维权案胜诉",
-          "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%90%8D%E8%AA%89%E7%BB%B4%E6%9D%83%E6%A1%88%E8%83%9C%E8%AF%89&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "乌克兰无人机袭击引发俄罗斯秋明炼油厂火灾",
-          "url": "https://flash.jin10.com/detail/20260726101828465800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "上海交大医学院全面调查网传临床研究",
-          "url": "https://flash.jin10.com/detail/20260726134923120800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "越南船舶南海遇险 36人获救26人失联",
-          "url": "https://www.toutiao.com/trending/7666477753113362475/",
+          "title": "有毒养生神药曝光后亳州成立调查组",
+          "url": "https://www.toutiao.com/trending/7666664088609882155/",
           "source": "今日头条",
           "ranks": [
-            29
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "09时53分"
+        },
+        {
+          "title": "伊媒：一油轮在霍尔木兹海峡触雷爆炸",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E5%AA%92%EF%BC%9A%E4%B8%80%E6%B2%B9%E8%BD%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%A7%A6%E9%9B%B7%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "嫌停车贵 男子跟车逃费183次被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E5%AB%8C%E5%81%9C%E8%BD%A6%E8%B4%B5+%E7%94%B7%E5%AD%90%E8%B7%9F%E8%BD%A6%E9%80%83%E8%B4%B9183%E6%AC%A1%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "司机追尾身亡,副驾睡觉被索赔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356495&amp;topic_name=%E5%8F%B8%E6%9C%BA%E8%BF%BD%E5%B0%BE%E8%BA%AB%E4%BA%A1%2C%E5%89%AF%E9%A9%BE%E7%9D%A1%E8%A7%89%E8%A2%AB%E7%B4%A2%E8%B5%94",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     }
