@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-07-27T09:53:45.821779+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-27T13:39:35.204379+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "重庆彭水救援现场发现失联中巴残骸",
-          "url": "https://www.toutiao.com/trending/7666646939391639615/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "重庆彭水发现失联中巴车残骸",
-          "url": "https://www.douyin.com/hot/2586461",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
         {
           "title": "重庆彭水发现失联中巴车残骸",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%8E%B0%E5%A4%B1%E8%81%94%E4%B8%AD%E5%B7%B4%E8%BD%A6%E6%AE%8B%E9%AA%B8%23&t=31&band_rank=2&Refer=top",
@@ -52,6 +30,65 @@
           "time_info": "09时53分"
         },
         {
+          "title": "我国地震预警公众服务体系初步建成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E5%85%AC%E4%BC%97%E6%9C%8D%E5%8A%A1%E4%BD%93%E7%B3%BB%E5%88%9D%E6%AD%A5%E5%BB%BA%E6%88%90%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "重庆彭水发现失联中巴车残骸",
+          "url": "https://www.douyin.com/hot/2586461",
+          "source": "抖音",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 13时39分]"
+        },
+        {
+          "title": "重庆彭水救援现场发现失联中巴残骸",
+          "url": "https://www.toutiao.com/trending/7666646939391639615/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 13时39分]"
+        },
+        {
+          "title": "视频丨甘肃渭源一景区发生山洪灾害，已致10人遇难23人受伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662993",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 13时39分]"
+        },
+        {
+          "title": "甘肃省渭源县一景区发生山洪灾害，已造成3人遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662831",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 13时39分]"
+        },
+        {
           "title": "有毒养生神药曝光后 亳州成立调查组",
           "url": "https://www.baidu.com/s?wd=%E6%9C%89%E6%AF%92%E5%85%BB%E7%94%9F%E7%A5%9E%E8%8D%AF%E6%9B%9D%E5%85%89%E5%90%8E+%E4%BA%B3%E5%B7%9E%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84",
           "source": "百度热搜",
@@ -63,15 +100,26 @@
           "time_info": "09时53分"
         },
         {
-          "title": "视频丨甘肃渭源一景区发生山洪灾害，已致10人遇难23人受伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662993",
-          "source": "澎湃新闻",
+          "title": "路透调查：72位经济学家中有68位预计印度央行将在8月5日维持回购利率在5.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260727130358527800",
+          "source": "金十数据",
           "ranks": [
-            12
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "13时39分"
+        },
+        {
+          "title": "甘肃一景区山洪致露营游客遇难，当地曾发布山洪灾害预警，但游客未被限制进入或及时疏散，景区存在责任吗？",
+          "url": "https://www.zhihu.com/question/2064820259022795106",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "甘肃渭源一景区山洪已致 10 人遇难，23 人受伤，现场已完成四轮搜救，目前情况如何？哪些信息值得关注？",
@@ -79,17 +127,6 @@
           "source": "知乎",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "甘肃省渭源县一景区发生山洪灾害，已造成3人遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662831",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -105,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "如何看待米哈游创始人「蔡浩宇」海外团队 AI 产品 AnuNeko 突然宣布永久停运？",
+          "url": "https://www.zhihu.com/question/2064803992841069459",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "伊媒：一油轮在霍尔木兹海峡触雷爆炸",
