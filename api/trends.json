@@ -1,22 +1,44 @@
 {
-  "generated_at": "2026-07-28T09:29:37.095776+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-28T12:55:06.335957+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 17,
+      "match_count": 38,
       "titles": [
         {
-          "title": "网红景区10人遇难 3次预警为何失效",
-          "url": "https://www.toutiao.com/trending/7667355494197235209/",
-          "source": "今日头条",
+          "title": "青海连发地震 西宁兰州震感明显",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E8%BF%9E%E5%8F%91%E5%9C%B0%E9%9C%87+%E8%A5%BF%E5%AE%81%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "青海地震",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "青海海南州连续两次地震",
+          "url": "https://www.douyin.com/hot/2587973",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
         },
         {
           "title": "网红景区10人遇难 三次预警为何失效",
@@ -52,15 +74,51 @@
           "time_info": "09时29分"
         },
         {
+          "title": "澳洲联储主席Bullock：认为金融环境“稍微”偏紧。",
+          "url": "https://wallstreetcn.com/livenews/3140732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "网红景区10人遇难 3次预警为何失效",
+          "url": "https://www.toutiao.com/trending/7667355494197235209/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时55分]"
+        },
+        {
+          "title": "河南通报“三支一扶”高分争议：成立工作组，开展调查核实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669203",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时55分]"
+        },
+        {
           "title": "公职人员被举报侵吞8亿资产 官方调查",
           "url": "https://www.toutiao.com/trending/7667186077138075675/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时55分]"
         },
         {
           "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
@@ -70,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时55分]"
         },
         {
           "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
@@ -81,19 +139,142 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时55分]"
         },
         {
           "title": "央媒调查：验收“过关”的6000亩灌溉项目沦为摆设，何以“纸面惠民”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33667111",
           "source": "澎湃新闻",
           "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时55分]"
+        },
+        {
+          "title": "和法医一起看影片中的尸体",
+          "url": "https://www.douyin.com/hot/2587455",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 12时55分]"
+        },
+        {
+          "title": "青海连发两次5级以上地震",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E6%B5%B7%E8%BF%9E%E5%8F%91%E4%B8%A4%E6%AC%A15%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "女童基因编辑治疗后死亡，卫健部门介入调查，还有哪些疑点待解？此次事故可能涉及哪些医疗违规或违法行为？",
+          "url": "https://www.zhihu.com/question/2065037308403737451",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "唐山大地震50周年",
+          "url": "https://www.douyin.com/hot/2587833",
+          "source": "抖音",
+          "ranks": [
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "衡水一中学 2 元转让 40% 股权后陷债务危机，有公职人员遭举报，当地成立联合调查组，具体是什么情况？",
+          "url": "https://www.zhihu.com/question/2065354169976709358",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "青海地震西宁震感强烈 吊灯摇晃",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87%E8%A5%BF%E5%AE%81%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88+%E5%90%8A%E7%81%AF%E6%91%87%E6%99%83",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "青海兴海再发5.8级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E5%85%B4%E6%B5%B7%E5%86%8D%E5%8F%915.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "澳洲联储主席Bullock：CPI偏离目标的时间越长，委员会就会越担忧。 澳洲联储能做的最好应对是做出迅速响应、适应变化。",
+          "url": "https://wallstreetcn.com/livenews/3140730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时55分"
+        },
+        {
+          "title": "青海海南州兴海县发生5.8级地震 震源深度10千米",
+          "url": "https://wallstreetcn.com/livenews/3140729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：经济表现与澳洲联储5月份的预测基本一致。",
+          "url": "https://wallstreetcn.com/livenews/3140724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "美方发布“强迫劳动”301调查最终措施，商务部回应",
@@ -107,15 +288,15 @@
           "time_info": "09时29分"
         },
         {
-          "title": "河南通报“三支一扶”高分争议：成立工作组，开展调查核实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669203",
-          "source": "澎湃新闻",
+          "title": "中国地震台网自动测定：青海海南州兴海县附发生5.8级左右地震。",
+          "url": "https://wallstreetcn.com/livenews/3140713",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时55分"
         },
         {
           "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸、人体残骸，正检测 DNA，哪些信息值得关注？",
@@ -129,15 +310,15 @@
           "time_info": "09时29分"
         },
         {
-          "title": "和法医一起看影片中的尸体",
-          "url": "https://www.douyin.com/hot/2587455",
-          "source": "抖音",
+          "title": "澳洲联储主席布洛克：房地产市场在金融环境是否紧缩方面是一个试金石。",
+          "url": "https://flash.jin10.com/detail/20260728115530280800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时55分"
         },
         {
           "title": "女孩和男友吵架从18层坠楼生还",
@@ -151,6 +332,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "澳洲联储主席Bullock：尚不确定澳洲联储加息幅度是否足以使CPI回落至目标区间。 如有需要，澳洲联储委员会将进一步提高现金利率。 此前加息的全部效果仍需时日方能显现。 澳洲联储致力于防止成本压力演变成固化通胀。 核心CPI走势大致符合预期，但依然过高。 各项指标显示二季度消费增长温和。 需求增长可能仍需进一步放缓。",
+          "url": "https://wallstreetcn.com/livenews/3140703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "中国地震台网正式测定：07月28日08时51分在新疆阿克苏地区沙雅县（北纬41.00度，东经83.49度）发生3.3级地震，震源深度22千米。",
           "url": "https://flash.jin10.com/detail/20260728085926690800",
           "source": "金十数据",
@@ -160,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "青海连发两次5级以上地震 中国地震局启动四级应急响应",
+          "url": "https://flash.jin10.com/detail/20260728115211525800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "唐山大地震50周年",
@@ -182,6 +385,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：进一步的石油冲击可能会巩固高通胀预期。",
+          "url": "https://flash.jin10.com/detail/20260728114506047800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "中国地震台网正式测定：07月28日11时34分在青海海南州兴海县（北纬35.35度，东经99.58度）发生5.8级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260728114415931800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "从“石油”到“冲击”：Kalshi交易员预期美联储主席沃什本周将提及这些词",
+          "url": "https://wallstreetcn.com/livenews/3140733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "唐山大地震救援珍贵影像",
