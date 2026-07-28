@@ -1,40 +1,30 @@
 {
-  "generated_at": "2026-07-28T12:55:06.335957+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-07-28T15:32:53.982374+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "青海海南州连续两次地震",
+          "url": "https://www.douyin.com/hot/2587973",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时32分]"
+        },
         {
           "title": "青海连发地震 西宁兰州震感明显",
           "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E8%BF%9E%E5%8F%91%E5%9C%B0%E9%9C%87+%E8%A5%BF%E5%AE%81%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
           "source": "百度热搜",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
-          "title": "青海地震",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
-          "title": "青海海南州连续两次地震",
-          "url": "https://www.douyin.com/hot/2587973",
-          "source": "抖音",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -63,6 +53,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "地震50年后突然搜到已故父亲名字",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%8750%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E6%90%9C%E5%88%B0%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%90%8D%E5%AD%97%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
           "url": "https://www.cls.cn/detail/2438053",
           "source": "财联社热门",
@@ -74,13 +75,35 @@
           "time_info": "09时29分"
         },
         {
+          "title": "中国地震台网正式测定：07月28日15时01分在青海海南州兴海县（北纬35.32度，东经99.52度）发生3.0级地震，震源深度9千米。",
+          "url": "https://flash.jin10.com/detail/20260728150726561800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "事关水果制品 市场监管总局公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3140817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "澳洲联储主席Bullock：认为金融环境“稍微”偏紧。",
           "url": "https://wallstreetcn.com/livenews/3140732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -93,8 +116,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
         },
         {
           "title": "河南通报“三支一扶”高分争议：成立工作组，开展调查核实",
@@ -105,8 +128,68 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
+        },
+        {
+          "title": "青海地震",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时55分]"
+          "time_info": "[12时54分 ~ 15时32分]"
+        },
+        {
+          "title": "青海连发两次5级以上地震",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E6%B5%B7%E8%BF%9E%E5%8F%91%E4%B8%A4%E6%AC%A15%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时32分]"
+        },
+        {
+          "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
+        },
+        {
+          "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669694",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
+        },
+        {
+          "title": "央媒调查：验收“过关”的6000亩灌溉项目沦为摆设，何以“纸面惠民”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667111",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
         },
         {
           "title": "公职人员被举报侵吞8亿资产 官方调查",
@@ -121,38 +204,28 @@
           "time_info": "[09时29分 ~ 12时55分]"
         },
         {
-          "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时55分]"
-        },
-        {
-          "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669694",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时55分]"
-        },
-        {
-          "title": "央媒调查：验收“过关”的6000亩灌溉项目沦为摆设，何以“纸面惠民”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667111",
-          "source": "澎湃新闻",
+          "title": "唐山大地震50周年",
+          "url": "https://www.douyin.com/hot/2587833",
+          "source": "抖音",
           "ranks": [
             11,
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时55分]"
+          "time_info": "[12时54分 ~ 15时32分]"
+        },
+        {
+          "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时32分]"
         },
         {
           "title": "和法医一起看影片中的尸体",
@@ -167,33 +240,11 @@
           "time_info": "[09时29分 ~ 12时55分]"
         },
         {
-          "title": "青海连发两次5级以上地震",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E6%B5%B7%E8%BF%9E%E5%8F%91%E4%B8%A4%E6%AC%A15%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
           "title": "女童基因编辑治疗后死亡，卫健部门介入调查，还有哪些疑点待解？此次事故可能涉及哪些医疗违规或违法行为？",
           "url": "https://www.zhihu.com/question/2065037308403737451",
           "source": "知乎",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
-          "title": "唐山大地震50周年",
-          "url": "https://www.douyin.com/hot/2587833",
-          "source": "抖音",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -211,17 +262,6 @@
           "time_info": "[12时54分 ~ 12时55分]"
         },
         {
-          "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
           "title": "青海地震西宁震感强烈 吊灯摇晃",
           "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87%E8%A5%BF%E5%AE%81%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88+%E5%90%8A%E7%81%AF%E6%91%87%E6%99%83",
           "source": "百度热搜",
@@ -231,6 +271,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "女孩和男友吵架从18层坠楼生还",
+          "url": "https://www.toutiao.com/trending/7667198705293606921/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 15时32分]"
         },
         {
           "title": "青海兴海再发5.8级地震",
@@ -250,7 +302,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -261,7 +313,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -272,9 +324,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "第五人格全新监管者心兽",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%85%A8%E6%96%B0%E7%9B%91%E7%AE%A1%E8%80%85%E5%BF%83%E5%85%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美方发布“强迫劳动”301调查最终措施，商务部回应",
@@ -294,9 +357,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "城管喊话提醒游客商铺“假排队”，武汉市旅游协会：涉事门店并非“武汉礼物”官方门店，已启动维权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668856",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸、人体残骸，正检测 DNA，哪些信息值得关注？",
@@ -316,20 +390,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "女孩和男友吵架从18层坠楼生还",
-          "url": "https://www.toutiao.com/trending/7667198705293606921/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "12时55分"
         },
         {
           "title": "澳洲联储主席Bullock：尚不确定澳洲联储加息幅度是否足以使CPI回落至目标区间。 如有需要，澳洲联储委员会将进一步提高现金利率。 此前加息的全部效果仍需时日方能显现。 澳洲联储致力于防止成本压力演变成固化通胀。 核心CPI走势大致符合预期，但依然过高。 各项指标显示二季度消费增长温和。 需求增长可能仍需进一步放缓。",
@@ -338,7 +401,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -360,7 +423,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -393,7 +456,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -404,7 +467,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -415,7 +478,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
