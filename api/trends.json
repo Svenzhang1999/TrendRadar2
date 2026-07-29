@@ -1,843 +1,407 @@
 {
-  "generated_at": "2026-07-28T18:23:56.175910+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-07-29T09:32:48.346250+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 74,
+      "match_count": 36,
       "titles": [
         {
-          "title": "青海海南州连续两次地震",
-          "url": "https://www.douyin.com/hot/2587973",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时32分]"
-        },
-        {
-          "title": "青海连发地震 西宁兰州震感明显",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E8%BF%9E%E5%8F%91%E5%9C%B0%E9%9C%87+%E8%A5%BF%E5%AE%81%E5%85%B0%E5%B7%9E%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
-          "title": "日本熊本县附近发生7.1级地震",
-          "url": "https://www.toutiao.com/trending/7667479822087491091/",
+          "title": "日本强震致神社完全垮塌列车脱轨",
+          "url": "https://www.toutiao.com/trending/7667713008373894707/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "09时32分"
         },
         {
-          "title": "网红景区10人遇难 三次预警为何失效",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%99%AF%E5%8C%BA10%E4%BA%BA%E9%81%87%E9%9A%BE+%E4%B8%89%E6%AC%A1%E9%A2%84%E8%AD%A6%E4%B8%BA%E4%BD%95%E5%A4%B1%E6%95%88",
+          "title": "日本购物中心震后爆炸 白烟猛烈喷涌",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E9%9C%87%E5%90%8E%E7%88%86%E7%82%B8+%E7%99%BD%E7%83%9F%E7%8C%9B%E7%83%88%E5%96%B7%E6%B6%8C",
           "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时32分"
         },
         {
-          "title": "日本熊本县发生7.1级地震 余震不断",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%BD%99%E9%9C%87%E4%B8%8D%E6%96%AD",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "衡水市成立联合调查组",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A1%A1%E6%B0%B4%E5%B8%82%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "地震50年后突然搜到已故父亲名字",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%8750%E5%B9%B4%E5%90%8E%E7%AA%81%E7%84%B6%E6%90%9C%E5%88%B0%E5%B7%B2%E6%95%85%E7%88%B6%E4%BA%B2%E5%90%8D%E5%AD%97%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "青海海南州地震",
-          "url": "https://www.douyin.com/hot/2587973",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "日本熊本县发生7.1级地震",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "title": "日本熊本地震商场爆炸已致2死5伤",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E6%AD%BB5%E4%BC%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
-          "url": "https://www.cls.cn/detail/2438053",
-          "source": "财联社热门",
-          "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时32分"
         },
         {
-          "title": "日本地震",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "中国地震台网正式测定：07月28日15时01分在青海海南州兴海县（北纬35.32度，东经99.52度）发生3.0级地震，震源深度9千米。",
-          "url": "https://flash.jin10.com/detail/20260728150726561800",
+          "title": "日本熊本县地震已致13人死亡",
+          "url": "https://flash.jin10.com/detail/20260729090831658800",
           "source": "金十数据",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "地震来了怎么办？提前设置地震预警",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E9%9C%87%E6%9D%A5%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%8F%90%E5%89%8D%E8%AE%BE%E7%BD%AE%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "09时32分"
         },
         {
-          "title": "事关水果制品 市场监管总局公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3140817",
-          "source": "华尔街见闻-快讯",
+          "title": "受贿1.44亿余元，重庆市政协原副主席段成刚一审被判无期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33673349",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "09时32分"
         },
         {
-          "title": "日本地震 杭州上海江苏有震感",
-          "url": "https://www.toutiao.com/trending/7667478428581625862/",
-          "source": "今日头条",
+          "title": "日本发生7.1级地震，灾区画面曝光",
+          "url": "https://news.ifeng.com/c/8v8DZ5qeCRl",
+          "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：认为金融环境“稍微”偏紧。",
-          "url": "https://wallstreetcn.com/livenews/3140732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "09时32分"
         },
         {
-          "title": "日本7.1级地震江浙沪有震感",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%89%E9%9C%87%E6%84%9F%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "河南通报“三支一扶”高分争议：成立工作组，开展调查核实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669203",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 18时23分]"
-        },
-        {
-          "title": "网红景区10人遇难 3次预警为何失效",
-          "url": "https://www.toutiao.com/trending/7667355494197235209/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 15时32分]"
-        },
-        {
-          "title": "青海地震",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时32分]"
-        },
-        {
-          "title": "青海连发两次5级以上地震",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E6%B5%B7%E8%BF%9E%E5%8F%91%E4%B8%A4%E6%AC%A15%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时32分]"
-        },
-        {
-          "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669694",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 18时23分]"
-        },
-        {
-          "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669459",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 18时23分]"
-        },
-        {
-          "title": "央媒调查：验收“过关”的6000亩灌溉项目沦为摆设，何以“纸面惠民”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667111",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 15时32分]"
-        },
-        {
-          "title": "唐山大地震50周年",
-          "url": "https://www.douyin.com/hot/2587833",
-          "source": "抖音",
-          "ranks": [
-            11,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 18时23分]"
-        },
-        {
-          "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670831",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 18时23分]"
-        },
-        {
-          "title": "公职人员被举报侵吞8亿资产 官方调查",
-          "url": "https://www.toutiao.com/trending/7667186077138075675/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时55分]"
-        },
-        {
-          "title": "和法医一起看影片中的尸体",
-          "url": "https://www.douyin.com/hot/2587455",
-          "source": "抖音",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时55分]"
-        },
-        {
-          "title": "女童基因编辑治疗后死亡，卫健部门介入调查，还有哪些疑点待解？此次事故可能涉及哪些医疗违规或违法行为？",
-          "url": "https://www.zhihu.com/question/2065037308403737451",
+          "title": "网友称迪卡侬售后将其私人电话设置为总部投诉电话长达一年，如果属实该如何维权？",
+          "url": "https://www.zhihu.com/question/2065177952480747776",
           "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本地震已致13死",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B413%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本地震购物中心爆炸瞬间",
+          "url": "https://www.toutiao.com/trending/7667515249440358443/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本熊本地震已致13人死亡",
+          "url": "https://www.toutiao.com/trending/7667748065960267291/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "SK海力士：将积极应对AI存储领域不断演进的需求。 受监管流程影响，ADR转换可能会受到限制。 SK海力士正在评估各种股东回报方案。",
+          "url": "https://wallstreetcn.com/livenews/3141297",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 1,
+          "time_info": "09时32分"
         },
         {
-          "title": "衡水一中学 2 元转让 40% 股权后陷债务危机，有公职人员遭举报，当地成立联合调查组，具体是什么情况？",
-          "url": "https://www.zhihu.com/question/2065354169976709358",
-          "source": "知乎",
+          "title": "连线丨日本熊本发生7.1级地震，在日华人拉朋友躲在商场墙角避险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674135",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本发生7.1级地震 山崩瞬间曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本地震熊本商场爆炸瞬间",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E7%86%8A%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本坍塌购物中心多人确认死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9D%8D%E5%A1%8C%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E5%A4%9A%E4%BA%BA%E7%A1%AE%E8%AE%A4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 1,
+          "time_info": "09时32分"
         },
         {
-          "title": "城管喊话提醒游客商铺“假排队”，武汉市旅游协会：涉事门店并非“武汉礼物”官方门店，已启动维权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668856",
-          "source": "澎湃新闻",
+          "title": "日本地震山崩瞬间画面曝光",
+          "url": "https://www.toutiao.com/trending/7666761757603630646/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时23分]"
+          "appearance_count": 1,
+          "time_info": "09时32分"
         },
         {
-          "title": "青海地震西宁震感强烈 吊灯摇晃",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87%E8%A5%BF%E5%AE%81%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88+%E5%90%8A%E7%81%AF%E6%91%87%E6%99%83",
+          "title": "日本熊本7.1级地震：一商场或有大量人员死亡，专家警告有后续强震风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674438",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本未来几天可能发生更强地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%A4%A9%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E6%9B%B4%E5%BC%BA%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
-          "title": "女孩和男友吵架从18层坠楼生还",
-          "url": "https://www.toutiao.com/trending/7667198705293606921/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 15时32分]"
-        },
-        {
-          "title": "青海兴海再发5.8级地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E5%85%B4%E6%B5%B7%E5%86%8D%E5%8F%915.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
-        },
-        {
-          "title": "澳洲联储主席Bullock：CPI偏离目标的时间越长，委员会就会越担忧。 澳洲联储能做的最好应对是做出迅速响应、适应变化。",
-          "url": "https://wallstreetcn.com/livenews/3140730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "日本地震致著名景点古石墙倒塌",
-          "url": "https://www.toutiao.com/trending/7667497222874893874/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "日本熊本城部分城墙受损坍塌",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9F%8E%E9%83%A8%E5%88%86%E5%9F%8E%E5%A2%99%E5%8F%97%E6%8D%9F%E5%9D%8D%E5%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "青海海南州兴海县发生5.8级地震 震源深度10千米",
-          "url": "https://wallstreetcn.com/livenews/3140729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "日本熊本消防部门：日本地震后，多个人员被困在永旺购物中心内。",
-          "url": "https://flash.jin10.com/detail/20260728180213653800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "中国地震台网正式测定：07月28日17时51分在青海海南州兴海县（北纬35.36度，东经99.53度）发生4.0级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260728180204458800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "日本地震 上海、杭州网友称有震感",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87+%E4%B8%8A%E6%B5%B7%E3%80%81%E6%9D%AD%E5%B7%9E%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%9C%89%E9%9C%87%E6%84%9F",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：经济表现与澳洲联储5月份的预测基本一致。",
-          "url": "https://wallstreetcn.com/livenews/3140724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "09时32分"
         },
         {
           "title": "日本熊本7.1级地震",
           "url": "https://www.douyin.com/hot/2588289",
           "source": "抖音",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "第五人格全新监管者心兽",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%85%A8%E6%96%B0%E7%9B%91%E7%AE%A1%E8%80%85%E5%BF%83%E5%85%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "09时32分"
         },
         {
-          "title": "美方发布“强迫劳动”301调查最终措施，商务部回应",
-          "url": "https://www.cls.cn/detail/2438033",
-          "source": "财联社热门",
+          "title": "日本首相高市早苗：日本熊本地震造成十三人遇难。",
+          "url": "https://flash.jin10.com/detail/20260729085924924800",
+          "source": "金十数据",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "据日经新闻：丰田汽车在地震发生后暂停福冈工厂生产。",
-          "url": "https://flash.jin10.com/detail/20260728180028180800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "日本熊本县嘉岛町一购物中心传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3140928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "日本九州岛海域6.8级地震或引发海啸",
-          "url": "https://www.toutiao.com/trending/7667490248867266566/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "市场消息：日本地震导致12栋建筑倒塌，警方称有四人被困。",
-          "url": "https://flash.jin10.com/detail/20260728175643588800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "09时32分"
         },
         {
           "title": "海啸预警,日本发生7.1级地震",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356574&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "贴吧",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "河南多市三支一扶考试被指高分人数与招录名额高度对应，官方成立工作组调查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2065160851711943119",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "中国地震台网自动测定：青海海南州兴海县附发生5.8级左右地震。",
-          "url": "https://wallstreetcn.com/livenews/3140713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "09时32分"
         },
         {
-          "title": "中国地震台网自动测定：07月28日17时52分在青海海南州兴海县附近（北纬35.38度，东经99.58度）发生4.3级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260728175413753800",
-          "source": "金十数据",
+          "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
+          "url": "https://www.zhihu.com/question/2064801268552537608",
+          "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "重庆市政协原副主席段成刚被判无期",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B8%82%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%AE%B5%E6%88%90%E5%88%9A%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸、人体残骸，正检测 DNA，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2064997347382096320",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时32分"
         },
         {
-          "title": "日本熊本又发生6.1级地震",
-          "url": "https://www.toutiao.com/trending/7667490507857071625/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "直击日本熊本地震：监控画面剧烈晃动",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%E5%89%A7%E7%83%88%E6%99%83%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "澳洲联储主席布洛克：房地产市场在金融环境是否紧缩方面是一个试金石。",
-          "url": "https://flash.jin10.com/detail/20260728115530280800",
-          "source": "金十数据",
+          "title": "日本熊本县附近发生7.1级地震，气象厅发布海啸预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672820",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "09时32分"
         },
         {
-          "title": "海关总署：废止海南自由贸易港压力测试期间有关试行政策监管文件",
-          "url": "https://flash.jin10.com/detail/20260728175215865800",
-          "source": "金十数据",
+          "title": "日本首相高市早苗：熊本地震死亡人数上升至13人。",
+          "url": "https://wallstreetcn.com/livenews/3141285",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "09时32分"
         },
         {
-          "title": "日本7.1级地震民众哭喊声一片",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "日本熊本县连续发生 7.1 级、 6.1 级地震，触发海啸预警，长三角多地网友称有震感，目前情况如何？",
-          "url": "https://www.zhihu.com/question/2065460492231864765",
+          "title": "敦煌拟聘用外籍主播年薪 30 万引发网友热议，官方已成立调查组，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2065427129416815746",
           "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本熊本地震后3人死亡，5人心脏骤停，7人失踪。（NHK）",
+          "url": "https://wallstreetcn.com/livenews/3141284",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "09时32分"
         },
         {
-          "title": "日本内阁官房长官：地震后大范围供水中断。",
-          "url": "https://flash.jin10.com/detail/20260728175135290800",
+          "title": "费曼回忆上小学时被霸凌",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%B9%E6%9B%BC%E5%9B%9E%E5%BF%86%E4%B8%8A%E5%B0%8F%E5%AD%A6%E6%97%B6%E8%A2%AB%E9%9C%B8%E5%87%8C&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "青海海南州地震",
+          "url": "https://www.douyin.com/hot/2587973",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "男友逼坠楼生还女孩返还恋爱开销",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%8F%8B%E9%80%BC%E5%9D%A0%E6%A5%BC%E7%94%9F%E8%BF%98%E5%A5%B3%E5%AD%A9%E8%BF%94%E8%BF%98%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本共同社29日援引日本政府一名高级官员的消息说，熊本县地震导致的死亡人数或已超过10人。",
+          "url": "https://flash.jin10.com/detail/20260729085137775800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "09时32分"
         },
         {
-          "title": "青海海南州兴海县发生5.0级地震",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E6%B5%B7%E5%8D%97%E5%B7%9E%E5%85%B4%E6%B5%B7%E5%8E%BF%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
+          "title": "男友逼坠楼生还女孩返还恋爱开销",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8B%E9%80%BC%E5%9D%A0%E6%A5%BC%E7%94%9F%E8%BF%98%E5%A5%B3%E5%AD%A9%E8%BF%94%E8%BF%98%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：尚不确定澳洲联储加息幅度是否足以使CPI回落至目标区间。 如有需要，澳洲联储委员会将进一步提高现金利率。 此前加息的全部效果仍需时日方能显现。 澳洲联储致力于防止成本压力演变成固化通胀。 核心CPI走势大致符合预期，但依然过高。 各项指标显示二季度消费增长温和。 需求增长可能仍需进一步放缓。",
-          "url": "https://wallstreetcn.com/livenews/3140703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "09时32分"
         },
         {
-          "title": "中国地震台网正式测定：07月28日08时51分在新疆阿克苏地区沙雅县（北纬41.00度，东经83.49度）发生3.3级地震，震源深度22千米。",
-          "url": "https://flash.jin10.com/detail/20260728085926690800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "青海连发两次5级以上地震 中国地震局启动四级应急响应",
-          "url": "https://flash.jin10.com/detail/20260728115211525800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "受贿1.44亿余元 重庆市政协原党组成员、副主席段成刚一审被判无期",
-          "url": "https://wallstreetcn.com/livenews/3140905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "探访唐山大地震幸存孤儿",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%B9%B8%E5%AD%98%E5%AD%A4%E5%84%BF",
+          "title": "第五人格全新监管者心兽",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%85%A8%E6%96%B0%E7%9B%91%E7%AE%A1%E8%80%85%E5%BF%83%E5%85%BD",
           "source": "bilibili 热搜",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "唐山大地震50周年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%8750%E5%91%A8%E5%B9%B4%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "河南回应三支一扶成绩争议：全面调查",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%9B%9E%E5%BA%94%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E6%88%90%E7%BB%A9%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%85%A8%E9%9D%A2%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "澳洲联储主席布洛克：进一步的石油冲击可能会巩固高通胀预期。",
-          "url": "https://flash.jin10.com/detail/20260728114506047800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "日本7.1级地震现场画面曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "中国地震台网正式测定：07月28日11时34分在青海海南州兴海县（北纬35.35度，东经99.58度）发生5.8级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260728114415931800",
-          "source": "金十数据",
-          "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "09时32分"
         },
         {
-          "title": "从“石油”到“冲击”：Kalshi交易员预期美联储主席沃什本周将提及这些词",
-          "url": "https://wallstreetcn.com/livenews/3140733",
+          "title": "日本官方表示，疑似与地震相关的死亡人数已超过10人。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3141273",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "09时32分"
         },
         {
-          "title": "唐山大地震救援珍贵影像",
-          "url": "https://www.baidu.com/s?wd=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E7%8F%8D%E8%B4%B5%E5%BD%B1%E5%83%8F",
+          "title": "小区突发火灾 两人疑似打滑先后坠楼",
+          "url": "https://www.toutiao.com/trending/7667330451929022506/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "日本强震致神社完全垮塌列车脱轨",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E8%87%B4%E7%A5%9E%E7%A4%BE%E5%AE%8C%E5%85%A8%E5%9E%AE%E5%A1%8C%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8",
           "source": "百度热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "09时32分"
         }
       ]
     }
