@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-07-30T09:22:01.776426+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-30T12:47:48.323077+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "天价退票费 全额退还了",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E9%80%80%E7%A5%A8%E8%B4%B9+%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
-        },
         {
           "title": "重庆失联“00后”网格员龚宝冬确认遇难",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682164",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时47分]"
         },
         {
           "title": "阿根廷一架直升机坠毁，机上7人全部遇难",
@@ -37,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时47分]"
+        },
+        {
+          "title": "天价退票费全额退了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E4%BB%B7%E9%80%80%E7%A5%A8%E8%B4%B9%E5%85%A8%E9%A2%9D%E9%80%80%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：在伊朗的格什岛听传出三声爆炸声。",
@@ -47,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -69,9 +70,68 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "天价退票费 全额退还了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E4%BB%B7%E9%80%80%E7%A5%A8%E8%B4%B9+%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时47分]"
+        },
+        {
+          "title": "国际足联正式对阿根廷足协启动调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683966",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时47分]"
+        },
+        {
+          "title": "重庆失联00后网格员确认遇难",
+          "url": "https://www.douyin.com/hot/2589456",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时47分]"
+        },
+        {
+          "title": "重庆失联00后网格员确认遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E5%A4%B1%E8%81%9400%E5%90%8E%E7%BD%91%E6%A0%BC%E5%91%98%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时47分]"
+        },
+        {
+          "title": "山体崩塌失联00后网格员确认遇难",
+          "url": "https://www.toutiao.com/trending/7667344545587429417/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时47分]"
         },
         {
           "title": "国际足联正式对阿根廷足协启动调查",
@@ -107,28 +167,6 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
-          "title": "国际足联正式对阿根廷足协启动调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683966",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
-        },
-        {
-          "title": "重庆失联00后网格员确认遇难",
-          "url": "https://www.douyin.com/hot/2589456",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
-        },
-        {
           "title": "许多网友反馈在泸溪河桃酥里吃出牙冠、牙齿、头发等异物，山姆已将其下架，可能是什么环节的问题？",
           "url": "https://www.zhihu.com/question/2065716053770859492",
           "source": "知乎",
@@ -140,33 +178,11 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
-          "title": "重庆失联00后网格员确认遇难",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%8D%E5%BA%86%E5%A4%B1%E8%81%9400%E5%90%8E%E7%BD%91%E6%A0%BC%E5%91%98%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
-        },
-        {
           "title": "国务院成立广西六蓝水库溃坝灾害调查评估组，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2063965616872974014",
           "source": "知乎",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
-        },
-        {
-          "title": "山体崩塌失联00后网格员确认遇难",
-          "url": "https://www.toutiao.com/trending/7667344545587429417/",
-          "source": "今日头条",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -195,15 +211,37 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
+          "title": "天价机票全额退款了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%85%A8%E9%A2%9D%E9%80%80%E6%AC%BE%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "国资委主任程福波会见美国霍尼韦尔科技董事长兼首席执行官",
           "url": "https://flash.jin10.com/detail/20260730084849482800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "据伊朗努尔新闻和法尔斯通讯社报道，约旦穆沃费格萨勒提空军基地（美军在中东的主要基地之一）传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260730122954370800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "日本熊本县政府：地震造成的死亡人数已增至17人。",
@@ -212,9 +250,64 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "史无前例的“背靠背”熔断后 韩国监管紧急开会说了点啥？",
+          "url": "https://www.cls.cn/detail/2440630",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "日本熊本县地震致多家半导体工厂停工",
+          "url": "https://www.cls.cn/detail/2440520",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "日本熊本地震已致28人死亡",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B428%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "唐山大地震罹难者纪念墙上的新名字",
+          "url": "https://search.bilibili.com/all?keyword=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%E7%BD%B9%E9%9A%BE%E8%80%85%E7%BA%AA%E5%BF%B5%E5%A2%99%E4%B8%8A%E7%9A%84%E6%96%B0%E5%90%8D%E5%AD%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
+          "url": "https://www.zhihu.com/question/2065536648381555046",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "据伊朗媒体：在伊朗南部多个地区传出爆炸声。",
@@ -223,9 +316,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "国际足联正式对阿根廷足协启动调查，帕雷德斯等 3 人或面临长期禁赛，如何评价？阿根廷这次麻烦有多大？",
+          "url": "https://www.zhihu.com/question/2066061011111469951",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "医保套现乱象调查",
+          "url": "https://www.toutiao.com/trending/7668103485447241771/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "广东金融监管局辖内银行业净息差已企稳回升",
+          "url": "https://flash.jin10.com/detail/20260730115442047800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     }
