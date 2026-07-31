@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T19:19:20.061969+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-07-31T21:31:58.055747+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 54,
+      "match_count": 71,
       "titles": [
         {
           "title": "重庆彭水山体崩塌灾害找到并确认51人遇难，仍有10名失联人员",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 21时31分]"
         },
         {
           "title": "未来30年80%概率遇特大地震，日本全民被危机感裹挟",
@@ -28,8 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 21时31分]"
+        },
+        {
+          "title": "中国五矿集团原总经理国文清主动投案，接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688472",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 21时31分]"
         },
         {
           "title": "陕西文旅厅：不存在“伪史论者”电话骚扰要求拆唐朝古迹情况，将调查追责",
@@ -56,15 +68,16 @@
           "time_info": "[10时02分 ~ 13时25分]"
         },
         {
-          "title": "中国五矿集团原总经理国文清主动投案，接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688472",
-          "source": "澎湃新闻",
+          "title": "陕西文旅辟谣遭伪史论者骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
           "ranks": [
-            5
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 19时19分]"
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "日本地震灾区停水情况持续 汽车工厂停工",
@@ -78,26 +91,37 @@
           "time_info": "16时33分"
         },
         {
-          "title": "陕西文旅辟谣遭伪史论者骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
           "title": "连云港火灾丈夫大喊不要喷水",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%BA%91%E6%B8%AF%E7%81%AB%E7%81%BE%E4%B8%88%E5%A4%AB%E5%A4%A7%E5%96%8A%E4%B8%8D%E8%A6%81%E5%96%B7%E6%B0%B4%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "连云港消防回应火灾母女坠楼",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%B6%88%E9%98%B2%E5%9B%9E%E5%BA%94%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "保时捷女销冠已向法院立案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E5%B7%B2%E5%90%91%E6%B3%95%E9%99%A2%E7%AB%8B%E6%A1%88%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "彭水山体崩塌的 00 后网格员龚宝冬遗骸被找到，因组织群众转移未及时撤离遇难，他的行为让你有哪些感触？",
@@ -117,7 +141,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -128,7 +152,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -144,18 +168,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时02分 ~ 16时33分]"
-        },
-        {
-          "title": "小区火灾,母女窗外避险坠楼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356676&amp;topic_name=%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%2C%E6%AF%8D%E5%A5%B3%E7%AA%97%E5%A4%96%E9%81%BF%E9%99%A9%E5%9D%A0%E6%A5%BC",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 19时19分]"
         },
         {
           "title": "“垃圾不够烧”？真相调查来了",
@@ -176,11 +188,25 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 21时31分]"
+        },
+        {
+          "title": "小区火灾,母女窗外避险坠楼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356676&amp;topic_name=%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%2C%E6%AF%8D%E5%A5%B3%E7%AA%97%E5%A4%96%E9%81%BF%E9%99%A9%E5%9D%A0%E6%A5%BC",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 21时31分]"
         },
         {
           "title": "“祖辈所种百年古树被扣押后遭转赠”，官方已成立专项工作组核查",
@@ -343,6 +369,17 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
+          "title": "连云港消防回应火灾母女坠楼",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%B6%88%E9%98%B2%E5%9B%9E%E5%BA%94%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "索尼半导体制造公司：熊本科技中心将于8月中旬前恢复至地震前的运作水准。",
           "url": "https://flash.jin10.com/detail/20260731130936949800",
           "source": "金十数据",
@@ -360,9 +397,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "火灾坠楼女童母亲39岁才将其生下",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%81%BE%E5%9D%A0%E6%A5%BC%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B239%E5%B2%81%E6%89%8D%E5%B0%86%E5%85%B6%E7%94%9F%E4%B8%8B%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
+          "url": "https://www.zhihu.com/question/2066479058599113686",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "加强药物临床试验监管片区座谈会在河北召开",
@@ -371,7 +430,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -393,7 +452,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -426,9 +485,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690793",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "当地政府：俄罗斯伏尔加格勒地区能源设施在无人机袭击后起火。",
@@ -451,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "加沙和平委员会：重型武器的收集和储存将在国家委员会和国际力量进入加沙地带后开始。国家委员会将按照时间表管理武器清查，计划在14天内完成准备。武器清查与以色列军队阶段性撤出占领地区相挂钩。将由国际核查委员会在稳定力量的支持下对该过程进行监测和核实。",
+          "url": "https://flash.jin10.com/detail/20260731210838126800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "【四部门联合发布22条措施 健全金融机构治理】金融监管总局、中国人民银行、中国证监会、财政部近日联合发布《关于健全金融机构治理的实施意见》，提出22条措施。 《实施意见》明确，到2029年，基本形成权责边界清晰、激励约束相容、风险管理严格、运转规范高效的金融机构治理机制，金融体系内在稳定性和抗风险能力明显增强，金融服务高质量发展质效明显提升。 《实施意见》提出，健全防范大股东违规干预和内部人控制的治理机制，加强对股权和关联交易的穿透式监管，优化董事会结构，强化董事、高管等“关键少数”责任，完善激励约束机制，健全内控合规体系。 《实施意见》要求，加强和改进金融监管，分级分类实施差异化监管，严惩违法违规行为，提高违法违规成本，完善风险监测预警机制，提升监管精准性、有效性和前瞻性。（央视）",
@@ -492,9 +573,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "朱鹤新会见全球基础设施合伙公司董事长兼首席执行官柏优",
+          "url": "https://wallstreetcn.com/livenews/3143276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "上海市委网信办联合多部门对汽车类“自媒体”开展合规指导",
@@ -503,7 +595,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -525,7 +617,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -536,7 +628,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -547,7 +639,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -558,9 +650,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "业内人士谈连云港母女坠楼消防救援",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%E6%B6%88%E9%98%B2%E6%95%91%E6%8F%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "市场消息：现场消息人士称，伊拉克瓦西特省阿赫达布油田的原油储存地点发生火灾。",
@@ -569,7 +672,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -580,9 +683,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "路透调查：俄罗斯2026年GDP增长预计为0.5%（上次调查为0.6%）。",
+          "url": "https://flash.jin10.com/detail/20260731210108033800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "智力障碍妻子被性侵丈夫曾主动报案",
@@ -596,15 +710,48 @@
           "time_info": "10时02分"
         },
         {
+          "title": "路透调查：分析师预计俄罗斯央行将在四季度将基准利率从当前的14.00%下调至13.50%（上次调查为下调至13.00%）。",
+          "url": "https://flash.jin10.com/detail/20260731210100589800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "路透调查：预计到2026年底俄罗斯通胀中位数为6.5%（上次调查为5.7%）。",
+          "url": "https://flash.jin10.com/detail/20260731210037082800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "天力锂能：因涉嫌信息披露等违法违规，中国证监会决定对公司及控股股东、实际控制人王瑞庆立案。",
           "url": "https://wallstreetcn.com/livenews/3143165",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "加沙计划路线图：第二阶段的执行期限可以延长。哈马斯及各派别同意将民政和安全职能移交给管理委员会，在过渡期间不会干预加沙管理委员会的事务。国际委员会通过改进的监测机制监督双方任何的违规行为。",
+          "url": "https://flash.jin10.com/detail/20260731205624889800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "中国五矿集团有限公司原党组副书记、总经理国文清涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委纪律审查和监察调查。（央视新闻）",
@@ -616,6 +763,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "22岁女子南太行独自游玩失联超4天",
+          "url": "https://www.toutiao.com/trending/7668480752690053161/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席卡什卡利：更倾向于逐步收紧政策。 渐进式加息将有助于管理通胀根深蒂固的风险。 货币政策可以应对连续的供给冲击。 一系列小幅加息将优于等待。 AI投资为通胀增加了新的需求因素。 小幅加息将使FOMC能够在通胀消退时暂停或放缓步伐。",
+          "url": "https://wallstreetcn.com/livenews/3143260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：目前的政策立场限制性不够强。 通胀压力不仅仅来自供给侧因素。 不相信通胀率会自行达到2%。 通胀是比劳动力市场更为紧迫的问题。 通胀持续高企的时间越长，降低通胀的成本就越高。 现在正是FOMC采取行动以推动通胀回归2%的时候。",
+          "url": "https://wallstreetcn.com/livenews/3143259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "22岁女孩南太行独自游玩失联超4天",
+          "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%97%E5%A4%AA%E8%A1%8C%E7%8B%AC%E8%87%AA%E6%B8%B8%E7%8E%A9%E5%A4%B1%E8%81%94%E8%B6%854%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         }
       ]
     }
