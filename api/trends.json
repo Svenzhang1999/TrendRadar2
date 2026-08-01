@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:49:33.087033+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-01T13:17:55.752686+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "国家电网原董事长辛保安落马，退休已逾两年",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时17分]"
         },
         {
           "title": "国家电网原党组书记、董事长辛保安接受审查调查",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "陕西文旅辟谣遭伪史论者骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时17分]"
         },
         {
           "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
@@ -52,15 +41,52 @@
           "time_info": "09时49分"
         },
         {
+          "title": "陕西文旅辟谣遭伪史论者骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时17分]"
+        },
+        {
           "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
           "url": "https://m.thepaper.cn/newsDetail_forward_33690793",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时17分]"
+        },
+        {
+          "title": "小区火灾,母女窗外避险坠楼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356676&amp;topic_name=%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%2C%E6%AF%8D%E5%A5%B3%E7%AA%97%E5%A4%96%E9%81%BF%E9%99%A9%E5%9D%A0%E6%A5%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时17分]"
+        },
+        {
+          "title": "救援不力?日本商场爆炸多人死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 13时17分]"
         },
         {
           "title": "辽宁凌晨炸街人员全被带走调查",
@@ -74,6 +100,28 @@
           "time_info": "09时49分"
         },
         {
+          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
+          "url": "https://www.zhihu.com/question/2066835566323136078",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "吉林省发布山洪灾害气象风险橙色预警",
+          "url": "https://wallstreetcn.com/livenews/3143552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "连云港一小区发生火灾母女两人不幸坠楼，相关部门还原救援过程",
           "url": "https://m.thepaper.cn/newsDetail_forward_33691909",
           "source": "澎湃新闻",
@@ -85,20 +133,20 @@
           "time_info": "09时49分"
         },
         {
+          "title": "日本青森县附近海域发生5.8级地震",
+          "url": "https://wallstreetcn.com/livenews/3143551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "美国圣路易斯联储主席穆萨勒姆（Musalem）针对美债抛售事件表示：美债抛售对美联储的信誉发出了警告。 我本人倾向于（支持）加息。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3143523",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "小区火灾,母女窗外避险坠楼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356676&amp;topic_name=%E5%B0%8F%E5%8C%BA%E7%81%AB%E7%81%BE%2C%E6%AF%8D%E5%A5%B3%E7%AA%97%E5%A4%96%E9%81%BF%E9%99%A9%E5%9D%A0%E6%A5%BC",
-          "source": "贴吧",
           "ranks": [
             12
           ],
@@ -140,15 +188,37 @@
           "time_info": "09时49分"
         },
         {
-          "title": "救援不力?日本商场爆炸多人死亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "贴吧",
+          "title": "广西梧州一公职人员称领导私联医生询问病情，警方已立案，这涉嫌侵犯隐私吗？院方可向第三方透露患者病情吗？",
+          "url": "https://www.zhihu.com/question/2066061932646197067",
+          "source": "知乎",
           "ranks": [
-            18
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "13时17分"
+        },
+        {
+          "title": "航空公司不满携程返还天价退票费",
+          "url": "https://www.baidu.com/s?wd=%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%BB%A1%E6%90%BA%E7%A8%8B%E8%BF%94%E8%BF%98%E5%A4%A9%E4%BB%B7%E9%80%80%E7%A5%A8%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "3中国留学生在澳遭2女子辱骂殴打",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%BE%B3%E9%81%AD2%E5%A5%B3%E5%AD%90%E8%BE%B1%E9%AA%82%E6%AE%B4%E6%89%93%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -182,6 +252,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "中国地震台网正式测定：8月1日9时29分，在青海海南州兴海县（北纬35.34度，东经99.53度）发生3.9级地震，震源深度10公里。",
+          "url": "https://wallstreetcn.com/livenews/3143537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "航空公司不满携程返还天价退票费",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%BB%A1%E6%90%BA%E7%A8%8B%E8%BF%94%E8%BF%98%E5%A4%A9%E4%BB%B7%E9%80%80%E7%A5%A8%E8%B4%B9%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "日本熊本县地震致八代港物流功能全面停摆",
