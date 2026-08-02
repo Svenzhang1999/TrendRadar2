@@ -1,33 +1,149 @@
 {
-  "generated_at": "2026-08-02T09:46:09.809323+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-02T13:17:37.056620+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 19,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "莫斯科餐厅爆炸已致3死21伤，俄称系自制炸弹袭击",
-          "url": "https://news.ifeng.com/c/8vFaq7FT0xR",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
           "url": "https://wallstreetcn.com/articles/3778497",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
+        },
+        {
+          "title": "小红书旅游帖 诈骗",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%97%85%E6%B8%B8%E5%B8%96%20%E8%AF%88%E9%AA%97&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "世卫：本轮疫情为刚果（金）史上最大埃博拉疫情",
+          "url": "https://wallstreetcn.com/livenews/3143649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "国家防灾减灾救灾委员会对甘肃渭源县重大山洪灾害调查评估挂牌督办",
+          "url": "https://wallstreetcn.com/livenews/3143648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "莫斯科餐厅爆炸已致3死21伤，俄称系自制炸弹袭击",
+          "url": "https://news.ifeng.com/c/8vFaq7FT0xR",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
+        },
+        {
+          "title": "发现邻居这样做 可立刻投诉",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%91%E7%8E%B0%E9%82%BB%E5%B1%85%E8%BF%99%E6%A0%B7%E5%81%9A+%E5%8F%AF%E7%AB%8B%E5%88%BB%E6%8A%95%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
+        },
+        {
+          "title": "洪灾后广西道路现持枪男子？谣言",
+          "url": "https://www.toutiao.com/trending/7668638323833290762/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
+        },
+        {
+          "title": "阿里董事会主席蔡崇信宣布离婚 对旗下资产有何影响？",
+          "url": "https://www.cls.cn/detail/2443267",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
+        },
+        {
+          "title": "因两年卖 340 台保时捷走红的女销冠遭造谣网暴，目前她已向法院立案，她维权的难点有哪些？",
+          "url": "https://www.zhihu.com/question/2066617997154677677",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
+        },
+        {
+          "title": "国家电网公司党组：坚决拥护党中央对辛保安审查调查的决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33693325",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
+        },
+        {
+          "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33693478",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
+        },
+        {
+          "title": "陕西文旅辟谣遭伪史论者骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时17分]"
         },
         {
           "title": "8000米高峰雪崩 中国登山家仍失联",
@@ -52,55 +168,11 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
-          "title": "洪灾后广西道路现持枪男子？谣言",
-          "url": "https://www.toutiao.com/trending/7668638323833290762/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
           "title": "“洪灾后广西道路现持枪男子”不实",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B4%AA%E7%81%BE%E5%90%8E%E5%B9%BF%E8%A5%BF%E9%81%93%E8%B7%AF%E7%8E%B0%E6%8C%81%E6%9E%AA%E7%94%B7%E5%AD%90%E2%80%9D%E4%B8%8D%E5%AE%9E",
           "source": "百度热搜",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "阿里董事会主席蔡崇信宣布离婚 对旗下资产有何影响？",
-          "url": "https://www.cls.cn/detail/2443267",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "因两年卖 340 台保时捷走红的女销冠遭造谣网暴，目前她已向法院立案，她维权的难点有哪些？",
-          "url": "https://www.zhihu.com/question/2066617997154677677",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "国家电网公司党组：坚决拥护党中央对辛保安审查调查的决定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33693325",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -118,28 +190,6 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
-          "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33693478",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "陕西文旅辟谣遭伪史论者骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356681&amp;topic_name=%E9%99%95%E8%A5%BF%E6%96%87%E6%97%85%E8%BE%9F%E8%B0%A3%E9%81%AD%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
           "title": "一个小孩两天吃饭要花659元？家长投诉",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9%E4%B8%A4%E5%A4%A9%E5%90%83%E9%A5%AD%E8%A6%81%E8%8A%B1659%E5%85%83%EF%BC%9F%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
           "source": "百度热搜",
@@ -151,15 +201,16 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
-          "title": "发现邻居这样做 可立刻投诉",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%91%E7%8E%B0%E9%82%BB%E5%B1%85%E8%BF%99%E6%A0%B7%E5%81%9A+%E5%8F%AF%E7%AB%8B%E5%88%BB%E6%8A%95%E8%AF%89",
-          "source": "百度热搜",
+          "title": "日本熊本地区发生4.7级地震",
+          "url": "https://wallstreetcn.com/livenews/3143619",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            22,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "time_info": "[09时46分 ~ 13时17分]"
         },
         {
           "title": "莫斯科咖啡馆爆炸致3死21伤",
@@ -173,15 +224,81 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
+          "title": "59岁绿化工遭职场霸凌坠亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356717&amp;topic_name=59%E5%B2%81%E7%BB%BF%E5%8C%96%E5%B7%A5%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%E5%9D%A0%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "包钢板材厂爆炸事故调查报告公布",
+          "url": "https://wallstreetcn.com/livenews/3143646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "甘肃渭源县重大山洪灾害致25人死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E6%B8%AD%E6%BA%90%E5%8E%BF%E9%87%8D%E5%A4%A7%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E8%87%B425%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "欧洲地中海地震中心：日本本州东岸近海发生5.0级地震，震源深度48.4公里。",
           "url": "https://flash.jin10.com/detail/20260802090448007800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "包钢致10死84伤爆炸事故62人被追责",
+          "url": "https://www.toutiao.com/trending/7669251295118626310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "余承东恶搞视频被投诉下架",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%81%B6%E6%90%9E%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "世卫组织：本轮疫情为刚果（金）史上最大埃博拉疫情",
+          "url": "https://flash.jin10.com/detail/20260802112947592800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "中国地震台网正式测定：08月02日08时25分在青海海南州兴海县发生3.0级地震，震源深度10千米。 ​​​",
@@ -190,20 +307,75 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
         {
-          "title": "日本熊本地区发生4.7级地震",
-          "url": "https://wallstreetcn.com/livenews/3143619",
-          "source": "华尔街见闻-快讯",
+          "title": "中国地震台网正式测定：08月02日11时15分在青海海西州唐古拉地区（北纬33.43度，东经91.15度）发生3.1级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260802112535426800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "国家防灾减灾救灾委员会对甘肃渭源县重大山洪灾害调查评估挂牌督办。",
+          "url": "https://flash.jin10.com/detail/20260802110305389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "恶搞余承东视频被华为投诉下架",
+          "url": "https://www.baidu.com/s?wd=%E6%81%B6%E6%90%9E%E4%BD%99%E6%89%BF%E4%B8%9C%E8%A7%86%E9%A2%91%E8%A2%AB%E5%8D%8E%E4%B8%BA%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "8000米高峰雪崩 登山公司称10人遇难",
+          "url": "https://www.toutiao.com/trending/7669209405941992987/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "因降雨预警 北京市郊铁路部分列车临时停运",
+          "url": "https://flash.jin10.com/detail/20260802103826371800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "13时17分"
+        },
+        {
+          "title": "包钢板材厂爆炸事故调查报告公布",
+          "url": "https://flash.jin10.com/detail/20260802100152671800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
@@ -212,7 +384,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
