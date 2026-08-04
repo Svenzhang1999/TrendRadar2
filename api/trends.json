@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:31:58.853803+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-08-04T18:27:55.658174+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "市场监管总局：我国牵头制定的工业通信国际标准发布",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "国务院成立彭水山体崩塌调查评估组",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "市场监管总局：对企业反映强烈的不当干预市场竞争痛点卡点和公平竞争问题较多地区开展重点抽查",
+          "url": "https://flash.jin10.com/detail/20260804181351357800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "市场监管总局召开深入贯彻落实公平竞争审查制度专项行动推进会",
+          "url": "https://wallstreetcn.com/livenews/3144677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "法院执行局长骚扰女当事人索贿被停职",
@@ -47,11 +80,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 18时27分]"
         },
         {
           "title": "印度大量驳回对华反倾销调查建议",
@@ -67,18 +101,6 @@
           "time_info": "[09时35分 ~ 15时31分]"
         },
         {
-          "title": "中央网信办处置1840余个违规账号",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%A4%AE%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%A4%84%E7%BD%AE1840%E4%BD%99%E4%B8%AA%E8%BF%9D%E8%A7%84%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 15时31分]"
-        },
-        {
           "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
           "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
           "source": "澎湃新闻",
@@ -88,8 +110,47 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 18时27分]"
+        },
+        {
+          "title": "中央网信办处置1840余个违规账号",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%A4%AE%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%A4%84%E7%BD%AE1840%E4%BD%99%E4%B8%AA%E8%BF%9D%E8%A7%84%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时35分 ~ 15时31分]"
+          "time_info": "[12时54分 ~ 18时27分]"
+        },
+        {
+          "title": "山体雪崩,登山队全员遇难",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356747&amp;topic_name=%E5%B1%B1%E4%BD%93%E9%9B%AA%E5%B4%A9%2C%E7%99%BB%E5%B1%B1%E9%98%9F%E5%85%A8%E5%91%98%E9%81%87%E9%9A%BE",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 18时27分]"
+        },
+        {
+          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711434",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 18时27分]"
         },
         {
           "title": "诈骗小曲是如何诞生的",
@@ -105,29 +166,27 @@
           "time_info": "[09时35分 ~ 15时31分]"
         },
         {
-          "title": "山体雪崩,登山队全员遇难",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356747&amp;topic_name=%E5%B1%B1%E4%BD%93%E9%9B%AA%E5%B4%A9%2C%E7%99%BB%E5%B1%B1%E9%98%9F%E5%85%A8%E5%91%98%E9%81%87%E9%9A%BE",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 15时31分]"
-        },
-        {
-          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711434",
+          "title": "整治恶意炒作涉企信息，国家网信办公开一批典型案例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33712034",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 15时31分]"
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 18时27分]"
+        },
+        {
+          "title": "AI仿制通知书诈骗 开学季如何避坑",
+          "url": "https://www.baidu.com/s?wd=AI%E4%BB%BF%E5%88%B6%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%AF%88%E9%AA%97+%E5%BC%80%E5%AD%A6%E5%AD%A3%E5%A6%82%E4%BD%95%E9%81%BF%E5%9D%91",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 18时27分]"
         },
         {
           "title": "日本员工拒绝返回商场躲过爆炸",
@@ -199,17 +258,6 @@
           "time_info": "09时35分"
         },
         {
-          "title": "整治恶意炒作涉企信息，国家网信办公开一批典型案例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33712034",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
           "title": "俄罗斯莫斯科地区官员称，当地发生无人机袭击，造成五人遇难，六人受伤。",
           "url": "https://flash.jin10.com/detail/20260804121254080800",
           "source": "金十数据",
@@ -243,17 +291,6 @@
           "time_info": "09时35分"
         },
         {
-          "title": "AI仿制通知书诈骗 开学季如何避坑",
-          "url": "https://www.baidu.com/s?wd=AI%E4%BB%BF%E5%88%B6%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%AF%88%E9%AA%97+%E5%BC%80%E5%AD%A6%E5%AD%A3%E5%A6%82%E4%BD%95%E9%81%BF%E5%9D%91",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
           "title": "“河南西平五人灭门惨案”系谣言",
           "url": "https://www.douyin.com/hot/2596427",
           "source": "抖音",
@@ -274,6 +311,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "59 岁绿化工人疑遭职场霸凌工作群留遗言后坠亡，3 小时后群聊被强制解散，公司需承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2066650167198196675",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
+          "url": "https://www.zhihu.com/question/2067904199212232854",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "女孩独游南太行失联8天 家人苦寻",
+          "url": "https://www.toutiao.com/trending/7669368338086248499/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "地表最强男人因雪崩遇难",
