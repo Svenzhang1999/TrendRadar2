@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-08-04T09:35:50.730725+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-04T12:54:49.579093+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "旁白｜直面“抗生素牛蛙”乱象，让“记者到场”与“监管到场”同频共振",
           "url": "https://m.thepaper.cn/newsDetail_forward_33710676",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时54分]"
+        },
+        {
+          "title": "中央网信办处置1840余个违规账号",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%A4%AE%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%A4%84%E7%BD%AE1840%E4%BD%99%E4%B8%AA%E8%BF%9D%E8%A7%84%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时54分"
+        },
+        {
+          "title": "市场监管总局：我国牵头制定的工业通信国际标准发布",
+          "url": "https://flash.jin10.com/detail/20260804123541048800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "法院执行局长骚扰女当事人索贿被停职",
@@ -41,6 +64,90 @@
           "time_info": "09时35分"
         },
         {
+          "title": "印度大量驳回对华反倾销调查建议",
+          "url": "https://news.ifeng.com/c/8vJ4iCAMXSa",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时54分]"
+        },
+        {
+          "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时54分]"
+        },
+        {
+          "title": "诈骗小曲是如何诞生的",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%88%E9%AA%97%E5%B0%8F%E6%9B%B2%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时54分]"
+        },
+        {
+          "title": "山体雪崩,登山队全员遇难",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356747&amp;topic_name=%E5%B1%B1%E4%BD%93%E9%9B%AA%E5%B4%A9%2C%E7%99%BB%E5%B1%B1%E9%98%9F%E5%85%A8%E5%91%98%E9%81%87%E9%9A%BE",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时54分]"
+        },
+        {
+          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711434",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时54分]"
+        },
+        {
+          "title": "福建漳州全面核查抗生素牛蛙",
+          "url": "https://www.toutiao.com/trending/7669643929184144938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时54分]"
+        },
+        {
+          "title": "离谱,日本职场比地震还狠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356727&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E8%81%8C%E5%9C%BA%E6%AF%94%E5%9C%B0%E9%9C%87%E8%BF%98%E7%8B%A0",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时35分 ~ 12时54分]"
+        },
+        {
           "title": "河北一法院执行局长骚扰索贿被停职",
           "url": "https://www.toutiao.com/trending/7669967687212076598/",
           "source": "今日头条",
@@ -52,6 +159,17 @@
           "time_info": "09时35分"
         },
         {
+          "title": "俄罗斯媒体Vesti援引州长的话报道称，俄罗斯莫斯科州一座仓库在遭到无人机袭击后起火。",
+          "url": "https://flash.jin10.com/detail/20260804121515859800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "音乐老师在校跳舞发抖音被家长投诉，回应“约谈”称会按学校要求来",
           "url": "https://m.thepaper.cn/newsDetail_forward_33708573",
           "source": "澎湃新闻",
@@ -61,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "俄罗斯莫斯科地区官员称，当地发生无人机袭击，造成五人遇难，六人受伤。",
+          "url": "https://flash.jin10.com/detail/20260804121254080800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "KOSPI再暴跌超5%，韩国监管拟出手降杠杆：单股杠杆ETF倍数或直接砍至1倍",
@@ -79,28 +208,6 @@
           "source": "财联社热门",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "印度大量驳回对华反倾销调查建议",
-          "url": "https://news.ifeng.com/c/8vJ4iCAMXSa",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "诈骗小曲是如何诞生的",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%88%E9%AA%97%E5%B0%8F%E6%9B%B2%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -129,59 +236,15 @@
           "time_info": "09时35分"
         },
         {
-          "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711711",
-          "source": "澎湃新闻",
+          "title": "日本员工拒绝返回商场躲过爆炸",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%91%98%E5%B7%A5%E6%8B%92%E7%BB%9D%E8%BF%94%E5%9B%9E%E5%95%86%E5%9C%BA%E8%BA%B2%E8%BF%87%E7%88%86%E7%82%B8&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "山体雪崩,登山队全员遇难",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356747&amp;topic_name=%E5%B1%B1%E4%BD%93%E9%9B%AA%E5%B4%A9%2C%E7%99%BB%E5%B1%B1%E9%98%9F%E5%85%A8%E5%91%98%E9%81%87%E9%9A%BE",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "有执法人员查获瞒报运输危险货物遭遇立案难？海口通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711434",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "福建漳州全面核查抗生素牛蛙",
-          "url": "https://www.toutiao.com/trending/7669643929184144938/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
-        },
-        {
-          "title": "离谱,日本职场比地震还狠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356727&amp;topic_name=%E7%A6%BB%E8%B0%B1%2C%E6%97%A5%E6%9C%AC%E8%81%8C%E5%9C%BA%E6%AF%94%E5%9C%B0%E9%9C%87%E8%BF%98%E7%8B%A0",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时35分"
+          "time_info": "12时54分"
         },
         {
           "title": "地表最强男人因雪崩遇难",
@@ -193,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "有牛蛙检出致癌兽药",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E7%89%9B%E8%9B%99%E6%A3%80%E5%87%BA%E8%87%B4%E7%99%8C%E5%85%BD%E8%8D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     }
