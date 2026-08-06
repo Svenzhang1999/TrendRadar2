@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T09:26:53.154663+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-06T12:55:42.055160+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时55分]"
+        },
+        {
+          "title": "澎湃回声｜多平台回应“假睫毛胶水检出多种致癌、致敏物”：正排查处置",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33720820",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时55分]"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：需要考虑通胀可能持续更长时间的情形。 美联储在制定利率政策时面临诸多不同类型的风险。 完全支持7月维持利率不变。 美联储仍需收集数据以制定未来政策举措，9月会议前有很多信息需要收集。 美联储应做好通胀形势失控时采取行动的准备。",
@@ -41,15 +52,50 @@
           "time_info": "09时26分"
         },
         {
-          "title": "澎湃回声｜多平台回应“假睫毛胶水检出多种致癌、致敏物”：正排查处置",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33720820",
+          "title": "邯郸女当事人回应“举报法院执行局长索贿骚扰”：相信事件会得到公平公正处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33718921",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时55分]"
+        },
+        {
+          "title": "马上评｜笔试第一却被劝出局，这些疑点要全面核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33719868",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时55分]"
+        },
+        {
+          "title": "异物砸底盘,智界R7高速起火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356784&amp;topic_name=%E5%BC%82%E7%89%A9%E7%A0%B8%E5%BA%95%E7%9B%98%2C%E6%99%BA%E7%95%8CR7%E9%AB%98%E9%80%9F%E8%B5%B7%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时55分]"
+        },
+        {
+          "title": "日本女网红自杀过程被完整直播",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E8%BF%87%E7%A8%8B%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%9B%B4%E6%92%AD%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时55分]"
         },
         {
           "title": "南太行山失联女孩最后信号不在山林",
@@ -118,15 +164,26 @@
           "time_info": "09时26分"
         },
         {
-          "title": "邯郸女当事人回应“举报法院执行局长索贿骚扰”：相信事件会得到公平公正处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33718921",
-          "source": "澎湃新闻",
+          "title": "日本籍女网红在韩直播时自杀身亡",
+          "url": "https://www.toutiao.com/trending/7670081701817073705/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时55分"
+        },
+        {
+          "title": "曝侯明昊违反交规被约谈",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E4%BE%AF%E6%98%8E%E6%98%8A%E8%BF%9D%E5%8F%8D%E4%BA%A4%E8%A7%84%E8%A2%AB%E7%BA%A6%E8%B0%88&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "昆明一化工厂装卸黄磷时起火",
@@ -140,15 +197,15 @@
           "time_info": "09时26分"
         },
         {
-          "title": "马上评｜笔试第一却被劝出局，这些疑点要全面核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33719868",
-          "source": "澎湃新闻",
+          "title": "第五人格加页手记监管者模式爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%8A%A0%E9%A1%B5%E6%89%8B%E8%AE%B0%E7%9B%91%E7%AE%A1%E8%80%85%E6%A8%A1%E5%BC%8F%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时55分"
         },
         {
           "title": "浙江新昌对如是书院开展调查",
@@ -162,15 +219,15 @@
           "time_info": "09时26分"
         },
         {
-          "title": "异物砸底盘,智界R7高速起火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356784&amp;topic_name=%E5%BC%82%E7%89%A9%E7%A0%B8%E5%BA%95%E7%9B%98%2C%E6%99%BA%E7%95%8CR7%E9%AB%98%E9%80%9F%E8%B5%B7%E7%81%AB",
-          "source": "贴吧",
+          "title": "中国地震台网正式测定：08月06日11时48分在青海海南州兴海县（北纬35.38度，东经99.57度）发生3.2级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260806115415771800",
+          "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时55分"
         },
         {
           "title": "英国海事贸易行动办公室（UKMTO）：收到报告，在阿曼库姆扎尔（Kumzar）东南9海里处发生一起事件。 一艘油轮的船长报告称，在途经霍尔木兹海峡时听到两声爆炸声，船员和船只均安全，目前暂无环境破坏的报告。",
@@ -228,15 +285,15 @@
           "time_info": "09时26分"
         },
         {
-          "title": "日本女网红自杀过程被完整直播",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E8%BF%87%E7%A8%8B%E8%A2%AB%E5%AE%8C%E6%95%B4%E7%9B%B4%E6%92%AD%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "星展银行首席执行官：预计在今年剩余时间内，新加坡基准利率平均约为1.2%。",
+          "url": "https://flash.jin10.com/detail/20260806114413879800",
+          "source": "金十数据",
           "ranks": [
-            23
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时55分"
         },
         {
           "title": "据华尔街日报：自沃什担任美联储主席以来，美国总统特朗普多次与其通话。",
@@ -250,6 +307,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "星展银行首席执行官：不预计今年美联储加息，但将根据市场预期进行交易。",
+          "url": "https://flash.jin10.com/detail/20260806114353563800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "申通快递因安全缺位被立案",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356782&amp;topic_name=%E7%94%B3%E9%80%9A%E5%BF%AB%E9%80%92%E5%9B%A0%E5%AE%89%E5%85%A8%E7%BC%BA%E4%BD%8D%E8%A2%AB%E7%AB%8B%E6%A1%88",
           "source": "贴吧",
@@ -259,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
+          "url": "https://flash.jin10.com/detail/20260806114306480800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "22岁女生南太行山失联已超十天",
