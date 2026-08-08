@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-08T08:49:20.107246+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-08T10:50:06.831100+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "基辅市长表示，基辅两个区发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260808083851387800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
         {
           "title": "值得反思!日本运动员偷鸡蛋被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -37,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -48,30 +37,56 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
+        },
+        {
+          "title": "基辅市长表示，基辅两个区发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260808083851387800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "目击者称，乌克兰首都基辅传出多声强烈爆炸声。",
           "url": "https://flash.jin10.com/detail/20260808082252663800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时50分]"
+        },
+        {
+          "title": "泰国校园枪击案已致8死，14岁枪手被曝长期遭霸凌",
+          "url": "https://news.ifeng.com/c/8vP0fseQcSI",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "泰国再发校园枪击惨案：初中生连杀6人后自杀，祖父母也未能幸免",
@@ -81,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "猫娘抽烟番被日本家长投诉",
@@ -92,85 +107,68 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "泰国校园枪击案已致8死，14岁枪手被曝长期遭霸凌",
-          "url": "https://news.ifeng.com/c/8vP0fseQcSI",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？",
           "url": "https://www.zhihu.com/question/2068620061821212203",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "南太行失联女孩家属发声",
           "url": "https://www.douyin.com/hot/2601303",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
-          "title": "观复博物馆佛像送检引关注，海口方面：调查有进展，预计几天后发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736524",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "四川宜宾地震网友称睡觉被摇醒",
           "url": "https://www.toutiao.com/trending/7671132302990262291/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "直播丨泰国发生校园枪击案已致6死23伤，凶手此前枪杀家人，在校行凶后已自杀",
           "url": "https://m.thepaper.cn/newsDetail_forward_33737522",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "香港火灾调查报告：大火或由烟头引起",
           "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%EF%BC%9A%E5%A4%A7%E7%81%AB%E6%88%96%E7%94%B1%E7%83%9F%E5%A4%B4%E5%BC%95%E8%B5%B7",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
         },
         {
           "title": "香港宏福苑火灾或由烟头引起",
@@ -178,6 +176,28 @@
           "source": "微博",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 10时50分]"
+        },
+        {
+          "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2069064416709063399",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 10时50分]"
+        },
+        {
+          "title": "观复博物馆佛像送检引关注，海口方面：调查有进展，预计几天后发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736524",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
