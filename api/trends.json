@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T12:05:12.880279+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-08-08T13:35:42.235578+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -31,16 +31,26 @@
           "time_info": "[08时49分 ~ 12时05分]"
         },
         {
-          "title": "值得反思!日本运动员偷鸡蛋被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "中国地震台网正式测定：8月8日12时21分，在四川宜宾市珙县发生3.4级地震，震源深度9公里。",
+          "url": "https://flash.jin10.com/detail/20260808124353871800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "俄行动指挥部：伊利斯基炼油厂因无人机残骸坠落起火。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20260808123111552800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
@@ -48,11 +58,25 @@
           "source": "知乎",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 13时35分]"
+        },
+        {
+          "title": "值得反思!日本运动员偷鸡蛋被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "目击者称，乌克兰首都基辅传出多声强烈爆炸声。",
@@ -86,11 +110,12 @@
           "ranks": [
             5,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 4,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "泰国校园枪击案已致8死，14岁枪手被曝长期遭霸凌",
@@ -101,8 +126,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "泰国再发校园枪击惨案：初中生连杀6人后自杀，祖父母也未能幸免",
@@ -113,8 +138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "猫娘抽烟番被日本家长投诉",
@@ -122,11 +147,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？",
@@ -137,8 +163,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "南太行失联女孩家属发声",
@@ -147,11 +173,12 @@
           "ranks": [
             13,
             14,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "四川宜宾地震网友称睡觉被摇醒",
@@ -160,11 +187,12 @@
           "ranks": [
             19,
             25,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "直播丨泰国发生校园枪击案已致6死23伤，凶手此前枪杀家人，在校行凶后已自杀",
@@ -175,8 +203,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 13时35分]"
         },
         {
           "title": "香港火灾调查报告：大火或由烟头引起",
@@ -214,6 +242,28 @@
           "time_info": "[12时04分 ~ 12时05分]"
         },
         {
+          "title": "中国地震台网正式测定：08月08日11时45分在新疆阿克苏地区沙雅县发生4.5级地震，震源深度25千米。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260808120026148800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "这种水别再喝了 已被列为2A类致癌物",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E6%B0%B4%E5%88%AB%E5%86%8D%E5%96%9D%E4%BA%86+%E5%B7%B2%E8%A2%AB%E5%88%97%E4%B8%BA2A%E7%B1%BB%E8%87%B4%E7%99%8C%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "观复博物馆佛像送检引关注，海口方面：调查有进展，预计几天后发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33736524",
           "source": "澎湃新闻",
@@ -223,6 +273,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        },
+        {
+          "title": "22岁女生独闯南太行失联12天",
+          "url": "https://www.baidu.com/s?wd=22%E5%B2%81%E5%A5%B3%E7%94%9F%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9412%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "网约车司机充电时猝死保险拒赔",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%85%85%E7%94%B5%E6%97%B6%E7%8C%9D%E6%AD%BB%E4%BF%9D%E9%99%A9%E6%8B%92%E8%B5%94",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "陕西柞水泥石流已致2死 仍有1人失联",
+          "url": "https://www.toutiao.com/trending/7671488615762890303/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     }
