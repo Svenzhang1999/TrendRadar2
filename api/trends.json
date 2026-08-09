@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T13:41:20.929513+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-08-09T14:38:33.633204+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -19,16 +19,28 @@
           "time_info": "[08时52分 ~ 10时57分]"
         },
         {
+          "title": "韩国6月旅行收支实现近6亿美元顺差 创新冠疫情以来最高纪录",
+          "url": "https://flash.jin10.com/detail/20260809141456774800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "据印尼气象、气候和地球物理局发布的报告，当地时间8月9日10时02分，印尼亚齐特区沙璜市西北205公里处发生5.7级地震，震源深度10公里，没有海啸风险。",
           "url": "https://flash.jin10.com/detail/20260809113024703800",
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时38分]"
         },
         {
           "title": "沙特能源部：沙特阿美在沙特阿拉伯贾赞的设施火灾已被扑灭。",
@@ -37,11 +49,12 @@
           "ranks": [
             4,
             6,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 14时38分]"
         },
         {
           "title": "一船只在阿曼以东海域遭袭起火",
@@ -51,11 +64,12 @@
             10,
             19,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 14时38分]"
         },
         {
           "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
@@ -64,11 +78,12 @@
           "ranks": [
             11,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 14时38分]"
         },
         {
           "title": "值得反思!日本运动员偷鸡蛋被捕",
@@ -81,8 +96,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 14时38分]"
         },
         {
           "title": "紧邻天然气管道设施！一无人机自罗马尼亚方向进入保加利亚后爆炸",
@@ -133,6 +148,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "冻结那时间 冻结初遇那一天",
+          "url": "https://www.douyin.com/hot/2602815",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "美消防部门证实：犹他州消防直升机坠毁致两人遇难",
           "url": "https://flash.jin10.com/detail/20260809044400736800",
           "source": "金十数据",
@@ -155,6 +181,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "小车追尾电动车 结果一环接一环",
+          "url": "https://www.toutiao.com/trending/7671109198005108742/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "四川省地震局回应宜宾余震不断",
           "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AE%9C%E5%AE%BE%E4%BD%99%E9%9C%87%E4%B8%8D%E6%96%AD",
           "source": "百度热搜",
@@ -166,6 +203,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "上海：5号线16号线浦江线全线停运",
+          "url": "https://www.toutiao.com/trending/7671891163829243455/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "原子弹爆炸后日本禁用原子弹一词",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%90%8E%E6%97%A5%E6%9C%AC%E7%A6%81%E7%94%A8%E5%8E%9F%E5%AD%90%E5%BC%B9%E4%B8%80%E8%AF%8D%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -175,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "上海全域长途客运班次全部停运",
+          "url": "https://www.toutiao.com/trending/7671895662044250131/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     }
