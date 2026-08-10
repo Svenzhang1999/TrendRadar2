@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T17:07:42.657927+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-08-10T18:57:57.160363+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 37,
+      "match_count": 46,
       "titles": [
         {
           "title": "武汉司门口黄鹤楼天桥市容管理人员与占道摊贩发生激烈肢体冲突，3 人被刑拘，有哪些信息值得关注？",
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 17时07分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 18时57分]"
         },
         {
           "title": "武汉3名城管在天桥殴打摊贩",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357002&amp;topic_name=%E6%AD%A6%E6%B1%893%E5%90%8D%E5%9F%8E%E7%AE%A1%E5%9C%A8%E5%A4%A9%E6%A1%A5%E6%AE%B4%E6%89%93%E6%91%8A%E8%B4%A9",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 17时07分]"
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 18时57分]"
         },
         {
           "title": "武汉3名城管协管员殴打摊主被刑拘",
@@ -42,6 +43,39 @@
           "time_info": "[11时06分 ~ 11时07分]"
         },
         {
+          "title": "独闯南太行失联女子遗体已找到",
+          "url": "https://www.toutiao.com/trending/7672068765324230699/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 18时57分]"
+        },
+        {
+          "title": "南太行失联22岁女孩遗体被发现",
+          "url": "https://www.douyin.com/hot/2604364",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 18时57分]"
+        },
+        {
+          "title": "独闯南太行失联14天的女子已找到",
+          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9414%E5%A4%A9%E7%9A%84%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 18时57分]"
+        },
+        {
           "title": "国家能源集团黑龙江电力有限公司党委委员孙登伟接受审查调查",
           "url": "https://wallstreetcn.com/livenews/3147328",
           "source": "华尔街见闻-快讯",
@@ -53,37 +87,17 @@
           "time_info": "15时09分"
         },
         {
-          "title": "独闯南太行失联女子遗体已找到",
-          "url": "https://www.toutiao.com/trending/7672068765324230699/",
-          "source": "今日头条",
+          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748209",
+          "source": "澎湃新闻",
           "ranks": [
+            7,
+            6,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        },
-        {
-          "title": "南太行失联22岁女孩遗体被发现",
-          "url": "https://www.douyin.com/hot/2604364",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        },
-        {
-          "title": "独闯南太行失联14天的女子已找到",
-          "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9414%E5%A4%A9%E7%9A%84%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时07分"
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 18时57分]"
         },
         {
           "title": "上海地铁4条线路全线停运",
@@ -119,11 +133,24 @@
             9,
             10,
             13,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 17时07分]"
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 18时57分]"
+        },
+        {
+          "title": "台风「白海豚」疯狂倒水，上海内涝严重，地铁多条线路停运，你的出行和生活受影响了吗？今天有居家办公吗？",
+          "url": "https://www.zhihu.com/question/2070054600602642235",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 18时57分]"
         },
         {
           "title": "报道：英国监管机构正着手制定代币化黄金框架",
@@ -151,16 +178,18 @@
           "time_info": "[13时16分 ~ 17时07分]"
         },
         {
-          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748209",
+          "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750449",
           "source": "澎湃新闻",
           "ranks": [
+            10,
+            9,
             7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 17时07分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 18时57分]"
         },
         {
           "title": "明日上海轨交3、5、16号线和浦江线全线停运，1、2、6、10号线缩线运行",
@@ -172,8 +201,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 17时07分]"
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 18时57分]"
         },
         {
           "title": "受台风“白海豚”影响：千余架次航班取消，多条铁路部分区段停运，浙江多个机场今日停航",
@@ -250,19 +279,6 @@
           "time_info": "[08时54分 ~ 13时17分]"
         },
         {
-          "title": "武汉警方通报城管协管员与摊主发生冲突：3名协管员被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750449",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 17时07分]"
-        },
-        {
           "title": "上海一女子台风天坠楼系谣言",
           "url": "https://www.douyin.com/hot/2603729",
           "source": "抖音",
@@ -287,6 +303,17 @@
           "time_info": "[13时16分 ~ 15时09分]"
         },
         {
+          "title": "“上海女子在台风中坠楼”不实",
+          "url": "https://www.toutiao.com/trending/7672214861442465833/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 18时57分]"
+        },
+        {
           "title": "8月10日投资避雷针：8天翻倍人气股提示风险 如股价继续大幅波动将停牌核查",
           "url": "https://www.cls.cn/detail/2449503",
           "source": "财联社热门",
@@ -299,15 +326,16 @@
           "time_info": "[15时08分 ~ 17时07分]"
         },
         {
-          "title": "“上海女子在台风中坠楼”不实",
-          "url": "https://www.toutiao.com/trending/7672214861442465833/",
-          "source": "今日头条",
+          "title": "重庆木叶村被粉丝骚扰500次",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357006&amp;topic_name=%E9%87%8D%E5%BA%86%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A2%AB%E7%B2%89%E4%B8%9D%E9%AA%9A%E6%89%B0500%E6%AC%A1",
+          "source": "贴吧",
           "ranks": [
+            7,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 17时07分]"
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 18时57分]"
         },
         {
           "title": "极氪7X充电起火",
@@ -387,15 +415,15 @@
           "time_info": "15时09分"
         },
         {
-          "title": "重庆木叶村被粉丝骚扰500次",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357006&amp;topic_name=%E9%87%8D%E5%BA%86%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A2%AB%E7%B2%89%E4%B8%9D%E9%AA%9A%E6%89%B0500%E6%AC%A1",
-          "source": "贴吧",
+          "title": "抓典型！最新监管通报指向“C基金公司”，再给大V带货、风格漂移敲警钟",
+          "url": "https://www.cls.cn/detail/2450054",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时07分"
+          "time_info": "18时57分"
         },
         {
           "title": "加拿大不列颠哥伦比亚省过去7天新增火灾70起",
@@ -409,15 +437,70 @@
           "time_info": "08时55分"
         },
         {
-          "title": "台风「白海豚」疯狂倒水，上海内涝严重，地铁多条线路停运，你的出行和生活受影响了吗？今天有居家办公吗？",
-          "url": "https://www.zhihu.com/question/2070054600602642235",
-          "source": "知乎",
+          "title": "女孩南太行失联14天后遗体被找到",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9414%E5%A4%A9%E5%90%8E%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时07分"
+          "time_info": "18时57分"
+        },
+        {
+          "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2068484771710293896",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "炸鸡店爆单 店员呼吸性碱中毒",
+          "url": "https://s.weibo.com/weibo?q=%E7%82%B8%E9%B8%A1%E5%BA%97%E7%88%86%E5%8D%95%20%E5%BA%97%E5%91%98%E5%91%BC%E5%90%B8%E6%80%A7%E7%A2%B1%E4%B8%AD%E6%AF%92&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "商务部新闻发言人就对原产于墨西哥和美国的进口碧根果反倾销调查初裁答记者问",
+          "url": "https://wallstreetcn.com/livenews/3147438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "律师解读城管协管员殴打摊主被刑拘",
+          "url": "https://www.toutiao.com/trending/7671448450671591443/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "南太行失联女子遗体被找到村民发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0%E6%9D%91%E6%B0%91%E5%8F%91%E5%A3%B0%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "欧足联、亚足联和中北美及加勒比海足联发表联合声明，称国际足联主席因凡蒂诺“通过欺骗手段”在世界杯股份出售提案中背弃了信任。",
@@ -426,9 +509,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
+        },
+        {
+          "title": "Meta首席执行官扎克伯格：我们将很快恢复发布部分开源模型。 公司的独立董事会将有权批准模型发布的安全标准。",
+          "url": "https://wallstreetcn.com/livenews/3147433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "伊朗机场公司首席执行官：尽管遭受重大破坏，但受战争影响的机场已恢复运营。",
@@ -440,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "今日起豆包渠道的酒店订单开始执行独立费率，综合扣费12%",
+          "url": "https://wallstreetcn.com/livenews/3147422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     }
