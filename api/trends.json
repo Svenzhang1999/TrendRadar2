@@ -1,359 +1,143 @@
 {
-  "generated_at": "2026-08-09T20:27:45.352740+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-08-10T08:55:12.674063+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 28,
+      "match_count": 12,
       "titles": [
         {
-          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
-          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
-          "source": "凤凰网",
+          "title": "上海地铁4条线路全线停运",
+          "url": "https://www.toutiao.com/trending/7671904414269259795/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 10时57分]"
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "药明康德：美国地区法院批准公司初步禁令，禁止美国国防部执行或实施1260H认定",
-          "url": "https://wallstreetcn.com/livenews/3147057",
-          "source": "华尔街见闻-快讯",
+          "title": "台风来势汹汹,上海地铁停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356990&amp;topic_name=%E5%8F%B0%E9%A3%8E%E6%9D%A5%E5%8A%BF%E6%B1%B9%E6%B1%B9%2C%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
           "ranks": [
-            2,
-            3,
-            6,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时27分]"
-        },
-        {
-          "title": "韩国6月旅行收支实现近6亿美元顺差 创新冠疫情以来最高纪录",
-          "url": "https://flash.jin10.com/detail/20260809141456774800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时38分 ~ 16时31分]"
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "值得反思!日本运动员偷鸡蛋被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748209",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            21,
-            24,
-            25,
-            26,
-            27,
-            29,
-            30
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时52分 ~ 20时27分]"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
-          "url": "https://wallstreetcn.com/livenews/3147067",
-          "source": "华尔街见闻-快讯",
+          "title": "极氪7X充电起火",
+          "url": "https://s.weibo.com/weibo?q=%E6%9E%81%E6%B0%AA7X%E5%85%85%E7%94%B5%E8%B5%B7%E7%81%AB&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            1,
-            8,
-            15
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时27分]"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "据印尼气象、气候和地球物理局发布的报告，当地时间8月9日10时02分，印尼亚齐特区沙璜市西北205公里处发生5.7级地震，震源深度10公里，没有海啸风险。",
-          "url": "https://flash.jin10.com/detail/20260809113024703800",
-          "source": "金十数据",
+          "title": "传销犯变身「国学大师」创办如是书院暴力管教孩子，浙江开启调查，这个书院为啥能横行多年? 反映出哪些问题？",
+          "url": "https://www.zhihu.com/question/2068754726955345626",
+          "source": "知乎",
           "ranks": [
-            1,
-            12,
-            15
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时38分]"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "沙特能源部：沙特阿美在沙特阿拉伯贾赞的设施火灾已被扑灭。",
-          "url": "https://flash.jin10.com/detail/20260809094505071800",
-          "source": "金十数据",
+          "title": "网民AI造谣“西平灭门案”被行拘",
+          "url": "https://www.toutiao.com/trending/7671970111683969066/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            6,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 14时38分]"
-        },
-        {
-          "title": "冻结那时间 冻结初遇那一天",
-          "url": "https://www.douyin.com/hot/2602815",
-          "source": "抖音",
-          "ranks": [
-            14,
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 20时27分]"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "一船只在阿曼以东海域遭袭起火",
-          "url": "https://wallstreetcn.com/livenews/3147020",
-          "source": "华尔街见闻-快讯",
+          "title": "明日上海轨交3、5、16号线和浦江线全线停运，1、2、6、10号线缩线运行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33749776",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            19,
-            21,
-            24,
-            25,
-            30
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 16时31分]"
-        },
-        {
-          "title": "祁同伟的自杀，对沙瑞金和侯亮平有何影响？",
-          "url": "https://www.zhihu.com/question/1928734665180702151",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时30分 ~ 20时27分]"
-        },
-        {
-          "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
-          "url": "https://www.zhihu.com/question/2069443167678632232",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 14时38分]"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "受台风“白海豚”影响：千余架次航班取消，多条铁路部分区段停运，浙江多个机场今日停航",
           "url": "https://m.thepaper.cn/newsDetail_forward_33748287",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            17,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时27分]"
-        },
-        {
-          "title": "紧邻天然气管道设施！一无人机自罗马尼亚方向进入保加利亚后爆炸",
-          "url": "https://wallstreetcn.com/livenews/3147009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 12时13分]"
-        },
-        {
-          "title": "据路透社/益普索调查，61%的美国人支持对社交媒体应用实施更严格的监管。",
-          "url": "https://flash.jin10.com/detail/20260809181248540800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时27分]"
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "据路透社/益普索调查，74%的共和党人和69%的民主党人支持社交媒体的年龄验证规则。",
-          "url": "https://flash.jin10.com/detail/20260809181231427800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时27分]"
-        },
-        {
-          "title": "市场消息：沙特阿拉伯朱拜尔工业城燃气设施发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260809091020252800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 12时13分]"
-        },
-        {
-          "title": "欧洲监管机构对FSD安全测评数据保密",
-          "url": "https://www.toutiao.com/trending/7671713934446198847/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
-        },
-        {
-          "title": "猫娘抽烟番被日本家长投诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 10时57分]"
-        },
-        {
-          "title": "乌克兰无人机侵犯保加利亚领空爆炸，危及关键能源设施",
-          "url": "https://flash.jin10.com/detail/20260809050035805800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "美消防部门证实：犹他州消防直升机坠毁致两人遇难",
-          "url": "https://flash.jin10.com/detail/20260809044400736800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "古二曝繁花剧组偷税漏税",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%A4%E4%BA%8C%E6%9B%9D%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E&t=31&band_rank=15&Refer=top",
+          "title": "上海地铁停运",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "据路透社/益普索调查，71%的民主党人和62%的共和党人支持对美国社交媒体应用实施更严格的监管。",
-          "url": "https://flash.jin10.com/detail/20260809180141436800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "刚果（金）埃博拉疫情恶化",
-          "url": "https://www.douyin.com/hot/2602329",
+          "title": "冻结那时间 冻结初遇那一天",
+          "url": "https://www.douyin.com/hot/2602815",
           "source": "抖音",
           "ranks": [
-            18
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "小车追尾电动车 结果一环接一环",
-          "url": "https://www.toutiao.com/trending/7671109198005108742/",
-          "source": "今日头条",
+          "title": "医生韩杰因医疗事故获刑仍不认罪，如何界定医疗过失的刑事边界？",
+          "url": "https://www.zhihu.com/question/2068717228388888877",
+          "source": "知乎",
           "ranks": [
-            23
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "四川省地震局回应宜宾余震不断",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AE%9C%E5%AE%BE%E4%BD%99%E9%9C%87%E4%B8%8D%E6%96%AD",
-          "source": "百度热搜",
+          "title": "加拿大不列颠哥伦比亚省过去7天新增火灾70起",
+          "url": "https://wallstreetcn.com/livenews/3147157",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "上海：5号线16号线浦江线全线停运",
-          "url": "https://www.toutiao.com/trending/7671891163829243455/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "原子弹爆炸后日本禁用原子弹一词",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%90%8E%E6%97%A5%E6%9C%AC%E7%A6%81%E7%94%A8%E5%8E%9F%E5%AD%90%E5%BC%B9%E4%B8%80%E8%AF%8D%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "上海全域长途客运班次全部停运",
-          "url": "https://www.toutiao.com/trending/7671895662044250131/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "08时55分"
         }
       ]
     }
