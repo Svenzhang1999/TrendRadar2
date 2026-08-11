@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-08-11T13:47:31.526649+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-08-11T14:46:37.527403+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 34,
+      "match_count": 45,
       "titles": [
         {
           "title": "哥伦比亚地震已致上百人遇难",
           "url": "https://www.douyin.com/hot/2605135",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时46分]"
+        },
+        {
+          "title": "长征7号甲火箭发射失败爆炸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357110&amp;topic_name=%E9%95%BF%E5%BE%817%E5%8F%B7%E7%94%B2%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E7%88%86%E7%82%B8",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时46分]"
         },
         {
           "title": "哥伦比亚强震已致上百人遇难",
@@ -30,17 +43,6 @@
           "time_info": "[10时59分 ~ 12时19分]"
         },
         {
-          "title": "长征7号甲火箭发射失败爆炸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357110&amp;topic_name=%E9%95%BF%E5%BE%817%E5%8F%B7%E7%94%B2%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E7%88%86%E7%82%B8",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时47分]"
-        },
-        {
           "title": "大理百元豪车租赁乱象调查",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
@@ -49,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时46分]"
         },
         {
           "title": "澳洲联储主席布洛克：住房市场并非让我们按兵不动的理由。",
@@ -59,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -70,7 +72,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -114,9 +116,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "主动投案，南京市交通集团党委书记、董事长奚晖接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3147889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "影子调查丨山西中阳残存明代城墙遭“拆旧建新”，墙砖被按废物丢弃",
@@ -128,8 +141,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 14时46分]"
         },
         {
           "title": "河南发布红色山洪灾害气象风险预警",
@@ -151,11 +164,12 @@
           "ranks": [
             6,
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时46分]"
         },
         {
           "title": "重庆木叶村被粉丝骚扰500次",
@@ -164,11 +178,36 @@
           "ranks": [
             13,
             16,
-            18
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时46分]"
+        },
+        {
+          "title": "这家基金公司被罚有深意！监管给持仓“集中度过高”敲警钟",
+          "url": "https://www.cls.cn/detail/2450741",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时55分 ~ 13时47分]"
+          "time_info": "[10时59分 ~ 14时46分]"
+        },
+        {
+          "title": "8月11日投资避雷针：复牌仅3个交易日 12天11板人气股再度停牌核查",
+          "url": "https://www.cls.cn/detail/2450717",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 14时46分]"
         },
         {
           "title": "台风来势汹汹,上海地铁停运",
@@ -184,39 +223,17 @@
           "time_info": "[08时55分 ~ 13时47分]"
         },
         {
-          "title": "这家基金公司被罚有深意！监管给持仓“集中度过高”敲警钟",
-          "url": "https://www.cls.cn/detail/2450741",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 13时47分]"
-        },
-        {
-          "title": "8月11日投资避雷针：复牌仅3个交易日 12天11板人气股再度停牌核查",
-          "url": "https://www.cls.cn/detail/2450717",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 13时47分]"
-        },
-        {
           "title": "警方介入调查独闯南太行女子死因",
           "url": "https://www.toutiao.com/trending/7672386776553406527/",
           "source": "今日头条",
           "ranks": [
             9,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时46分]"
         },
         {
           "title": "驾校抱团涨价、协会牵头串谋，全国市场监管部门整治驾培垄断",
@@ -241,6 +258,18 @@
           "time_info": "[12时18分 ~ 12时19分]"
         },
         {
+          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
+          "url": "https://www.cls.cn/detail/2450955",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时46分]"
+        },
+        {
           "title": "乌克兰首都基辅响起持续强烈爆炸声",
           "url": "https://www.toutiao.com/trending/7671886576213114889/",
           "source": "今日头条",
@@ -252,26 +281,60 @@
           "time_info": "[10时59分 ~ 11时01分]"
         },
         {
+          "title": "南太行失联女子遇难地为野山",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E9%81%87%E9%9A%BE%E5%9C%B0%E4%B8%BA%E9%87%8E%E5%B1%B1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时46分]"
+        },
+        {
+          "title": "余霜下厨做土豆,管哥吃中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "澳洲联储主席布洛克：会议上未讨论降息，仅讨论加息或维持利率不变。",
           "url": "https://flash.jin10.com/detail/20260811133730360800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
         {
-          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
-          "url": "https://www.cls.cn/detail/2450955",
-          "source": "财联社热门",
+          "title": "媒体评女孩独闯南太行遇难",
+          "url": "https://www.toutiao.com/trending/7672582765519290387/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "14时46分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：不希望失业率升至非加速通胀失业率（NAIRU）水平之上。 我们需要经济增长放缓，劳动市场的紧俏程度也需要降低。 我们很有可能还需要再次升息。 房市下滑不会对金融稳定构成重大风险。 委员会所有成员至少都对通胀有些担忧。",
+          "url": "https://wallstreetcn.com/livenews/3147884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "哥伦比亚因地震进入国家灾难状态",
@@ -291,7 +354,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -302,9 +365,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：利率前景尚未平衡。",
+          "url": "https://flash.jin10.com/detail/20260811141116611800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "澳洲联储主席布洛克：委员会并未排除进一步加息的可能，我们需要更多信息。",
@@ -313,9 +387,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：委员会成员都对通胀至少有一点担忧。",
+          "url": "https://flash.jin10.com/detail/20260811141108806800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "澳洲联储主席布洛克：如有必要，将再次加息。",
@@ -324,7 +409,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -335,9 +420,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：正在认真思考何时可能适合加息。 房地产市场并不是让我们按兵不动的理由。 支持加息的理由包括通胀仍然过高，以及中东局势带来的通胀上行风险。 决定等待更多信息，但加息仍是首要考量。",
+          "url": "https://wallstreetcn.com/livenews/3147876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "澳洲联储主席布洛克：委员会希望放缓经济增长，认为通胀存在上行风险。",
@@ -346,7 +442,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -362,26 +458,59 @@
           "time_info": "08时55分"
         },
         {
+          "title": "澳洲联储主席Bullock：尽管房价已有所回落，但那不是我们的主要关注点。 会议上讨论了加息的可能性。 会议上并未讨论降息，只讨论了加息或维持不变。",
+          "url": "https://wallstreetcn.com/livenews/3147873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：澳洲联储希望放缓经济，认为通胀存在上行风险。 预计需要一段经济低增长来降低通胀。 如有必要，将再次加息。 不排除进一步加息的可能，但需要更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3147869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：对私人信贷脆弱性并不担忧。",
+          "url": "https://flash.jin10.com/detail/20260811140339362800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "哥伦比亚华人称地震时以为低血糖了",
           "url": "https://www.toutiao.com/trending/7672582656137052202/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
         {
-          "title": "南太行失联女子遇难地为野山",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E9%81%87%E9%9A%BE%E5%9C%B0%E4%B8%BA%E9%87%8E%E5%B1%B1",
-          "source": "百度热搜",
+          "title": "当地州长表示，俄罗斯奥伦堡州一家工业企业遭“敌方无人机”袭击后起火。",
+          "url": "https://flash.jin10.com/detail/20260811140324473800",
+          "source": "金十数据",
           "ranks": [
-            28
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "14时46分"
         },
         {
           "title": "银行理财机构短期限产品规模增长过快触发监管提示",
