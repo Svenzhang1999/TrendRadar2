@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T19:39:15.808749+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-08-13T20:44:32.279835+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "福建船厂爆炸已致12伤 10人为消防员",
@@ -63,6 +63,28 @@
           "time_info": "15时11分"
         },
         {
+          "title": "美国里士满联储主席巴尔金：美国的投资热潮并不仅限于数据中心。 当前通胀很大程度上源于应当会消退的冲击。 包括人工智能在内的一些通胀驱动因素可能具有持续性。 认为加息存在正反两方面的理由。 美国经济在消费者驱动下仍保持韧性。 AI投资似乎对利率水平具有免疫力。",
+          "url": "https://wallstreetcn.com/livenews/3149174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "美国克利夫兰联储主席哈马克（Hammack）：（谈美联储政策）“我认为我们现在需采取行动”。 失业率是衡量就业市场的最佳指标，目前较为稳定。",
+          "url": "https://wallstreetcn.com/livenews/3149173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "原子弹爆炸的“受害者”？学者：日本不配！",
           "url": "https://news.ifeng.com/c/8vYTS9EOJCm",
           "source": "凤凰网",
@@ -118,6 +140,20 @@
           "time_info": "09时03分"
         },
         {
+          "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33774962",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 20时44分]"
+        },
+        {
           "title": "光速关服,AI虚拟歌姬停运",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
           "source": "贴吧",
@@ -127,11 +163,28 @@
             11,
             15,
             19,
-            20
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 20时44分]"
+        },
+        {
+          "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13,
+            16,
+            14,
+            11
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时03分 ~ 19时39分]"
+          "time_info": "[11时59分 ~ 20时44分]"
         },
         {
           "title": "女生泰国失联,疑被卖电诈区",
@@ -143,26 +196,25 @@
             23,
             26,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时03分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 20时44分]"
         },
         {
-          "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773834",
-          "source": "澎湃新闻",
+          "title": "太平洋的美军基地正在崩溃：坍塌，漏水和裂缝",
+          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            15,
-            13,
-            16,
-            14
+            7,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时59分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[15时11分 ~ 20时44分]"
         },
         {
           "title": "8月13日投资避雷针：13天9板人气股已被深交所重点监控 如进一步异常上涨将停牌核查",
@@ -202,30 +254,27 @@
           "time_info": "[09时03分 ~ 15时11分]"
         },
         {
-          "title": "太平洋的美军基地正在崩溃：坍塌，漏水和裂缝",
-          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
-          "source": "凤凰网",
+          "title": "免费领鸡蛋还能抽奖？警惕涉老诈骗",
+          "url": "https://www.toutiao.com/trending/7672008059765719082/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            8,
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时11分 ~ 19时39分]"
+          "time_info": "[17时02分 ~ 20时44分]"
         },
         {
-          "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33774962",
-          "source": "澎湃新闻",
+          "title": "美林肯号航母上多名水兵试图跳海自杀",
+          "url": "https://www.toutiao.com/trending/7672251953762238502/",
+          "source": "今日头条",
           "ranks": [
-            14,
             9,
-            7
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时02分 ~ 19时39分]"
+          "time_info": "[18时52分 ~ 20时44分]"
         },
         {
           "title": "造谣网约车司机猝死 两人被罚",
@@ -237,17 +286,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时59分 ~ 13时39分]"
-        },
-        {
-          "title": "免费领鸡蛋还能抽奖？警惕涉老诈骗",
-          "url": "https://www.toutiao.com/trending/7672008059765719082/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 19时39分]"
         },
         {
           "title": "警惕涉老年人诈骗陷阱",
@@ -285,18 +323,6 @@
           "time_info": "[18时52分 ~ 19时39分]"
         },
         {
-          "title": "美林肯号航母上多名水兵试图跳海自杀",
-          "url": "https://www.toutiao.com/trending/7672251953762238502/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时39分]"
-        },
-        {
           "title": "炸鸡店员工因爆单情绪崩溃倒地抽搐，工会：呼吸性碱中毒，找到新工作已离职",
           "url": "https://m.thepaper.cn/newsDetail_forward_33766264",
           "source": "澎湃新闻",
@@ -307,6 +333,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时03分 ~ 12时00分]"
+        },
+        {
+          "title": "女子虐待亲生女儿致死后患重度抑郁",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%99%90%E5%BE%85%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%E8%87%B4%E6%AD%BB%E5%90%8E%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 20时44分]"
         },
         {
           "title": "福安一船厂爆炸 1名消防员失联",
@@ -330,17 +368,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 12时00分]"
-        },
-        {
-          "title": "女子虐待亲生女儿致死后患重度抑郁",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%99%90%E5%BE%85%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%E8%87%B4%E6%AD%BB%E5%90%8E%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
         },
         {
           "title": "澳洲联储助理主席肯特：某些股票市场的估值确实显得非常慷慨。",
@@ -382,7 +409,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -525,7 +552,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -671,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
+        },
+        {
+          "title": "福安船厂爆炸已致12人受伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%89%E8%88%B9%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B412%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     }
