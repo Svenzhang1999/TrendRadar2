@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:02:21.757063+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-14T11:55:53.990719+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
@@ -15,8 +15,76 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时55分]"
+        },
+        {
+          "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33694482",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时55分]"
+        },
+        {
+          "title": "日男子在韩性骚扰中国游客被判缓刑",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E9%9F%A9%E6%80%A7%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%88%A4%E7%BC%93%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时55分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时55分]"
+        },
+        {
+          "title": "现场：意大利一座军工厂剧烈爆炸，为乌克兰生产弹药",
+          "url": "https://news.ifeng.com/c/8vZtXt8rgcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时55分"
+        },
+        {
+          "title": "当地州长表示，俄罗斯乌斯季-卢加港发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260814112411393800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "广东潮州将发生10级地震系谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%BD%AE%E5%B7%9E%E5%B0%86%E5%8F%91%E7%94%9F10%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
@@ -30,26 +98,15 @@
           "time_info": "09时02分"
         },
         {
-          "title": "日男子在韩性骚扰中国游客被判缓刑",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E9%9F%A9%E6%80%A7%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%88%A4%E7%BC%93%E5%88%91",
-          "source": "百度热搜",
+          "title": "39 岁程序员厕所猝死后未被认定为工伤，妻子申请行政复议，目前工伤认定的难点有哪些？这起悲剧根源出在哪？",
+          "url": "https://www.zhihu.com/question/2071302836269343055",
+          "source": "知乎",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33694482",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时55分"
         },
         {
           "title": "美否认林肯号水兵斗殴致死自杀激增",
@@ -96,15 +153,26 @@
           "time_info": "09时02分"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
+          "title": "7月新增新冠确诊52.2万例死亡1例，中疾控：当前处于本次疫情高峰平台期",
+          "url": "https://wallstreetcn.com/livenews/3149424",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时55分"
+        },
+        {
+          "title": "四川内江隆昌市发生3.6级地震",
+          "url": "https://www.toutiao.com/trending/7673696291880177193/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     }
