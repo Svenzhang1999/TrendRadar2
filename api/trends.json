@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-14T16:58:14.054279+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-08-14T17:54:53.584974+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "英国改革党党魁法拉奇赢下为化解调查而触发的补选",
           "url": "https://wallstreetcn.com/livenews/3149634",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时54分]"
         },
         {
           "title": "湖南一煤矿瓦斯突出7人失联",
@@ -24,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 16时58分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时54分]"
         },
         {
           "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
@@ -41,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 16时58分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 17时54分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -52,11 +54,23 @@
             26,
             27,
             28,
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 17时54分]"
+        },
+        {
+          "title": "39 岁程序员厕所猝死后未被认定为工伤，妻子申请行政复议，目前工伤认定的难点有哪些？这起悲剧根源出在哪？",
+          "url": "https://www.zhihu.com/question/2071302836269343055",
+          "source": "知乎",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时02分 ~ 16时58分]"
+          "time_info": "[11时55分 ~ 17时54分]"
         },
         {
           "title": "现场：意大利一座军工厂剧烈爆炸，为乌克兰生产弹药",
@@ -72,15 +86,17 @@
           "time_info": "[11时55分 ~ 16时58分]"
         },
         {
-          "title": "39 岁程序员厕所猝死后未被认定为工伤，妻子申请行政复议，目前工伤认定的难点有哪些？这起悲剧根源出在哪？",
-          "url": "https://www.zhihu.com/question/2071302836269343055",
-          "source": "知乎",
+          "title": "法律从业者举报“鹅腿阿姨涉嫌刑事违法”引关注，市监部门：正在调查，会依法依规处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33778162",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            18,
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时55分 ~ 16时58分]"
+          "time_info": "[13时25分 ~ 17时54分]"
         },
         {
           "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
@@ -94,28 +110,52 @@
           "time_info": "[09时02分 ~ 15时07分]"
         },
         {
-          "title": "法律从业者举报“鹅腿阿姨涉嫌刑事违法”引关注，市监部门：正在调查，会依法依规处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33778162",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 16时58分]"
-        },
-        {
           "title": "澎湃回声｜中阳残存明城墙遭“拆旧建新”续：山西文物局专家组抵达开展调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33781604",
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时54分]"
+        },
+        {
+          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
+          "url": "https://www.zhihu.com/question/2071379437682267339",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时07分 ~ 16时58分]"
+          "time_info": "[16时57分 ~ 17时54分]"
+        },
+        {
+          "title": "宁德福安一船厂发生火灾，23岁消防员池坷杰不幸牺牲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33780632",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时54分]"
+        },
+        {
+          "title": "浙江长兴突发山洪泥石流致1死3失联",
+          "url": "https://www.toutiao.com/trending/7673782410265234987/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时54分]"
         },
         {
           "title": "浙江长兴泥石流致1死3失联",
@@ -141,17 +181,6 @@
           "time_info": "[13时25分 ~ 15时07分]"
         },
         {
-          "title": "宁德福安一船厂发生火灾，23岁消防员池坷杰不幸牺牲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33780632",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
           "title": "日男子在韩性骚扰中国游客被判缓刑",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E9%9F%A9%E6%80%A7%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%88%A4%E7%BC%93%E5%88%91",
           "source": "百度热搜",
@@ -174,35 +203,13 @@
           "time_info": "[16时57分 ~ 16时58分]"
         },
         {
-          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
-          "url": "https://www.zhihu.com/question/2071379437682267339",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
-          "title": "浙江长兴突发山洪泥石流致1死3失联",
-          "url": "https://www.toutiao.com/trending/7673782410265234987/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
           "title": "黎巴嫩南部马尔卡巴镇传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260814164945880800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -268,7 +275,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -290,7 +297,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -326,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "福建福安一船厂着火后爆炸，造成1名消防救援人员不幸牺牲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33778842",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "哥伦比亚强震已致281人遇难",
