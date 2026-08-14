@@ -1,44 +1,59 @@
 {
-  "generated_at": "2026-08-14T18:48:50.420692+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-08-14T19:37:19.654141+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
-          "title": "金融监管总局：上半年保险公司原保险保费收入3.9万亿元，同比增长3.2%",
-          "url": "https://wallstreetcn.com/livenews/3149709",
-          "source": "华尔街见闻-快讯",
+          "title": "北交所：本周对23起证券异常交易行为采取自律监管措施",
+          "url": "https://flash.jin10.com/detail/20260814191110082800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "19时37分"
         },
         {
-          "title": "金融监管总局：2026年二季度末，金融控股公司合并总资产29.1万亿元，合并总负债26.1万亿元，合并净资产3万亿元。",
-          "url": "https://wallstreetcn.com/livenews/3149708",
-          "source": "华尔街见闻-快讯",
+          "title": "湖南一煤矿瓦斯突出7人失联",
+          "url": "https://www.douyin.com/hot/2609264",
+          "source": "抖音",
           "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 19时37分]"
+        },
+        {
+          "title": "赴泰失联24岁女孩已回国？中使馆回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%9424%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%9B%9E%E5%9B%BD%EF%BC%9F%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            29,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
-          "title": "金融监管总局：二季度末我国银行业金融机构本外币资产总额同比增长6.6%",
-          "url": "https://wallstreetcn.com/livenews/3149707",
+          "title": "金融监管总局：上半年保险公司原保险保费收入3.9万亿元，同比增长3.2%",
+          "url": "https://wallstreetcn.com/livenews/3149709",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "英国改革党党魁法拉奇赢下为化解调查而触发的补选",
@@ -53,17 +68,28 @@
           "time_info": "[16时58分 ~ 17时54分]"
         },
         {
-          "title": "湖南一煤矿瓦斯突出7人失联",
-          "url": "https://www.douyin.com/hot/2609264",
-          "source": "抖音",
+          "title": "金融监管总局：2026年二季度末，金融控股公司合并总资产29.1万亿元，合并总负债26.1万亿元，合并净资产3万亿元。",
+          "url": "https://wallstreetcn.com/livenews/3149708",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            5,
-            6
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时48分]"
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "金融监管总局：二季度末我国银行业金融机构本外币资产总额同比增长6.6%",
+          "url": "https://wallstreetcn.com/livenews/3149707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "荐股骗局调查①丨2724人的炒股群除了自己全是托！骗子直播间设伏引流，假冒券商分析师上阵",
@@ -76,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 18时48分]"
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 19时37分]"
         },
         {
           "title": "39 岁程序员厕所猝死后未被认定为工伤，妻子申请行政复议，目前工伤认定的难点有哪些？这起悲剧根源出在哪？",
@@ -87,8 +113,35 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 19时37分]"
+        },
+        {
+          "title": "法律从业者举报“鹅腿阿姨涉嫌刑事违法”引关注，市监部门：正在调查，会依法依规处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33778162",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时25分 ~ 19时37分]"
+        },
+        {
+          "title": "澎湃回声｜中阳残存明城墙遭“拆旧建新”续：山西文物局专家组抵达开展调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33781604",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时55分 ~ 18时48分]"
+          "time_info": "[15时07分 ~ 19时37分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -106,17 +159,43 @@
           "time_info": "[09时02分 ~ 17时54分]"
         },
         {
-          "title": "法律从业者举报“鹅腿阿姨涉嫌刑事违法”引关注，市监部门：正在调查，会依法依规处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33778162",
-          "source": "澎湃新闻",
+          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
+          "url": "https://www.zhihu.com/question/2071379437682267339",
+          "source": "知乎",
           "ranks": [
-            18,
-            19,
-            17
+            20,
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时25分 ~ 18时48分]"
+          "time_info": "[16时57分 ~ 19时37分]"
+        },
+        {
+          "title": "宁德福安一船厂发生火灾，23岁消防员池坷杰不幸牺牲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33780632",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 19时37分]"
+        },
+        {
+          "title": "浙江长兴突发山洪泥石流致1死3失联",
+          "url": "https://www.toutiao.com/trending/7673782410265234987/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            19,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 19时37分]"
         },
         {
           "title": "现场：意大利一座军工厂剧烈爆炸，为乌克兰生产弹药",
@@ -132,20 +211,6 @@
           "time_info": "[11时55分 ~ 16时58分]"
         },
         {
-          "title": "澎湃回声｜中阳残存明城墙遭“拆旧建新”续：山西文物局专家组抵达开展调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33781604",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时48分]"
-        },
-        {
           "title": "马上评｜郭德纲即兴改编是否违规，武汉文旅不妨以调查给出结论",
           "url": "https://m.thepaper.cn/newsDetail_forward_33774962",
           "source": "澎湃新闻",
@@ -157,42 +222,39 @@
           "time_info": "[09时02分 ~ 15时07分]"
         },
         {
-          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
-          "url": "https://www.zhihu.com/question/2071379437682267339",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时48分]"
-        },
-        {
-          "title": "宁德福安一船厂发生火灾，23岁消防员池坷杰不幸牺牲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33780632",
+          "title": "甘肃省委常委、副省长程晓波主动投案，正接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33783320",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            16
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
-          "title": "浙江长兴突发山洪泥石流致1死3失联",
-          "url": "https://www.toutiao.com/trending/7673782410265234987/",
-          "source": "今日头条",
+          "title": "车辆坠河女孩失联 爸爸表弟爬窗获救",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94+%E7%88%B8%E7%88%B8%E8%A1%A8%E5%BC%9F%E7%88%AC%E7%AA%97%E8%8E%B7%E6%95%91",
+          "source": "百度热搜",
           "ranks": [
-            25,
-            19,
-            23
+            23,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "如何评价原神 8 月 12 日更新的至冬新版本系列支线剧情「她的宫殿正坍塌向风雪」？",
+          "url": "https://www.zhihu.com/question/2071140536422085930",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "浙江长兴泥石流致1死3失联",
@@ -238,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时57分 ~ 16时58分]"
+        },
+        {
+          "title": "老师当众殴打初三学生被拘",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B8%88%E5%BD%93%E4%BC%97%E6%AE%B4%E6%89%93%E5%88%9D%E4%B8%89%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "黎巴嫩南部马尔卡巴镇传出爆炸声。",
@@ -328,15 +401,15 @@
           "time_info": "09时02分"
         },
         {
-          "title": "甘肃省委常委、副省长程晓波主动投案，正接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33783320",
-          "source": "澎湃新闻",
+          "title": "印度竞价新规引担忧 监管紧急商对策",
+          "url": "https://flash.jin10.com/detail/20260814185329655800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "19时37分"
         },
         {
           "title": "上交所发布关于常州聚和新材料股份有限公司的监管工作函。",
@@ -444,18 +517,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "车辆坠河女孩失联 爸爸表弟爬窗获救",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94+%E7%88%B8%E7%88%B8%E8%A1%A8%E5%BC%9F%E7%88%AC%E7%AA%97%E8%8E%B7%E6%95%91",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -469,17 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
-        },
-        {
-          "title": "赴泰失联24岁女孩已回国？中使馆回应",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%9424%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%9B%9E%E5%9B%BD%EF%BC%9F%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "四川内江隆昌市发生3.6级地震",
