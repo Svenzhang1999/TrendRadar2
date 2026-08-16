@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T10:16:32.323294+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-08-16T14:22:16.850388+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 23,
+      "match_count": 34,
       "titles": [
         {
           "title": "利比亚一发电站附近爆炸 首都等多地停电",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -25,20 +25,43 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "印尼7.7级地震死亡人数升至51人",
+          "url": "https://wallstreetcn.com/livenews/3150034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2072076213984518341",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "村民举报：自费查出致癌物超标",
           "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E4%B8%BE%E6%8A%A5%EF%BC%9A%E8%87%AA%E8%B4%B9%E6%9F%A5%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A0%87",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 14时22分]"
         },
         {
           "title": "哥伦比亚总统：因地震影响，在与美国总统特朗普的电话中请求美国暂时暂停对哥伦比亚产品的关税。",
@@ -53,22 +76,36 @@
           "time_info": "[08时38分 ~ 10时16分]"
         },
         {
+          "title": "印尼发生7.7级地震,40人遇难",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357704&amp;topic_name=%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%2C40%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时38分 ~ 14时22分]"
+        },
+        {
+          "title": "醉鹅娘涉嫌走私遭起诉，年销 3.5 亿的网红品牌，为何走到刑事公诉这一步？醉鹅娘可能面临什么？",
+          "url": "https://www.zhihu.com/question/2070904107477333186",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时38分 ~ 14时22分]"
+        },
+        {
           "title": "荐股骗局调查②丨一条炒股亏损帖发布之后！社交平台、股吧“同路人”设下陷阱",
           "url": "https://m.thepaper.cn/newsDetail_forward_33711980",
           "source": "澎湃新闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 10时16分]"
-        },
-        {
-          "title": "印尼发生7.7级地震,40人遇难",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357704&amp;topic_name=%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%2C40%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "source": "贴吧",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -111,24 +148,24 @@
           "time_info": "[08时38分 ~ 10时16分]"
         },
         {
+          "title": "乌克兰首都基辅当地时间16日响起多次爆炸声。 (央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3150014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 14时22分]"
+        },
+        {
           "title": "美国中央司令部：布拉德·库珀海军上将先后会见了巴林、伊拉克、以色列、约旦、沙特阿拉伯和阿联酋的军政高层领导，并探望了驻扎在当地的美军官兵。目前，有超过5万名美军官兵在中东各地执行各项任务。",
           "url": "https://flash.jin10.com/detail/20260816055441485800",
           "source": "金十数据",
           "ranks": [
             11,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 10时16分]"
-        },
-        {
-          "title": "醉鹅娘涉嫌走私遭起诉，年销 3.5 亿的网红品牌，为何走到刑事公诉这一步？醉鹅娘可能面临什么？",
-          "url": "https://www.zhihu.com/question/2070904107477333186",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -183,15 +220,37 @@
           "time_info": "[08时38分 ~ 10时16分]"
         },
         {
-          "title": "乌克兰首都基辅当地时间16日响起多次爆炸声。 (央视新闻)",
-          "url": "https://wallstreetcn.com/livenews/3150014",
-          "source": "华尔街见闻-快讯",
+          "title": "印尼7.7级地震死亡人数升至51人",
+          "url": "https://flash.jin10.com/detail/20260816132131440800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "14时22分"
+        },
+        {
+          "title": "女儿产后自杀母亲回应被指重男轻女",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%BA%A7%E5%90%8E%E8%87%AA%E6%9D%80%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E9%87%8D%E7%94%B7%E8%BD%BB%E5%A5%B3%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "小米澎程：电池热失控后不起火、爆炸",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%EF%BC%9A%E7%94%B5%E6%B1%A0%E7%83%AD%E5%A4%B1%E6%8E%A7%E5%90%8E%E4%B8%8D%E8%B5%B7%E7%81%AB%E3%80%81%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "郭德纲文促会主席团会议发言",
@@ -205,6 +264,17 @@
           "time_info": "08时38分"
         },
         {
+          "title": "印尼7.7级地震死亡人数升至48人 另有64人受伤",
+          "url": "https://wallstreetcn.com/livenews/3150025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "来历不明黑土回填鱼塘 疑致癌物超标",
           "url": "https://www.toutiao.com/trending/7674251450294108210/",
           "source": "今日头条",
@@ -214,6 +284,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "因地震影响，哥伦比亚请求美国暂停征收关税",
+          "url": "https://flash.jin10.com/detail/20260816120655503800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "中国地震台网自动测定：08月16日11时20分在瓦努阿图附近（南纬14.33度，东经167.56度）发生6.0级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260816114112290800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -227,6 +319,17 @@
           "time_info": "08时38分"
         },
         {
+          "title": "欧洲地中海地震中心：印度尼西亚弗洛雷斯地区发生了4.4级地震；震源深度4.0公里。",
+          "url": "https://flash.jin10.com/detail/20260816111515878800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "印尼政府调拨5万份援助物资支援地震灾区",
           "url": "https://wallstreetcn.com/livenews/3149988",
           "source": "华尔街见闻-快讯",
@@ -236,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "老人进山失联刻意躲避救援",
+          "url": "https://www.toutiao.com/trending/7673442399103909930/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "市场消息：利比亚电力公司消息人士透露，哈尔沙电站部分机组在爆炸后停止运行。",
@@ -258,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "女子产后抑郁自杀生前备忘录曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E8%87%AA%E6%9D%80%E7%94%9F%E5%89%8D%E5%A4%87%E5%BF%98%E5%BD%95%E6%9B%9D%E5%85%89%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "印尼北苏门答腊省发生6.8级地震",
