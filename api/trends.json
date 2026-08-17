@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-17T11:41:05.906990+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-08-17T12:32:28.541980+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "离谱!市民投诉月光太亮睡不着",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357877&amp;topic_name=%E7%A6%BB%E8%B0%B1%21%E5%B8%82%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E7%9D%A1%E4%B8%8D%E7%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时37分 ~ 11时41分]"
-        },
         {
           "title": "央视曝光低价宰客团云南连夜彻查",
           "url": "https://www.toutiao.com/trending/7674570525910269993/",
@@ -27,8 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时32分]"
+        },
+        {
+          "title": "Peyz罚站遭霸凌,T1粉转黑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357935&amp;topic_name=Peyz%E7%BD%9A%E7%AB%99%E9%81%AD%E9%9C%B8%E5%87%8C%2CT1%E7%B2%89%E8%BD%AC%E9%BB%91",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "离谱!市民投诉月光太亮睡不着",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357877&amp;topic_name=%E7%A6%BB%E8%B0%B1%21%E5%B8%82%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E7%9D%A1%E4%B8%8D%E7%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时37分 ~ 12时32分]"
         },
         {
           "title": "“如是书院”违法经营已被关停，赖某明等3人虐待学员被刑拘",
@@ -39,8 +51,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时37分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时37分 ~ 12时32分]"
+        },
+        {
+          "title": "官方通报传销头目出狱办书院，涉事书院被关停、 3 人被刑拘，还有其他违法犯罪线索被发现，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2072417954453354372",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时32分]"
         },
         {
           "title": "榜一求陪睡遭拒,翻脸告诈骗",
@@ -48,11 +72,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时37分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[08时37分 ~ 12时32分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -67,26 +92,39 @@
           "time_info": "[08时37分 ~ 11时41分]"
         },
         {
-          "title": "官方通报传销头目出狱办书院，涉事书院被关停、 3 人被刑拘，还有其他违法犯罪线索被发现，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2072417954453354372",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
           "title": "德银：央行购金+ETF流入，黄金处于“爆炸性”上涨阶段",
           "url": "https://wallstreetcn.com/articles/3779529",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时32分]"
+        },
+        {
+          "title": "电商“看人下菜碟”乱象调查",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%95%86%E2%80%9C%E7%9C%8B%E4%BA%BA%E4%B8%8B%E8%8F%9C%E7%A2%9F%E2%80%9D%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时32分]"
+        },
+        {
+          "title": "湖北一洗衣店老板被执行死刑",
+          "url": "https://www.toutiao.com/trending/7674778234873171466/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时32分]"
         },
         {
           "title": "电动自行车蓄电池爆炸有哪些预兆",
@@ -122,26 +160,26 @@
           "time_info": "[08时37分 ~ 08时38分]"
         },
         {
-          "title": "湖北一洗衣店老板被执行死刑",
-          "url": "https://www.toutiao.com/trending/7674778234873171466/",
-          "source": "今日头条",
+          "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33792311",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "OpenAI 人事地震",
+          "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
           "ranks": [
             21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
-          "title": "电商“看人下菜碟”乱象调查",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%95%86%E2%80%9C%E7%9C%8B%E4%BA%BA%E4%B8%8B%E8%8F%9C%E7%A2%9F%E2%80%9D%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     }
