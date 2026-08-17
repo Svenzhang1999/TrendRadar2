@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-17T12:32:28.541980+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-08-17T14:33:08.855508+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "央视曝光低价宰客团云南连夜彻查",
           "url": "https://www.toutiao.com/trending/7674570525910269993/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时33分]"
         },
         {
           "title": "Peyz罚站遭霸凌,T1粉转黑",
@@ -25,9 +26,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时33分]"
+        },
+        {
+          "title": "中国地震台网正式测定：08月17日14时15分在甘肃陇南市礼县（北纬33.92度，东经104.95度）发生2.5级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260817142742418800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "14时33分"
         },
         {
           "title": "离谱!市民投诉月光太亮睡不着",
@@ -39,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时37分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[08时37分 ~ 14时33分]"
         },
         {
           "title": "“如是书院”违法经营已被关停，赖某明等3人虐待学员被刑拘",
@@ -51,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时37分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[08时37分 ~ 14时33分]"
         },
         {
           "title": "官方通报传销头目出狱办书院，涉事书院被关停、 3 人被刑拘，还有其他违法犯罪线索被发现，哪些信息值得关注？",
@@ -60,11 +72,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时33分]"
         },
         {
           "title": "榜一求陪睡遭拒,翻脸告诈骗",
@@ -76,8 +89,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时37分 ~ 14时33分]"
+        },
+        {
+          "title": "湖北一洗衣店老板被执行死刑",
+          "url": "https://www.toutiao.com/trending/7674778234873171466/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时37分 ~ 12时32分]"
+          "time_info": "[11时40分 ~ 14时33分]"
         },
         {
           "title": "市民打12345投诉月光太亮影响睡觉",
@@ -116,15 +140,15 @@
           "time_info": "[11时40分 ~ 12时32分]"
         },
         {
-          "title": "湖北一洗衣店老板被执行死刑",
-          "url": "https://www.toutiao.com/trending/7674778234873171466/",
-          "source": "今日头条",
+          "title": "云南调查低价团宰客乱象",
+          "url": "https://www.douyin.com/hot/2612358",
+          "source": "抖音",
           "ranks": [
-            21
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时32分]"
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "电动自行车蓄电池爆炸有哪些预兆",
@@ -149,6 +173,17 @@
           "time_info": "[08时37分 ~ 08时38分]"
         },
         {
+          "title": "迪丽热巴在大学是辩论赛主席",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E5%A4%A7%E5%AD%A6%E6%98%AF%E8%BE%A9%E8%AE%BA%E8%B5%9B%E4%B8%BB%E5%B8%AD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
           "title": "荐股骗局调查③丨为何屡禁不绝：资金链、诈骗APP和投资者的弱点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33745341",
           "source": "澎湃新闻",
@@ -160,13 +195,35 @@
           "time_info": "[08时37分 ~ 08时38分]"
         },
         {
+          "title": "一洗衣店老板因持刀杀人被执行死刑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%B4%97%E8%A1%A3%E5%BA%97%E8%80%81%E6%9D%BF%E5%9B%A0%E6%8C%81%E5%88%80%E6%9D%80%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "市场调研机构Origo Group：瑞典货币市场参与者预计八月五年期CPIF通胀率为2.0%，七月调查时为2.1%。",
+          "url": "https://flash.jin10.com/detail/20260817140113832800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
           "url": "https://m.thepaper.cn/newsDetail_forward_33792311",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -177,7 +234,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
