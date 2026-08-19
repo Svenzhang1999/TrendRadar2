@@ -1,242 +1,165 @@
 {
-  "generated_at": "2026-08-17T14:33:08.855508+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-08-19T20:02:11.654610+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "主席 火灾 地震 陌陌 探探 爆炸 起火 坍塌 坠楼 凶杀 砍人 猝死 殴打 虐待 性侵 猥亵 投毒 失联 遇难 尸体 灭门 碎尸 泄露 核查 停运 脱轨 追尾 沉没 爆炸 被捕 刑拘 立案 调查 双规 落马 公诉 判决 败诉 失信 老赖 执行 查封 冻结 强制执行 致癌 中毒 变质 异物 过期 添加剂 假药 医疗事故 医闹 误诊 非法行医 投诉 维权 霸王条款 大数据杀熟 质量差 退款难 拒赔 宰客 天价 霸凌 体罚 骚扰 食堂卫生 学区房维权 冒名顶替 网信办 猝死 约谈 诈骗 霸王条款 跳楼 自杀 疫情 洪灾 火灾 脱轨 偷税漏税 监察调查 违法违纪 职务犯罪 审查调查 双开 约谈 监管",
-      "match_count": 20,
+      "match_count": 14,
       "titles": [
         {
-          "title": "央视曝光低价宰客团云南连夜彻查",
-          "url": "https://www.toutiao.com/trending/7674570525910269993/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时33分]"
-        },
-        {
-          "title": "Peyz罚站遭霸凌,T1粉转黑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357935&amp;topic_name=Peyz%E7%BD%9A%E7%AB%99%E9%81%AD%E9%9C%B8%E5%87%8C%2CT1%E7%B2%89%E8%BD%AC%E9%BB%91",
-          "source": "贴吧",
+          "title": "美银全球基金经理调查：债市已进ICU，股市依旧KTV",
+          "url": "https://wallstreetcn.com/articles/3779694",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时33分]"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "中国地震台网正式测定：08月17日14时15分在甘肃陇南市礼县（北纬33.92度，东经104.95度）发生2.5级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260817142742418800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "离谱!市民投诉月光太亮睡不着",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357877&amp;topic_name=%E7%A6%BB%E8%B0%B1%21%E5%B8%82%E6%B0%91%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E7%9D%A1%E4%B8%8D%E7%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时37分 ~ 14时33分]"
-        },
-        {
-          "title": "“如是书院”违法经营已被关停，赖某明等3人虐待学员被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33795018",
+          "title": "马上评丨张兰终审败诉，重申“公众人物容忍义务”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33806151",
           "source": "澎湃新闻",
           "ranks": [
-            5,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "胖东来招聘不含性侵犯罪人员",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358767&amp;topic_name=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98",
+          "source": "贴吧",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时37分 ~ 14时33分]"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "官方通报传销头目出狱办书院，涉事书院被关停、 3 人被刑拘，还有其他违法犯罪线索被发现，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2072417954453354372",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时33分]"
-        },
-        {
-          "title": "榜一求陪睡遭拒,翻脸告诈骗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357819&amp;topic_name=%E6%A6%9C%E4%B8%80%E6%B1%82%E9%99%AA%E7%9D%A1%E9%81%AD%E6%8B%92%2C%E7%BF%BB%E8%84%B8%E5%91%8A%E8%AF%88%E9%AA%97",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时37分 ~ 14时33分]"
-        },
-        {
-          "title": "湖北一洗衣店老板被执行死刑",
-          "url": "https://www.toutiao.com/trending/7674778234873171466/",
+          "title": "涉王星案17名嫌疑人被公诉",
+          "url": "https://www.toutiao.com/trending/7675666539122822682/",
           "source": "今日头条",
           "ranks": [
-            21
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时33分]"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "市民打12345投诉月光太亮影响睡觉",
-          "url": "https://www.toutiao.com/trending/7674150180756750355/",
-          "source": "今日头条",
+          "title": "涉王星案17名嫌疑人被公诉",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E7%8E%8B%E6%98%9F%E6%A1%8817%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%85%AC%E8%AF%89",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时37分 ~ 11时41分]"
-        },
-        {
-          "title": "德银：央行购金+ETF流入，黄金处于“爆炸性”上涨阶段",
-          "url": "https://wallstreetcn.com/articles/3779529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时32分]"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "电商“看人下菜碟”乱象调查",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%95%86%E2%80%9C%E7%9C%8B%E4%BA%BA%E4%B8%8B%E8%8F%9C%E7%A2%9F%E2%80%9D%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "中国足协回应工作人员被曝曾受韩国足协“不当招待”：已展开调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33809273",
+          "source": "澎湃新闻",
           "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时32分]"
-        },
-        {
-          "title": "云南调查低价团宰客乱象",
-          "url": "https://www.douyin.com/hot/2612358",
-          "source": "抖音",
-          "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "电动自行车蓄电池爆炸有哪些预兆",
-          "url": "https://www.toutiao.com/trending/7674621732217307177/",
+          "title": "“低价团”导游胁迫游客消费？云南通报调查处理情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33805425",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "地图稀烂,致命躯壳2被批诈骗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358939&amp;topic_name=%E5%9C%B0%E5%9B%BE%E7%A8%80%E7%83%82%2C%E8%87%B4%E5%91%BD%E8%BA%AF%E5%A3%B32%E8%A2%AB%E6%89%B9%E8%AF%88%E9%AA%97",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "石家庄坍塌事发地仍有人失联被困",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%9D%8D%E5%A1%8C%E4%BA%8B%E5%8F%91%E5%9C%B0%E4%BB%8D%E6%9C%89%E4%BA%BA%E5%A4%B1%E8%81%94%E8%A2%AB%E5%9B%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "胖东来澄清“无门槛招聘刑满释放人员”：排除性侵等恶性犯罪前科人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33808245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2073393499173384203",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "胖东来招聘不包含性侵犯罪人员",
+          "url": "https://www.toutiao.com/trending/7674576291556802586/",
           "source": "今日头条",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
-          "title": "市民打12345投诉月光太亮影响睡觉",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E6%89%9312345%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时37分 ~ 08时38分]"
-        },
-        {
-          "title": "迪丽热巴在大学是辩论赛主席",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E5%A4%A7%E5%AD%A6%E6%98%AF%E8%BE%A9%E8%AE%BA%E8%B5%9B%E4%B8%BB%E5%B8%AD%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
-        },
-        {
-          "title": "荐股骗局调查③丨为何屡禁不绝：资金链、诈骗APP和投资者的弱点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33745341",
-          "source": "澎湃新闻",
-          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时37分 ~ 08时38分]"
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "一洗衣店老板因持刀杀人被执行死刑",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%B4%97%E8%A1%A3%E5%BA%97%E8%80%81%E6%9D%BF%E5%9B%A0%E6%8C%81%E5%88%80%E6%9D%80%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
-        },
-        {
-          "title": "市场调研机构Origo Group：瑞典货币市场参与者预计八月五年期CPIF通胀率为2.0%，七月调查时为2.1%。",
-          "url": "https://flash.jin10.com/detail/20260817140113832800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "云南约谈通报投诉量排名前50旅行社：将实施重点监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33792311",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "OpenAI 人事地震",
-          "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
+          "title": "石家庄一居民楼部分坍塌",
+          "url": "https://www.douyin.com/hot/2615197",
+          "source": "抖音",
           "ranks": [
             21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "司法部发布关于欧盟外国补贴调查相关做法构成不当域外管辖的公告",
+          "url": "https://wallstreetcn.com/livenews/3151755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "20时02分"
         }
       ]
     }
